@@ -1,0 +1,5 @@
+= ITU-R publications bibliographic data for Relaton-ITU
+
+This repository is used by Relaton-ITU to represent known ITU-R publications.
+
+Data is stored in Relaton YAML (or AsciiBib) format.
