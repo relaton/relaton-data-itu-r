@@ -1,0 +1,36 @@
+---
+id: R-HDB-38-200
+title:
+  type: main
+  content: LF/MF system design
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-HDB/Forms/ITU-R%20Handbook%20Folder/docsethomepage.aspx?ID=332&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E00DDA0760DDB094907B7FB177D6B3833BA00DB11C28B8F1DF544824DB8D25221D093&List=c7b8fe7f-0077-48f2-94cf-048033377543&RootFolder=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D38%2FR%2DHDB%2D38%2D2001&RecSrc=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D38%2FR%2DHDB%2D38%2D2001
+  type: src
+type: standard
+docid:
+  id: R-HDB-38-200
+  type: ITU
+date:
+- type: updated
+  value: '2001'
+- type: published
+  value: '2001'
+revdate: '2001'
+language: en
+script: Latn
+abstract:
+  content: This publication contains all the necessary information to carry out the
+    planning and design of LF and MF broadcasting stations. Wide reference is made
+    to relevant ITU-R Recommendations and ITU Frequency Plans. The Handbook is mainly
+    addressed to engineers in developing countries to guide them in selecting the
+    best approach to the problem.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

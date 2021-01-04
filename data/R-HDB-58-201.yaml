@@ -1,0 +1,36 @@
+---
+id: R-HDB-58-201
+title:
+  type: main
+  content: ITU-R propagation prediction methods for interference and sharing studies
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-HDB/Forms/ITU-R%20Handbook%20Folder/docsethomepage.aspx?ID=84&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E00DDA0760DDB094907B7FB177D6B3833BA00DB11C28B8F1DF544824DB8D25221D093&List=c7b8fe7f-0077-48f2-94cf-048033377543&RootFolder=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D58%2FR%2DHDB%2D58%2D2012&RecSrc=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D58%2FR%2DHDB%2D58%2D2012
+  type: src
+type: standard
+docid:
+  id: R-HDB-58-201
+  type: ITU
+date:
+- type: updated
+  value: '2012'
+- type: published
+  value: '2012'
+revdate: '2012'
+language: en
+script: Latn
+abstract:
+  content: This Handbook provides technical information and guidance needed for sharing
+    studies and interference assessments using selected ITU-R P-Series RF propagation
+    models and prediction methods. The handbook is intended to be used in conjunction
+    with ITU-R P-Series Recommendations to assist in performing interference analyses
+    and prediction methods on radiocommunication service systems.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

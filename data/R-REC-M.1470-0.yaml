@@ -1,0 +1,26 @@
+---
+id: R-REC-M.1470-0
+title:
+  type: main
+  content: Methodology of sharing between MSS systems (Earth-to-space) and existing
+    RNSS systems (space-to-Earth) in frequency bands 149.9-150.05 MHz and 399.9-400.05
+    MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=13828&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DM%2FR%2DREC%2DM%2E1470%2FR%2DREC%2DM%2E1470%2D0%2D200005%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DM%2FR%2DREC%2DM%2E1470%2FR%2DREC%2DM%2E1470%2D0%2D200005%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-M.1470-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: 2000-05
+revdate: 2000-05
+language: en
+script: Latn
+doctype: recommendation

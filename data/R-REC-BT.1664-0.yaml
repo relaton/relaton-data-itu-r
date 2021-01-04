@@ -1,0 +1,25 @@
+---
+id: R-REC-BT.1664-0
+title:
+  type: main
+  content: Representation of various image aspect ratios into the image of large screen
+    digital imagery applications that use a 16:9 raster
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=5363&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DBT%2FR%2DREC%2DBT%2E1664%2FR%2DREC%2DBT%2E1664%2D0%2D200312%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DBT%2FR%2DREC%2DBT%2E1664%2FR%2DREC%2DBT%2E1664%2D0%2D200312%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-BT.1664-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003-11-12'
+- type: published
+  value: 2003-12
+revdate: 2003-12
+language: en
+script: Latn
+doctype: recommendation

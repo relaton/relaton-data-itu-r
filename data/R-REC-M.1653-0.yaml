@@ -1,0 +1,27 @@
+---
+id: R-REC-M.1653-0
+title:
+  type: main
+  content: Operational and deployment requirements for wireless access systems including
+    radio local area networks in the mobile service to facilitate sharing between
+    these systems and systems in the Earth exploration-satellite service (active)
+    and the space rese...
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=14501&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DM%2FR%2DREC%2DM%2E1653%2FR%2DREC%2DM%2E1653%2D0%2D200306%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DM%2FR%2DREC%2DM%2E1653%2FR%2DREC%2DM%2E1653%2D0%2D200306%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-M.1653-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-06
+revdate: 2003-06
+language: en
+script: Latn
+doctype: recommendation

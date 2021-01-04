@@ -1,0 +1,26 @@
+---
+id: R-REC-BT.655-7
+title:
+  type: main
+  content: Radio-frequency protection ratios for AM vestigial sideband terrestrial
+    television systems interfered with by unwanted analogue vision signals and their
+    associated sound signals
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=3363&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DBT%2FR%2DREC%2DBT%2E655%2FR%2DREC%2DBT%2E655%2D7%2D200402%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DBT%2FR%2DREC%2DBT%2E655%2FR%2DREC%2DBT%2E655%2D7%2D200402%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-BT.655-7
+  type: ITU
+date:
+- type: confirmed
+  value: '2004'
+- type: published
+  value: 2004-02
+revdate: 2004-02
+language: en
+script: Latn
+doctype: recommendation

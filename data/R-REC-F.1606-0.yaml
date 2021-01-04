@@ -1,0 +1,26 @@
+---
+id: R-REC-F.1606-0
+title:
+  type: main
+  content: Interference criteria to protect fixed wireless systems from time varying
+    aggregate interference produced by non-geostationary satellites operating in other
+    services sharing the 37-40 GHz and 40.5-42.5 GHz bands on a co-primary basis
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=9976&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DF%2FR%2DREC%2DF%2E1606%2FR%2DREC%2DF%2E1606%2D0%2D200302%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DF%2FR%2DREC%2DF%2E1606%2FR%2DREC%2DF%2E1606%2D0%2D200302%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-F.1606-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-02
+revdate: 2003-02
+language: en
+script: Latn
+doctype: recommendation

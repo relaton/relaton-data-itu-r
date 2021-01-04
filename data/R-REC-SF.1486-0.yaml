@@ -1,0 +1,26 @@
+---
+id: R-REC-SF.1486-0
+title:
+  type: main
+  content: Sharing methodology between fixed wireless access systems in the fixed
+    service and very small aperture terminals in the fixed-satellite service in the
+    3 400-3 700 MHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=24494&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSF%2FR%2DREC%2DSF%2E1486%2FR%2DREC%2DSF%2E1486%2D0%2D200005%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSF%2FR%2DREC%2DSF%2E1486%2FR%2DREC%2DSF%2E1486%2D0%2D200005%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-SF.1486-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: 2000-05
+revdate: 2000-05
+language: en
+script: Latn
+doctype: recommendation

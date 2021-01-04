@@ -1,0 +1,37 @@
+---
+id: R-HDB-61-201
+title:
+  type: main
+  content: Guidance for bilateral/multilateral discussions on the use of frequency
+    range 1 350 MHz - 43.5 GHz by fixed service systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-HDB/Forms/ITU-R%20Handbook%20Folder/docsethomepage.aspx?ID=319&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E00DDA0760DDB094907B7FB177D6B3833BA00DB11C28B8F1DF544824DB8D25221D093&List=c7b8fe7f-0077-48f2-94cf-048033377543&RootFolder=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D61%2FR%2DHDB%2D61%2D2015&RecSrc=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D61%2FR%2DHDB%2D61%2D2015
+  type: src
+type: standard
+docid:
+  id: R-HDB-61-201
+  type: ITU
+date:
+- type: updated
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+abstract:
+  content: This Handbook summarizes the existing technical approaches to resolve compatibility
+    and sharing issues within fixed service stations. The objective is to provide
+    a guide addressing best practices from those administrations already having knowledge
+    and experience in developing such agreements. Examples are provided to facilitate
+    the sharing of fixed service deployed in the neighbouring countries.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

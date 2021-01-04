@@ -1,0 +1,36 @@
+---
+id: R-HDB-33-199
+title:
+  type: main
+  content: HF Broadcasting System Design
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-HDB/Forms/ITU-R%20Handbook%20Folder/docsethomepage.aspx?ID=339&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E00DDA0760DDB094907B7FB177D6B3833BA00DB11C28B8F1DF544824DB8D25221D093&List=c7b8fe7f-0077-48f2-94cf-048033377543&RootFolder=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D33%2FR%2DHDB%2D33%2D1999&RecSrc=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D33%2FR%2DHDB%2D33%2D1999
+  type: src
+type: standard
+docid:
+  id: R-HDB-33-199
+  type: ITU
+date:
+- type: updated
+  value: '1999'
+- type: published
+  value: '1999'
+revdate: '1999'
+language: en
+script: Latn
+abstract:
+  content: This Handbook provides practical and illustrative guidance (even to radio
+    engineers not having been previously exposed to the specific task of HF broadcasting
+    service planning). Considerable effort has been made to meet the expectations
+    of HF broadcasting engineers from the developing world. This publication includes
+    relevant texts from existing ITU-R Recommendations as well as advanced material.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook
