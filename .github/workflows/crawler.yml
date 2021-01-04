@@ -1,0 +1,28 @@
+name: Crawler
+
+on: push
+
+jobs:
+  crawl:
+    name: ITU-R documents fetching
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Use Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.4
+      - name: Update gems
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+      - name: Fetch documents
+        run: ruby crawler.rb
+      - name: Push data
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m 'update documents'
+          git push
