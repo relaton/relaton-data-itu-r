@@ -1,6 +1,9 @@
 name: Crawler
 
-on: push
+on:
+  - push
+  - schedule:
+      - cron: '* 12 * * *'
 
 jobs:
   crawl:
