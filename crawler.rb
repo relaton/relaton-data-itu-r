@@ -96,10 +96,8 @@ end
 
 # @param bib [RelatonItu::ItuBibliographicItem]
 def write_file(bib)
-  id = bib.docidentifier[0].id
+  id = bib.docidentifier[0].id.sub /^R-/, ''
   file = "data/#{id}.yaml"
-  # raise StandardError, "File with id '#{id}' exists." if File.exist? file
-
   File.write file, bib.to_hash.to_yaml, encoding: 'UTF-8'
 end
 
