@@ -1,0 +1,40 @@
+---
+id: R-HDB-01-201
+title:
+  type: main
+  content: Computer-aided Techniques for Spectrum Management (CAT)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-HDB/Forms/ITU-R%20Handbook%20Folder/docsethomepage.aspx?ID=3&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E00DDA0760DDB094907B7FB177D6B3833BA00DB11C28B8F1DF544824DB8D25221D093&List=c7b8fe7f-0077-48f2-94cf-048033377543&RootFolder=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D01%2FR%2DHDB%2D01%2D2015&RecSrc=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D01%2FR%2DHDB%2D01%2D2015
+  type: src
+type: standard
+docid:
+  id: R-HDB-01-201
+  type: ITU
+date:
+- type: updated
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+abstract:
+  content: This Handbook should be seen as complementary to Handbooks 'National Spectrum
+    Management' (2015) and 'Spectrum Monitoring' (2011). The topic of national spectrum
+    management has evolved and become the central hot spot in the activities of all
+    telecommunication administrations. This is particularly true for developing countries,
+    where the dramatic development of ICT technologies and their wide application
+    have led to a heavy increase in related spectrum usage. The user/reader will find
+    basic material and numerous models for developing efficient projects that will
+    assist in reaching their objective - implementing automated spectrum management
+    as soon as possible.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

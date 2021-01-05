@@ -1,0 +1,25 @@
+---
+id: R-REC-M.690-3
+title:
+  type: main
+  content: Technical characteristics of emergency position-indicating radio beacons
+    (EPIRBs) operating on the carrier frequencies of 121.5 MHz and 243 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=28365&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DM%2FR%2DREC%2DM%2E690%2FR%2DREC%2DM%2E690%2D3%2D201503%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DM%2FR%2DREC%2DM%2E690%2FR%2DREC%2DM%2E690%2D3%2D201503%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-M.690-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-03
+revdate: 2015-03
+language: en
+script: Latn
+doctype: recommendation

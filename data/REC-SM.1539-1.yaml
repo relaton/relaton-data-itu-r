@@ -1,0 +1,25 @@
+---
+id: R-REC-SM.1539-1
+title:
+  type: main
+  content: Variation of the boundary between the out-of-band and spurious domains
+    required for the application of Recommendations ITU-R SM.1541 and ITU-R SM.329
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=26323&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSM%2FR%2DREC%2DSM%2E1539%2FR%2DREC%2DSM%2E1539%2D1%2D200211%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSM%2FR%2DREC%2DSM%2E1539%2FR%2DREC%2DSM%2E1539%2D1%2D200211%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-SM.1539-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2002-12-11'
+- type: published
+  value: 2002-11
+revdate: 2002-11
+language: en
+script: Latn
+doctype: recommendation

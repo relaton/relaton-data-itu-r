@@ -1,0 +1,24 @@
+---
+id: R-REP-BO.1075-2
+title:
+  type: main
+  content: High-definition television by satellite
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REP/Forms/ITU-R%20Report%20Folder/docsethomepage.aspx?ID=110&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E0077D609B9F4FA4DB396234CFA92FFC11A00A9965320ACA5F042953A35410C65C0BC&List=82e4a13d-c7f3-4844-9e8a-2463c4b7784f&RootFolder=%2Fbrdocsearch%2FR%2DREP%2FR%2DREP%2DBO%2FR%2DREP%2DBO%2E1075%2FR%2DREP%2DBO%2E1075%2D2%2D1994&RecSrc=%2Fbrdocsearch%2FR%2DREP%2FR%2DREP%2DBO%2FR%2DREP%2DBO%2E1075%2FR%2DREP%2DBO%2E1075%2D2%2D1994
+  type: src
+type: standard
+docid:
+  id: R-REP-BO.1075-2
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: '1994'
+revdate: '1994'
+language: en
+script: Latn
+doctype: technical-report

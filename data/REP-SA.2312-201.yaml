@@ -1,0 +1,25 @@
+---
+id: R-REP-SA.2312-201
+title:
+  type: main
+  content: Characteristics, definitions and spectrum requirements of nanosatellites
+    and picosatellites, as well as systems composed of such satellites
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REP/Forms/ITU-R%20Report%20Folder/docsethomepage.aspx?ID=3493&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E0077D609B9F4FA4DB396234CFA92FFC11A00A9965320ACA5F042953A35410C65C0BC&List=82e4a13d-c7f3-4844-9e8a-2463c4b7784f&RootFolder=%2Fbrdocsearch%2FR%2DREP%2FR%2DREP%2DSA%2FR%2DREP%2DSA%2E2312%2FR%2DREP%2DSA%2E2312%2D2014&RecSrc=%2Fbrdocsearch%2FR%2DREP%2FR%2DREP%2DSA%2FR%2DREP%2DSA%2E2312%2FR%2DREP%2DSA%2E2312%2D2014
+  type: src
+type: standard
+docid:
+  id: R-REP-SA.2312-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

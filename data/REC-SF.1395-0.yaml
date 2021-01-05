@@ -1,0 +1,25 @@
+---
+id: R-REC-SF.1395-0
+title:
+  type: main
+  content: Minimum propagation attenuation due to atmospheric gases for use in frequency
+    sharing studies between the fixed-satellite service and the fixed service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=33954&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSF%2FR%2DREC%2DSF%2E1395%2FR%2DREC%2DSF%2E1395%2D0%2D199303%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSF%2FR%2DREC%2DSF%2E1395%2FR%2DREC%2DSF%2E1395%2D0%2D199303%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-SF.1395-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1993'
+- type: published
+  value: 1993-03
+revdate: 1993-03
+language: en
+script: Latn
+doctype: recommendation

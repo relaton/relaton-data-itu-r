@@ -1,0 +1,25 @@
+---
+id: R-QUE-SG03.207-5
+title:
+  type: main
+  content: Propagation data and prediction methods for satellite mobile and radiodetermination
+    services above about 0.1 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-QUE/Forms/ITU-R%20Question%20Folder/docsethomepage.aspx?ID=3621&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E000A6F9E22BE564997A7AA7B891BF7BFE40006398A6620261446B94C408C5A0D0F4E&List=d23a6c5f-745c-436e-afef-1ad2ad46932d&RootFolder=%2Fbrdocsearch%2FR%2DQUE%2FR%2DQUE%2DSG03%2FR%2DQUE%2DSG03%2E207%2FR%2DQUE%2DSG03%2E207%2D5%2D2015&RecSrc=%2Fbrdocsearch%2FR%2DQUE%2FR%2DQUE%2DSG03%2FR%2DQUE%2DSG03%2E207%2FR%2DQUE%2DSG03%2E207%2D5%2D2015
+  type: src
+type: standard
+docid:
+  id: R-QUE-SG03.207-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+doctype: question

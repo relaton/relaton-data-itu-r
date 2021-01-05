@@ -1,0 +1,25 @@
+---
+id: R-REC-SA.1258-1
+title:
+  type: main
+  content: Sharing of the frequency band 401-403 MHz between the meteorological-satellite
+    service, Earth exploration-satellite service and meteorological Aids service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-REC/Forms/ITU%20Recommendation%20Folder/docsethomepage.aspx?ID=23693&FolderCTID=0x0120D52000F22870A5AFA1054181BAD87677D647C400051FC5857030E848B2F8C42DB4271329&List=0661b581-2413-4e84-bab2-77e6db27af7f&RootFolder=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSA%2FR%2DREC%2DSA%2E1258%2FR%2DREC%2DSA%2E1258%2D1%2D199910%2DI&RecSrc=%2Fbrdocsearch%2FR%2DREC%2FR%2DREC%2DSA%2FR%2DREC%2DSA%2E1258%2FR%2DREC%2DSA%2E1258%2D1%2D199910%2DI
+  type: src
+type: standard
+docid:
+  id: R-REC-SA.1258-1
+  type: ITU
+date:
+- type: confirmed
+  value: 1999-26-10
+- type: published
+  value: 1999-10
+revdate: 1999-10
+language: en
+script: Latn
+doctype: recommendation

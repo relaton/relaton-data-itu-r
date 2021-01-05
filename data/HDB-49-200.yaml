@@ -1,0 +1,37 @@
+---
+id: R-HDB-49-200
+title:
+  type: main
+  content: 'Land Mobile (including Wireless Access) - Volume 4: Intelligent Transport
+    Systems'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/R-HDB/Forms/ITU-R%20Handbook%20Folder/docsethomepage.aspx?ID=205&FolderCTID=0x0120D52000FFE50D18448C4F399F7F428BBD942B9E00DDA0760DDB094907B7FB177D6B3833BA00DB11C28B8F1DF544824DB8D25221D093&List=c7b8fe7f-0077-48f2-94cf-048033377543&RootFolder=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D49%2FR%2DHDB%2D49%2D2006&RecSrc=%2Fbrdocsearch%2FR%2DHDB%2FR%2DHDB%2D49%2FR%2DHDB%2D49%2D2006
+  type: src
+type: standard
+docid:
+  id: R-HDB-49-200
+  type: ITU
+date:
+- type: updated
+  value: '2006'
+- type: published
+  value: '2006'
+revdate: '2006'
+language: en
+script: Latn
+abstract:
+  content: Volume 4 of the ITU-R Handbook on Land Mobile (including Wireless Access)
+    provides a summary of the use of wireless communications in intelligent transport
+    systems (ITS), current and under development, around the globe, including architecture,
+    systems, and applications. This is a rapidly developing sector, which is still
+    partly in its infancy.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook
