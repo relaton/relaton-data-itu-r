@@ -127,7 +127,7 @@ def html_index(agent, url, workers, type)
 end
 
 agent = Mechanize.new
-workers = RelatonBib::WorkersPool.new 4
+workers = RelatonBib::WorkersPool.new 10
 # log_file = 'parse.log'
 # File.delete log_file if File.exist? log_file
 # log = File.new log_file, 'a'
