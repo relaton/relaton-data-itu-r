@@ -57,7 +57,8 @@ end
 # @param type [String]
 def parse_page(url, type)
   rsp = Net::HTTP.get_response URI(url)
-  doc = Nokogiri::HTML OpenURI.open_uri rsp['location']
+  rsp = Net::HTTP.get_response URI(rsp['location']) if rsp.code == '302'
+  doc = Nokogiri::HTML rsp.body
   bib = RelatonItu::ItuBibliographicItem.new(
     docid: fetch_docid(doc), title: fetch_title(doc), abstract: fetch_abstract(doc),
     date: fetch_date(doc), language: ['en'], link: fetch_link(rsp['location']),

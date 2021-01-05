@@ -37,7 +37,7 @@ GEM
       bibtex-ruby
       iso639
       nokogiri
-    relaton-itu (1.7.2)
+    relaton-itu (1.7.3)
       relaton-bib (~> 1.7.0)
     unf (0.1.4)
       unf_ext
