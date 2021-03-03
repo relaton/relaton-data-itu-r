@@ -55,7 +55,7 @@ end
 
 # @param url [String]
 # @param type [String]
-def parse_page(url, type)
+def parse_page(url, type) # rubocop:disable Metrics/MethodLength
   rsp = Net::HTTP.get_response URI(url)
   if rsp.code == '302'
     url = rsp['location']
@@ -96,7 +96,7 @@ end
 
 # @param bib [RelatonItu::ItuBibliographicItem]
 def write_file(bib)
-  id = bib.docidentifier[0].id.sub /^R-/, ''
+  id = bib.docidentifier[0].id.sub(/^R-/, '')
   file = "data/#{id}.yaml"
   File.write file, bib.to_hash.to_yaml, encoding: 'UTF-8'
 end
@@ -136,7 +136,7 @@ workers = RelatonBib::WorkersPool.new 10
 workers.worker do |row|
   begin
     parse_page(*row)
-  rescue => e
+  rescue => e # rubocop:disable Style/RescueStandardError
     warn e.message
     warn e.backtrace
   end
