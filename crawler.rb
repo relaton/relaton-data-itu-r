@@ -6,7 +6,7 @@ require 'json'
 require 'mechanize'
 require 'relaton_itu'
 
-# @param doc [Nokogiri::HTML::Document]
+# @param doc [Mechanize::Page]
 # @return [Araay<RelatonBib::DocumentIdentifier>]
 def fetch_docid(doc)
   # id = doc.at('//h3[.="Number"]/parent::td/following-sibling::td[2]').text # .match(/^[^\s\(]+/).to_s
@@ -17,14 +17,14 @@ def fetch_docid(doc)
   docid
 end
 
-# @param doc [Nokogiri::HTML::Document]
+# @param doc [Mechanize::Page]
 # @return [Araay<RelatonBib::TypedTitleString>]
 def fetch_title(doc)
   content = doc.at('//h3[.="Title"]/parent::td/following-sibling::td[2]').text
   [RelatonBib::TypedTitleString.new(type: 'main', content: content, language: 'en', script: 'Latn')]
 end
 
-# @param doc [Nokogiri::HTML::Document]
+# @param doc [Mechanize::Page]
 # @return [Araay<RelatonBib::BibliographicDate>]
 def fetch_date(doc)
   dates = []
@@ -55,13 +55,9 @@ end
 
 # @param url [String]
 # @param type [String]
-def parse_page(url, type) # rubocop:disable Metrics/MethodLength
-  rsp = Net::HTTP.get_response URI(url)
-  if rsp.code == '302'
-    url = rsp['location']
-    rsp = Net::HTTP.get_response URI(url)
-  end
-  doc = Nokogiri::HTML rsp.body
+# @param agent [Mechanize]
+def parse_page(url, type, agent)
+  doc = agent.get url
   bib = RelatonItu::ItuBibliographicItem.new(
     docid: fetch_docid(doc), title: fetch_title(doc), abstract: fetch_abstract(doc),
     date: fetch_date(doc), language: ['en'], link: fetch_link(url),
@@ -76,7 +72,7 @@ def fetch_link(url)
   [RelatonBib::TypedUri.new(type: 'src', content: url)]
 end
 
-# @param doc [Nokogiri::HTML::Document]
+# @param doc [Mechanize::Page]
 # @return [Array<RelatonBib::FormattedString>]
 def fetch_abstract(doc)
   doc.xpath('//h3[.="Observation"]/parent::td/following-sibling::td[2]').map do |a|
@@ -85,7 +81,7 @@ def fetch_abstract(doc)
   end.compact
 end
 
-# @param doc [Nokogiri::HTML::Document]
+# @param doc [Mechanize::Page]
 # @return [RelatonBib::DocumentStatus, nil]
 def fetch_status(doc)
   s = doc.at('//h3[.="Status"]/parent::td/following-sibling::td[2]')
@@ -108,7 +104,7 @@ end
 def json_index(agent, indexurl, workers, type)
   result = agent.post indexurl
   json = JSON.parse result.body
-  json['Row'].each { |row| workers << [row['serverurl.progid'].sub(/^1/, ''), type] }
+  json['Row'].each { |row| workers << [row['serverurl.progid'].sub(/^1/, ''), type, agent] }
   return unless json['NextHref']
 
   nexturl = indexurl.sub(/(Paged|FolderCTID)=.+/, json['NextHref'].match(/(?<=aspx\?).+/).to_s)
@@ -124,7 +120,7 @@ def html_index(agent, url, workers, type)
   result = Nokogiri::HTML resp.body
   result.xpath('//table//table/tr[position() > 1]').each do |hit|
     url = hit.at('td/a')[:onclick].match(%r{https:\/\/[^']+}).to_s
-    workers << [url, type]
+    workers << [url, type, agent]
   end
 end
 
