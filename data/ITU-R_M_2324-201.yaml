@@ -1,0 +1,26 @@
+---
+id: ITU-RM.2324-201
+title:
+  type: main
+  content: Sharing studies between potential International Mobile Telecommunication
+    systems and aeronautical mobile telemetry systems in the frequency band 1 429-1
+    535 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2324/R-REP-M.2324-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2324-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

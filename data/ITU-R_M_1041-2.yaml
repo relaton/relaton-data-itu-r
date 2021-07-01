@@ -1,0 +1,24 @@
+---
+id: ITU-RM.1041-2
+title:
+  type: main
+  content: Future amateur radio systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1041/R-REC-M.1041-2-200306-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1041-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-06
+revdate: 2003-06
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1037-0
+title:
+  type: main
+  content: Bit error performance objectives for aeronautical mobile-satellite (R)
+    service (AMS(R)S) radio link
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1037/R-REC-M.1037-0-199403-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1037-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: 1994-03
+revdate: 1994-03
+language: en
+script: Latn
+doctype: recommendation

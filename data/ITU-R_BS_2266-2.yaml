@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.2266-2
+title:
+  type: main
+  content: Framework of future audio broadcasting systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2266/R-REP-BS.2266-2-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.2266-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1086-1
+title:
+  type: main
+  content: Determination of the need for coordination between geostationary mobile
+    satellite networks sharing the same frequency bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1086/R-REC-M.1086-1-200603-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1086-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-03
+revdate: 2006-03
+language: en
+script: Latn
+doctype: recommendation

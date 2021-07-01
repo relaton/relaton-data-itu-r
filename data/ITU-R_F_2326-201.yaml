@@ -1,0 +1,25 @@
+---
+id: ITU-RF.2326-201
+title:
+  type: main
+  content: Sharing and compatibility study between indoor International Mobile Telecommunication
+    small cells and fixed service stations in the 5 925-6 425 MHz frequency band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2326/R-REP-F.2326-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R F.2326-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

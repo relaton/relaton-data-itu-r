@@ -1,0 +1,25 @@
+---
+id: ITU-RBO.810-4
+title:
+  type: main
+  content: Transmitting and receiving antenna technology and reference patterns for
+    the BSS
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.810/R-REP-BO.810-4-1994
+  type: src
+type: standard
+docid:
+  id: ITU-R BO.810-4
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: '1994'
+revdate: '1994'
+language: en
+script: Latn
+doctype: technical-report

@@ -1,0 +1,26 @@
+---
+id: ITU-RM.1748-0
+title:
+  type: main
+  content: Protection of the radio astronomy service in the band 1 400-1 427 MHz from
+    unwanted emissions of MSS feeder links that may operate in the bands 1 390-1 392
+    MHz (Earth-to-space) and 1 430-1 432 MHz (space-to-Earth)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1748/R-REC-M.1748-0-200603-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1748-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-03
+revdate: 2006-03
+language: en
+script: Latn
+doctype: recommendation

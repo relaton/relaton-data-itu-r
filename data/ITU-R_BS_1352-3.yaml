@@ -1,0 +1,25 @@
+---
+id: ITU-RBS.1352-3
+title:
+  type: main
+  content: File format for the exchange of audio programme materials with metadata
+    on information technology media
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1352/R-REC-BS.1352-3-200712-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1352-3
+  type: ITU
+date:
+- type: confirmed
+  value: 2007-14-12
+- type: published
+  value: 2007-12
+revdate: 2007-12
+language: en
+script: Latn
+doctype: recommendation

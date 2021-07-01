@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.1873-0
+title:
+  type: main
+  content: Serial multichannel audio digital interface for broadcasting studios
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1873/R-REC-BS.1873-0-201003-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1873-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2010'
+- type: published
+  value: 2010-03
+revdate: 2010-03
+language: en
+script: Latn
+doctype: recommendation

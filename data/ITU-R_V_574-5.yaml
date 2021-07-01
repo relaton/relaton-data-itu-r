@@ -1,0 +1,24 @@
+---
+id: ITU-RV.574-5
+title:
+  type: main
+  content: Use of the decibel and the neper in telecommunications
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.574/R-REC-V.574-5-201508-I
+  type: src
+type: standard
+docid:
+  id: ITU-R V.574-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-08
+revdate: 2015-08
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.2452-201
+title:
+  type: main
+  content: Electromagnetic field measurements to assess human exposure
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2452/R-REP-SM.2452-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2452-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

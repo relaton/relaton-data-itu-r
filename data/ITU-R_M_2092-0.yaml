@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2092-0
+title:
+  type: main
+  content: Technical characteristics for a VHF data exchange system in the VHF maritime
+    mobile band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2092/R-REC-M.2092-0-201510-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2092-0
+  type: ITU
+date:
+- type: confirmed
+  value: 2015-30-10
+- type: published
+  value: 2015-10
+revdate: 2015-10
+language: en
+script: Latn
+doctype: recommendation

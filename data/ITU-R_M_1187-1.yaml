@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1187-1
+title:
+  type: main
+  content: A method for the calculation of the potentially affected region for a mobile-satellite
+    service network in the 1-3 GHz range using circular orbits
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1187/R-REC-M.1187-1-200603-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1187-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-03
+revdate: 2006-03
+language: en
+script: Latn
+doctype: recommendation

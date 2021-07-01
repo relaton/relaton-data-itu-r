@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.2210-201
+title:
+  type: main
+  content: Impact of emissions from short-range devices on radiocommunication services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2210/R-REP-SM.2210-2011
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2210-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: '2011'
+revdate: '2011'
+language: en
+script: Latn
+doctype: technical-report

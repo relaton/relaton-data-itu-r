@@ -1,0 +1,27 @@
+---
+id: ITU-RM.2170-200
+title:
+  type: main
+  content: Compatibility analysis and results for radiolocation systems planned to
+    operate in the 15.4 to 17.3 GHz band and aircraft landing system operating in
+    the 15.4-15.7 GHz band as well as the radio astronomy service operating in the
+    adjacent band 15.35-15....
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2170/R-REP-M.2170-2009
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2170-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2009'
+- type: published
+  value: '2009'
+revdate: '2009'
+language: en
+script: Latn
+doctype: technical-report

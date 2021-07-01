@@ -1,0 +1,25 @@
+---
+id: ITU-RSA.1626-1
+title:
+  type: main
+  content: Feasibility of sharing between the space research service (space-to-Earth)
+    and the fixed and mobile services in the band 14.8-15.35 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1626/R-REC-SA.1626-1-201312-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.1626-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2013-11-12'
+- type: published
+  value: 2013-12
+revdate: 2013-12
+language: en
+script: Latn
+doctype: recommendation

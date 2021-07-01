@@ -1,0 +1,25 @@
+---
+id: ITU-RF.2062-200
+title:
+  type: main
+  content: Enhanced high frequency digital radiocommunication systems capable of providing
+    enhanced applications
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2062/R-REP-F.2062-2005
+  type: src
+type: standard
+docid:
+  id: ITU-R F.2062-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2005'
+- type: published
+  value: '2005'
+revdate: '2005'
+language: en
+script: Latn
+doctype: technical-report

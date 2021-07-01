@@ -1,0 +1,26 @@
+---
+id: ITU-RSA.1027-6
+title:
+  type: main
+  content: Sharing criteria for space-to-Earth data transmission systems in the Earth
+    exploration-satellite and meteorological-satellite services using satellites in
+    low-Earth orbit
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1027/R-REC-SA.1027-6-201908-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.1027-6
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: 2019-08
+revdate: 2019-08
+language: en
+script: Latn
+doctype: recommendation

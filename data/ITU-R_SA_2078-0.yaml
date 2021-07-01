@@ -1,0 +1,25 @@
+---
+id: ITU-RSA.2078-0
+title:
+  type: main
+  content: Protection of SRS earth stations from mobile (aircraft) stations in the
+    2 200-2 290 MHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.2078/R-REC-SA.2078-0-201508-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.2078-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-08
+revdate: 2015-08
+language: en
+script: Latn
+doctype: recommendation

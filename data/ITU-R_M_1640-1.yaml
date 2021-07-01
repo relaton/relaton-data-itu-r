@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1640-1
+title:
+  type: main
+  content: Characteristics of, and protection criteria for sharing studies for radars
+    operating in the radiodetermination service in the frequency band 33.4-36 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1640/R-REC-M.1640-1-201801-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1640-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2018'
+- type: published
+  value: 2018-01
+revdate: 2018-01
+language: en
+script: Latn
+doctype: recommendation

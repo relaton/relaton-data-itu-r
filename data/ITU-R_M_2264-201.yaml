@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2264-201
+title:
+  type: main
+  content: Guidance for the development of band plans with contiguous bandwidths for
+    mobile broadband applications for use in spectrum planning
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2264/R-REP-M.2264-2012
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2264-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: '2012'
+revdate: '2012'
+language: en
+script: Latn
+doctype: technical-report

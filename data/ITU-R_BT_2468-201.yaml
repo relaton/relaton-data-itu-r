@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.2468-201
+title:
+  type: main
+  content: Guidance for selection of system parameters and implementation of second
+    generation DTTB systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2468/R-REP-BT.2468-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2468-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

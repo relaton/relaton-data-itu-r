@@ -1,0 +1,27 @@
+---
+id: ITU-RR.55-3
+title:
+  type: main
+  content: ITU-R studies of disaster prediction, detection, mitigation and  relief
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.55/R-RES-R.55-3-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R R.55-3
+  type: ITU
+date:
+- type: updated
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: In force
+doctype: resolution

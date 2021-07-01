@@ -1,0 +1,26 @@
+---
+id: ITU-RRS.2315-201
+title:
+  type: main
+  content: Global survey of radio frequency interference levels observed by the Aquarius
+    scatterometer at 1 260 MHz and Aquarius and soil moisture and ocean salinity radiometers
+    at 1 413 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2315/R-REP-RS.2315-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R RS.2315-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

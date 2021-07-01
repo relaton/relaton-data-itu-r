@@ -1,0 +1,25 @@
+---
+id: ITU-RBS.1060-1
+title:
+  type: main
+  content: Energy saving methods in amplitude modulation broadcasting and their influence
+    on reception quality
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.1060/R-REP-BS.1060-1-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1060-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

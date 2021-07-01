@@ -1,0 +1,25 @@
+---
+id: ITU-RP.682-3
+title:
+  type: main
+  content: Propagation data required for the design of Earth-space aeronautical mobile
+    telecommunication systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.682/R-REC-P.682-3-201202-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.682-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-02
+revdate: 2012-02
+language: en
+script: Latn
+doctype: recommendation

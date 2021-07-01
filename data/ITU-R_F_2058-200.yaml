@@ -1,0 +1,25 @@
+---
+id: ITU-RF.2058-200
+title:
+  type: main
+  content: Design techniques applicable to broadband fixed wireless access systems
+    conveying Internet protocol packets or asynchronous transfer mode cells
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2058/R-REP-F.2058-2006
+  type: src
+type: standard
+docid:
+  id: ITU-R F.2058-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: '2006'
+revdate: '2006'
+language: en
+script: Latn
+doctype: technical-report

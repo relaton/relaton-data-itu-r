@@ -1,0 +1,25 @@
+---
+id: ITU-RP.239-7
+title:
+  type: main
+  content: Propagation statistics required for broadcasting services using the frequency
+    range 30 to 1 000 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-P/R-REP-P.239/R-REP-P.239-7-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R P.239-7
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

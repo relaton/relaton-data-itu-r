@@ -1,0 +1,25 @@
+---
+id: ITU-RSA.1805-0
+title:
+  type: main
+  content: Technical and operational characteristics of space-to-space telecommunication
+    systems operating around 354 THz and 366 THz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1805/R-REC-SA.1805-0-200706-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.1805-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-06
+revdate: 2007-06
+language: en
+script: Latn
+doctype: recommendation

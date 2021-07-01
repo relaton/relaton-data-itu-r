@@ -1,0 +1,24 @@
+---
+id: ITU-RS.729-0
+title:
+  type: main
+  content: Control and monitoring function of very small aperture terminals (VSATs)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.729/R-REC-S.729-0-199203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.729-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1992'
+- type: published
+  value: 1992-03
+revdate: 1992-03
+language: en
+script: Latn
+doctype: recommendation

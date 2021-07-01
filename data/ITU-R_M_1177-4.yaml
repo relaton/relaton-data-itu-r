@@ -1,0 +1,24 @@
+---
+id: ITU-RM.1177-4
+title:
+  type: main
+  content: Techniques for measurement of unwanted emissions of radar systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1177/R-REC-M.1177-4-201104-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1177-4
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: 2011-04
+revdate: 2011-04
+language: en
+script: Latn
+doctype: recommendation

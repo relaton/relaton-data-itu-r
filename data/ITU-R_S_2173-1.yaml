@@ -1,0 +1,24 @@
+---
+id: ITU-RS.2173-1
+title:
+  type: main
+  content: Multi-carrier based transmission techniques for satellite systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2173/R-REP-S.2173-1-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R S.2173-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

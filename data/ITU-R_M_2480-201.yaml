@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2480-201
+title:
+  type: main
+  content: National approaches of some countries on the implementation of terrestrial
+    IMT systems in bands identified for IMT
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2480/R-REP-M.2480-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2480-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

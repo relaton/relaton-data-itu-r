@@ -1,0 +1,24 @@
+---
+id: ITU-RM.2121-200
+title:
+  type: main
+  content: Guidelines for AM(R)S sharing studies in the 960-1 164 MHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2121/R-REP-M.2121-2007
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2121-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: '2007'
+revdate: '2007'
+language: en
+script: Latn
+doctype: technical-report

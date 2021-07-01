@@ -1,0 +1,27 @@
+---
+id: ITU-RM.1582-0
+title:
+  type: main
+  content: Method for determining coordination distances, in the 5 GHz band, between
+    the international standard microwave landing system stations operating in the
+    aeronautical radionavigation service and stations of the radionavigation-satellite
+    service (Earth-to...
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1582/R-REC-M.1582-0-200207-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1582-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-07
+revdate: 2002-07
+language: en
+script: Latn
+doctype: recommendation

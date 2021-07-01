@@ -1,0 +1,25 @@
+---
+id: ITU-RSA.2164-1
+title:
+  type: main
+  content: Compatibility between the meteorological satellite and the fixed services
+    in the band 7 850-7 900 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2164/R-REP-SA.2164-1-2012
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.2164-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: '2012'
+revdate: '2012'
+language: en
+script: Latn
+doctype: technical-report

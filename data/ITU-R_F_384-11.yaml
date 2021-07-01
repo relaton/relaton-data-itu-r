@@ -1,0 +1,25 @@
+---
+id: ITU-RF.384-11
+title:
+  type: main
+  content: Radio-frequency channel arrangements for medium- and high- capacity digital
+    fixed wireless systems operating in the the 6 425-7 125 MHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.384/R-REC-F.384-11-201203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.384-11
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-03
+revdate: 2012-03
+language: en
+script: Latn
+doctype: recommendation

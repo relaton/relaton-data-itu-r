@@ -1,0 +1,25 @@
+---
+id: ITU-RBO.2071-1
+title:
+  type: main
+  content: BSS System parameters between 17.3 GHz and 42.5 GHz and associated feeder
+    links
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.2071/R-REP-BO.2071-1-2011
+  type: src
+type: standard
+docid:
+  id: ITU-R BO.2071-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: '2011'
+revdate: '2011'
+language: en
+script: Latn
+doctype: technical-report

@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1158-199
+title:
+  type: main
+  content: Data communication in the maritime mobile services using MF, HF and VHF
+    frequencies
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.1158/R-REP-M.1158-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1158-199
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

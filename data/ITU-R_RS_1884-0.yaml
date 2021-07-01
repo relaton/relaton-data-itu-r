@@ -1,0 +1,26 @@
+---
+id: ITU-RRS.1884-0
+title:
+  type: main
+  content: Methodology for determining terrestrial and space-to-Earth sharing and
+    coordination criteria for meteorological aids in the 400.15-406 MHz and 1 668
+    1 700 MHz bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1884/R-REC-RS.1884-0-201102-I
+  type: src
+type: standard
+docid:
+  id: ITU-R RS.1884-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: 2011-02
+revdate: 2011-02
+language: en
+script: Latn
+doctype: recommendation

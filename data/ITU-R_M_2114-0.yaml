@@ -1,0 +1,26 @@
+---
+id: ITU-RM.2114-0
+title:
+  type: main
+  content: Technical and operational characteristics of and protection criteria for
+    aeronautical mobile service systems in the frequency bands 22.5-23.6 GHz and 25.25-27.5
+    GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2114/R-REC-M.2114-0-201801-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2114-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2018'
+- type: published
+  value: 2018-01
+revdate: 2018-01
+language: en
+script: Latn
+doctype: recommendation

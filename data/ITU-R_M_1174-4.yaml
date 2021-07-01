@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1174-4
+title:
+  type: main
+  content: Technical characteristics of equipment used for on-board vessel communications
+    in the bands between 450 and 470 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1174/R-REC-M.1174-4-201910-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1174-4
+  type: ITU
+date:
+- type: confirmed
+  value: 2019-24-10
+- type: published
+  value: 2019-10
+revdate: 2019-10
+language: en
+script: Latn
+doctype: recommendation

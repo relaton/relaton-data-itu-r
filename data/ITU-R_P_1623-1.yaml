@@ -1,0 +1,24 @@
+---
+id: ITU-RP.1623-1
+title:
+  type: main
+  content: Prediction method of fade dynamics on Earth-space paths
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1623/R-REC-P.1623-1-200503-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.1623-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2005'
+- type: published
+  value: 2005-03
+revdate: 2005-03
+language: en
+script: Latn
+doctype: recommendation

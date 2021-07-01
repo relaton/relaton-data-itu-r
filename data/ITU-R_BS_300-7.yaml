@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.300-7
+title:
+  type: main
+  content: Stereophonic or multi-dimensional sound in frequency-modulation sound
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.300/R-REP-BS.300-7-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.300-7
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

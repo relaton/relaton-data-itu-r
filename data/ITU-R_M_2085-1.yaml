@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2085-1
+title:
+  type: main
+  content: Role of the amateur and amateur-satellite services in support of disaster
+    mitigation and relief
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2085/R-REP-M.2085-1-2011
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2085-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: '2011'
+revdate: '2011'
+language: en
+script: Latn
+doctype: technical-report

@@ -1,0 +1,24 @@
+---
+id: ITU-RM.2334-201
+title:
+  type: main
+  content: Passive and active antenna systems for base stations of IMT systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2334/R-REP-M.2334-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2334-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

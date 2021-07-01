@@ -1,0 +1,36 @@
+---
+id: ITU-R21-201
+title:
+  type: main
+  content: National Spectrum Management
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-21/R-HDB-21-2015
+  type: src
+type: standard
+docid:
+  id: ITU-R 21-201
+  type: ITU
+date:
+- type: updated
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+abstract:
+  content: 'This Handbook describes the key elements of spectrum management: spectrum
+    management fundamentals, spectrum planning, frequency assignment and licensing,
+    spectrum monitoring, spectrum inspection and investigation, spectrum engineering,
+    spectrum economics, automation of spectrum management activities and measures
+    of spectrum utilization and spectrum utilization efficiency.'
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

@@ -1,0 +1,25 @@
+---
+id: ITU-RF.1488-0
+title:
+  type: main
+  content: Frequency block arrangements for fixed wireless access systems in the range
+    3 400-3 800 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1488/R-REC-F.1488-0-200005-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1488-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: 2000-05
+revdate: 2000-05
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.2303-2
+title:
+  type: main
+  content: Wireless power transmission using technologies other than radio frequency
+    beam
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2303/R-REP-SM.2303-2-2017
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2303-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: '2017'
+revdate: '2017'
+language: en
+script: Latn
+doctype: technical-report

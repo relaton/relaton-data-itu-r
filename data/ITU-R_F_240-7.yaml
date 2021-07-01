@@ -1,0 +1,25 @@
+---
+id: ITU-RF.240-7
+title:
+  type: main
+  content: Signal-to-interference protection ratios for various classes of emission
+    in the fixed service below about 30 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.240/R-REC-F.240-7-200605-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.240-7
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-05
+revdate: 2006-05
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,26 @@
+---
+id: ITU-RSA.1811-0
+title:
+  type: main
+  content: Reference antenna patterns of large-aperture space research service earth
+    stations to be used for compatibility analyses involving a large number of distributed
+    interference entries in the bands 31.8-32.3 GHz and 37.0-38.0 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1811/R-REC-SA.1811-0-200706-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.1811-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-06
+revdate: 2007-06
+language: en
+script: Latn
+doctype: recommendation

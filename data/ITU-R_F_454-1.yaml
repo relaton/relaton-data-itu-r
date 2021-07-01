@@ -1,0 +1,25 @@
+---
+id: ITU-RF.454-1
+title:
+  type: main
+  content: Pilot carrier level for HF single-sideband and independent-sideband reduced-carrier
+    systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.454/R-REC-F.454-1-197807-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.454-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1978'
+- type: published
+  value: 1978-07
+revdate: 1978-07
+language: en
+script: Latn
+doctype: recommendation

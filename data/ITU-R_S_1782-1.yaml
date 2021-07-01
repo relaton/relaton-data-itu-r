@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1782-1
+title:
+  type: main
+  content: Guidelines on global broadband Internet access by fixed-satellite service
+    systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1782/R-REC-S.1782-1-201909-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1782-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: 2019-09
+revdate: 2019-09
+language: en
+script: Latn
+doctype: recommendation

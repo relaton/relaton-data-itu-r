@@ -1,0 +1,25 @@
+---
+id: ITU-RP.844-1
+title:
+  type: main
+  content: Ionospheric factors affecting frequency sharing in the VHF and UHF bands
+    (30 MHz-3 GHz)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.844/R-REC-P.844-1-199408-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.844-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: 1994-08
+revdate: 1994-08
+language: en
+script: Latn
+doctype: recommendation

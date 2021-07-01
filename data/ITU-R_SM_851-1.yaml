@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.851-1
+title:
+  type: main
+  content: Sharing between the broadcasting service and the fixed and/or mobile services
+    in the VHF and UHF bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.851/R-REC-SM.851-1-199304-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.851-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1993'
+- type: published
+  value: 1993-04
+revdate: 1993-04
+language: en
+script: Latn
+doctype: recommendation

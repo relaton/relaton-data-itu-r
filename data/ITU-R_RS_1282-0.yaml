@@ -1,0 +1,25 @@
+---
+id: ITU-RRS.1282-0
+title:
+  type: main
+  content: Feasibility of sharing between wind profiler radars and active spaceborne
+    sensors in the vicinity of 1 260 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1282/R-REC-RS.1282-0-199710-I
+  type: src
+type: standard
+docid:
+  id: ITU-R RS.1282-0
+  type: ITU
+date:
+- type: confirmed
+  value: 1997-24-10
+- type: published
+  value: 1997-10
+revdate: 1997-10
+language: en
+script: Latn
+doctype: recommendation

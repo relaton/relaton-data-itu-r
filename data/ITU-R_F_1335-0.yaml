@@ -1,0 +1,26 @@
+---
+id: ITU-RF.1335-0
+title:
+  type: main
+  content: Technical and operational considerations in the phased transitional approach
+    for bands shared between the mobile-satellite service and the fixed service at
+    2 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1335/R-REC-F.1335-0-199707-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1335-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1997'
+- type: published
+  value: 1997-07
+revdate: 1997-07
+language: en
+script: Latn
+doctype: recommendation

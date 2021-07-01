@@ -1,0 +1,26 @@
+---
+id: ITU-RBS.1547-0
+title:
+  type: main
+  content: Terrestrial component of systems for hybrid satellite-terrestrial digital
+    sound broadcasting to vehicular, portable and fixed receivers in the frequency
+    range 1 400-2 700 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1547/R-REC-BS.1547-0-200111-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1547-0
+  type: ITU
+date:
+- type: confirmed
+  value: 2001-24-11
+- type: published
+  value: 2001-11
+revdate: 2001-11
+language: en
+script: Latn
+doctype: recommendation

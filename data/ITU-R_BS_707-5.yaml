@@ -1,0 +1,25 @@
+---
+id: ITU-RBS.707-5
+title:
+  type: main
+  content: Transmission of multisound in terrestrial television systems PAL B, B1,
+    D1, G, H and I, and SECAM D, K, K1 and L
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.707/R-REC-BS.707-5-200508-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.707-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2005'
+- type: published
+  value: 2005-08
+revdate: 2005-08
+language: en
+script: Latn
+doctype: recommendation

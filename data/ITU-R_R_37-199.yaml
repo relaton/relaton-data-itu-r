@@ -1,0 +1,27 @@
+---
+id: ITU-RR.37-199
+title:
+  type: main
+  content: Radiowave propagation studies for system design and service planning
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.37/R-RES-R.37-1995
+  type: src
+type: standard
+docid:
+  id: ITU-R R.37-199
+  type: ITU
+date:
+- type: updated
+  value: '1995'
+- type: published
+  value: '1995'
+revdate: '1995'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: In force
+doctype: resolution

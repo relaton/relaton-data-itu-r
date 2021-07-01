@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.708-0
+title:
+  type: main
+  content: Determination of the electro-acoustical properties of studio monitor headphones
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.708/R-REC-BS.708-0-199006-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.708-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: 1990-06
+revdate: 1990-06
+language: en
+script: Latn
+doctype: recommendation

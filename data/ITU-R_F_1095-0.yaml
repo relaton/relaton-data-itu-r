@@ -1,0 +1,25 @@
+---
+id: ITU-RF.1095-0
+title:
+  type: main
+  content: A procedure for determining coordination area between radio-relay stations
+    of the fixed service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1095/R-REC-F.1095-0-199409-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1095-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: 1994-09
+revdate: 1994-09
+language: en
+script: Latn
+doctype: recommendation

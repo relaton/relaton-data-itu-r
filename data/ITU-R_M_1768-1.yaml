@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1768-1
+title:
+  type: main
+  content: Methodology for calculation of spectrum requirements for the terrestrial
+    component of International Mobile Telecommunications
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1768/R-REC-M.1768-1-201304-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1768-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2013'
+- type: published
+  value: 2013-04
+revdate: 2013-04
+language: en
+script: Latn
+doctype: recommendation

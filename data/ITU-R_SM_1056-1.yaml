@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.1056-1
+title:
+  type: main
+  content: Limitation of radiation from industrial, scientific and medical (ISM) equipment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1056/R-REC-SM.1056-1-200704-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.1056-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-04
+revdate: 2007-04
+language: en
+script: Latn
+doctype: recommendation

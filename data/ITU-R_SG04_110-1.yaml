@@ -1,0 +1,24 @@
+---
+id: ITU-RSG04.110-1
+title:
+  type: main
+  content: Interference to the aeronautical mobile-satellite (R) service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.110/R-QUE-SG04.110-1-2002
+  type: src
+type: standard
+docid:
+  id: ITU-R SG04.110-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: '2002'
+revdate: '2002'
+language: en
+script: Latn
+doctype: question

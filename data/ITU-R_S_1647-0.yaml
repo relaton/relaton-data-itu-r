@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1647-0
+title:
+  type: main
+  content: Methodology to determine the worst-case interference among certain types
+    of non-GSO FSS systems in situations where no in-line interference exists
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1647/R-REC-S.1647-0-200401-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1647-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2004'
+- type: published
+  value: 2004-01
+revdate: 2004-01
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,33 @@
+---
+id: ITU-R44-200
+title:
+  type: main
+  content: Terrestrial land mobile radiowave propagation in the VHF/UHF bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-44/R-HDB-44-2002
+  type: src
+type: standard
+docid:
+  id: ITU-R 44-200
+  type: ITU
+date:
+- type: updated
+  value: '2002'
+- type: published
+  value: '2002'
+revdate: '2002'
+language: en
+script: Latn
+abstract:
+  content: This ITU-R Handbook gives the technical basis for predicting the radio
+    propagation in point-to-point, point-to-area, and point-to-multipoint mobile networks.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

@@ -1,0 +1,24 @@
+---
+id: ITU-RBT.2077-2
+title:
+  type: main
+  content: Real-time serial digital interfaces for UHDTV signals
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2077/R-REC-BT.2077-2-201706-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2077-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: 2017-06
+revdate: 2017-06
+language: en
+script: Latn
+doctype: recommendation

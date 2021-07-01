@@ -1,0 +1,25 @@
+---
+id: ITU-RBO.794-0
+title:
+  type: main
+  content: Techniques for minimizing the impact on the overall BSS system performance
+    due to rain along the feeder-link path
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.794/R-REC-BO.794-0-199203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BO.794-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1992'
+- type: published
+  value: 1992-03
+revdate: 1992-03
+language: en
+script: Latn
+doctype: recommendation

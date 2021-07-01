@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.1394-0
+title:
+  type: main
+  content: Common format for Memorandum of Understanding between the agreeing countries
+    regarding cooperation in spectrum monitoring matters
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1394/R-REC-SM.1394-0-199901-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.1394-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1999'
+- type: published
+  value: 1999-01
+revdate: 1999-01
+language: en
+script: Latn
+doctype: recommendation

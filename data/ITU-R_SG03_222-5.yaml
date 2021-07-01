@@ -1,0 +1,24 @@
+---
+id: ITU-RSG03.222-5
+title:
+  type: main
+  content: Measurements and data banks of ionospheric characteristics and radio noise
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.222/R-QUE-SG03.222-5-2016
+  type: src
+type: standard
+docid:
+  id: ITU-R SG03.222-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2016'
+- type: published
+  value: '2016'
+revdate: '2016'
+language: en
+script: Latn
+doctype: question

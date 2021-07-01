@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.946-1
+title:
+  type: main
+  content: Frequency-planning constraints of FM sound broadcasting in band 8 (VHF)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.946/R-REP-BS.946-1-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.946-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

@@ -1,0 +1,25 @@
+---
+id: ITU-RM.625-4
+title:
+  type: main
+  content: Direct-printing telegraph equipment employing automatic identification
+    in the maritime mobile service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.625/R-REC-M.625-4-201203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.625-4
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-03
+revdate: 2012-03
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.1049-1
+title:
+  type: main
+  content: A method of spectrum management to be used for aiding frequency assignment
+    for terrestrial services in border areas
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1049/R-REC-SM.1049-1-199510-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.1049-1
+  type: ITU
+date:
+- type: confirmed
+  value: 1995-20-10
+- type: published
+  value: 1995-10
+revdate: 1995-10
+language: en
+script: Latn
+doctype: recommendation

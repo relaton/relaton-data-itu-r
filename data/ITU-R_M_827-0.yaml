@@ -1,0 +1,25 @@
+---
+id: ITU-RM.827-0
+title:
+  type: main
+  content: Hypothetical reference digital path for systems in the mobile-satellite
+    service using feeder links
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.827/R-REC-M.827-0-199203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.827-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1992'
+- type: published
+  value: 1992-03
+revdate: 1992-03
+language: en
+script: Latn
+doctype: recommendation

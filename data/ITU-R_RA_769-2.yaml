@@ -1,0 +1,24 @@
+---
+id: ITU-RRA.769-2
+title:
+  type: main
+  content: Protection criteria used for radio astronomical measurements
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RA/R-REC-RA.769/R-REC-RA.769-2-200305-I
+  type: src
+type: standard
+docid:
+  id: ITU-R RA.769-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-05
+revdate: 2003-05
+language: en
+script: Latn
+doctype: recommendation

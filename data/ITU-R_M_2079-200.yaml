@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2079-200
+title:
+  type: main
+  content: Technical and operational information for identifying spectrum for the
+    terrestrial component of future development of IMT-2000 and IMT-Advanced
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2079/R-REP-M.2079-2006
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2079-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: '2006'
+revdate: '2006'
+language: en
+script: Latn
+doctype: technical-report

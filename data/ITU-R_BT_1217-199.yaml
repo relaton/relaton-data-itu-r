@@ -1,0 +1,24 @@
+---
+id: ITU-RBT.1217-199
+title:
+  type: main
+  content: Future development of HDTV
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.1217/R-REP-BT.1217-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.1217-199
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

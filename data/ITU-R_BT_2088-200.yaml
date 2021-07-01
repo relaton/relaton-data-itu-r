@@ -1,0 +1,24 @@
+---
+id: ITU-RBT.2088-200
+title:
+  type: main
+  content: Stereoscopic television
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2088/R-REP-BT.2088-2006
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2088-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: '2006'
+revdate: '2006'
+language: en
+script: Latn
+doctype: technical-report

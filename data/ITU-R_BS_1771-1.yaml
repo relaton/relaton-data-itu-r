@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.1771-1
+title:
+  type: main
+  content: Requirements for loudness and true-peak indicating meters
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1771/R-REC-BS.1771-1-201201-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1771-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-01
+revdate: 2012-01
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,25 @@
+---
+id: ITU-RRA.2189-1
+title:
+  type: main
+  content: Sharing between the radio astronomy service and active services in the
+    frequency range 275-3 000 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RA/R-REP-RA.2189/R-REP-RA.2189-1-2018
+  type: src
+type: standard
+docid:
+  id: ITU-R RA.2189-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2018'
+- type: published
+  value: '2018'
+revdate: '2018'
+language: en
+script: Latn
+doctype: technical-report

@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2013-0
+title:
+  type: main
+  content: Technical characteristics of, and protection criteria for non-ICAO aeronautical
+    radionavigation systems, operating around 1 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2013/R-REC-M.2013-0-201201-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2013-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-01
+revdate: 2012-01
+language: en
+script: Latn
+doctype: recommendation

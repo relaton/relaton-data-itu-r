@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2459-201
+title:
+  type: main
+  content: Introduction of additional mobile-satellite service systems into the Global
+    Maritime Distress Safety systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2459/R-REP-M.2459-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2459-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

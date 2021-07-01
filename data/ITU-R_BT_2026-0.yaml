@@ -1,0 +1,26 @@
+---
+id: ITU-RBT.2026-0
+title:
+  type: main
+  content: Guidelines on the implementation of systems for in-service objective measurement
+    and monitoring of "perceptual transparency" for the distribution chain of SDTV
+    and HDTV programmes
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2026/R-REC-BT.2026-0-201208-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2026-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-08
+revdate: 2012-08
+language: en
+script: Latn
+doctype: recommendation

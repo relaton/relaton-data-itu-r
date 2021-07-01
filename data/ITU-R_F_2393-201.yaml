@@ -1,0 +1,25 @@
+---
+id: ITU-RF.2393-201
+title:
+  type: main
+  content: Use of fixed service for transport of traffic, including backhaul, for
+    IMT and other terrestrial mobile broadband systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2393/R-REP-F.2393-2017
+  type: src
+type: standard
+docid:
+  id: ITU-R F.2393-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2016'
+- type: published
+  value: '2017'
+revdate: '2017'
+language: en
+script: Latn
+doctype: technical-report

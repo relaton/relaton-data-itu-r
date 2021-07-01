@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.2100-2
+title:
+  type: main
+  content: Image parameter values for high dynamic range television for use in production
+    and international programme exchange
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2100/R-REC-BT.2100-2-201807-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2100-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2018'
+- type: published
+  value: 2018-07
+revdate: 2018-07
+language: en
+script: Latn
+doctype: recommendation

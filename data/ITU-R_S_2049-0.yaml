@@ -1,0 +1,26 @@
+---
+id: ITU-RS.2049-0
+title:
+  type: main
+  content: Access procedures for fixed-satellite service occasional use, transmissions
+    to geostationary-satellite orbit space stations, in the 4/6 GHz and 11-12/13/14
+    GHz FSS bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2049/R-REC-S.2049-0-201312-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.2049-0
+  type: ITU
+date:
+- type: confirmed
+  value: 2013-28-12
+- type: published
+  value: 2013-12
+revdate: 2013-12
+language: en
+script: Latn
+doctype: recommendation

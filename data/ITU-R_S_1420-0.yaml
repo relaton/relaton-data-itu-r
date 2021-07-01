@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1420-0
+title:
+  type: main
+  content: Performance for broadband integrated services digital network asynchronous
+    transfer mode via satellite
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1420/R-REC-S.1420-0-199911-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1420-0
+  type: ITU
+date:
+- type: confirmed
+  value: 1999-30-11
+- type: published
+  value: 1999-11
+revdate: 1999-11
+language: en
+script: Latn
+doctype: recommendation

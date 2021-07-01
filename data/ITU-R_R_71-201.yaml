@@ -1,0 +1,28 @@
+---
+id: ITU-RR.71-201
+title:
+  type: main
+  content: Role of the Radiocommunication Sector in the ongoing development of television,
+    sound and multimedia broadcasting
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.71/R-RES-R.71-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R R.71-201
+  type: ITU
+date:
+- type: updated
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: In force
+doctype: resolution

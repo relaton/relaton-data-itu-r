@@ -1,0 +1,24 @@
+---
+id: ITU-RRS.515-5
+title:
+  type: main
+  content: Frequency bands and bandwidths used for satellite passive remote sensing
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.515/R-REC-RS.515-5-201208-I
+  type: src
+type: standard
+docid:
+  id: ITU-R RS.515-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-08
+revdate: 2012-08
+language: en
+script: Latn
+doctype: recommendation

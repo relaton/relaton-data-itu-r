@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2133-200
+title:
+  type: main
+  content: Requirements, evaluation criteria and submission templates  for the development
+    of IMT-Advanced
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2133/R-REP-M.2133-2008
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2133-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2008'
+- type: published
+  value: '2008'
+revdate: '2008'
+language: en
+script: Latn
+doctype: technical-report

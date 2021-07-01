@@ -1,0 +1,24 @@
+---
+id: ITU-RP.310-10
+title:
+  type: main
+  content: Definitions of terms relating to propagation in non-ionized media
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.310/R-REC-P.310-10-201908-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.310-10
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: 2019-08
+revdate: 2019-08
+language: en
+script: Latn
+doctype: recommendation

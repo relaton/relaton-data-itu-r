@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.1379-2
+title:
+  type: main
+  content: Safe areas of wide-screen 16:9 and standard 4:3 aspect ratio productions
+    to achieve a common format during a transition period to wide screen 16:9 broadcasting
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1379/R-REC-BT.1379-2-200709-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.1379-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-09
+revdate: 2007-09
+language: en
+script: Latn
+doctype: recommendation

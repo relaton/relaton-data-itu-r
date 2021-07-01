@@ -1,0 +1,26 @@
+---
+id: ITU-RS.1432-1
+title:
+  type: main
+  content: Apportionment of the allowable error performance degradations to fixed-satellite
+    service (FSS) hypothetical reference digital paths arising from time invariant
+    interference for systems operating below 30 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1432/R-REC-S.1432-1-200604-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1432-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-04
+revdate: 2006-04
+language: en
+script: Latn
+doctype: recommendation

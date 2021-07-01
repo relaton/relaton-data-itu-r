@@ -1,0 +1,25 @@
+---
+id: ITU-RS.672-4
+title:
+  type: main
+  content: Satellite antenna radiation pattern for use as a design objective in the
+    fixed-satellite service employing geostationary satellites
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.672/R-REC-S.672-4-199709-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.672-4
+  type: ITU
+date:
+- type: confirmed
+  value: '1997'
+- type: published
+  value: 1997-09
+revdate: 1997-09
+language: en
+script: Latn
+doctype: recommendation

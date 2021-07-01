@@ -1,0 +1,24 @@
+---
+id: ITU-RP.834-9
+title:
+  type: main
+  content: Effects of tropospheric refraction on radiowave propagation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.834/R-REC-P.834-9-201712-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.834-9
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: 2017-12
+revdate: 2017-12
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.2127-0
+title:
+  type: main
+  content: Audio Definition Model renderer for advanced sound systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2127/R-REC-BS.2127-0-201906-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.2127-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: 2019-06
+revdate: 2019-06
+language: en
+script: Latn
+doctype: recommendation

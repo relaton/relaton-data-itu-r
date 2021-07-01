@@ -1,0 +1,24 @@
+---
+id: ITU-RM.1073-3
+title:
+  type: main
+  content: Digital cellular land mobile telecommunication systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1073/R-REC-M.1073-3-201203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1073-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-03
+revdate: 2012-03
+language: en
+script: Latn
+doctype: recommendation

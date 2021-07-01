@@ -1,0 +1,25 @@
+---
+id: ITU-RP.2406-1
+title:
+  type: main
+  content: Studies for short-path propagation data and models for terrestrial radiocommunication
+    systems in the frequency range 6 GHz to 450 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-P/R-REP-P.2406/R-REP-P.2406-1-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R P.2406-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

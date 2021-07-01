@@ -1,0 +1,36 @@
+---
+id: ITU-R60-200
+title:
+  type: main
+  content: Deployment of IMT-2000 Systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-60/R-HDB-60-2003
+  type: src
+type: standard
+docid:
+  id: ITU-R 60-200
+  type: ITU
+date:
+- type: updated
+  value: '2003'
+- type: published
+  value: '2003'
+revdate: '2003'
+language: en
+script: Latn
+abstract:
+  content: This Handbook addresses a variety of issues related to the deployment of
+    IMT-2000 systems, to inform and guide key decision-makers on critical aspects
+    concerning third-generation mobile communication systems, to facilitate decisions
+    on the selection of options and strategies for the introduction of their IMT-2000
+    networks.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

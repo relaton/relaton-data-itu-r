@@ -1,0 +1,25 @@
+---
+id: ITU-RBS.1734-0
+title:
+  type: main
+  content: Basic performance requirements for the sound components of large-screen
+    digital imagery applications for presentation in a theatrical environment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1734/R-REC-BS.1734-0-200508-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1734-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2005'
+- type: published
+  value: 2005-08
+revdate: 2005-08
+language: en
+script: Latn
+doctype: recommendation

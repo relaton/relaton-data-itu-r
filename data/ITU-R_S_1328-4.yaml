@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1328-4
+title:
+  type: main
+  content: Satellite system characteristics to be considered in frequency sharing
+    analyses within the fixed-satellite service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1328/R-REC-S.1328-4-200209-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1328-4
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-09
+revdate: 2002-09
+language: en
+script: Latn
+doctype: recommendation

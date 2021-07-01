@@ -1,0 +1,25 @@
+---
+id: ITU-RBO.1774-2
+title:
+  type: main
+  content: Use of satellite and terrestrial broadcast infrastructures for public warning,
+    disaster mitigation and relief
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1774/R-REC-BO.1774-2-201510-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BO.1774-2
+  type: ITU
+date:
+- type: confirmed
+  value: 2015-14-10
+- type: published
+  value: 2015-10
+revdate: 2015-10
+language: en
+script: Latn
+doctype: recommendation

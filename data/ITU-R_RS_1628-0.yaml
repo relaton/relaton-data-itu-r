@@ -1,0 +1,26 @@
+---
+id: ITU-RRS.1628-0
+title:
+  type: main
+  content: Feasibility of sharing in the band 35.5 36 GHZ between the Earth exploration-satellite
+    service (active) and space research service (active), and other services allocated
+    in this band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1628/R-REC-RS.1628-0-200305-I
+  type: src
+type: standard
+docid:
+  id: ITU-R RS.1628-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-05
+revdate: 2003-05
+language: en
+script: Latn
+doctype: recommendation

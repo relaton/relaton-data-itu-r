@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.411-4
+title:
+  type: main
+  content: Fading allowances in HF broadcasting
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.411/R-REC-BS.411-4-199006-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.411-4
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: 1990-06
+revdate: 1990-06
+language: en
+script: Latn
+doctype: recommendation

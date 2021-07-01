@@ -1,0 +1,26 @@
+---
+id: ITU-RM.1827-1
+title:
+  type: main
+  content: Guideline on technical and operational requirements for stations of the
+    aeronautical mobile (R) service limited to surface application at airports in
+    the frequency band 5 091-5 150 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1827/R-REC-M.1827-1-201501-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1827-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-01
+revdate: 2015-01
+language: en
+script: Latn
+doctype: recommendation

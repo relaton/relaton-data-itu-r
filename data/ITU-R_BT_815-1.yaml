@@ -1,0 +1,24 @@
+---
+id: ITU-RBT.815-1
+title:
+  type: main
+  content: Specification of a signal for measurement of the contrast ratio of displays
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.815/R-REC-BT.815-1-199407-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.815-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: 1994-07
+revdate: 1994-07
+language: en
+script: Latn
+doctype: recommendation

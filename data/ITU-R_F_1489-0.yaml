@@ -1,0 +1,26 @@
+---
+id: ITU-RF.1489-0
+title:
+  type: main
+  content: A methodology for assessing the level of operational compatibility between
+    fixed wireless access and radiolocation systems when sharing the band 3.4-3.7
+    GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1489/R-REC-F.1489-0-200005-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1489-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: 2000-05
+revdate: 2000-05
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,27 @@
+---
+id: ITU-RM.1584-0
+title:
+  type: main
+  content: Methodology for computation of separation distances between earth stations
+    of the radionavigation-satellite service (Earth-to-space) and radars of the radiolocation
+    service and the aeronautical radionavigation service in the frequency band 1 300-1
+    350 ...
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1584/R-REC-M.1584-0-200207-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1584-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-07
+revdate: 2002-07
+language: en
+script: Latn
+doctype: recommendation

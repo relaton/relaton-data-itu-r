@@ -1,0 +1,25 @@
+---
+id: ITU-RP.452-16
+title:
+  type: main
+  content: Prediction procedure for the evaluation of interference between stations
+    on the surface of the Earth at frequencies above about 0.1 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.452/R-REC-P.452-16-201507-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.452-16
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-07
+revdate: 2015-07
+language: en
+script: Latn
+doctype: recommendation

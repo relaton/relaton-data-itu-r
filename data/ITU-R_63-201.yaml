@@ -1,0 +1,38 @@
+---
+id: ITU-R63-201
+title:
+  type: main
+  content: Handbook on Digital Terrestrial Television Broadcasting networks and systems
+    implementation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-63/R-HDB-63-2016
+  type: src
+type: standard
+docid:
+  id: ITU-R 63-201
+  type: ITU
+date:
+- type: updated
+  value: '2016'
+- type: published
+  value: '2016'
+revdate: '2016'
+language: en
+script: Latn
+abstract:
+  content: The aim of this Handbook is to provide assistance in technical and service
+    issues such as networks and systems, audiovisual quality and quality of transmission,
+    as well as on other issues of interest for the introduction of digital terrestrial
+    TV broadcasting (from multimedia systems to UHDTV) in different countries. Hard
+    copy available for pre-order.  The pdf versions of all BR Handbooks are free of
+    charge as of January 2017.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

@@ -1,0 +1,24 @@
+---
+id: ITU-RM.628-5
+title:
+  type: main
+  content: Technical characteristics for search and rescue radar transponders
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.628/R-REC-M.628-5-201203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.628-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-03
+revdate: 2012-03
+language: en
+script: Latn
+doctype: recommendation

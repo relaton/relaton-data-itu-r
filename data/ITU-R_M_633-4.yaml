@@ -1,0 +1,26 @@
+---
+id: ITU-RM.633-4
+title:
+  type: main
+  content: Transmission characteristics of a satellite emergency position-indicating
+    radio beacon (satellite EPIRB) system operating through a satellite system in
+    the 406 MHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.633/R-REC-M.633-4-201012-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.633-4
+  type: ITU
+date:
+- type: confirmed
+  value: 2010-17-12
+- type: published
+  value: 2010-12
+revdate: 2010-12
+language: en
+script: Latn
+doctype: recommendation

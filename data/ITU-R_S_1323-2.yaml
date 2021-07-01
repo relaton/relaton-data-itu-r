@@ -1,0 +1,26 @@
+---
+id: ITU-RS.1323-2
+title:
+  type: main
+  content: Maximum permissible levels of interference in a satellite network (GSO/FSS;
+    non-GSO/FSS; non-GSO/MSS feeder links) in the fixed-satellite service caused by
+    other codirectional FSS networks below 30 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1323/R-REC-S.1323-2-200209-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1323-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-09
+revdate: 2002-09
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,26 @@
+---
+id: ITU-RF.1330-2
+title:
+  type: main
+  content: Performance limits for bringing into service the parts of international
+    plesiochronous digital hierarchy and synchronous digital hierarchy paths and sections
+    implemented by digital fixed wireless systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1330/R-REC-F.1330-2-200604-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1330-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-04
+revdate: 2006-04
+language: en
+script: Latn
+doctype: recommendation

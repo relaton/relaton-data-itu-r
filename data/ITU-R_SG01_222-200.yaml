@@ -1,0 +1,24 @@
+---
+id: ITU-RSG01.222-200
+title:
+  type: main
+  content: Definition of the spectral properties of transmitter emissions
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.222/R-QUE-SG01.222-2000
+  type: src
+type: standard
+docid:
+  id: ITU-R SG01.222-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: '2000'
+revdate: '2000'
+language: en
+script: Latn
+doctype: question

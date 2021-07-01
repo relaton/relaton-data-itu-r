@@ -1,0 +1,26 @@
+---
+id: ITU-RF.1760-0
+title:
+  type: main
+  content: Methodology for the calculation of aggregate equivalent isotropically radiated
+    power (a.e.i.r.p.) distribution from point-to-multipoint high-density applications
+    in the fixed service operating in bands above 30 GHz identified for such use
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1760/R-REC-F.1760-0-200605-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1760-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-05
+revdate: 2006-05
+language: en
+script: Latn
+doctype: recommendation

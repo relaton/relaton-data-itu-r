@@ -1,0 +1,24 @@
+---
+id: ITU-RSG01.240-201
+title:
+  type: main
+  content: Assessment of spectrum efficiency and economic value
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.240/R-QUE-SG01.240-2017
+  type: src
+type: standard
+docid:
+  id: ITU-R SG01.240-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: '2017'
+revdate: '2017'
+language: en
+script: Latn
+doctype: question

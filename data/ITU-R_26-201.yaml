@@ -1,0 +1,35 @@
+---
+id: ITU-R26-201
+title:
+  type: main
+  content: Radiometeorology
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-26/R-HDB-26-2013
+  type: src
+type: standard
+docid:
+  id: ITU-R 26-201
+  type: ITU
+date:
+- type: updated
+  value: '2013'
+- type: published
+  value: '2013'
+revdate: '2013'
+language: en
+script: Latn
+abstract:
+  content: The Handbook on Radiometeorology supplies background and supplementary
+    information on radiowave propagation effects as described and used in the ITU-R
+    P series of Recommendations thus giving a more detailed understanding of these
+    Recommendations, in particular to those who wish to contribute to their development.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

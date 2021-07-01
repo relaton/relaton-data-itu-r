@@ -1,0 +1,25 @@
+---
+id: ITU-RRA.479-5
+title:
+  type: main
+  content: Protection of frequencies for radioastronomical measurements in the shielded
+    zone of the Moon
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RA/R-REC-RA.479/R-REC-RA.479-5-200305-I
+  type: src
+type: standard
+docid:
+  id: ITU-R RA.479-5
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-05
+revdate: 2003-05
+language: en
+script: Latn
+doctype: recommendation

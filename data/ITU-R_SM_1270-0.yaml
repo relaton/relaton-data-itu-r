@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.1270-0
+title:
+  type: main
+  content: Additional information for monitoring purposes related to classification
+    and designation of emission
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1270/R-REC-SM.1270-0-199707-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.1270-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1997'
+- type: published
+  value: 1997-07
+revdate: 1997-07
+language: en
+script: Latn
+doctype: recommendation

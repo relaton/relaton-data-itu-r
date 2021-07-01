@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.2158-3
+title:
+  type: main
+  content: Impact of power line telecommunication systems on radiocommunication systems
+    operating below 80 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2158/R-REP-SM.2158-3-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2158-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2013'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

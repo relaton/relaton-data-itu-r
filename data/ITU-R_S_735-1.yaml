@@ -1,0 +1,26 @@
+---
+id: ITU-RS.735-1
+title:
+  type: main
+  content: Maximum permissible levels of interference in a geostationary-satellite
+    network for an HRDP when forming part of the ISDN in the fixed-satellite service
+    caused by other networks of this service below 15 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.735/R-REC-S.735-1-199304-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.735-1
+  type: ITU
+date:
+- type: confirmed
+  value: '1993'
+- type: published
+  value: 1993-04
+revdate: 1993-04
+language: en
+script: Latn
+doctype: recommendation

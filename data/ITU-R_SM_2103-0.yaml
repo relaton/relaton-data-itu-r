@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.2103-0
+title:
+  type: main
+  content: Global harmonization of SRD categories
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2103/R-REC-SM.2103-0-201709-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2103-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: 2017-09
+revdate: 2017-09
+language: en
+script: Latn
+doctype: recommendation

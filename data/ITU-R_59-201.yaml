@@ -1,0 +1,38 @@
+---
+id: ITU-R59-201
+title:
+  type: main
+  content: Ground Wave Propagation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-59/R-HDB-59-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R 59-201
+  type: ITU
+date:
+- type: updated
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+abstract:
+  content: The Handbook on ground wave propagation is of special interest for communication,
+    particularly broadcasting, at the lower frequencies where the mode has been in
+    use for more than 90 years. It deals with fundamentals and theory, wide-scale
+    considerations and prediction methods used for compatibility assessments and planning
+    procedures. Smaller scale variability, which may be of major importance in assessing
+    the quality of services, is also treated. The topics of measurements and phase
+    are also covered.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

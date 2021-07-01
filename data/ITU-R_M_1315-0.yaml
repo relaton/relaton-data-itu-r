@@ -1,0 +1,26 @@
+---
+id: ITU-RM.1315-0
+title:
+  type: main
+  content: Methodology for evaluating interference from narrow-band mobile-satellite
+    networks to spread-spectrum direct-sequence mobile-satellite networks operating
+    with space stations in low-Earth orbit at frequencies below 1 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1315/R-REC-M.1315-0-199710-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1315-0
+  type: ITU
+date:
+- type: confirmed
+  value: 1997-24-10
+- type: published
+  value: 1997-10
+revdate: 1997-10
+language: en
+script: Latn
+doctype: recommendation

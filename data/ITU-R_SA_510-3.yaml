@@ -1,0 +1,26 @@
+---
+id: ITU-RSA.510-3
+title:
+  type: main
+  content: Feasibility of frequency sharing between the space research service and
+    other services in bands near 14 and 15 GHz - Potential interference from data
+    relay satellite systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.510/R-REC-SA.510-3-201707-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.510-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: 2017-07
+revdate: 2017-07
+language: en
+script: Latn
+doctype: recommendation

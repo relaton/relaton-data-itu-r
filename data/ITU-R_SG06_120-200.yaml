@@ -1,0 +1,24 @@
+---
+id: ITU-RSG06.120-200
+title:
+  type: main
+  content: Digital sound broadcasting in Region 2
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.120/R-QUE-SG06.120-2006
+  type: src
+type: standard
+docid:
+  id: ITU-R SG06.120-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: '2006'
+revdate: '2006'
+language: en
+script: Latn
+doctype: question

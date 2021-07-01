@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.2450-201
+title:
+  type: main
+  content: Sharing and compatibility studies between land-mobile, fixed and passive
+    services in the frequency range 275-450 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2450/R-REP-SM.2450-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2450-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

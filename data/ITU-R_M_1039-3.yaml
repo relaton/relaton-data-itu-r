@@ -1,0 +1,26 @@
+---
+id: ITU-RM.1039-3
+title:
+  type: main
+  content: Co-frequency sharing between stations in the mobile service below 1 GHz
+    and mobile earth stations of non-geostationary mobile-satellite systems (Earth-space)
+    using frequency division multiple access (FDMA)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1039/R-REC-M.1039-3-200603-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1039-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-03
+revdate: 2006-03
+language: en
+script: Latn
+doctype: recommendation

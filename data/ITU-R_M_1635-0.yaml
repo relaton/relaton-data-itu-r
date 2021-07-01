@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1635-0
+title:
+  type: main
+  content: General methodology for assessing the potential for interference between
+    IMT-2000 or systems beyond IMT-2000 and other services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1635/R-REC-M.1635-0-200306-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1635-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-06
+revdate: 2003-06
+language: en
+script: Latn
+doctype: recommendation

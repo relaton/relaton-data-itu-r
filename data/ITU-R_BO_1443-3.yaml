@@ -1,0 +1,25 @@
+---
+id: ITU-RBO.1443-3
+title:
+  type: main
+  content: Reference BSS earth station antenna patterns for use in interference assessment
+    involving non-GSO satellites in frequency bands covered by RR Appendix 30
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1443/R-REC-BO.1443-3-201407-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BO.1443-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: 2014-07
+revdate: 2014-07
+language: en
+script: Latn
+doctype: recommendation

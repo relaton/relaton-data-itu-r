@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1709-1
+title:
+  type: main
+  content: Technical characteristics of air interfaces for global broadband satellite
+    systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1709/R-REC-S.1709-1-200701-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1709-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-01
+revdate: 2007-01
+language: en
+script: Latn
+doctype: recommendation

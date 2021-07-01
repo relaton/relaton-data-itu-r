@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1715-0
+title:
+  type: main
+  content: Guidelines developed in response to the studies requested in Resolution
+    140 (WRC-03)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1715/R-REC-S.1715-0-200504-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1715-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2005'
+- type: published
+  value: 2005-04
+revdate: 2005-04
+language: en
+script: Latn
+doctype: recommendation

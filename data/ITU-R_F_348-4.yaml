@@ -1,0 +1,25 @@
+---
+id: ITU-RF.348-4
+title:
+  type: main
+  content: Arrangement of channels in multi-channel single-sideband and independent-sideband
+    transmitters for long-range circuits operating at frequencies below about 30 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.348/R-REC-F.348-4-199006-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.348-4
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: 1990-06
+revdate: 1990-06
+language: en
+script: Latn
+doctype: recommendation

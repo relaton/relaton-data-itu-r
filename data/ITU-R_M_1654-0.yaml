@@ -1,0 +1,26 @@
+---
+id: ITU-RM.1654-0
+title:
+  type: main
+  content: A methodology to assess interference from broadcasting-satellite service
+    (sound) into terrestrial IMT-2000 systems intending to use the band 2 630-2 655
+    MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1654/R-REC-M.1654-0-200306-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1654-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-06
+revdate: 2003-06
+language: en
+script: Latn
+doctype: recommendation

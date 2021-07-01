@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.1065-198
+title:
+  type: main
+  content: The RF spectrum of frequency-modulation sound-broadcasting transmitters
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.1065/R-REP-BS.1065-1986
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1065-198
+  type: ITU
+date:
+- type: confirmed
+  value: '1986'
+- type: published
+  value: '1986'
+revdate: '1986'
+language: en
+script: Latn
+doctype: technical-report

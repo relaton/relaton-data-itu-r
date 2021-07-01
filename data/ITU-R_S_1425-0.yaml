@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1425-0
+title:
+  type: main
+  content: Transmission considerations for digital carriers using higher levels of
+    modulation on satellite circuits
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1425/R-REC-S.1425-0-200001-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1425-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: 2000-01
+revdate: 2000-01
+language: en
+script: Latn
+doctype: recommendation

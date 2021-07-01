@@ -1,0 +1,25 @@
+---
+id: ITU-RF.1821-0
+title:
+  type: main
+  content: Characteristics of advanced digital high frequency (HF) radiocommunication
+    systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1821/R-REC-F.1821-0-200709-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1821-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-09
+revdate: 2007-09
+language: en
+script: Latn
+doctype: recommendation

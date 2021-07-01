@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.2093-0
+title:
+  type: main
+  content: Methods for measurements of indoor radio environment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2093/R-REC-SM.2093-0-201608-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.2093-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2016'
+- type: published
+  value: 2016-08
+revdate: 2016-08
+language: en
+script: Latn
+doctype: recommendation

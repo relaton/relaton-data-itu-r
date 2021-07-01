@@ -11,10 +11,10 @@ require 'relaton_itu'
 def fetch_docid(doc)
   # id = doc.at('//h3[.="Number"]/parent::td/following-sibling::td[2]').text # .match(/^[^\s\(]+/).to_s
   # %r{^(?<id1>[^\s\(\/]+(\/\d+)?)(\/(?<id2>\w+[^\s\(]+))?} =~ id
-  id = doc.at('//div[@id="idDocSetPropertiesWebPart"]/h2').text.match(/^R-\w+-[^-]+(-\d{1,3})?/).to_s
-  docid = [RelatonBib::DocumentIdentifier.new(type: 'ITU', id: id)]
+  id = doc.at('//div[@id="idDocSetPropertiesWebPart"]/h2').text.match(/^R-\w+-([^-]+(?:-\d{1,3})?)/)[1]
+  [RelatonBib::DocumentIdentifier.new(type: 'ITU', id: "ITU-R #{id}")]
   # docid << RelatonBib::DocumentIdentifier.new(type: 'ITU', id: id2) if id2
-  docid
+  # docid
 end
 
 # @param doc [Mechanize::Page]
@@ -92,8 +92,9 @@ end
 
 # @param bib [RelatonItu::ItuBibliographicItem]
 def write_file(bib)
-  id = bib.docidentifier[0].id.sub(/^R-/, '')
+  id = bib.docidentifier[0].id.gsub(/[\s.]/, '_')
   file = "data/#{id}.yaml"
+  warn "File #{file} exists." if File.exist? file
   File.write file, bib.to_hash.to_yaml, encoding: 'UTF-8'
 end
 
@@ -130,12 +131,10 @@ workers = RelatonBib::WorkersPool.new 10
 # File.delete log_file if File.exist? log_file
 # log = File.new log_file, 'a'
 workers.worker do |row|
-  begin
-    parse_page(*row)
-  rescue => e # rubocop:disable Style/RescueStandardError
-    warn e.message
-    warn e.backtrace
-  end
+  parse_page(*row)
+rescue => e # rubocop:disable Style/RescueStandardError
+  warn e.message
+  warn e.backtrace
 end
 t1 = Time.now
 puts "Started at: #{t1}"

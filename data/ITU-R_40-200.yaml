@@ -1,0 +1,36 @@
+---
+id: ITU-R40-200
+title:
+  type: main
+  content: Frequency adaptive communication systems and networks in the MF/HF bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-40/R-HDB-40-2002
+  type: src
+type: standard
+docid:
+  id: ITU-R 40-200
+  type: ITU
+date:
+- type: updated
+  value: '2002'
+- type: published
+  value: '2002'
+revdate: '2002'
+language: en
+script: Latn
+abstract:
+  content: This Handbook is published to assist planners and decision-makers in the
+    deployment of adaptive MF/HF systems in the fixed service, for both commercial
+    and government users in developed and particularly developing countries. It provides
+    material on current present technological capabilities in the field of adaptive
+    MF/HF communications.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

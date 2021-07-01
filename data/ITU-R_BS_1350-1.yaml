@@ -1,0 +1,26 @@
+---
+id: ITU-RBS.1350-1
+title:
+  type: main
+  content: Systems requirements for multiplexing (FM) sound broadcasting with a sub-carrier
+    data channel having a relatively large transmission capacity for stationary and
+    mobile reception
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1350/R-REC-BS.1350-1-199812-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.1350-1
+  type: ITU
+date:
+- type: confirmed
+  value: 1998-14-12
+- type: published
+  value: 1998-12
+revdate: 1998-12
+language: en
+script: Latn
+doctype: recommendation

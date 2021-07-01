@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2206-201
+title:
+  type: main
+  content: Sharing between the aeronautical mobile service and the fixed service in
+    the band 37-38 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2206/R-REP-M.2206-2010
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2206-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2010'
+- type: published
+  value: '2010'
+revdate: '2010'
+language: en
+script: Latn
+doctype: technical-report

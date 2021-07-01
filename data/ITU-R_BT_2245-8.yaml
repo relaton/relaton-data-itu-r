@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.2245-8
+title:
+  type: main
+  content: HDTV and UHDTV including HDR-TV test materials for assessment of picture
+    quality
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2245/R-REP-BT.2245-8-2020
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2245-8
+  type: ITU
+date:
+- type: confirmed
+  value: '2020'
+- type: published
+  value: '2020'
+revdate: '2020'
+language: en
+script: Latn
+doctype: technical-report

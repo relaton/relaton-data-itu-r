@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2070-1
+title:
+  type: main
+  content: Generic unwanted emission characteristics of base stations using the terrestrial
+    radio interfaces of IMT-Advanced
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2070/R-REC-M.2070-1-201702-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2070-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: 2017-02
+revdate: 2017-02
+language: en
+script: Latn
+doctype: recommendation

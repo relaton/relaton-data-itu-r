@@ -1,0 +1,25 @@
+---
+id: ITU-RSA.1159-4
+title:
+  type: main
+  content: Performance criteria for data transmission systems in the Earth exploration-satellite
+    service and meteorological-satellite service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1159/R-REC-SA.1159-4-201707-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.1159-4
+  type: ITU
+date:
+- type: confirmed
+  value: '2017'
+- type: published
+  value: 2017-07
+revdate: 2017-07
+language: en
+script: Latn
+doctype: recommendation

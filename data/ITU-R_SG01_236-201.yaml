@@ -1,0 +1,25 @@
+---
+id: ITU-RSG01.236-201
+title:
+  type: main
+  content: Impact on radiocommunication systems from wireless and wired data transmission
+    technologies used for the support of power grid management systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.236/R-QUE-SG01.236-2011
+  type: src
+type: standard
+docid:
+  id: ITU-R SG01.236-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: '2011'
+revdate: '2011'
+language: en
+script: Latn
+doctype: question

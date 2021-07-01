@@ -1,0 +1,26 @@
+---
+id: ITU-RSA.1629-0
+title:
+  type: main
+  content: Sharing between command links in the space research and space operation
+    services with the fixed, mobile and mobile-satellite services in the frequency
+    band 257-262 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1629/R-REC-SA.1629-0-200305-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.1629-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-05
+revdate: 2003-05
+language: en
+script: Latn
+doctype: recommendation

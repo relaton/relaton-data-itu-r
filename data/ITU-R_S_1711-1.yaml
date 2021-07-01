@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1711-1
+title:
+  type: main
+  content: Performance enhancements of transmission control protocol over satellite
+    networks
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1711/R-REC-S.1711-1-201001-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1711-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2010'
+- type: published
+  value: 2010-01
+revdate: 2010-01
+language: en
+script: Latn
+doctype: recommendation

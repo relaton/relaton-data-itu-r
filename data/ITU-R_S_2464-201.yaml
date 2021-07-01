@@ -1,0 +1,26 @@
+---
+id: ITU-RS.2464-201
+title:
+  type: main
+  content: Operation of earth stations in motion communicating with geostationary
+    space stations in the fixed-satellite service allocations at 17.7-19.7 GHz and
+    27.5-29.5 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2464/R-REP-S.2464-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R S.2464-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+doctype: technical-report

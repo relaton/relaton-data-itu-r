@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.328-11
+title:
+  type: main
+  content: Spectra and bandwidth of emissions
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.328/R-REC-SM.328-11-200605-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.328-11
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-05
+revdate: 2006-05
+language: en
+script: Latn
+doctype: recommendation

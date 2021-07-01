@@ -1,0 +1,26 @@
+---
+id: ITU-RS.1592-0
+title:
+  type: main
+  content: Methodology to assess compliance of non-geostationary fixed-satellite service
+    satellite systems in circular orbits with the additional operational limits on
+    downlink equivalent power flux-density in Article 22 of the Radio Regulations
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1592/R-REC-S.1592-0-200209-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1592-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-09
+revdate: 2002-09
+language: en
+script: Latn
+doctype: recommendation

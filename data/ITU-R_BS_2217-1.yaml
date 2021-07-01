@@ -1,0 +1,24 @@
+---
+id: ITU-RBS.2217-1
+title:
+  type: main
+  content: Compliance material for Recommendation ITU-R BS.1770
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2217/R-REP-BS.2217-1-2012
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.2217-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: '2012'
+revdate: '2012'
+language: en
+script: Latn
+doctype: technical-report

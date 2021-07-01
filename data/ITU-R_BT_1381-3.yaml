@@ -1,0 +1,26 @@
+---
+id: ITU-RBT.1381-3
+title:
+  type: main
+  content: Serial digital interface-based transport interface for compressed television
+    signals and packetized data in networked television production based on Recommendation
+    ITU-R BT.656
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1381/R-REC-BT.1381-3-200712-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.1381-3
+  type: ITU
+date:
+- type: confirmed
+  value: 2007-14-12
+- type: published
+  value: 2007-12
+revdate: 2007-12
+language: en
+script: Latn
+doctype: recommendation

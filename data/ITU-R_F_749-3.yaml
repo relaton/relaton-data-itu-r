@@ -1,0 +1,25 @@
+---
+id: ITU-RF.749-3
+title:
+  type: main
+  content: Radio-frequency arrangements for systems of the fixed service operating
+    in sub-bands in the 36-40.5 GHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.749/R-REC-F.749-3-201203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.749-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2012'
+- type: published
+  value: 2012-03
+revdate: 2012-03
+language: en
+script: Latn
+doctype: recommendation

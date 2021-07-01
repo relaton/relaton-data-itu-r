@@ -1,0 +1,25 @@
+---
+id: ITU-RSM.1879-2
+title:
+  type: main
+  content: The impact of power line high data rate telecommunication systems on radiocommunication
+    systems below 470 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1879/R-REC-SM.1879-2-201308-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.1879-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2013'
+- type: published
+  value: 2013-08
+revdate: 2013-08
+language: en
+script: Latn
+doctype: recommendation

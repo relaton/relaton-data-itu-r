@@ -1,0 +1,25 @@
+---
+id: ITU-RSF.1707-0
+title:
+  type: main
+  content: Methods to facilitate the implementation of large numbers of earth stations
+    in the FSS in areas where terrestrial services are also deployed
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1707/R-REC-SF.1707-0-200504-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SF.1707-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2005'
+- type: published
+  value: 2005-04
+revdate: 2005-04
+language: en
+script: Latn
+doctype: recommendation

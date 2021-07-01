@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1590-0
+title:
+  type: main
+  content: Technical and operational characteristics of satellites operating in the
+    range 20-375 THz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1590/R-REC-S.1590-0-200209-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1590-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-09
+revdate: 2002-09
+language: en
+script: Latn
+doctype: recommendation

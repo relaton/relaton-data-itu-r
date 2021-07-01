@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1796-2
+title:
+  type: main
+  content: Characteristics of and protection criteria for terrestrial radars operating
+    in the radiodetermination service in the frequency band 8 500-10 680 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1796/R-REC-M.1796-2-201402-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1796-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: 2014-02
+revdate: 2014-02
+language: en
+script: Latn
+doctype: recommendation

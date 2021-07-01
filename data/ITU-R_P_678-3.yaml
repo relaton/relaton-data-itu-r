@@ -1,0 +1,25 @@
+---
+id: ITU-RP.678-3
+title:
+  type: main
+  content: Characterization of the variability of propagation phenomena and estimation
+    of the risk associated with propagation margin
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.678/R-REC-P.678-3-201507-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.678-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-07
+revdate: 2015-07
+language: en
+script: Latn
+doctype: recommendation

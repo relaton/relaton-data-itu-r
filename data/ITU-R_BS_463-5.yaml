@@ -1,0 +1,25 @@
+---
+id: ITU-RBS.463-5
+title:
+  type: main
+  content: Transmission of several sound programmes or other signals with a single
+    transmitter in frequency-modulation sound broadcasting
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.463/R-REP-BS.463-5-1990
+  type: src
+type: standard
+docid:
+  id: ITU-R BS.463-5
+  type: ITU
+date:
+- type: confirmed
+  value: '1990'
+- type: published
+  value: '1990'
+revdate: '1990'
+language: en
+script: Latn
+doctype: technical-report

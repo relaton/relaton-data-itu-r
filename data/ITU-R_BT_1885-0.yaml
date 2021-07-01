@@ -1,0 +1,26 @@
+---
+id: ITU-RBT.1885-0
+title:
+  type: main
+  content: Objective perceptual video quality measurement techniques for standard
+    definition digital broadcast television in the presence of a reduced bandwidth
+    reference
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1885/R-REC-BT.1885-0-201103-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.1885-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2011'
+- type: published
+  value: 2011-03
+revdate: 2011-03
+language: en
+script: Latn
+doctype: recommendation

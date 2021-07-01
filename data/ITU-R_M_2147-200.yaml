@@ -1,0 +1,26 @@
+---
+id: ITU-RM.2147-200
+title:
+  type: main
+  content: Assessment of potential interference between FM broadcasting stations operating
+    in the band around 87-108 MHz and aeronautical VDL Mode 4 systems in the band
+    112-117.975 MHz operating in the AM(R)S
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2147/R-REP-M.2147-2009
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2147-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2009'
+- type: published
+  value: '2009'
+revdate: '2009'
+language: en
+script: Latn
+doctype: technical-report

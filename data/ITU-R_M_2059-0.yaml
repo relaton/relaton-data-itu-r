@@ -1,0 +1,25 @@
+---
+id: ITU-RM.2059-0
+title:
+  type: main
+  content: Operational and technical characteristics and protection criteria of radio
+    altimeters utilizing the band 4 200-4 400 MHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2059/R-REC-M.2059-0-201402-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.2059-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: 2014-02
+revdate: 2014-02
+language: en
+script: Latn
+doctype: recommendation

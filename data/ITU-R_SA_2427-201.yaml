@@ -1,0 +1,26 @@
+---
+id: ITU-RSA.2427-201
+title:
+  type: main
+  content: Studies on the suitability of existing allocations to the space operation
+    service below 1 GHz and additional sharing studies on possible new and/or upgraded
+    allocations
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2427/R-REP-SA.2427-2018
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.2427-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2018'
+- type: published
+  value: '2018'
+revdate: '2018'
+language: en
+script: Latn
+doctype: technical-report

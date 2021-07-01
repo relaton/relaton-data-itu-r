@@ -1,0 +1,25 @@
+---
+id: ITU-RSG07.234-200
+title:
+  type: main
+  content: Frequency sharing between active sensor systems in the Earth exploration-satellite
+    service and systems operating in other services in the 1 215-1 300 MHz band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.234/R-QUE-SG07.234-2000
+  type: src
+type: standard
+docid:
+  id: ITU-R SG07.234-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: '2000'
+revdate: '2000'
+language: en
+script: Latn
+doctype: question

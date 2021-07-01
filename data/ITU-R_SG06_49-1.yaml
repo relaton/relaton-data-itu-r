@@ -1,0 +1,24 @@
+---
+id: ITU-RSG06.49-1
+title:
+  type: main
+  content: Conditional-access broadcasting systems
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.49/R-QUE-SG06.49-1-2007
+  type: src
+type: standard
+docid:
+  id: ITU-R SG06.49-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: '2007'
+revdate: '2007'
+language: en
+script: Latn
+doctype: question

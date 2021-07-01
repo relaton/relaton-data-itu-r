@@ -1,0 +1,25 @@
+---
+id: ITU-RP.1791-0
+title:
+  type: main
+  content: Propagation prediction methods for assessment of the impact of ultra-wideband
+    devices
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1791/R-REC-P.1791-0-200701-I
+  type: src
+type: standard
+docid:
+  id: ITU-R P.1791-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: 2007-01
+revdate: 2007-01
+language: en
+script: Latn
+doctype: recommendation

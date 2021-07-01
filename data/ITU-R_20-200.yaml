@@ -1,0 +1,36 @@
+---
+id: ITU-R20-200
+title:
+  type: main
+  content: DSB Handbook - Terrestrial and satellite digital sound broadcasting to
+    vehicular, portable and fixed receivers in the VHF/UHF bands
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-20/R-HDB-20-2002
+  type: src
+type: standard
+docid:
+  id: ITU-R 20-200
+  type: ITU
+date:
+- type: updated
+  value: '2002'
+- type: published
+  value: '2002'
+revdate: '2002'
+language: en
+script: Latn
+abstract:
+  content: This Handbook describes the system and service requirements for digital
+    sound broadcasting (DSB) to vehicular, portable and fixed receivers, the related
+    propagation factors, the techniques employed in the digital sound broadcasting
+    systems, and considers relevant planning parameters and sharing conditions.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

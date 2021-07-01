@@ -1,0 +1,24 @@
+---
+id: ITU-RSM.1754-0
+title:
+  type: main
+  content: Measurement techniques of ultra-wideband transmissions
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1754/R-REC-SM.1754-0-200605-I
+  type: src
+type: standard
+docid:
+  id: ITU-R SM.1754-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: 2006-05
+revdate: 2006-05
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,24 @@
+---
+id: ITU-RS.673-2
+title:
+  type: main
+  content: Terms and definitions relating to space radiocommunications
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.673/R-REC-S.673-2-200203-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.673-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2002'
+- type: published
+  value: 2002-03
+revdate: 2002-03
+language: en
+script: Latn
+doctype: recommendation

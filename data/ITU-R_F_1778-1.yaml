@@ -1,0 +1,25 @@
+---
+id: ITU-RF.1778-1
+title:
+  type: main
+  content: Channel access requirements for HF adaptive systems in the fixed and land
+    mobile services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1778/R-REC-F.1778-1-201502-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1778-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: 2015-02
+revdate: 2015-02
+language: en
+script: Latn
+doctype: recommendation

@@ -1,0 +1,37 @@
+---
+id: ITU-R37-200
+title:
+  type: main
+  content: 'IMT-2000: Special Edition'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-37/R-HDB-37-2000
+  type: src
+type: standard
+docid:
+  id: ITU-R 37-200
+  type: ITU
+date:
+- type: updated
+  value: '2000'
+- type: published
+  value: '2000'
+revdate: '2000'
+language: en
+script: Latn
+abstract:
+  content: This CD-ROM is of particular interest to experts involved in IMT-2000 radio
+    and network standards development and also to all those interested in a deeper
+    understanding of the global scene of personal mobile communications. It contains
+    a complete set of ITU texts on IMT-2000 and other related topics and includes
+    Recommendation ITU-R M.1457 which describes the detailed specifications of the
+    radio interfaces of IMT-2000.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

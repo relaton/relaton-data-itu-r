@@ -1,0 +1,26 @@
+---
+id: ITU-RF.1245-3
+title:
+  type: main
+  content: Mathematical model of average and related radiation patterns for point-to-point
+    fixed wireless system antennas for use in interference assessment in the frequency
+    range from 1 GHz to 86 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1245/R-REC-F.1245-3-201901-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1245-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: 2019-01
+revdate: 2019-01
+language: en
+script: Latn
+doctype: recommendation

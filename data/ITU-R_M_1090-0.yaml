@@ -1,0 +1,25 @@
+---
+id: ITU-RM.1090-0
+title:
+  type: main
+  content: Frequency plans for satellite transmission of single channel per carrier
+    (SCPC) carriers using non-linear transponders in the mobile-satellite service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1090/R-REC-M.1090-0-199409-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.1090-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: 1994-09
+revdate: 1994-09
+language: en
+script: Latn
+doctype: recommendation

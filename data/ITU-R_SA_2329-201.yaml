@@ -1,0 +1,25 @@
+---
+id: ITU-RSA.2329-201
+title:
+  type: main
+  content: Sharing assessment between meteorological-satellite systems and IMT stations
+    in the 1 695-1 710 MHz frequency band
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2329/R-REP-SA.2329-2014
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.2329-201
+  type: ITU
+date:
+- type: confirmed
+  value: '2014'
+- type: published
+  value: '2014'
+revdate: '2014'
+language: en
+script: Latn
+doctype: technical-report

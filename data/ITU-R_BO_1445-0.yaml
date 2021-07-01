@@ -1,0 +1,25 @@
+---
+id: ITU-RBO.1445-0
+title:
+  type: main
+  content: Improved patterns for fast roll-off satellite transmit antennas of the
+    Regions 1 and 3 BSS plans of RR Appendix S30
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1445/R-REC-BO.1445-0-200003-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BO.1445-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2000'
+- type: published
+  value: 2000-03
+revdate: 2000-03
+language: en
+script: Latn
+doctype: recommendation

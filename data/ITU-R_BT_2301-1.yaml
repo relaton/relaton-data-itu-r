@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.2301-1
+title:
+  type: main
+  content: National field reports on the introduction of IMT in the bands with co-primary
+    allocation to the broadcasting and the mobile services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2301/R-REP-BT.2301-1-2015
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2301-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+doctype: technical-report

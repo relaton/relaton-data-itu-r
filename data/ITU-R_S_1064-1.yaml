@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1064-1
+title:
+  type: main
+  content: Pointing accuracy as a design objective for earthward antennas on board
+    geostationary satellites in the fixed-satellite service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1064/R-REC-S.1064-1-199510-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1064-1
+  type: ITU
+date:
+- type: confirmed
+  value: 1995-20-10
+- type: published
+  value: 1995-10
+revdate: 1995-10
+language: en
+script: Latn
+doctype: recommendation

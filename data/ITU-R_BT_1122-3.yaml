@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.1122-3
+title:
+  type: main
+  content: User requirements for codecs for emission and secondary distribution systems
+    for SDTV, HDTV, UHDTV and HDR-TV
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1122/R-REC-BT.1122-3-201901-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.1122-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2019'
+- type: published
+  value: 2019-01
+revdate: 2019-01
+language: en
+script: Latn
+doctype: recommendation

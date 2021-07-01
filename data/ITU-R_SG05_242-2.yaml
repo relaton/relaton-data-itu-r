@@ -1,0 +1,25 @@
+---
+id: ITU-RSG05.242-2
+title:
+  type: main
+  content: Reference radiation patterns of omnidirectional and sectoral antennas for
+    the fixed and mobile services for use in sharing studies
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.242/R-QUE-SG05.242-2-2015
+  type: src
+type: standard
+docid:
+  id: ITU-R SG05.242-2
+  type: ITU
+date:
+- type: confirmed
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+doctype: question

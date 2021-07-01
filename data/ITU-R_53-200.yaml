@@ -1,0 +1,38 @@
+---
+id: ITU-R53-200
+title:
+  type: main
+  content: Supplement to  Handbook on Spectrum Monitoring
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-53/R-HDB-53-2008
+  type: src
+type: standard
+docid:
+  id: ITU-R 53-200
+  type: ITU
+date:
+- type: updated
+  value: '2008'
+- type: published
+  value: '2008'
+revdate: '2008'
+language: en
+script: Latn
+abstract:
+  content: 'The purpose of this Supplement to the ITU-R Handbook - Spectrum Monitoring
+    (Edition 2002) is to provide up-to-date information on several issues before the
+    publication of the next complete edition of the Handbook. It provides a complete
+    and self-contained revision of the following chapters of the Handbook:  - Chapter
+    3 (Monitoring equipment and automation of monitoring operations),  - Section 5.1
+    (Spacecraft emission monitoring) of Chapter 5, and  - Annex 1 (Monitoring system
+    planning and tenders).'
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook

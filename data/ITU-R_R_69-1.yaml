@@ -1,0 +1,28 @@
+---
+id: ITU-RR.69-1
+title:
+  type: main
+  content: Development and deployment of international public telecommunications via
+    satellite in developing countries
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.69/R-RES-R.69-1-2019
+  type: src
+type: standard
+docid:
+  id: ITU-R R.69-1
+  type: ITU
+date:
+- type: updated
+  value: '2019'
+- type: published
+  value: '2019'
+revdate: '2019'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: In force
+doctype: resolution

@@ -1,0 +1,25 @@
+---
+id: ITU-RS.1524-0
+title:
+  type: main
+  content: Coordination identification between geostationary-satellite orbit fixed-satellite
+    service networks
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1524/R-REC-S.1524-0-200106-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1524-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2001'
+- type: published
+  value: 2001-06
+revdate: 2001-06
+language: en
+script: Latn
+doctype: recommendation

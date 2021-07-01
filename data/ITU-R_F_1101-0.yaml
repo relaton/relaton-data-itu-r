@@ -1,0 +1,24 @@
+---
+id: ITU-RF.1101-0
+title:
+  type: main
+  content: Characteristics of digital fixed wireless systems below about 17 GHz
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1101/R-REC-F.1101-0-199409-I
+  type: src
+type: standard
+docid:
+  id: ITU-R F.1101-0
+  type: ITU
+date:
+- type: confirmed
+  value: '1994'
+- type: published
+  value: 1994-09
+revdate: 1994-09
+language: en
+script: Latn
+doctype: recommendation

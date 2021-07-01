@@ -1,0 +1,24 @@
+---
+id: ITU-RM.687-2
+title:
+  type: main
+  content: International Mobile Telecommunications-2000 (IMT-2000)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.687/R-REC-M.687-2-199702-I
+  type: src
+type: standard
+docid:
+  id: ITU-R M.687-2
+  type: ITU
+date:
+- type: confirmed
+  value: '1997'
+- type: published
+  value: 1997-02
+revdate: 1997-02
+language: en
+script: Latn
+doctype: recommendation

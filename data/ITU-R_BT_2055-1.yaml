@@ -1,0 +1,24 @@
+---
+id: ITU-RBT.2055-1
+title:
+  type: main
+  content: Content elements in multimedia broadcasting systems for mobile reception
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2055/R-REC-BT.2055-1-201807-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.2055-1
+  type: ITU
+date:
+- type: confirmed
+  value: '2018'
+- type: published
+  value: 2018-07
+revdate: 2018-07
+language: en
+script: Latn
+doctype: recommendation

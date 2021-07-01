@@ -1,0 +1,27 @@
+---
+id: ITU-RS.1325-3
+title:
+  type: main
+  content: Simulation methodologies for determining statistics of short-term interference
+    between co-frequency, codirectional non-geostationary-satellite orbit fixed-satellite
+    service systems in circular orbits and other non-geostationary fixed-satellite
+    service ...
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1325/R-REC-S.1325-3-200310-I
+  type: src
+type: standard
+docid:
+  id: ITU-R S.1325-3
+  type: ITU
+date:
+- type: confirmed
+  value: '2003'
+- type: published
+  value: 2003-10
+revdate: 2003-10
+language: en
+script: Latn
+doctype: recommendation

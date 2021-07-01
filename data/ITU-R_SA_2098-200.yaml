@@ -1,0 +1,26 @@
+---
+id: ITU-RSA.2098-200
+title:
+  type: main
+  content: Mathematical gain models of large-aperture space research service earth
+    station antennas for compatibility analysis involving a large number of distributed
+    interference sources
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2098/R-REP-SA.2098-2007
+  type: src
+type: standard
+docid:
+  id: ITU-R SA.2098-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2007'
+- type: published
+  value: '2007'
+revdate: '2007'
+language: en
+script: Latn
+doctype: technical-report

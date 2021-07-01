@@ -1,0 +1,25 @@
+---
+id: ITU-RBT.1683-0
+title:
+  type: main
+  content: Objective perceptual video quality measurement techniques for standard
+    definition digital broadcast television in the presence of a full reference
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1683/R-REC-BT.1683-0-200406-I
+  type: src
+type: standard
+docid:
+  id: ITU-R BT.1683-0
+  type: ITU
+date:
+- type: confirmed
+  value: '2004'
+- type: published
+  value: 2004-06
+revdate: 2004-06
+language: en
+script: Latn
+doctype: recommendation

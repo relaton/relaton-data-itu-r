@@ -1,0 +1,25 @@
+---
+id: ITU-RSG07.245-200
+title:
+  type: main
+  content: Interference to the standard frequency and time signal service in the low-frequency
+    band caused by noise from electrical sources
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.245/R-QUE-SG07.245-2006
+  type: src
+type: standard
+docid:
+  id: ITU-R SG07.245-200
+  type: ITU
+date:
+- type: confirmed
+  value: '2006'
+- type: published
+  value: '2006'
+revdate: '2006'
+language: en
+script: Latn
+doctype: question

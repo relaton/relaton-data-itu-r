@@ -1,0 +1,27 @@
+---
+id: ITU-RR.57-2
+title:
+  type: main
+  content: Principles  for  the  process  of  development  of  IMT Advanced
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.57/R-RES-R.57-2-2015
+  type: src
+type: standard
+docid:
+  id: ITU-R R.57-2
+  type: ITU
+date:
+- type: updated
+  value: '2015'
+- type: published
+  value: '2015'
+revdate: '2015'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: In force
+doctype: resolution

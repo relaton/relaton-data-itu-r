@@ -1,0 +1,36 @@
+---
+id: ITU-R30-199
+title:
+  type: main
+  content: 'Land Mobile (including Wireless Access) - Volume 2: Principles and Approaches
+    on Evolution to IMT-2000/FPLMTS'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-30/R-HDB-30-1997
+  type: src
+type: standard
+docid:
+  id: ITU-R 30-199
+  type: ITU
+date:
+- type: updated
+  value: '1997'
+- type: published
+  value: '1997'
+revdate: '1997'
+language: en
+script: Latn
+abstract:
+  content: This Volume of the Handbook provides an overview of principles and approaches
+    to be considered in the evolution of existing and emerging systems towards IMT-2000.
+    IMT-2000 are third generation mobile systems which are scheduled to start service
+    around the year 2000, subject to market considerations.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook
