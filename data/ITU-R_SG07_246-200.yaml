@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG07.246-200
 title:
-  type: main
+- type: main
   content: Future bandwidth requirements for the space research service (deep space)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.246/R-QUE-SG07.246-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.246/R-QUE-SG07.246-2009
   type: src
 type: standard
 docid:
-  id: ITU-R SG07.246-200
+- id: ITU-R SG07.246-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

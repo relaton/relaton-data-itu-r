@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.2447-201
 title:
-  type: main
+- type: main
   content: Artificial intelligence systems for programme production and exchange
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2447/R-REP-BT.2447-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2447/R-REP-BT.2447-2019
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2447-201
+- id: ITU-R BT.2447-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1230-0
 title:
-  type: main
+- type: main
   content: Performance objectives for space-to-Earth links operating in the mobile-satellite
     service with non-geostationary satellites in the 137-138 MHz band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1230/R-REC-M.1230-0-199702-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1230/R-REC-M.1230-0-199702-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1230-0
+- id: ITU-R M.1230-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: 1997-02
 revdate: 1997-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

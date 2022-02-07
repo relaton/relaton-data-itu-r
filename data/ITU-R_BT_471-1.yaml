@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.471-1
 title:
-  type: main
+- type: main
   content: Nomenclature and description of colour bar signals
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.471/R-REC-BT.471-1-198607-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.471/R-REC-BT.471-1-198607-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.471-1
+- id: ITU-R BT.471-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1986'
 - type: published
   value: 1986-07
 revdate: 1986-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

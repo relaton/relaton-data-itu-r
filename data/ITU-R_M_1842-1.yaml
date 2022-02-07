@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1842-1
 title:
-  type: main
+- type: main
   content: Characteristics of VHF radio systems and equipment for the exchange of
     data and electronic mail in the maritime mobile service RR Appendix 18 channels
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1842/R-REC-M.1842-1-200906-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1842/R-REC-M.1842-1-200906-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1842-1
+- id: ITU-R M.1842-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: 2009-06
 revdate: 2009-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.799-4
 title:
-  type: main
+- type: main
   content: Interface for digital component video signals in 525-line and 625 line
     television systems operating at the 4:4:4 level of Recommendation ITU-R BT.601
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.799/R-REC-BT.799-4-200712-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.799/R-REC-BT.799-4-200712-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.799-4
+- id: ITU-R BT.799-4
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2007-14-12
 - type: published
   value: 2007-12
 revdate: 2007-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

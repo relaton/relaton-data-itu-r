@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.2003-199
 title:
-  type: main
+- type: main
   content: The harmonization of HDTV standards between broadcast and non-broadcast
     applications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2003/R-REP-BT.2003-1994
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2003/R-REP-BT.2003-1994
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2003-199
+- id: ITU-R BT.2003-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1994'
 - type: published
   value: '1994'
 revdate: '1994'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1568-1
 title:
-  type: main
+- type: main
   content: Radio-frequency block arrangements for fixed wireless access systems in
     the range 10.15-10.3/10.5-10.65 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1568/R-REC-F.1568-1-200501-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1568/R-REC-F.1568-1-200501-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1568-1
+- id: ITU-R F.1568-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2005'
 - type: published
   value: 2005-01
 revdate: 2005-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

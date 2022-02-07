@@ -1,26 +1,31 @@
 ---
 id: ITU-RBO.1835-0
 title:
-  type: main
+- type: main
   content: Sharing between broadcasting-satellite service (BSS) networks using the
     Region 2 17.3-17.8 GHz BSS allocation and feeder links of BSS networks using the
     worldwide 17.3-17.8 GHz fixed-satellite service (FSS) (Earth-to-space) allocation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1835/R-REC-BO.1835-0-200712-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1835/R-REC-BO.1835-0-200712-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.1835-0
+- id: ITU-R BO.1835-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2007-14-12
 - type: published
   value: 2007-12
 revdate: 2007-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

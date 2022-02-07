@@ -6,13 +6,15 @@ require 'json'
 require 'mechanize'
 require 'relaton_itu'
 
+@files = []
+
 # @param doc [Mechanize::Page]
 # @return [Araay<RelatonBib::DocumentIdentifier>]
 def fetch_docid(doc)
   # id = doc.at('//h3[.="Number"]/parent::td/following-sibling::td[2]').text # .match(/^[^\s\(]+/).to_s
   # %r{^(?<id1>[^\s\(\/]+(\/\d+)?)(\/(?<id2>\w+[^\s\(]+))?} =~ id
   id = doc.at('//div[@id="idDocSetPropertiesWebPart"]/h2').text.match(/^R-\w+-([^-]+(?:-\d{1,3})?)/)[1]
-  [RelatonBib::DocumentIdentifier.new(type: 'ITU', id: "ITU-R #{id}")]
+  [RelatonBib::DocumentIdentifier.new(type: 'ITU', id: "ITU-R #{id}", primary: true)]
   # docid << RelatonBib::DocumentIdentifier.new(type: 'ITU', id: id2) if id2
   # docid
 end
@@ -94,7 +96,11 @@ end
 def write_file(bib)
   id = bib.docidentifier[0].id.gsub(/[\s.]/, '_')
   file = "data/#{id}.yaml"
-  warn "File #{file} exists." if File.exist? file
+  if @files.include? file
+    warn "File #{file} exists."
+  else
+    @files << file
+  end
   File.write file, bib.to_hash.to_yaml, encoding: 'UTF-8'
 end
 

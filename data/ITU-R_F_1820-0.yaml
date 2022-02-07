@@ -1,26 +1,31 @@
 ---
 id: ITU-RF.1820-0
 title:
-  type: main
+- type: main
   content: Power flux-density at international borders for high altitude platform
     stations providing fixed wireless access services to protect the fixed service
     in neighbouring countries in the 47.2-47.5 GHz and 47.9-48.2 GHz bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1820/R-REC-F.1820-0-200709-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1820/R-REC-F.1820-0-200709-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1820-0
+- id: ITU-R F.1820-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2007'
 - type: published
   value: 2007-09
 revdate: 2007-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

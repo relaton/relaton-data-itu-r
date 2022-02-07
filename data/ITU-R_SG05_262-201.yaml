@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG05.262-201
 title:
-  type: main
+- type: main
   content: Usage of the terrestrial component of IMT systems for specific applications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.262/R-QUE-SG05.262-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.262/R-QUE-SG05.262-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SG05.262-201
+- id: ITU-R SG05.262-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2023-200
 title:
-  type: main
+- type: main
   content: Spectrum requirements for International Mobile Telecommunications-2000
     (IMT-2000)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2023/R-REP-M.2023-2000
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2023/R-REP-M.2023-2000
   type: src
 type: standard
 docid:
-  id: ITU-R M.2023-200
+- id: ITU-R M.2023-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2000'
 - type: published
   value: '2000'
 revdate: '2000'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

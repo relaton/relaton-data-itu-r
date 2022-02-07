@@ -1,26 +1,31 @@
 ---
 id: ITU-RRS.1749-0
 title:
-  type: main
+- type: main
   content: Mitigation technique to facilitate the use of the 1 215-1 300 MHz band
     by the Earth exploration-satellite service (active) and the space research service
     (active)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1749/R-REC-RS.1749-0-200603-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1749/R-REC-RS.1749-0-200603-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.1749-0
+- id: ITU-R RS.1749-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-03
 revdate: 2006-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

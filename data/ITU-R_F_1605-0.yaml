@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1605-0
 title:
-  type: main
+- type: main
   content: Error performance and availability estimation for synchronous digital hierarchy
     terrestrial fixed wireless systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1605/R-REC-F.1605-0-200302-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1605/R-REC-F.1605-0-200302-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1605-0
+- id: ITU-R F.1605-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: 2003-02
 revdate: 2003-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

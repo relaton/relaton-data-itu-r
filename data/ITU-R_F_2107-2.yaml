@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.2107-2
 title:
-  type: main
+- type: main
   content: Characteristics and applications of fixed wireless systems operating in
     frequency ranges between 57 GHz and 134 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2107/R-REP-F.2107-2-2011
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2107/R-REP-F.2107-2-2011
   type: src
 type: standard
 docid:
-  id: ITU-R F.2107-2
+- id: ITU-R F.2107-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: '2011'
 revdate: '2011'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

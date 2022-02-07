@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.2086-1
 title:
-  type: main
+- type: main
   content: Technical and operational characteristics and applications of broadband
     wireless access in the fixed service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2086/R-REP-F.2086-1-2010
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2086/R-REP-F.2086-1-2010
   type: src
 type: standard
 docid:
-  id: ITU-R F.2086-1
+- id: ITU-R F.2086-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2010'
 - type: published
   value: '2010'
 revdate: '2010'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

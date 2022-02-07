@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1789-0
 title:
-  type: main
+- type: main
   content: A method to reconstruct received video using transmission error information
     for packet video transmission
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1789/R-REC-BT.1789-0-200704-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1789/R-REC-BT.1789-0-200704-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1789-0
+- id: ITU-R BT.1789-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2007'
 - type: published
   value: 2007-04
 revdate: 2007-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

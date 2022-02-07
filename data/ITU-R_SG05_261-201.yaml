@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG05.261-201
 title:
-  type: main
+- type: main
   content: Radiocommunication requirements for connected automated vehicles (CAV)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.261/R-QUE-SG05.261-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.261/R-QUE-SG05.261-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SG05.261-201
+- id: ITU-R SG05.261-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

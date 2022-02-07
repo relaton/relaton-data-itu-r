@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.2062-0
 title:
-  type: main
+- type: main
   content: Carrier identification system for digital-modulation transmissions of fixed-satellite
     service occasional use carrier earth station transmissions using geostationary-satellite
     networks in the 4/6 GHz and 11-12/13/14 GHz FSS bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2062/R-REC-S.2062-0-201409-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2062/R-REC-S.2062-0-201409-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.2062-0
+- id: ITU-R S.2062-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: 2014-09
 revdate: 2014-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,34 +1,41 @@
 ---
 id: ITU-R25-200
 title:
-  type: main
+- type: main
   content: 'Land Mobile (including Wireless Access) - Volume 1: Fixed Wireless Access'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-25/R-HDB-25-2001
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-25/R-HDB-25-2001
   type: src
 type: standard
 docid:
-  id: ITU-R 25-200
+- id: ITU-R 25-200
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2001'
 - type: published
   value: '2001'
 revdate: '2001'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of this Handbook is to assist in the decision making process
+- content: The purpose of this Handbook is to assist in the decision making process
     involving planning, engineering and deployment of wireless access based land mobile
     systems, especially in the developing countries. It should also provide adequate
     information that will assist in training engineers and planners in regulating,
     planning, engineering, and deployment aspects of these systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

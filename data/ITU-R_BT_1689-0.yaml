@@ -1,26 +1,31 @@
 ---
 id: ITU-RBT.1689-0
 title:
-  type: main
+- type: main
   content: Guidelines on the presentation in large-screen digital imagery environments
     of programmes that are provided in image formats conforming to Recommendation
     ITU-R BT.601
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1689/R-REC-BT.1689-0-200409-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1689/R-REC-BT.1689-0-200409-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1689-0
+- id: ITU-R BT.1689-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2004'
 - type: published
   value: 2004-09
 revdate: 2004-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

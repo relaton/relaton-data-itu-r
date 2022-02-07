@@ -1,27 +1,32 @@
 ---
 id: ITU-RM.2030-0
 title:
-  type: main
+- type: main
   content: Evaluation method for pulsed interference from relevant radio sources other
     than in the radionavigation-satellite service to the radionavigation-satellite
     service systems and networks operating in the 1 164-1 215 MHz, 1 215-1 300 MHz
     and 1 559-1 610 MH...
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2030/R-REC-M.2030-0-201212-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2030/R-REC-M.2030-0-201212-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.2030-0
+- id: ITU-R M.2030-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2012-19-12
 - type: published
   value: 2012-12
 revdate: 2012-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

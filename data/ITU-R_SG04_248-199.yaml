@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.248-199
 title:
-  type: main
+- type: main
   content: Frequency sharing between systems in the fixed-satellite service and wireless
     digital networks around 5 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.248/R-QUE-SG04.248-1997
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.248/R-QUE-SG04.248-1997
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.248-199
+- id: ITU-R SG04.248-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: '1997'
 revdate: '1997'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

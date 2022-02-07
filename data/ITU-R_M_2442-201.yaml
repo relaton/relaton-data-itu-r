@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2442-201
 title:
-  type: main
+- type: main
   content: Current and future usage of railway radiocommunication systems between
     train and trackside
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2442/R-REP-M.2442-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2442/R-REP-M.2442-2019
   type: src
 type: standard
 docid:
-  id: ITU-R M.2442-201
+- id: ITU-R M.2442-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2018'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

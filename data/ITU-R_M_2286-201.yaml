@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.2286-201
 title:
-  type: main
+- type: main
   content: Operational characteristics of aeronautical mobile telemetry
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2286/R-REP-M.2286-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2286/R-REP-M.2286-2013
   type: src
 type: standard
 docid:
-  id: ITU-R M.2286-201
+- id: ITU-R M.2286-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

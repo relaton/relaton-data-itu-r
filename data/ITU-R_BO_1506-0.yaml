@@ -1,25 +1,30 @@
 ---
 id: ITU-RBO.1506-0
 title:
-  type: main
+- type: main
   content: A methodology to evaluate the impact of solar interference on GSO BSS link
     performance
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1506/R-REC-BO.1506-0-200007-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1506/R-REC-BO.1506-0-200007-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.1506-0
+- id: ITU-R BO.1506-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2000'
 - type: published
   value: 2000-07
 revdate: 2000-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

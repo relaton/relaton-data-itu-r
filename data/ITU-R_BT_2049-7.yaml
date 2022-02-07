@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.2049-7
 title:
-  type: main
+- type: main
   content: Broadcasting of multimedia and data applications for mobile reception
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2049/R-REP-BT.2049-7-2016
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2049/R-REP-BT.2049-7-2016
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2049-7
+- id: ITU-R BT.2049-7
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2016'
 - type: published
   value: '2016'
 revdate: '2016'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

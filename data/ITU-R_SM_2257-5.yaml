@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.2257-5
 title:
-  type: main
+- type: main
   content: Spectrum management and monitoring during major events
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2257/R-REP-SM.2257-5-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2257/R-REP-SM.2257-5-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2257-5
+- id: ITU-R SM.2257-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

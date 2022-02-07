@@ -1,25 +1,30 @@
 ---
 id: ITU-RS.1329-0
 title:
-  type: main
+- type: main
   content: Frequency sharing of the bands 19.7-20.2 GHz and 29.5-30.0 GHz between
     systems in the mobile-satellite service and systems in the fixed-satellite service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1329/R-REC-S.1329-0-199709-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1329/R-REC-S.1329-0-199709-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1329-0
+- id: ITU-R S.1329-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: 1997-09
 revdate: 1997-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

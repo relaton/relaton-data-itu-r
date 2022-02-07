@@ -1,24 +1,29 @@
 ---
 id: ITU-RV.665-3
 title:
-  type: main
+- type: main
   content: Traffic intensity unit
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.665/R-REC-V.665-3-201508-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.665/R-REC-V.665-3-201508-I
   type: src
 type: standard
 docid:
-  id: ITU-R V.665-3
+- id: ITU-R V.665-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-08
 revdate: 2015-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

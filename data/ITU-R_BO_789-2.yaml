@@ -1,26 +1,31 @@
 ---
 id: ITU-RBO.789-2
 title:
-  type: main
+- type: main
   content: Service for digital sound broadcasting to vehicular, portable and fixed
     receivers for broadcasting-satellite service (sound) in the frequency range 1
     400-2 700 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.789/R-REC-BO.789-2-199510-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.789/R-REC-BO.789-2-199510-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.789-2
+- id: ITU-R BO.789-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1995-20-10
 - type: published
   value: 1995-10
 revdate: 1995-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

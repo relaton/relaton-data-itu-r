@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.1849-2
 title:
-  type: main
+- type: main
   content: Technical and operational aspects of ground-based meteorological radars
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1849/R-REC-M.1849-2-201901-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1849/R-REC-M.1849-2-201901-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1849-2
+- id: ITU-R M.1849-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-01
 revdate: 2019-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

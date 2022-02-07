@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.2036-200
 title:
-  type: main
+- type: main
   content: The problem of unauthorized redistribution of broadcast content via the
     Internet
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2036/R-REP-BT.2036-2003
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2036/R-REP-BT.2036-2003
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2036-200
+- id: ITU-R BT.2036-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: '2003'
 revdate: '2003'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

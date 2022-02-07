@@ -1,26 +1,31 @@
 ---
 id: ITU-RF.1495-2
 title:
-  type: main
+- type: main
   content: Interference criteria to protect the fixed service from time varying aggregate
     interference from other radiocommunication services sharing the 17.7-19.3 GHz
     band on a co-primary basis
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1495/R-REC-F.1495-2-201203-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1495/R-REC-F.1495-2-201203-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1495-2
+- id: ITU-R F.1495-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: 2012-03
 revdate: 2012-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

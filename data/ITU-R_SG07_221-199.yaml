@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG07.221-199
 title:
-  type: main
+- type: main
   content: Preferred frequency bands and protection criteria for space research service
     observations (passive)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.221/R-QUE-SG07.221-1997
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.221/R-QUE-SG07.221-1997
   type: src
 type: standard
 docid:
-  id: ITU-R SG07.221-199
+- id: ITU-R SG07.221-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: '1997'
 revdate: '1997'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

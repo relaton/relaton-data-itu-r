@@ -1,24 +1,29 @@
 ---
 id: ITU-RF.1332-1
 title:
-  type: main
+- type: main
   content: Radio-frequency signal transport through optical fibres
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1332/R-REC-F.1332-1-199905-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1332/R-REC-F.1332-1-199905-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1332-1
+- id: ITU-R F.1332-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1999'
 - type: published
   value: 1999-05
 revdate: 1999-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

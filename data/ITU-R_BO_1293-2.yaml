@@ -1,25 +1,30 @@
 ---
 id: ITU-RBO.1293-2
 title:
-  type: main
+- type: main
   content: Protection masks and associated calculation methods for interference into
     broadcast-satellite systems involving digital emissions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1293/R-REC-BO.1293-2-200204-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1293/R-REC-BO.1293-2-200204-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.1293-2
+- id: ITU-R BO.1293-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-04
 revdate: 2002-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

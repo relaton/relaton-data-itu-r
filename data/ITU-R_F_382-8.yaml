@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.382-8
 title:
-  type: main
+- type: main
   content: Radio-frequency channel arrangements for fixed wireless systems operating
     in the 2 and 4 GHz bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.382/R-REC-F.382-8-200604-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.382/R-REC-F.382-8-200604-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.382-8
+- id: ITU-R F.382-8
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-04
 revdate: 2006-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

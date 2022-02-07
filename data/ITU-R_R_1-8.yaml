@@ -1,28 +1,33 @@
 ---
 id: ITU-RR.1-8
 title:
-  type: main
+- type: main
   content: Working methods for the Radiocommunication Assembly, the Radiocommunication
     Study Groups, the Radiocommunication Advisory Group and other groups of the Radiocommunication
     Sector
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.1/R-RES-R.1-8-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.1/R-RES-R.1-8-2019
   type: src
 type: standard
 docid:
-  id: ITU-R R.1-8
+- id: ITU-R R.1-8
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: In force

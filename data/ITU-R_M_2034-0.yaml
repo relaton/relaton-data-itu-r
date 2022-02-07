@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2034-0
 title:
-  type: main
+- type: main
   content: Telegraphic alphabet for data communication by phase shift keying at 31
     baud in the amateur and amateur-satellite services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2034/R-REC-M.2034-0-201302-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2034/R-REC-M.2034-0-201302-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.2034-0
+- id: ITU-R M.2034-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: 2013-02
 revdate: 2013-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

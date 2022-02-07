@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.478-5
 title:
-  type: main
+- type: main
   content: Technical characteristics of equipment and principles governing the allocation
     of frequency channels between 25 and 3 000 MHz for the FM land mobile service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.478/R-REC-M.478-5-199510-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.478/R-REC-M.478-5-199510-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.478-5
+- id: ITU-R M.478-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1995-20-10
 - type: published
   value: 1995-10
 revdate: 1995-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

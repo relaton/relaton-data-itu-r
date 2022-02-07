@@ -1,24 +1,29 @@
 ---
 id: ITU-RSA.1019-1
 title:
-  type: main
+- type: main
   content: Frequency bands and transmission directions for data relay satellite networks/systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1019/R-REC-SA.1019-1-201707-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1019/R-REC-SA.1019-1-201707-I
   type: src
 type: standard
 docid:
-  id: ITU-R SA.1019-1
+- id: ITU-R SA.1019-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: 2017-07
 revdate: 2017-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

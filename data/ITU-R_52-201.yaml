@@ -1,34 +1,41 @@
 ---
 id: ITU-R52-201
 title:
-  type: main
+- type: main
   content: Amateur and amateur-satellite services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-52/R-HDB-52-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-52/R-HDB-52-2014
   type: src
 type: standard
 docid:
-  id: ITU-R 52-201
+- id: ITU-R 52-201
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2014'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Handbook provides general information about amateur and amateur-satellite
+- content: This Handbook provides general information about amateur and amateur-satellite
     services. It also includes a compendium of existing ITU texts of relevance to
     amateur and amateur-satellite services. This Handbook is intended to present,
     in one document, information about amateur services for administrations and amateur
     radio organizations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

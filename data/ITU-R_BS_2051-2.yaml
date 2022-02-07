@@ -1,24 +1,29 @@
 ---
 id: ITU-RBS.2051-2
 title:
-  type: main
+- type: main
   content: Advanced sound system for programme production
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2051/R-REC-BS.2051-2-201807-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2051/R-REC-BS.2051-2-201807-I
   type: src
 type: standard
 docid:
-  id: ITU-R BS.2051-2
+- id: ITU-R BS.2051-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2018'
 - type: published
   value: 2018-07
 revdate: 2018-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

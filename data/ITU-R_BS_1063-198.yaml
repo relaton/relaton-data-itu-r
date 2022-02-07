@@ -1,24 +1,29 @@
 ---
 id: ITU-RBS.1063-198
 title:
-  type: main
+- type: main
   content: Prediction and control of re-radiation in MF broadcasting
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.1063/R-REP-BS.1063-1986
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.1063/R-REP-BS.1063-1986
   type: src
 type: standard
 docid:
-  id: ITU-R BS.1063-198
+- id: ITU-R BS.1063-198
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1986'
 - type: published
   value: '1986'
 revdate: '1986'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

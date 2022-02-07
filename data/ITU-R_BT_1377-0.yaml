@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.1377-0
 title:
-  type: main
+- type: main
   content: Labelling of video and audio apparatus throughput (processing) delay
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1377/R-REC-BT.1377-0-199811-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1377/R-REC-BT.1377-0-199811-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1377-0
+- id: ITU-R BT.1377-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1998-30-11
 - type: published
   value: 1998-11
 revdate: 1998-11
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

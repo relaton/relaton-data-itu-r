@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.283-200
 title:
-  type: main
+- type: main
   content: Sharing studies between high-definition television in the broadcasting-satellite
     service and other services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.283/R-QUE-SG04.283-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.283/R-QUE-SG04.283-2009
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.283-200
+- id: ITU-R SG04.283-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

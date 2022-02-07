@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.557-5
 title:
-  type: main
+- type: main
   content: Availability objective for radio-relay systems over a hypothetical reference
     digital path
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.557/R-REC-F.557-5-201402-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.557/R-REC-F.557-5-201402-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.557-5
+- id: ITU-R F.557-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: 2014-02
 revdate: 2014-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

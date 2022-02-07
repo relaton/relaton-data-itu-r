@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG04.236-199
 title:
-  type: main
+- type: main
   content: Interference criteria and calculation methods for the fixed-satellite service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.236/R-QUE-SG04.236-1995
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.236/R-QUE-SG04.236-1995
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.236-199
+- id: ITU-R SG04.236-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1995'
 - type: published
   value: '1995'
 revdate: '1995'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.290-201
 title:
-  type: main
+- type: main
   content: Broadcasting-satellite means for public warning, disaster mitigation and
     relief
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.290/R-QUE-SG04.290-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.290/R-QUE-SG04.290-2012
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.290-201
+- id: ITU-R SG04.290-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

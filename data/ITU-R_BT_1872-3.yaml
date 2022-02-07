@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1872-3
 title:
-  type: main
+- type: main
   content: User requirements for broadcast auxiliary services including digital television
     outside broadcast, electronic/satellite news gathering and electronic field production
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1872/R-REC-BT.1872-3-201910-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1872/R-REC-BT.1872-3-201910-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1872-3
+- id: ITU-R BT.1872-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2019-14-10
 - type: published
   value: 2019-10
 revdate: 2019-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

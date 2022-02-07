@@ -1,24 +1,29 @@
 ---
 id: ITU-RSA.1016-1
 title:
-  type: main
+- type: main
   content: Sharing considerations relating to space research service (deep space)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1016/R-REC-SA.1016-1-201908-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1016/R-REC-SA.1016-1-201908-I
   type: src
 type: standard
 docid:
-  id: ITU-R SA.1016-1
+- id: ITU-R SA.1016-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-08
 revdate: 2019-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

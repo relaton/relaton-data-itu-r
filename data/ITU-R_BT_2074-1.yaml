@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.2074-1
 title:
-  type: main
+- type: main
   content: Service configuration, media transport protocol, and signalling information
     for MMT-based broadcasting systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2074/R-REC-BT.2074-1-201712-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2074/R-REC-BT.2074-1-201712-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2074-1
+- id: ITU-R BT.2074-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2017-30-12
 - type: published
   value: 2017-12
 revdate: 2017-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

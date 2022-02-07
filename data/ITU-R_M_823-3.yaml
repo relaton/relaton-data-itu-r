@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.823-3
 title:
-  type: main
+- type: main
   content: Technical characteristics of differential transmissions for global navigation
     satellite systems from maritime radio beacons in the frequency band 283.5-315
     kHz in Region 1 and 285-325 kHz in Regions 2 and 3
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.823/R-REC-M.823-3-200603-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.823/R-REC-M.823-3-200603-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.823-3
+- id: ITU-R M.823-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-03
 revdate: 2006-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

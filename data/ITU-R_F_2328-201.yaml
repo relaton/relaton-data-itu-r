@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.2328-201
 title:
-  type: main
+- type: main
   content: Sharing and compatibility between international mobile telecommunication
     systems and fixed service systems in the 3 400-4 200 MHz frequency range
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2328/R-REP-F.2328-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2328/R-REP-F.2328-2014
   type: src
 type: standard
 docid:
-  id: ITU-R F.2328-201
+- id: ITU-R F.2328-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

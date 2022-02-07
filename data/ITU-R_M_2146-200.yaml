@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2146-200
 title:
-  type: main
+- type: main
   content: Coexistence between IMT-2000 CDMA-DS and IMT-2000 OFDMA TDD WMAN in the
     2 500-2 690 MHz band operating in adjacent bands in the same area
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2146/R-REP-M.2146-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2146/R-REP-M.2146-2009
   type: src
 type: standard
 docid:
-  id: ITU-R M.2146-200
+- id: ITU-R M.2146-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,29 +1,34 @@
 ---
 id: ITU-R47-200
 title:
-  type: main
+- type: main
   content: 'Land Mobile (including Wireless Access) - Volume 3: Dispatch and Advanced
     Messaging Systems'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-47/R-HDB-47-2005
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-47/R-HDB-47-2005
   type: src
 type: standard
 docid:
-  id: ITU-R 47-200
+- id: ITU-R 47-200
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2005'
 - type: published
   value: '2005'
 revdate: '2005'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of the Land Mobile Handbook is to assist in the decision-making
+- content: The purpose of the Land Mobile Handbook is to assist in the decision-making
     process involving planning, engineering and deployment of land mobile systems,
     especially in the developing countries. It should also provide adequate information
     to assist in training engineers and planners in regulating, planning, engineering
@@ -32,8 +37,10 @@ abstract:
     mobile paging and advanced messaging and dispatch as well as descriptions of typical
     systems. The technical content is intended for use by administrations and operators
     in both developing and developed countries.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

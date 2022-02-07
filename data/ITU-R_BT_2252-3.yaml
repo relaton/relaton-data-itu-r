@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.2252-3
 title:
-  type: main
+- type: main
   content: Objective quality coverage assessment of digital terrestrial television
     broadcasting signals
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2252/R-REP-BT.2252-3-2017
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2252/R-REP-BT.2252-3-2017
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2252-3
+- id: ITU-R BT.2252-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: '2017'
 revdate: '2017'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

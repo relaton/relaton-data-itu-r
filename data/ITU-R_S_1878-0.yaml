@@ -1,24 +1,29 @@
 ---
 id: ITU-RS.1878-0
 title:
-  type: main
+- type: main
   content: Multi-carrier based transmission techniques for satellite systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1878/R-REC-S.1878-0-201012-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1878/R-REC-S.1878-0-201012-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1878-0
+- id: ITU-R S.1878-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2010-17-12
 - type: published
   value: 2010-12
 revdate: 2010-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

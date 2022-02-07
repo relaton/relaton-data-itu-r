@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1721-0
 title:
-  type: main
+- type: main
   content: Objective measurement of perceptual image quality of large screen digital
     imagery applications for theatrical presentation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1721/R-REC-BT.1721-0-200507-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1721/R-REC-BT.1721-0-200507-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1721-0
+- id: ITU-R BT.1721-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2005'
 - type: published
   value: 2005-07
 revdate: 2005-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

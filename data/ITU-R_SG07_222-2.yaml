@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG07.222-2
 title:
-  type: main
+- type: main
   content: Radio links between earth stations and lunar and planetary missions by
     means of lunar and/or planetary data relay satellites
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.222/R-QUE-SG07.222-2-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.222/R-QUE-SG07.222-2-2012
   type: src
 type: standard
 docid:
-  id: ITU-R SG07.222-2
+- id: ITU-R SG07.222-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

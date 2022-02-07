@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.2388-3
 title:
-  type: main
+- type: main
   content: Usage Guidelines for the Audio Definition Model and Multichannel Audio
     Files
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2388/R-REP-BS.2388-3-2018
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2388/R-REP-BS.2388-3-2018
   type: src
 type: standard
 docid:
-  id: ITU-R BS.2388-3
+- id: ITU-R BS.2388-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2018'
 - type: published
   value: '2018'
 revdate: '2018'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

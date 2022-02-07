@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG07.146-2
 title:
-  type: main
+- type: main
   content: Criteria for evaluation of interference to radio astronomy
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.146/R-QUE-SG07.146-2-2000
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.146/R-QUE-SG07.146-2-2000
   type: src
 type: standard
 docid:
-  id: ITU-R SG07.146-2
+- id: ITU-R SG07.146-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2000'
 - type: published
   value: '2000'
 revdate: '2000'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

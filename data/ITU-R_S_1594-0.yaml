@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.1594-0
 title:
-  type: main
+- type: main
   content: Maximum emission levels and associated requirements of high density fixed-satellite
     service earth stations transmitting towards geostationary fixed-satellite service
     space stations in the 30 GHz range
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1594/R-REC-S.1594-0-200209-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1594/R-REC-S.1594-0-200209-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1594-0
+- id: ITU-R S.1594-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-09
 revdate: 2002-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

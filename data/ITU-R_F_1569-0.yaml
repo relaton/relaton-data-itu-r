@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1569-0
 title:
-  type: main
+- type: main
   content: Technical and operational characteristics for the fixed service using high
     altitude platform stations in the bands 27.5-28.35 GHz and 31-31.3 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1569/R-REC-F.1569-0-200205-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1569/R-REC-F.1569-0-200205-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1569-0
+- id: ITU-R F.1569-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-05
 revdate: 2002-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,24 +1,29 @@
 ---
 id: ITU-RV.2130-0
 title:
-  type: main
+- type: main
   content: Guidelines for the preparation of terms and definitions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.2130/R-REC-V.2130-0-201909-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.2130/R-REC-V.2130-0-201909-I
   type: src
 type: standard
 docid:
-  id: ITU-R V.2130-0
+- id: ITU-R V.2130-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-09
 revdate: 2019-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

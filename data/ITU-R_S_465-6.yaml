@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.465-6
 title:
-  type: main
+- type: main
   content: Reference radiation pattern of earth station antennas in the fixed-satellite
     service for use in coordination and interference assessment in the frequency range
     from 2 to 31 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.465/R-REC-S.465-6-201001-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.465/R-REC-S.465-6-201001-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.465-6
+- id: ITU-R S.465-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2010'
 - type: published
   value: 2010-01
 revdate: 2010-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

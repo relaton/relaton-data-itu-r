@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.1370-2
 title:
-  type: main
+- type: main
   content: Design guidelines for developing automated spectrum management systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1370/R-REC-SM.1370-2-201308-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1370/R-REC-SM.1370-2-201308-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.1370-2
+- id: ITU-R SM.1370-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: 2013-08
 revdate: 2013-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

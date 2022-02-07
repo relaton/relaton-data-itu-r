@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2353-201
 title:
-  type: main
+- type: main
   content: The challenges and opportunities for spectrum management resulting from
     the transition to digital terrestrial television in the UHF bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2353/R-REP-SM.2353-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2353/R-REP-SM.2353-2015
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2353-201
+- id: ITU-R SM.2353-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

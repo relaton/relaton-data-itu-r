@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.2244-201
 title:
-  type: main
+- type: main
   content: Isolation between antennas of IMT base stations in the land mobile service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2244/R-REP-M.2244-2011
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2244/R-REP-M.2244-2011
   type: src
 type: standard
 docid:
-  id: ITU-R M.2244-201
+- id: ITU-R M.2244-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: '2011'
 revdate: '2011'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

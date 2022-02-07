@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.1564-0
 title:
-  type: main
+- type: main
   content: Interaction channel using local multipoint distribution systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1564/R-REC-BT.1564-0-200204-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1564/R-REC-BT.1564-0-200204-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1564-0
+- id: ITU-R BT.1564-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-04
 revdate: 2002-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

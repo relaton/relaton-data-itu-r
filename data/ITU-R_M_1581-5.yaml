@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1581-5
 title:
-  type: main
+- type: main
   content: Generic unwanted emission characteristics of mobile stations using the
     terrestrial radio interfaces of IMT-2000
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1581/R-REC-M.1581-5-201402-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1581/R-REC-M.1581-5-201402-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1581-5
+- id: ITU-R M.1581-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: 2014-02
 revdate: 2014-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

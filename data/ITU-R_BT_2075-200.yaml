@@ -1,26 +1,31 @@
 ---
 id: ITU-RBT.2075-200
 title:
-  type: main
+- type: main
   content: Protection requirements for terrestrial television broadcasting services
     in the 620-790 MHz band against potential interference from GSO and non-GSO broadcasting-satellite
     systems and networks
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2075/R-REP-BT.2075-2006
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2075/R-REP-BT.2075-2006
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2075-200
+- id: ITU-R BT.2075-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: '2006'
 revdate: '2006'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

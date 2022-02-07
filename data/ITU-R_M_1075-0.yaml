@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.1075-0
 title:
-  type: main
+- type: main
   content: Leaky feeder systems in the land mobile services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1075/R-REC-M.1075-0-199409-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1075/R-REC-M.1075-0-199409-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1075-0
+- id: ITU-R M.1075-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1994'
 - type: published
   value: 1994-09
 revdate: 1994-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

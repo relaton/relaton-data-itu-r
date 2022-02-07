@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.387-13
 title:
-  type: main
+- type: main
   content: Radio-frequency channel arrangements for fixed wireless systems operating
     in the 10.7-11.7 GHz band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.387/R-REC-F.387-13-201911-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.387/R-REC-F.387-13-201911-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.387-13
+- id: ITU-R F.387-13
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2019-18-11
 - type: published
   value: 2019-11
 revdate: 2019-11
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

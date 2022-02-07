@@ -1,26 +1,31 @@
 ---
 id: ITU-RRS.2274-201
 title:
-  type: main
+- type: main
   content: Spectrum requirements for spaceborne synthetic aperture radar applications
     planned in an extended allocation to the Earth exploration-satellite service around
     9 600 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2274/R-REP-RS.2274-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2274/R-REP-RS.2274-2013
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2274-201
+- id: ITU-R RS.2274-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

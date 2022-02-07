@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG06.102-4
 title:
-  type: main
+- type: main
   content: Methodologies for subjective assessment of audio and video quality
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.102/R-QUE-SG06.102-4-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.102/R-QUE-SG06.102-4-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SG06.102-4
+- id: ITU-R SG06.102-4
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

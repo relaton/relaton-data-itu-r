@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2258-201
 title:
-  type: main
+- type: main
   content: Overview of interference source detection and geolocation affecting the
     406.0-406.1 MHz band used by emergency beacons
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2258/R-REP-SM.2258-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2258/R-REP-SM.2258-2012
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2258-201
+- id: ITU-R SM.2258-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

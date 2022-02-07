@@ -1,25 +1,30 @@
 ---
 id: ITU-RSA.1807-0
 title:
-  type: main
+- type: main
   content: System characteristics and interference criteria for meteorological satellite
     systems operating around 18 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1807/R-REC-SA.1807-0-200706-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1807/R-REC-SA.1807-0-200706-I
   type: src
 type: standard
 docid:
-  id: ITU-R SA.1807-0
+- id: ITU-R SA.1807-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2007'
 - type: published
   value: 2007-06
 revdate: 2007-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

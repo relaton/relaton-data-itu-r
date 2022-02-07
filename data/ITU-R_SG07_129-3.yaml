@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG07.129-3
 title:
-  type: main
+- type: main
   content: Unwanted emissions radiated from and received by stations of the science
     services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.129/R-QUE-SG07.129-3-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.129/R-QUE-SG07.129-3-2012
   type: src
 type: standard
 docid:
-  id: ITU-R SG07.129-3
+- id: ITU-R SG07.129-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

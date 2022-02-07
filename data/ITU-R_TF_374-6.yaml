@@ -1,24 +1,29 @@
 ---
 id: ITU-RTF.374-6
 title:
-  type: main
+- type: main
   content: Precise frequency and time-signal transmissions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.374/R-REC-TF.374-6-201412-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.374/R-REC-TF.374-6-201412-I
   type: src
 type: standard
 docid:
-  id: ITU-R TF.374-6
+- id: ITU-R TF.374-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2014-15-12
 - type: published
   value: 2014-12
 revdate: 2014-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RS.1069-0
 title:
-  type: main
+- type: main
   content: Compatibility between the fixed-satellite service and the space science
     services in the band 13.75-14 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1069/R-REC-S.1069-0-199409-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1069/R-REC-S.1069-0-199409-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1069-0
+- id: ITU-R S.1069-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1994'
 - type: published
   value: 1994-09
 revdate: 1994-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

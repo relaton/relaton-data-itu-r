@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG06.136-2
 title:
-  type: main
+- type: main
   content: Worldwide broadcasting roaming
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.136/R-QUE-SG06.136-2-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.136/R-QUE-SG06.136-2-2013
   type: src
 type: standard
 docid:
-  id: ITU-R SG06.136-2
+- id: ITU-R SG06.136-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

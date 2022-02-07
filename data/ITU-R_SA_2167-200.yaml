@@ -1,25 +1,30 @@
 ---
 id: ITU-RSA.2167-200
 title:
-  type: main
+- type: main
   content: Factors affecting the choice of frequency bands for space research service
     deep-space (space-to-Earth) telecommunication links
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2167/R-REP-SA.2167-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2167/R-REP-SA.2167-2009
   type: src
 type: standard
 docid:
-  id: ITU-R SA.2167-200
+- id: ITU-R SA.2167-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

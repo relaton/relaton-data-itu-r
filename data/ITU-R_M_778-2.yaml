@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.778-2
 title:
-  type: main
+- type: main
   content: Wireless communication systems for persons with impaired hearing
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.778/R-REP-M.778-2-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.778/R-REP-M.778-2-1990
   type: src
 type: standard
 docid:
-  id: ITU-R M.778-2
+- id: ITU-R M.778-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

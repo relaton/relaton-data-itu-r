@@ -1,25 +1,30 @@
 ---
 id: ITU-RS.1253-0
 title:
-  type: main
+- type: main
   content: Technical options to facilitate coordination of fixed-satellite service
     networks in certain orbital arc segments and frequency bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1253/R-REC-S.1253-0-199705-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1253/R-REC-S.1253-0-199705-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1253-0
+- id: ITU-R S.1253-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: 1997-05
 revdate: 1997-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

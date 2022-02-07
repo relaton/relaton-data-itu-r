@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.914-2
 title:
-  type: main
+- type: main
   content: Efficient use of the radio spectrum by radar stations in the radiodetermination
     service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.914/R-REP-M.914-2-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.914/R-REP-M.914-2-1990
   type: src
 type: standard
 docid:
-  id: ITU-R M.914-2
+- id: ITU-R M.914-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

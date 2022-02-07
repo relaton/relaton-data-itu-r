@@ -1,26 +1,31 @@
 ---
 id: ITU-RF.1571-0
 title:
-  type: main
+- type: main
   content: Mitigation techniques for use in reducing the potential for interference
     between airborne stations in the radionavigation service and stations in the fixed
     service in the band 31.8-33.4 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1571/R-REC-F.1571-0-200205-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1571/R-REC-F.1571-0-200205-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1571-0
+- id: ITU-R F.1571-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-05
 revdate: 2002-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

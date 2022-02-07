@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.1591-0
 title:
-  type: main
+- type: main
   content: Sharing of inter-satellite link bands around 23, 32.5 and 64.5 GHz between
     non-geostationary/geostationary inter-satellite links and geostationary/geostationary
     inter-satellite links
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1591/R-REC-S.1591-0-200209-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1591/R-REC-S.1591-0-200209-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1591-0
+- id: ITU-R S.1591-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-09
 revdate: 2002-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

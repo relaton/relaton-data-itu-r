@@ -1,25 +1,30 @@
 ---
 id: ITU-RP.1816-4
 title:
-  type: main
+- type: main
   content: The prediction of the time and the spatial profile for broadband land mobile
     services using UHF and SHF bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1816/R-REC-P.1816-4-201908-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1816/R-REC-P.1816-4-201908-I
   type: src
 type: standard
 docid:
-  id: ITU-R P.1816-4
+- id: ITU-R P.1816-4
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-08
 revdate: 2019-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

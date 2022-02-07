@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.337-6
 title:
-  type: main
+- type: main
   content: Frequency and distance separations
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.337/R-REC-SM.337-6-200810-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.337/R-REC-SM.337-6-200810-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.337-6
+- id: ITU-R SM.337-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2008-22-10
 - type: published
   value: 2008-10
 revdate: 2008-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2182-2
 title:
-  type: main
+- type: main
   content: Measurement facilities available for the measurement of emissions from
     both GSO and non-GSO space stations
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2182/R-REP-SM.2182-2-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2182/R-REP-SM.2182-2-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2182-2
+- id: ITU-R SM.2182-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

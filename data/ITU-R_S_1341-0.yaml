@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.1341-0
 title:
-  type: main
+- type: main
   content: Sharing between feeder links for the mobile-satellite service and the aeronautical
     radionavigation service in the space-to-Earth direction in the band 15.4-15.7 GHz
     and the protection of the radio astronomy service in the band 15.35-15.4 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1341/R-REC-S.1341-0-199710-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1341/R-REC-S.1341-0-199710-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1341-0
+- id: ITU-R S.1341-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1997-24-10
 - type: published
   value: 1997-10
 revdate: 1997-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

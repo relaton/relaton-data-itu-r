@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1457-15
 title:
-  type: main
+- type: main
   content: Detailed specifications of the terrestrial radio interfaces of International
     Mobile Telecommunications-2000 (IMT-2000)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1457/R-REC-M.1457-15-202010-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1457/R-REC-M.1457-15-202010-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1457-15
+- id: ITU-R M.1457-15
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2020-13-10
 - type: published
   value: 2020-10
 revdate: 2020-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

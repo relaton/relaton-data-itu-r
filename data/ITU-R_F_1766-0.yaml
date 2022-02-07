@@ -1,27 +1,32 @@
 ---
 id: ITU-RF.1766-0
 title:
-  type: main
+- type: main
   content: Methodology to determine the probability of a radio astronomy observatory
     receiving interference based on calculated exclusion zones to protect against
     interference from point-to-multipoint high-density applications in the fixed service
     operating in ba...
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1766/R-REC-F.1766-0-200604-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1766/R-REC-F.1766-0-200604-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1766-0
+- id: ITU-R F.1766-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-04
 revdate: 2006-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

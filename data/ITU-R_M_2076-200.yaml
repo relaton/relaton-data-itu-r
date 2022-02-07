@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.2076-200
 title:
-  type: main
+- type: main
   content: Factors that mitigate interference from radiolocation and Earth exploration-satellite
     service/space research service (active) radars to maritime and aeronautical radionavigation
     radars in the 9.0-9.2 and 9.3-9.5 GHz bands and between Earth exploration-...
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2076/R-REP-M.2076-2006
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2076/R-REP-M.2076-2006
   type: src
 type: standard
 docid:
-  id: ITU-R M.2076-200
+- id: ITU-R M.2076-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: '2006'
 revdate: '2006'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

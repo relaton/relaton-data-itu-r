@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.385-10
 title:
-  type: main
+- type: main
   content: Radio-frequency channel arrangements for fixed wireless systems operating
     in the 7 110-7 900 MHz band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.385/R-REC-F.385-10-201203-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.385/R-REC-F.385-10-201203-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.385-10
+- id: ITU-R F.385-10
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: 2012-03
 revdate: 2012-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

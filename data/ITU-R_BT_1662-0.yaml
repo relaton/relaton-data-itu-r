@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1662-0
 title:
-  type: main
+- type: main
   content: General reference chain and management of post-processing headroom for
     programme essence in large screen digital imagery  applications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1662/R-REC-BT.1662-0-200312-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1662/R-REC-BT.1662-0-200312-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1662-0
+- id: ITU-R BT.1662-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003-11-12'
 - type: published
   value: 2003-12
 revdate: 2003-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

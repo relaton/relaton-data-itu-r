@@ -1,25 +1,30 @@
 ---
 id: ITU-RSA.1020-0
 title:
-  type: main
+- type: main
   content: Hypothetical reference system for the Earth exploration-satellite and meteorological
     satellite services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1020/R-REC-SA.1020-0-199403-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1020/R-REC-SA.1020-0-199403-I
   type: src
 type: standard
 docid:
-  id: ITU-R SA.1020-0
+- id: ITU-R SA.1020-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1994'
 - type: published
   value: 1994-03
 revdate: 1994-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

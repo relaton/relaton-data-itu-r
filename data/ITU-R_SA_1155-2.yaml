@@ -1,24 +1,29 @@
 ---
 id: ITU-RSA.1155-2
 title:
-  type: main
+- type: main
   content: Protection criteria related to the operation of data relay satellite systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1155/R-REC-SA.1155-2-201707-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1155/R-REC-SA.1155-2-201707-I
   type: src
 type: standard
 docid:
-  id: ITU-R SA.1155-2
+- id: ITU-R SA.1155-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: 2017-07
 revdate: 2017-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

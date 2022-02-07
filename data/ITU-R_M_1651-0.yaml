@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1651-0
 title:
-  type: main
+- type: main
   content: A method for assessing the required spectrum for broadband nomadic wireless
     access systems including radio local area networks using the 5 GHz band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1651/R-REC-M.1651-0-200306-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1651/R-REC-M.1651-0-200306-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1651-0
+- id: ITU-R M.1651-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: 2003-06
 revdate: 2003-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

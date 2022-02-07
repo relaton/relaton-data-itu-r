@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2010-1
 title:
-  type: main
+- type: main
   content: Improved efficiency in the use of the band 156-174 MHz by stations in the
     maritime mobile service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2010/R-REP-M.2010-1-1997
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2010/R-REP-M.2010-1-1997
   type: src
 type: standard
 docid:
-  id: ITU-R M.2010-1
+- id: ITU-R M.2010-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: '1997'
 revdate: '1997'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

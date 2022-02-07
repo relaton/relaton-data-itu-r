@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.613-0
 title:
-  type: main
+- type: main
   content: The use of ionospheric channel sounding systems operating in the fixed
     service at frequencies below about 30 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.613/R-REC-F.613-0-198607-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.613/R-REC-F.613-0-198607-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.613-0
+- id: ITU-R F.613-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1986'
 - type: published
   value: 1986-07
 revdate: 1986-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

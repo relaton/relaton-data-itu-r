@@ -1,26 +1,31 @@
 ---
 id: ITU-RF.697-2
 title:
-  type: main
+- type: main
   content: Error performance and availability objectives for the local-grade portion
     at each end of an ISDN connection at a bit rate below the primary rate utilizing
     digital radio-relay systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.697/R-REC-F.697-2-199707-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.697/R-REC-F.697-2-199707-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.697-2
+- id: ITU-R F.697-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: 1997-07
 revdate: 1997-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

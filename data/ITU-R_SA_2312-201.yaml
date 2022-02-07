@@ -1,25 +1,30 @@
 ---
 id: ITU-RSA.2312-201
 title:
-  type: main
+- type: main
   content: Characteristics, definitions and spectrum requirements of nanosatellites
     and picosatellites, as well as systems composed of such satellites
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2312/R-REP-SA.2312-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2312/R-REP-SA.2312-2014
   type: src
 type: standard
 docid:
-  id: ITU-R SA.2312-201
+- id: ITU-R SA.2312-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

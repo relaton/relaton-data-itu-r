@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1520-3
 title:
-  type: main
+- type: main
   content: Radio-frequency arrangements for systems in the fixed service operating
     in the band 31.8-33.4 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1520/R-REC-F.1520-3-201104-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1520/R-REC-F.1520-3-201104-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1520-3
+- id: ITU-R F.1520-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: 2011-04
 revdate: 2011-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

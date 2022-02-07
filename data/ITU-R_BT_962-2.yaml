@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.962-2
 title:
-  type: main
+- type: main
   content: The filtering, sampling and multiplexing for digital encoding of colour
     television signals
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.962/R-REP-BT.962-2-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.962/R-REP-BT.962-2-1990
   type: src
 type: standard
 docid:
-  id: ITU-R BT.962-2
+- id: ITU-R BT.962-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

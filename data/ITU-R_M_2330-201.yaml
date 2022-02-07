@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.2330-201
 title:
-  type: main
+- type: main
   content: Cognitive radio systems (CRSs) in the land mobile service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2330/R-REP-M.2330-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2330/R-REP-M.2330-2014
   type: src
 type: standard
 docid:
-  id: ITU-R M.2330-201
+- id: ITU-R M.2330-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

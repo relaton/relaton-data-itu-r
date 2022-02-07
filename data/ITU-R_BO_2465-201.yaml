@@ -1,26 +1,31 @@
 ---
 id: ITU-RBO.2465-201
 title:
-  type: main
+- type: main
   content: Assessment on limitations mentioned in Annex 7 to RR Appendix 30 (Rev.WRC
     15) in the 11.7-12.7 GHz band for the GSO broadcasting-satellite service in all
     Regions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.2465/R-REP-BO.2465-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.2465/R-REP-BO.2465-2019
   type: src
 type: standard
 docid:
-  id: ITU-R BO.2465-201
+- id: ITU-R BO.2465-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

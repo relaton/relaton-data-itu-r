@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.2370-201
 title:
-  type: main
+- type: main
   content: IMT Traffic estimates for the years 2020 to 2030
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2370/R-REP-M.2370-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2370/R-REP-M.2370-2015
   type: src
 type: standard
 docid:
-  id: ITU-R M.2370-201
+- id: ITU-R M.2370-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

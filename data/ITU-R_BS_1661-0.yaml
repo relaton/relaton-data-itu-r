@@ -1,26 +1,31 @@
 ---
 id: ITU-RBS.1661-0
 title:
-  type: main
+- type: main
   content: "'Signal-on-the-air' specifications of the digital system described in
     Annex 1 to Recommendation ITU-R BS.1514 for digital sound broadcasting in the
     broadcasting bands below 30 MHz"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1661/R-REC-BS.1661-0-200312-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1661/R-REC-BS.1661-0-200312-I
   type: src
 type: standard
 docid:
-  id: ITU-R BS.1661-0
+- id: ITU-R BS.1661-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003-11-12'
 - type: published
   value: 2003-12
 revdate: 2003-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.2109-200
 title:
-  type: main
+- type: main
   content: Sharing studies between IMT Advanced systems and geostationary satellite
     networks in the fixed-satellite service in the 3 400-4 200 and 4 500-4 800 MHz
     frequency bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2109/R-REP-M.2109-2007
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2109/R-REP-M.2109-2007
   type: src
 type: standard
 docid:
-  id: ITU-R M.2109-200
+- id: ITU-R M.2109-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2007'
 - type: published
   value: '2007'
 revdate: '2007'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

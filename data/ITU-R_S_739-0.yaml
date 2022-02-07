@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.739-0
 title:
-  type: main
+- type: main
   content: Additional methods for determining if detailed coordination is necessary
     between geostationary-satellite networks in the fixed-satellite service sharing
     the same frequency bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.739/R-REC-S.739-0-199203-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.739/R-REC-S.739-0-199203-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.739-0
+- id: ITU-R S.739-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1992'
 - type: published
   value: 1992-03
 revdate: 1992-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,26 +1,31 @@
 ---
 id: ITU-RBO.600-1
 title:
-  type: main
+- type: main
   content: Standardized set of test conditions and measurement procedures for the
     subjective and objective determination of protection ratios for television in
     the terrestrial broadcasting and the broadcasting-satellite services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.600/R-REC-BO.600-1-198607-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.600/R-REC-BO.600-1-198607-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.600-1
+- id: ITU-R BO.600-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1986'
 - type: published
   value: 1986-07
 revdate: 1986-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

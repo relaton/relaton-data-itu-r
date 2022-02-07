@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.1229-0
 title:
-  type: main
+- type: main
   content: Performance objectives for the digital aeronautical mobile-satellite service
     (AMSS) channels operating in the bands 1 525 to 1 559 MHz and 1 626.5 to 1 660.5 MHz
     not forming part of the ISDN
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1229/R-REC-M.1229-0-199702-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1229/R-REC-M.1229-0-199702-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1229-0
+- id: ITU-R M.1229-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: 1997-02
 revdate: 1997-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RS.2280-201
 title:
-  type: main
+- type: main
   content: Assessment of the orbital-frequency resource used by a geostationary satellite
     communication network
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2280/R-REP-S.2280-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2280/R-REP-S.2280-2013
   type: src
 type: standard
 docid:
-  id: ITU-R S.2280-201
+- id: ITU-R S.2280-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

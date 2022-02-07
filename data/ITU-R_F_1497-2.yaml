@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1497-2
 title:
-  type: main
+- type: main
   content: Radio-frequency channel arrangements for fixed wireless systems operating
     in the band 55.78-66 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1497/R-REC-F.1497-2-201402-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1497/R-REC-F.1497-2-201402-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1497-2
+- id: ITU-R F.1497-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: 2014-02
 revdate: 2014-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RS.2131-0
 title:
-  type: main
+- type: main
   content: A method for the determination of performance objectives for satellite
     hypothetical reference digital paths using adaptive coding and modulation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2131/R-REC-S.2131-0-201909-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2131/R-REC-S.2131-0-201909-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.2131-0
+- id: ITU-R S.2131-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-09
 revdate: 2019-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

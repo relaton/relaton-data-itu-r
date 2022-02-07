@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.825-3
 title:
-  type: main
+- type: main
   content: Characteristics of a transponder system using digital selective calling
     techniques for use with vessel traffic services and ship-to-ship identification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.825/R-REC-M.825-3-199810-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.825/R-REC-M.825-3-199810-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.825-3
+- id: ITU-R M.825-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1998-31-10
 - type: published
   value: 1998-10
 revdate: 1998-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

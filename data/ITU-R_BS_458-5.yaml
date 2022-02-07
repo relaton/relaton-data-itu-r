@@ -1,24 +1,29 @@
 ---
 id: ITU-RBS.458-5
 title:
-  type: main
+- type: main
   content: Characteristics of systems in LF, MF and HF broadcasting
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.458/R-REP-BS.458-5-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.458/R-REP-BS.458-5-1990
   type: src
 type: standard
 docid:
-  id: ITU-R BS.458-5
+- id: ITU-R BS.458-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

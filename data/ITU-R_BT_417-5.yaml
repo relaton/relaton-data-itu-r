@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.417-5
 title:
-  type: main
+- type: main
   content: Minimum field strengths for which protection may be sought in planning
     an analogue terrestrial television service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.417/R-REC-BT.417-5-200210-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.417/R-REC-BT.417-5-200210-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.417-5
+- id: ITU-R BT.417-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2002-15-10
 - type: published
   value: 2002-10
 revdate: 2002-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

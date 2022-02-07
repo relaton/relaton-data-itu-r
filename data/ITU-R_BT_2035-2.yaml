@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.2035-2
 title:
-  type: main
+- type: main
   content: Guidelines and techniques for the evaluation of digital terrestrial television
     broadcasting systems including assessment of their coverage areas
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2035/R-REP-BT.2035-2-2008
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2035/R-REP-BT.2035-2-2008
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2035-2
+- id: ITU-R BT.2035-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2008'
 - type: published
   value: '2008'
 revdate: '2008'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

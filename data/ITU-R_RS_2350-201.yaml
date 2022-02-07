@@ -1,26 +1,31 @@
 ---
 id: ITU-RRS.2350-201
 title:
-  type: main
+- type: main
   content: Potential interference from the Earth exploration-satellite (active) spaceborne
     radars operating in the 1 215-1 300 MHz frequency band to the aeronautical radionavigation
     surveillance radar receivers in the 1 240-1 370 MHz frequency band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2350/R-REP-RS.2350-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2350/R-REP-RS.2350-2015
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2350-201
+- id: ITU-R RS.2350-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

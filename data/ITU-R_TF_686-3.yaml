@@ -1,24 +1,29 @@
 ---
 id: ITU-RTF.686-3
 title:
-  type: main
+- type: main
   content: Glossary and definitions of time and frequency terms
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.686/R-REC-TF.686-3-201312-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.686/R-REC-TF.686-3-201312-I
   type: src
 type: standard
 docid:
-  id: ITU-R TF.686-3
+- id: ITU-R TF.686-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013-11-12'
 - type: published
   value: 2013-12
 revdate: 2013-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

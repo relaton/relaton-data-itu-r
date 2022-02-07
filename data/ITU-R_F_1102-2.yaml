@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1102-2
 title:
-  type: main
+- type: main
   content: Characteristics of fixed wireless systems operating in frequency bands
     above about 17 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1102/R-REC-F.1102-2-200501-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1102/R-REC-F.1102-2-200501-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1102-2
+- id: ITU-R F.1102-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2005'
 - type: published
   value: 2005-01
 revdate: 2005-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

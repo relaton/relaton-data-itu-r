@@ -1,24 +1,29 @@
 ---
 id: ITU-RF.338-2
 title:
-  type: main
+- type: main
   content: Bandwidth required at the output of a telegraph or telephone receiver
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.338/R-REC-F.338-2-197007-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.338/R-REC-F.338-2-197007-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.338-2
+- id: ITU-R F.338-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1970'
 - type: published
   value: 1970-07
 revdate: 1970-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

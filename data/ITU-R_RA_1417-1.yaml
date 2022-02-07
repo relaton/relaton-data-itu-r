@@ -1,24 +1,29 @@
 ---
 id: ITU-RRA.1417-1
 title:
-  type: main
+- type: main
   content: A radio-quiet zone in the vicinity of the L2 Sun-Earth Lagrange point
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RA/R-REC-RA.1417/R-REC-RA.1417-1-201312-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RA/R-REC-RA.1417/R-REC-RA.1417-1-201312-I
   type: src
 type: standard
 docid:
-  id: ITU-R RA.1417-1
+- id: ITU-R RA.1417-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013-10-12'
 - type: published
   value: 2013-12
 revdate: 2013-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

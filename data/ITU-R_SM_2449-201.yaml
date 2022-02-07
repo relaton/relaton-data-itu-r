@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2449-201
 title:
-  type: main
+- type: main
   content: Technical characteristics and impact analyses of non-beam inductive wireless
     power transmission for mobile and portable deviceson radiocommunication services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2449/R-REP-SM.2449-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2449/R-REP-SM.2449-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2449-201
+- id: ITU-R SM.2449-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

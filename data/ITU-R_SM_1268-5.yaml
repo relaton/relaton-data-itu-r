@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.1268-5
 title:
-  type: main
+- type: main
   content: Method of measuring the maximum frequency deviation of  FM broadcast emissions
     at monitoring stations
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1268/R-REC-SM.1268-5-201908-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1268/R-REC-SM.1268-5-201908-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.1268-5
+- id: ITU-R SM.1268-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-08
 revdate: 2019-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

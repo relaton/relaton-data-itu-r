@@ -1,24 +1,29 @@
 ---
 id: ITU-RF.2263-201
 title:
-  type: main
+- type: main
   content: Reliability calculations for adaptive HF fixed service networks
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2263/R-REP-F.2263-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2263/R-REP-F.2263-2012
   type: src
 type: standard
 docid:
-  id: ITU-R F.2263-201
+- id: ITU-R F.2263-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

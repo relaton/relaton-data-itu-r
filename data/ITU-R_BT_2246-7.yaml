@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.2246-7
 title:
-  type: main
+- type: main
   content: The present state of ultra-high definition television
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2246/R-REP-BT.2246-7-2020
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2246/R-REP-BT.2246-7-2020
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2246-7
+- id: ITU-R BT.2246-7
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2020'
 - type: published
   value: '2020'
 revdate: '2020'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

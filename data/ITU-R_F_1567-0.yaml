@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1567-0
 title:
-  type: main
+- type: main
   content: Radio-frequency channel arrangement for digital fixed wireless systems
     operating in the frequency band 406.1-450 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1567/R-REC-F.1567-0-200205-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1567/R-REC-F.1567-0-200205-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1567-0
+- id: ITU-R F.1567-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-05
 revdate: 2002-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

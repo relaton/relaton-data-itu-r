@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2255-201
 title:
-  type: main
+- type: main
   content: Technical characteristics, standards and frequency bands of operation for
     radio-frequency identification (RFID) and potential harmonization opportunities
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2255/R-REP-SM.2255-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2255/R-REP-SM.2255-2012
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2255-201
+- id: ITU-R SM.2255-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

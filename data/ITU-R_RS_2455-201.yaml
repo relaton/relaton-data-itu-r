@@ -1,26 +1,31 @@
 ---
 id: ITU-RRS.2455-201
 title:
-  type: main
+- type: main
   content: Preliminary results of sharing studies between a 45 MHz radar sounder and
     incumbent fixed, mobile, broadcasting and space research services operating in
     the 40-50 MHz frequency range
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2455/R-REP-RS.2455-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2455/R-REP-RS.2455-2019
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2455-201
+- id: ITU-R RS.2455-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

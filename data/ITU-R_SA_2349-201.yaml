@@ -1,26 +1,31 @@
 ---
 id: ITU-RSA.2349-201
 title:
-  type: main
+- type: main
   content: Compatibility between GSO EESS (Earth-to-space), and the fixed service,
     the mobile service, the space research service, or the space operation service
     in the band 7 190-7 235
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2349/R-REP-SA.2349-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2349/R-REP-SA.2349-2015
   type: src
 type: standard
 docid:
-  id: ITU-R SA.2349-201
+- id: ITU-R SA.2349-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

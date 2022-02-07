@@ -1,25 +1,30 @@
 ---
 id: ITU-RRS.2260-201
 title:
-  type: main
+- type: main
   content: Sharing the 31.5-31.8 GHz band by the fixed and mobile services and the
     Earth exploration-satellite service (passive)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2260/R-REP-RS.2260-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2260/R-REP-RS.2260-2012
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2260-201
+- id: ITU-R RS.2260-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,29 +1,34 @@
 ---
 id: ITU-R45-201
 title:
-  type: main
+- type: main
   content: 'Use of Radio Spectrum for Meteorology: Weather, Water and Climate Monitoring
     and Prediction'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-45/R-HDB-45-2017
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-45/R-HDB-45-2017
   type: src
 type: standard
 docid:
-  id: ITU-R 45-201
+- id: ITU-R 45-201
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2017'
 - type: published
   value: '2017'
 revdate: '2017'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Timely warning of natural and environmental disasters and accurate climate
+- content: Timely warning of natural and environmental disasters and accurate climate
     prediction, in addition to understanding, conservation and efficient management
     of scarce resources such as biomass, biosphere, mineral resources, water and energy
     are essential requirements for sustainable economic development. Information about
@@ -38,8 +43,10 @@ abstract:
     edition.  Other language editions now available in pdf (free) or hard-copy upon
     request only (paying).  Any pre-order will be charged in full.  Thank you for
     your understanding.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.2227-2
 title:
-  type: main
+- type: main
   content: Use of multiple gigabit wireless systems in frequencies around 60 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2227/R-REP-M.2227-2-2017
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2227/R-REP-M.2227-2-2017
   type: src
 type: standard
 docid:
-  id: ITU-R M.2227-2
+- id: ITU-R M.2227-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: '2017'
 revdate: '2017'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

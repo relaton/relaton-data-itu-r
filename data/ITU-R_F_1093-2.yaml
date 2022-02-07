@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1093-2
 title:
-  type: main
+- type: main
   content: Effects of multipath propagation on the design and operation of line-of-sight
     digital fixed wireless systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1093/R-REC-F.1093-2-200604-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1093/R-REC-F.1093-2-200604-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1093-2
+- id: ITU-R F.1093-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-04
 revdate: 2006-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

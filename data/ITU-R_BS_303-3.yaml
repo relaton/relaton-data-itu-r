@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.303-3
 title:
-  type: main
+- type: main
   content: Determination of the effects of atmospheric noise on the grade of reception
     in the Tropical Zone
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.303/R-REP-BS.303-3-1986
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.303/R-REP-BS.303-3-1986
   type: src
 type: standard
 docid:
-  id: ITU-R BS.303-3
+- id: ITU-R BS.303-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1986'
 - type: published
   value: '1986'
 revdate: '1986'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

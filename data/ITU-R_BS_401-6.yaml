@@ -1,24 +1,29 @@
 ---
 id: ITU-RBS.401-6
 title:
-  type: main
+- type: main
   content: Transmitting antennas in LF and MF broadcasting
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.401/R-REP-BS.401-6-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.401/R-REP-BS.401-6-1990
   type: src
 type: standard
 docid:
-  id: ITU-R BS.401-6
+- id: ITU-R BS.401-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.1870-1
 title:
-  type: main
+- type: main
   content: Video coding for digital television broadcasting emission
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1870/R-REC-BT.1870-1-201502-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1870/R-REC-BT.1870-1-201502-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1870-1
+- id: ITU-R BT.1870-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-02
 revdate: 2015-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

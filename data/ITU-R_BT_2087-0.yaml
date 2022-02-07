@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.2087-0
 title:
-  type: main
+- type: main
   content: Colour conversion from Recommendation ITU-R BT.709 to Recommendation ITU-R
     BT.2020
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2087/R-REC-BT.2087-0-201510-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2087/R-REC-BT.2087-0-201510-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2087-0
+- id: ITU-R BT.2087-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2015-14-10
 - type: published
   value: 2015-10
 revdate: 2015-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

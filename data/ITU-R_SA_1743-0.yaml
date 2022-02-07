@@ -1,26 +1,31 @@
 ---
 id: ITU-RSA.1743-0
 title:
-  type: main
+- type: main
   content: Maximum allowable degradation to radiocommunication links of the space
     research and space operation services arising from interference from emissions
     and radiations from other radio sources
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1743/R-REC-SA.1743-0-200603-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1743/R-REC-SA.1743-0-200603-I
   type: src
 type: standard
 docid:
-  id: ITU-R SA.1743-0
+- id: ITU-R SA.1743-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-03
 revdate: 2006-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

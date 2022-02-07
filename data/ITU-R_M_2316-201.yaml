@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2316-201
 title:
-  type: main
+- type: main
   content: Assessment of interference to radars operating within the 2 700-2 900 MHz
     band from broadband wireless systems operating in adjacent frequency bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2316/R-REP-M.2316-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2316/R-REP-M.2316-2014
   type: src
 type: standard
 docid:
-  id: ITU-R M.2316-201
+- id: ITU-R M.2316-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

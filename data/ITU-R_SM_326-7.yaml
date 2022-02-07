@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.326-7
 title:
-  type: main
+- type: main
   content: Determination and measurement of the power of amplitude-modulated radio
     transmitters
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.326/R-REC-SM.326-7-199811-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.326/R-REC-SM.326-7-199811-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.326-7
+- id: ITU-R SM.326-7
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1998-14-11
 - type: published
   value: 1998-11
 revdate: 1998-11
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

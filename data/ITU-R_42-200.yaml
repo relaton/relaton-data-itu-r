@@ -1,31 +1,38 @@
 ---
 id: ITU-R42-200
 title:
-  type: main
+- type: main
   content: Satellite Communications (FSS)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-42/R-HDB-42-2002
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-42/R-HDB-42-2002
   type: src
 type: standard
 docid:
-  id: ITU-R 42-200
+- id: ITU-R 42-200
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2002'
 - type: published
   value: '2002'
 revdate: '2002'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Handbook gives a comprehensive description of all issues relative
+- content: This Handbook gives a comprehensive description of all issues relative
     to satellite communication systems operating in the fixed-satellite service (FSS).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

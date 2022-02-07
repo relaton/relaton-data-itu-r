@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1730-1
 title:
-  type: main
+- type: main
   content: Characteristics of and protection criteria for the radiolocation service
     in the frequency band 15.4-17.3 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1730/R-REC-M.1730-1-200910-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1730/R-REC-M.1730-1-200910-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1730-1
+- id: ITU-R M.1730-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: 2009-10
 revdate: 2009-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

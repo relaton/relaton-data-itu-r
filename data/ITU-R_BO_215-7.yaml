@@ -1,24 +1,29 @@
 ---
 id: ITU-RBO.215-7
 title:
-  type: main
+- type: main
   content: Systems for the broadcasting satellite service (sound and television)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.215/R-REP-BO.215-7-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.215/R-REP-BO.215-7-1990
   type: src
 type: standard
 docid:
-  id: ITU-R BO.215-7
+- id: ITU-R BO.215-7
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

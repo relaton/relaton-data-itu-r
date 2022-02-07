@@ -1,34 +1,41 @@
 ---
 id: ITU-R56-201
 title:
-  type: main
+- type: main
   content: Earth Exploration-Satellite Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-56/R-HDB-56-2011
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-56/R-HDB-56-2011
   type: src
 type: standard
 docid:
-  id: ITU-R 56-201
+- id: ITU-R 56-201
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2011'
 - type: published
   value: '2011'
 revdate: '2011'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Handbook provides full and comprehensive information on the development
+- content: This Handbook provides full and comprehensive information on the development
     of EESS systems. Specifically, it provides basic definitions, sheds light on the
     technical principles underlying the operation of systems and presents their main
     applications to assist administrations in the spectrum planning, engineering and
     deployment aspects of these systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

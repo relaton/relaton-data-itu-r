@@ -1,24 +1,29 @@
 ---
 id: ITU-RRA.2259-201
 title:
-  type: main
+- type: main
   content: Characteristics of radio quiet zones
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RA/R-REP-RA.2259/R-REP-RA.2259-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RA/R-REP-RA.2259/R-REP-RA.2259-2012
   type: src
 type: standard
 docid:
-  id: ITU-R RA.2259-201
+- id: ITU-R RA.2259-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

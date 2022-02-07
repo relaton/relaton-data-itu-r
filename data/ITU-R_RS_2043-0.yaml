@@ -1,25 +1,30 @@
 ---
 id: ITU-RRS.2043-0
 title:
-  type: main
+- type: main
   content: Characteristics of synthetic aperture radars operating in the Earth exploration-satellite
     service (active) around 9 600 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2043/R-REC-RS.2043-0-201402-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2043/R-REC-RS.2043-0-201402-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2043-0
+- id: ITU-R RS.2043-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: 2014-02
 revdate: 2014-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

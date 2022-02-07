@@ -1,27 +1,32 @@
 ---
 id: ITU-RR.12-1
 title:
-  type: main
+- type: main
   content: Handbooks and special publications for development of radiocommunication
     services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.12/R-RES-R.12-1-2000
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.12/R-RES-R.12-1-2000
   type: src
 type: standard
 docid:
-  id: ITU-R R.12-1
+- id: ITU-R R.12-1
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2000'
 - type: published
   value: '2000'
 revdate: '2000'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: In force

@@ -1,26 +1,31 @@
 ---
 id: ITU-RSF.766-0
 title:
-  type: main
+- type: main
   content: Methods for determining the effects of interference on the performance
     and the availability of terrestrial radio-relay systems and systems in the fixed-satellite
     service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.766/R-REC-SF.766-0-199203-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.766/R-REC-SF.766-0-199203-I
   type: src
 type: standard
 docid:
-  id: ITU-R SF.766-0
+- id: ITU-R SF.766-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1992'
 - type: published
   value: 1992-03
 revdate: 1992-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.288-200
 title:
-  type: main
+- type: main
   content: Characteristics and operational requirements of radionavigation-satellite
     service (space-to-Earth, space-to-space, Earth-to-space) systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.288/R-QUE-SG04.288-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.288/R-QUE-SG04.288-2009
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.288-200
+- id: ITU-R SG04.288-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

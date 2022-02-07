@@ -1,25 +1,30 @@
 ---
 id: ITU-RRS.1165-3
 title:
-  type: main
+- type: main
   content: Technical characteristics and performance criteria for systems in the meteorological
     aids service in the 403 MHz and 1 680 MHz bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1165/R-REC-RS.1165-3-201812-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1165/R-REC-RS.1165-3-201812-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.1165-3
+- id: ITU-R RS.1165-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2018-19-12
 - type: published
   value: 2018-12
 revdate: 2018-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

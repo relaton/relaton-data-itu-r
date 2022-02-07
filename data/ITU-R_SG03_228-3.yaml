@@ -1,27 +1,32 @@
 ---
 id: ITU-RSG03.228-3
 title:
-  type: main
+- type: main
   content: 'Propagation data required for the planning of radiocommunication systems
     operating above 275 GHz
 
     '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.228/R-QUE-SG03.228-3-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.228/R-QUE-SG03.228-3-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SG03.228-3
+- id: ITU-R SG03.228-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

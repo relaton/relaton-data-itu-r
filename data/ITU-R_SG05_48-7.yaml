@@ -1,27 +1,32 @@
 ---
 id: ITU-RSG05.48-7
 title:
-  type: main
+- type: main
   content: 'Techniques and frequency usage in the amateur service and amateur-satellite
     service
 
     '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.48/R-QUE-SG05.48-7-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.48/R-QUE-SG05.48-7-2015
   type: src
 type: standard
 docid:
-  id: ITU-R SG05.48-7
+- id: ITU-R SG05.48-7
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

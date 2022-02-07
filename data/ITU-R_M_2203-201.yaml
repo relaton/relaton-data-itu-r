@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2203-201
 title:
-  type: main
+- type: main
   content: Compatibility of amateur service stations with existing services in the
     range 415-526.5 kHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2203/R-REP-M.2203-2010
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2203/R-REP-M.2203-2010
   type: src
 type: standard
 docid:
-  id: ITU-R M.2203-201
+- id: ITU-R M.2203-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2010'
 - type: published
   value: '2010'
 revdate: '2010'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

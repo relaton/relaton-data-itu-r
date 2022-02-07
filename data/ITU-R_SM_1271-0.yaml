@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.1271-0
 title:
-  type: main
+- type: main
   content: Efficient spectrum utilization using probabilistic methods
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1271/R-REC-SM.1271-0-199710-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1271/R-REC-SM.1271-0-199710-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.1271-0
+- id: ITU-R SM.1271-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 1997-24-10
 - type: published
   value: 1997-10
 revdate: 1997-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

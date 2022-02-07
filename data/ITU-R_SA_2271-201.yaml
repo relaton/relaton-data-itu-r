@@ -1,25 +1,30 @@
 ---
 id: ITU-RSA.2271-201
 title:
-  type: main
+- type: main
   content: Sharing conditions between space research service proximity operations
     links and fixed and mobile service links in the 410-420  MHz band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2271/R-REP-SA.2271-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2271/R-REP-SA.2271-2013
   type: src
 type: standard
 docid:
-  id: ITU-R SA.2271-201
+- id: ITU-R SA.2271-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.1046-3
 title:
-  type: main
+- type: main
   content: Definition of spectrum use and efficiency of a radio system
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1046/R-REC-SM.1046-3-201709-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1046/R-REC-SM.1046-3-201709-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.1046-3
+- id: ITU-R SM.1046-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: 2017-09
 revdate: 2017-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

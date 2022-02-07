@@ -1,24 +1,29 @@
 ---
 id: ITU-RV.431-8
 title:
-  type: main
+- type: main
   content: Nomenclature of the frequency and wavelength bands used in telecommunications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.431/R-REC-V.431-8-201508-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-V/R-REC-V.431/R-REC-V.431-8-201508-I
   type: src
 type: standard
 docid:
-  id: ITU-R V.431-8
+- id: ITU-R V.431-8
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-08
 revdate: 2015-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

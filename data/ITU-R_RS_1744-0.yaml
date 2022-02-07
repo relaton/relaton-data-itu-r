@@ -1,25 +1,30 @@
 ---
 id: ITU-RRS.1744-0
 title:
-  type: main
+- type: main
   content: Technical and operational characteristics of ground-based meteorological
     aids systems operating in the frequency range 272-750 THz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1744/R-REC-RS.1744-0-200603-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1744/R-REC-RS.1744-0-200603-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.1744-0
+- id: ITU-R RS.1744-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-03
 revdate: 2006-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

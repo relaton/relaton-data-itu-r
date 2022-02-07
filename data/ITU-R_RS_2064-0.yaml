@@ -1,25 +1,30 @@
 ---
 id: ITU-RRS.2064-0
 title:
-  type: main
+- type: main
   content: Typical technical and operating characteristics and frequency bands used
     by space research service (passive) observation systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2064/R-REC-RS.2064-0-201412-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2064/R-REC-RS.2064-0-201412-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2064-0
+- id: ITU-R RS.2064-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2014-22-12
 - type: published
   value: 2014-12
 revdate: 2014-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

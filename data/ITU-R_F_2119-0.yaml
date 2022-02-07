@@ -1,26 +1,31 @@
 ---
 id: ITU-RF.2119-0
 title:
-  type: main
+- type: main
   content: Guidance on technical parameters and methodologies for sharing and compatibility
     studies related to fixed and land mobile services in the frequency range 1.5-30
     MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.2119/R-REC-F.2119-0-201901-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.2119/R-REC-F.2119-0-201901-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.2119-0
+- id: ITU-R F.2119-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-01
 revdate: 2019-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

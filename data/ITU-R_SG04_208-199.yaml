@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.208-199
 title:
-  type: main
+- type: main
   content: Use of statistical and stochastic methods in evaluation of interference
     between satellite networks in the fixed-satellite service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.208/R-QUE-SG04.208-1993
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.208/R-QUE-SG04.208-1993
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.208-199
+- id: ITU-R SG04.208-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1993'
 - type: published
   value: '1993'
 revdate: '1993'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

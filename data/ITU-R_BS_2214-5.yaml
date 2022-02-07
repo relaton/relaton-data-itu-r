@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.2214-5
 title:
-  type: main
+- type: main
   content: Planning parameters for terrestrial digital sound broadcasting systems
     in VHF bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2214/R-REP-BS.2214-5-2020
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2214/R-REP-BS.2214-5-2020
   type: src
 type: standard
 docid:
-  id: ITU-R BS.2214-5
+- id: ITU-R BS.2214-5
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2020'
 - type: published
   value: '2020'
 revdate: '2020'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

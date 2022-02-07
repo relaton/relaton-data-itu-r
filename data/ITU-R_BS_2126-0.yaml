@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.2126-0
 title:
-  type: main
+- type: main
   content: Methods for the subjective assessment of sound systems with accompanying
     picture
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2126/R-REC-BS.2126-0-201906-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2126/R-REC-BS.2126-0-201906-I
   type: src
 type: standard
 docid:
-  id: ITU-R BS.2126-0
+- id: ITU-R BS.2126-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-06
 revdate: 2019-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

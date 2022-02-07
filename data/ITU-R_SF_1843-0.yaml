@@ -1,26 +1,31 @@
 ---
 id: ITU-RSF.1843-0
 title:
-  type: main
+- type: main
   content: Methodology for determining the power level for high altitude platform
     stations ground terminals to facilitate sharing with space station receivers in
     the bands 47.2-47.5 GHz and 47.9-48.2 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1843/R-REC-SF.1843-0-200710-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1843/R-REC-SF.1843-0-200710-I
   type: src
 type: standard
 docid:
-  id: ITU-R SF.1843-0
+- id: ITU-R SF.1843-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2007-19-10
 - type: published
   value: 2007-10
 revdate: 2007-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

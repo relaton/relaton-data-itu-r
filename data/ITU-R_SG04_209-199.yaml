@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.209-199
 title:
-  type: main
+- type: main
   content: The use of frequency bands allocated to the fixed-satellite service for
     both the up and down links of geostationary-satellite systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.209/R-QUE-SG04.209-1993
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.209/R-QUE-SG04.209-1993
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.209-199
+- id: ITU-R SG04.209-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1993'
 - type: published
   value: '1993'
 revdate: '1993'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

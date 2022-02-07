@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.2384-1
 title:
-  type: main
+- type: main
   content: Implementation considerations for the introduction and transition to digital
     terrestrial sound and multimedia broadcasting
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2384/R-REP-BS.2384-1-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2384/R-REP-BS.2384-1-2019
   type: src
 type: standard
 docid:
-  id: ITU-R BS.2384-1
+- id: ITU-R BS.2384-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

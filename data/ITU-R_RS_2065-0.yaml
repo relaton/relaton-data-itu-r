@@ -1,27 +1,32 @@
 ---
 id: ITU-RRS.2065-0
 title:
-  type: main
+- type: main
   content: Protection of space research service (SRS) space-to-Earth links in the
     8 400-8 450 MHz and 8 450-8 500 MHz bands from unwanted emissions of synthetic
     aperture radars operating in the Earth exploration-satellite service (active)
     around 9 600 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2065/R-REC-RS.2065-0-201412-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2065/R-REC-RS.2065-0-201412-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2065-0
+- id: ITU-R RS.2065-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2014-22-12
 - type: published
   value: 2014-12
 revdate: 2014-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

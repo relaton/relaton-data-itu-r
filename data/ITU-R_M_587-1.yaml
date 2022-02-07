@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.587-1
 title:
-  type: main
+- type: main
   content: Coast station identities and initiation of location registration in an
     automated VHF/UHF maritime mobile telephone system
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.587/R-REC-M.587-1-198607-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.587/R-REC-M.587-1-198607-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.587-1
+- id: ITU-R M.587-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1986'
 - type: published
   value: 1986-07
 revdate: 1986-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.2265-1
 title:
-  type: main
+- type: main
   content: Guidelines for the assessment of interference into the broadcasting service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2265/R-REP-BT.2265-1-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2265/R-REP-BT.2265-1-2014
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2265-1
+- id: ITU-R BT.2265-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2014'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

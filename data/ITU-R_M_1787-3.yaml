@@ -1,27 +1,32 @@
 ---
 id: ITU-RM.1787-3
 title:
-  type: main
+- type: main
   content: Description of systems and networks in the radionavigation-satellite service
     (space-to-Earth and space-to-space) and technical characteristics of transmitting
     space stations operating in the bands 1 164-1 215 MHz,1 215-1 300 MHz and 1 559-1
     610 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1787/R-REC-M.1787-3-201803-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1787/R-REC-M.1787-3-201803-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1787-3
+- id: ITU-R M.1787-3
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2018'
 - type: published
   value: 2018-03
 revdate: 2018-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

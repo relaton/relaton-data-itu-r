@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.329-12
 title:
-  type: main
+- type: main
   content: Unwanted emissions in the spurious domain
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.329/R-REC-SM.329-12-201209-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.329/R-REC-SM.329-12-201209-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.329-12
+- id: ITU-R SM.329-12
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: 2012-09
 revdate: 2012-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

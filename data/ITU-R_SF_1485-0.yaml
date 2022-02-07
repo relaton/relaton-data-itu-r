@@ -1,26 +1,31 @@
 ---
 id: ITU-RSF.1485-0
 title:
-  type: main
+- type: main
   content: Determination of the coordination area for earth stations operating with
     non-geostationary space stations in the fixed-satellite service in frequency bands
     shared with the fixed service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1485/R-REC-SF.1485-0-200005-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1485/R-REC-SF.1485-0-200005-I
   type: src
 type: standard
 docid:
-  id: ITU-R SF.1485-0
+- id: ITU-R SF.1485-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2000'
 - type: published
   value: 2000-05
 revdate: 2000-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

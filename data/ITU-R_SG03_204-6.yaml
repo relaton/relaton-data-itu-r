@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG03.204-6
 title:
-  type: main
+- type: main
   content: Propagation data and prediction methods required for terrestrial line-of-sight
     systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.204/R-QUE-SG03.204-6-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.204/R-QUE-SG03.204-6-2015
   type: src
 type: standard
 docid:
-  id: ITU-R SG03.204-6
+- id: ITU-R SG03.204-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

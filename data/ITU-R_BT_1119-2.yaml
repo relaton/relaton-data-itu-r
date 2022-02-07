@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1119-2
 title:
-  type: main
+- type: main
   content: Wide-screen signalling for broadcasting (Signalling for wide-screen and
     other enhanced television parameters)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1119/R-REC-BT.1119-2-199802-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1119/R-REC-BT.1119-2-199802-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1119-2
+- id: ITU-R BT.1119-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1998'
 - type: published
   value: 1998-02
 revdate: 1998-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

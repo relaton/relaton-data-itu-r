@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.711-1
 title:
-  type: main
+- type: main
   content: Synchronizing reference signals for the component digital studio
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.711/R-REC-BT.711-1-199209-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.711/R-REC-BT.711-1-199209-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.711-1
+- id: ITU-R BT.711-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1992'
 - type: published
   value: 1992-09
 revdate: 1992-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

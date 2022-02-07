@@ -1,24 +1,29 @@
 ---
 id: ITU-RP.371-8
 title:
-  type: main
+- type: main
   content: Choice of indices for long-term ionospheric predictions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.371/R-REC-P.371-8-199907-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.371/R-REC-P.371-8-199907-I
   type: src
 type: standard
 docid:
-  id: ITU-R P.371-8
+- id: ITU-R P.371-8
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1999'
 - type: published
   value: 1999-07
 revdate: 1999-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSA.2162-200
 title:
-  type: main
+- type: main
   content: Sharing conditions between space research service extra vehicular activities
     (EVA) links and fixed and mobile service links in the 410-420 MHz band
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2162/R-REP-SA.2162-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2162/R-REP-SA.2162-2009
   type: src
 type: standard
 docid:
-  id: ITU-R SA.2162-200
+- id: ITU-R SA.2162-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

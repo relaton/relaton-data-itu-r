@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.599-0
 title:
-  type: main
+- type: main
   content: Directivity of antennas for the reception of sound broadcasting in band
     8 (VHF)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.599/R-REC-BS.599-0-198207-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.599/R-REC-BS.599-0-198207-I
   type: src
 type: standard
 docid:
-  id: ITU-R BS.599-0
+- id: ITU-R BS.599-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1982'
 - type: published
   value: 1982-07
 revdate: 1982-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

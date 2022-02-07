@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.575-2
 title:
-  type: main
+- type: main
   content: Protection of fixed monitoring stations against interference from nearby
     or stong transmitters
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.575/R-REC-SM.575-2-201310-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.575/R-REC-SM.575-2-201310-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.575-2
+- id: ITU-R SM.575-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2013-30-10
 - type: published
   value: 2013-10
 revdate: 2013-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

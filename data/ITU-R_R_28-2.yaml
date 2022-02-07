@@ -1,26 +1,31 @@
 ---
 id: ITU-RR.28-2
 title:
-  type: main
+- type: main
   content: Standard-frequency  and  time-signal  emissions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.28/R-RES-R.28-2-2012
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.28/R-RES-R.28-2-2012
   type: src
 type: standard
 docid:
-  id: ITU-R R.28-2
+- id: ITU-R R.28-2
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2012'
 - type: published
   value: '2012'
 revdate: '2012'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: In force

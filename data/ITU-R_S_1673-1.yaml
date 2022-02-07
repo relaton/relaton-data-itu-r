@@ -1,27 +1,32 @@
 ---
 id: ITU-RS.1673-1
 title:
-  type: main
+- type: main
   content: Methodologies for the calculation of the worst-case interference levels
     from a non geostationary HEO-type fixed-satellite service system into geostationary
     fixed-satellite service satellite networks operating in the 10 to 30 GHz frequency
     bands
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1673/R-REC-S.1673-1-201001-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1673/R-REC-S.1673-1-201001-I
   type: src
 type: standard
 docid:
-  id: ITU-R S.1673-1
+- id: ITU-R S.1673-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2010'
 - type: published
   value: 2010-01
 revdate: 2010-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

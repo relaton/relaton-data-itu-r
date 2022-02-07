@@ -1,33 +1,40 @@
 ---
 id: ITU-R43-201
 title:
-  type: main
+- type: main
   content: Space Research Communications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-43/R-HDB-43-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-43/R-HDB-43-2013
   type: src
 type: standard
 docid:
-  id: ITU-R 43-201
+- id: ITU-R 43-201
   type: ITU
+  primary: true
 date:
 - type: updated
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Handbook is concerned principally with those aspects of the space
+- content: This Handbook is concerned principally with those aspects of the space
     research service that are relevant to the management of radio spectrum usage in
     order to minimize interference between radiocommunication services when the space
     research service is involved.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2048-200
 title:
-  type: main
+- type: main
   content: Use of the x dB bandwidth criterion for determination of spectral properties
     of a transmitter in the out-of-band domain
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2048/R-REP-SM.2048-2006
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2048/R-REP-SM.2048-2006
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2048-200
+- id: ITU-R SM.2048-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: '2006'
 revdate: '2006'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

@@ -1,25 +1,30 @@
 ---
 id: ITU-RBO.1504-0
 title:
-  type: main
+- type: main
   content: Effective utilization of spectrum assigned to the broadcasting-satellite
     service (sound)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1504/R-REC-BO.1504-0-200007-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1504/R-REC-BO.1504-0-200007-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.1504-0
+- id: ITU-R BO.1504-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2000'
 - type: published
   value: 2000-07
 revdate: 2000-07
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2117-0
 title:
-  type: main
+- type: main
   content: Data format definition for exchanging stored I/Q data for the purpose of
     spectrum monitoring
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2117/R-REC-SM.2117-0-201809-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2117/R-REC-SM.2117-0-201809-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2117-0
+- id: ITU-R SM.2117-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2018'
 - type: published
   value: 2018-09
 revdate: 2018-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

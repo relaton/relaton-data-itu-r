@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.2267-10
 title:
-  type: main
+- type: main
   content: Integrated broadcast-broadband systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2267/R-REP-BT.2267-10-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2267/R-REP-BT.2267-10-2019
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2267-10
+- id: ITU-R BT.2267-10
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

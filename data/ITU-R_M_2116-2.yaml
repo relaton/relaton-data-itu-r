@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2116-2
 title:
-  type: main
+- type: main
   content: Characteristics of broadband wireless access systems operating in the land
     mobile service for use in sharing studies
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2116/R-REP-M.2116-2-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2116/R-REP-M.2116-2-2013
   type: src
 type: standard
 docid:
-  id: ITU-R M.2116-2
+- id: ITU-R M.2116-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

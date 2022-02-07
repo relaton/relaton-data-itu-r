@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2292-201
 title:
-  type: main
+- type: main
   content: Characteristics of terrestrial IMT-Advanced systems for frequency sharing/interference
     analyses
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2292/R-REP-M.2292-2014
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2292/R-REP-M.2292-2014
   type: src
 type: standard
 docid:
-  id: ITU-R M.2292-201
+- id: ITU-R M.2292-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2014'
 revdate: '2014'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

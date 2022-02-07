@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG06.56-4
 title:
-  type: main
+- type: main
   content: "Characteristics of terrestrial digital sound/multimedia broadcasting systems
     for reception by vehicular, portable and fixed receivers \n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.56/R-QUE-SG06.56-4-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.56/R-QUE-SG06.56-4-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SG06.56-4
+- id: ITU-R SG06.56-4
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1452-2
 title:
-  type: main
+- type: main
   content: Millimetre wave vehicular collision avoidance radars and radiocommunication
     systems for intelligent transport system applications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1452/R-REC-M.1452-2-201205-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1452/R-REC-M.1452-2-201205-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1452-2
+- id: ITU-R M.1452-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: 2012-05
 revdate: 2012-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

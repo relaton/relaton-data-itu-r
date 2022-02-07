@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.694-1
 title:
-  type: main
+- type: main
   content: Reference radiation pattern for ship earth station antennas
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.694/R-REC-M.694-1-200506-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.694/R-REC-M.694-1-200506-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.694-1
+- id: ITU-R M.694-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2005'
 - type: published
   value: 2005-06
 revdate: 2005-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

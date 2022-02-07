@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.2030-200
 title:
-  type: main
+- type: main
   content: Coexistence between IMT-2000 time division duplex and frequency division
     duplex terrestrial radio interface technologies around 2 600 MHz operating in
     adjacent bands and in the same geographical area
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2030/R-REP-M.2030-2003
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2030/R-REP-M.2030-2003
   type: src
 type: standard
 docid:
-  id: ITU-R M.2030-200
+- id: ITU-R M.2030-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: '2003'
 revdate: '2003'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

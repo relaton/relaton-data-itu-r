@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1702-2
 title:
-  type: main
+- type: main
   content: Guidance for the reduction of photosensitive epileptic seizures caused
     by television
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1702/R-REC-BT.1702-2-201910-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1702/R-REC-BT.1702-2-201910-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1702-2
+- id: ITU-R BT.1702-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2019-14-10
 - type: published
   value: 2019-10
 revdate: 2019-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

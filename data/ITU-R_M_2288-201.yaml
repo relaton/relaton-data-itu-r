@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2288-201
 title:
-  type: main
+- type: main
   content: Digital voice communication system on MF/HF radio channels of the maritime
     mobile service for shore-to-ship/ship-to-shore applications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2288/R-REP-M.2288-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2288/R-REP-M.2288-2013
   type: src
 type: standard
 docid:
-  id: ITU-R M.2288-201
+- id: ITU-R M.2288-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

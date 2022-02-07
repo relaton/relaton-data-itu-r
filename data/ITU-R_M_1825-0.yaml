@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1825-0
 title:
-  type: main
+- type: main
   content: Guidance on technical parameters and methodologies for sharing studies
     related to systems in the land mobile service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1825/R-REC-M.1825-0-200710-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1825/R-REC-M.1825-0-200710-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1825-0
+- id: ITU-R M.1825-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2007-25-10
 - type: published
   value: 2007-10
 revdate: 2007-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

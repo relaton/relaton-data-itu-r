@@ -1,26 +1,31 @@
 ---
 id: ITU-RS.2196-201
 title:
-  type: main
+- type: main
   content: Methodology on the modelling of earth station antenna gain in the region
     of the antenna main-lobe and the transition region between the minimum angle of
     the reference antenna pattern and the main-lobe
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2196/R-REP-S.2196-2010
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2196/R-REP-S.2196-2010
   type: src
 type: standard
 docid:
-  id: ITU-R S.2196-201
+- id: ITU-R S.2196-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2010'
 - type: published
   value: '2010'
 revdate: '2010'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

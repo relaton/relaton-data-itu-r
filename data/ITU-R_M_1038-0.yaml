@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.1038-0
 title:
-  type: main
+- type: main
   content: Efficient use of the geostationary-satellite orbit and spectrum in the
     1-3 GHz frequency range by mobile-satellite systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1038/R-REC-M.1038-0-199403-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1038/R-REC-M.1038-0-199403-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1038-0
+- id: ITU-R M.1038-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1994'
 - type: published
   value: 1994-03
 revdate: 1994-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

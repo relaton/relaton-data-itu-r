@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.1448-1
 title:
-  type: main
+- type: main
   content: Determination of the coordination area around an earth station in the frequency
     bands between 100 MHz and 105 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1448/R-REC-SM.1448-1-201910-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1448/R-REC-SM.1448-1-201910-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.1448-1
+- id: ITU-R SM.1448-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2019-20-10
 - type: published
   value: 2019-10
 revdate: 2019-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2104-0
 title:
-  type: main
+- type: main
   content: Guidelines for narrow-band wireless home networking transceivers - Specification
     of spectrum related components
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2104/R-REC-SM.2104-0-201709-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2104/R-REC-SM.2104-0-201709-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2104-0
+- id: ITU-R SM.2104-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: 2017-09
 revdate: 2017-09
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2411-201
 title:
-  type: main
+- type: main
   content: Requirements, evaluation criteria and submission templates for the development
     of IMT-2020
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2411/R-REP-M.2411-2017
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2411/R-REP-M.2411-2017
   type: src
 type: standard
 docid:
-  id: ITU-R M.2411-201
+- id: ITU-R M.2411-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: '2017'
 revdate: '2017'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

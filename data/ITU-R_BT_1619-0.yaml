@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.1619-0
 title:
-  type: main
+- type: main
   content: Vertical ancillary data mapping for serial digital interface
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1619/R-REC-BT.1619-0-200305-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1619/R-REC-BT.1619-0-200305-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1619-0
+- id: ITU-R BT.1619-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: 2003-05
 revdate: 2003-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

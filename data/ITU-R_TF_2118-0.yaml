@@ -1,24 +1,29 @@
 ---
 id: ITU-RTF.2118-0
 title:
-  type: main
+- type: main
   content: Relativistic Time Transfer
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.2118/R-REC-TF.2118-0-201812-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.2118/R-REC-TF.2118-0-201812-I
   type: src
 type: standard
 docid:
-  id: ITU-R TF.2118-0
+- id: ITU-R TF.2118-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2018-17-12
 - type: published
   value: 2018-12
 revdate: 2018-12
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

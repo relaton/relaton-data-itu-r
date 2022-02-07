@@ -1,24 +1,29 @@
 ---
 id: ITU-RBS.1657-0
 title:
-  type: main
+- type: main
   content: Procedure for the performance test of automated audio identification systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1657/R-REC-BS.1657-0-200308-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1657/R-REC-BS.1657-0-200308-I
   type: src
 type: standard
 docid:
-  id: ITU-R BS.1657-0
+- id: ITU-R BS.1657-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: 2003-08
 revdate: 2003-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

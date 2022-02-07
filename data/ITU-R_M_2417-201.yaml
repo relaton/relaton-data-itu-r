@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2417-201
 title:
-  type: main
+- type: main
   content: Technical and operational characteristics of land-mobile service applications
     in the frequency range 275-450 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2417/R-REP-M.2417-2017
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2417/R-REP-M.2417-2017
   type: src
 type: standard
 docid:
-  id: ITU-R M.2417-201
+- id: ITU-R M.2417-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: '2017'
 revdate: '2017'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

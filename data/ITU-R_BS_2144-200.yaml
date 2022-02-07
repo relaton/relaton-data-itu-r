@@ -1,25 +1,30 @@
 ---
 id: ITU-RBS.2144-200
 title:
-  type: main
+- type: main
   content: Planning parameters and coverage for Digital Radio Mondiale (DRM) broadcasting
     at frequencies below 30 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2144/R-REP-BS.2144-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2144/R-REP-BS.2144-2009
   type: src
 type: standard
 docid:
-  id: ITU-R BS.2144-200
+- id: ITU-R BS.2144-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

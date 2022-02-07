@@ -1,25 +1,30 @@
 ---
 id: ITU-RM.2229-201
 title:
-  type: main
+- type: main
   content: Compatibility study to support line-of-sight control and non-payload communications
     links for unmanned aircraft systems proposed in the frequency band 15.4-15.5 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2229/R-REP-M.2229-2011
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2229/R-REP-M.2229-2011
   type: src
 type: standard
 docid:
-  id: ITU-R M.2229-201
+- id: ITU-R M.2229-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: '2011'
 revdate: '2011'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

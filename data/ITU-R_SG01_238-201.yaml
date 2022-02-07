@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG01.238-201
 title:
-  type: main
+- type: main
   content: Characteristics for use of visible light for broadband communications
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.238/R-QUE-SG01.238-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.238/R-QUE-SG01.238-2015
   type: src
 type: standard
 docid:
-  id: ITU-R SG01.238-201
+- id: ITU-R SG01.238-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

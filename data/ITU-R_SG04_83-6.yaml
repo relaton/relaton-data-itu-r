@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG04.83-6
 title:
-  type: main
+- type: main
   content: Efficient use of the radio spectrum and frequency sharing within the mobile-satellite
     service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.83/R-QUE-SG04.83-6-2009
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.83/R-QUE-SG04.83-6-2009
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.83-6
+- id: ITU-R SG04.83-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2009'
 - type: published
   value: '2009'
 revdate: '2009'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

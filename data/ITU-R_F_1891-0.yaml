@@ -1,26 +1,31 @@
 ---
 id: ITU-RF.1891-0
 title:
-  type: main
+- type: main
   content: Technical and operational characteristics of gateway links in the fixed
     service using high altitude platform stations in the band 5 850-7 075 MHz to be
     used in sharing studies
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1891/R-REC-F.1891-0-201105-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1891/R-REC-F.1891-0-201105-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1891-0
+- id: ITU-R F.1891-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: 2011-05
 revdate: 2011-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

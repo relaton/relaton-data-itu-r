@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG01.237-201
 title:
-  type: main
+- type: main
   content: Technical and operational characteristics of the active services operating
     in the range 275-1 000 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.237/R-QUE-SG01.237-2013
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.237/R-QUE-SG01.237-2013
   type: src
 type: standard
 docid:
-  id: ITU-R SG01.237-201
+- id: ITU-R SG01.237-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2013'
 - type: published
   value: '2013'
 revdate: '2013'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

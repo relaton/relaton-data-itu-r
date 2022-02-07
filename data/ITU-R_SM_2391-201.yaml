@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.2391-201
 title:
-  type: main
+- type: main
   content: The effects of wind turbines on fixed radio direction finders
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2391/R-REP-SM.2391-2016
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2391/R-REP-SM.2391-2016
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2391-201
+- id: ITU-R SM.2391-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2016'
 - type: published
   value: '2016'
 revdate: '2016'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

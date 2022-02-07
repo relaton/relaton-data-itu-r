@@ -1,24 +1,29 @@
 ---
 id: ITU-RTF.535-2
 title:
-  type: main
+- type: main
   content: Use of the term UTC
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.535/R-REC-TF.535-2-199802-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.535/R-REC-TF.535-2-199802-I
   type: src
 type: standard
 docid:
-  id: ITU-R TF.535-2
+- id: ITU-R TF.535-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1998'
 - type: published
   value: 1998-02
 revdate: 1998-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

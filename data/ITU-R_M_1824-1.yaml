@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.1824-1
 title:
-  type: main
+- type: main
   content: System characteristics of television outside broadcast, electronic news
     gathering and electronic field production in the mobile service for use in sharing
     studies
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1824/R-REC-M.1824-1-201502-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1824/R-REC-M.1824-1-201502-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1824-1
+- id: ITU-R M.1824-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-02
 revdate: 2015-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

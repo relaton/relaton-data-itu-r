@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1203-2
 title:
-  type: main
+- type: main
   content: User requirements for generic video bit-rate reduction coding of digital
     TV signals for an end-to-end television system
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1203/R-REC-BT.1203-2-201502-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1203/R-REC-BT.1203-2-201502-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1203-2
+- id: ITU-R BT.1203-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-02
 revdate: 2015-02
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

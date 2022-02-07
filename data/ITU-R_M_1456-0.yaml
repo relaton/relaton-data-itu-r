@@ -1,27 +1,32 @@
 ---
 id: ITU-RM.1456-0
 title:
-  type: main
+- type: main
   content: Minimum performance characteristics and operational conditions for high
     altitude platform stations providing IMT-2000 in the bands 1 885-1 980 MHz, 2
     010-2 025 MHz and 2  110-2 170 MHz in Regions 1 and 3 and 1 885-1 980 MHz and
     2 110-2 160 MHz in Regio...
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1456/R-REC-M.1456-0-200005-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1456/R-REC-M.1456-0-200005-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1456-0
+- id: ITU-R M.1456-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2000'
 - type: published
   value: 2000-05
 revdate: 2000-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,24 +1,29 @@
 ---
 id: ITU-RM.2013-199
 title:
-  type: main
+- type: main
   content: Wind Profiler Radars
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2013/R-REP-M.2013-1997
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2013/R-REP-M.2013-1997
   type: src
 type: standard
 docid:
-  id: ITU-R M.2013-199
+- id: ITU-R M.2013-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1997'
 - type: published
   value: '1997'
 revdate: '1997'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

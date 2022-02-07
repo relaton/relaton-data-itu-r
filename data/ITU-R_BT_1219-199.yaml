@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.1219-199
 title:
-  type: main
+- type: main
   content: Synchronizing signals for the component digital studio
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.1219/R-REP-BT.1219-1990
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.1219/R-REP-BT.1219-1990
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1219-199
+- id: ITU-R BT.1219-199
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: '1990'
 revdate: '1990'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

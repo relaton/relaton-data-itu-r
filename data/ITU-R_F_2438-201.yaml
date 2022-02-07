@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.2438-201
 title:
-  type: main
+- type: main
   content: Spectrum needs of high altitude platform stations (HAPS) broadband links
     operating in the fixed service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2438/R-REP-F.2438-2018
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2438/R-REP-F.2438-2018
   type: src
 type: standard
 docid:
-  id: ITU-R F.2438-201
+- id: ITU-R F.2438-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2018'
 - type: published
   value: '2018'
 revdate: '2018'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

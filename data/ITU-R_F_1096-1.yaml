@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1096-1
 title:
-  type: main
+- type: main
   content: Methods of calculating line-of-sight interference into fixed wireless systems
     to account for terrain scattering
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1096/R-REC-F.1096-1-201104-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1096/R-REC-F.1096-1-201104-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1096-1
+- id: ITU-R F.1096-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: 2011-04
 revdate: 2011-04
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

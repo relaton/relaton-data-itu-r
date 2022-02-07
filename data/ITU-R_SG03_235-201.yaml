@@ -1,24 +1,29 @@
 ---
 id: ITU-RSG03.235-201
 title:
-  type: main
+- type: main
   content: Impact of engineered electromagnetic surfaces on radiowave propagation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.235/R-QUE-SG03.235-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.235/R-QUE-SG03.235-2019
   type: src
 type: standard
 docid:
-  id: ITU-R SG03.235-201
+- id: ITU-R SG03.235-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

@@ -1,26 +1,31 @@
 ---
 id: ITU-RSG04.70-1
 title:
-  type: main
+- type: main
   content: Protection of the geostationary-satellite orbit against unacceptable interference
     from transmitting earth stations in the fixed-satellite service at frequencies
     above 15 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.70/R-QUE-SG04.70-1-1993
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.70/R-QUE-SG04.70-1-1993
   type: src
 type: standard
 docid:
-  id: ITU-R SG04.70-1
+- id: ITU-R SG04.70-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1993'
 - type: published
   value: '1993'
 revdate: '1993'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2092-200
 title:
-  type: main
+- type: main
   content: Studies related to the impact of active services allocated in adjacent
     or nearby bands on Earth exploration-satellite service (passive)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2092/R-REP-SM.2092-2007
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2092/R-REP-SM.2092-2007
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2092-200
+- id: ITU-R SM.2092-200
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2007'
 - type: published
   value: '2007'
 revdate: '2007'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

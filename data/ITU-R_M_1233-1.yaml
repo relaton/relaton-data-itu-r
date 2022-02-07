@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.1233-1
 title:
-  type: main
+- type: main
   content: Technical considerations for sharing satellite network resources between
     the mobile-satellite service (MSS) (other than the aeronautical mobile-satellite
     (R) service (AMS(R)S)) and AMS(R)S
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1233/R-REC-M.1233-1-200603-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1233/R-REC-M.1233-1-200603-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1233-1
+- id: ITU-R M.1233-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2006'
 - type: published
   value: 2006-03
 revdate: 2006-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

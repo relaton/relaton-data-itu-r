@@ -1,24 +1,29 @@
 ---
 id: ITU-RRS.2456-201
 title:
-  type: main
+- type: main
   content: Space weather sensor systems using radio spectrum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2456/R-REP-RS.2456-2019
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2456/R-REP-RS.2456-2019
   type: src
 type: standard
 docid:
-  id: ITU-R RS.2456-201
+- id: ITU-R RS.2456-201
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: '2019'
 revdate: '2019'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

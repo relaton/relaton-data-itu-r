@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1543-1
 title:
-  type: main
+- type: main
   content: 1 280 × 720, 16:9 progressively-captured image format for production and
     international programme exchange in the 60 Hz environment
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1543/R-REC-BT.1543-1-201506-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1543/R-REC-BT.1543-1-201506-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1543-1
+- id: ITU-R BT.1543-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-06
 revdate: 2015-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

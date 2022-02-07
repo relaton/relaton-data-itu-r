@@ -1,25 +1,30 @@
 ---
 id: ITU-RBO.795-0
 title:
-  type: main
+- type: main
   content: Techniques for alleviating mutual interference between feeder links to
     the BSS
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.795/R-REC-BO.795-0-199203-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.795/R-REC-BO.795-0-199203-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.795-0
+- id: ITU-R BO.795-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1992'
 - type: published
   value: 1992-03
 revdate: 1992-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

@@ -1,24 +1,29 @@
 ---
 id: ITU-RBT.1895-0
 title:
-  type: main
+- type: main
   content: Protection criteria for terrestrial broadcasting systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1895/R-REC-BT.1895-0-201105-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1895/R-REC-BT.1895-0-201105-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1895-0
+- id: ITU-R BT.1895-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: 2011-05
 revdate: 2011-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

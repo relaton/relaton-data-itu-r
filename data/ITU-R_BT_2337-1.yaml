@@ -1,26 +1,31 @@
 ---
 id: ITU-RBT.2337-1
 title:
-  type: main
+- type: main
   content: Sharing and compatibility studies between digital terrestrial television
     broadcasting and terrestrial mobile broadband applications, including IMT, in
     the frequency band 470-694/698 MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2337/R-REP-BT.2337-1-2018
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2337/R-REP-BT.2337-1-2018
   type: src
 type: standard
 docid:
-  id: ITU-R BT.2337-1
+- id: ITU-R BT.2337-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: '2018'
 revdate: '2018'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

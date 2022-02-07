@@ -1,26 +1,31 @@
 ---
 id: ITU-RRS.1624-0
 title:
-  type: main
+- type: main
   content: Sharing between the Earth exploration satellite (passive) and airborne
     altimeters in the aeronautical radionavigation service in the band 4 200-4 400
     MHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1624/R-REC-RS.1624-0-200305-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1624/R-REC-RS.1624-0-200305-I
   type: src
 type: standard
 docid:
-  id: ITU-R RS.1624-0
+- id: ITU-R RS.1624-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2003'
 - type: published
   value: 2003-05
 revdate: 2003-05
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

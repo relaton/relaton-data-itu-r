@@ -1,26 +1,31 @@
 ---
 id: ITU-RSG06.126-1
 title:
-  type: main
+- type: main
   content: Recommended operating practices to tailor  television programme material
     to broadcasting applications at various image quality levels, display sizes and
     aspect ratios
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.126/R-QUE-SG06.126-1-2011
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.126/R-QUE-SG06.126-1-2011
   type: src
 type: standard
 docid:
-  id: ITU-R SG06.126-1
+- id: ITU-R SG06.126-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2011'
 - type: published
   value: '2011'
 revdate: '2011'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

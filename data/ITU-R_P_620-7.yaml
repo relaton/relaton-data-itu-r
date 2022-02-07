@@ -1,25 +1,30 @@
 ---
 id: ITU-RP.620-7
 title:
-  type: main
+- type: main
   content: Propagation data required for the evaluation of coordination distances
     in the frequency range 100 MHz to 105 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.620/R-REC-P.620-7-201706-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.620/R-REC-P.620-7-201706-I
   type: src
 type: standard
 docid:
-  id: ITU-R P.620-7
+- id: ITU-R P.620-7
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: 2017-06
 revdate: 2017-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

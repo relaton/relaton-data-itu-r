@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.1541-6
 title:
-  type: main
+- type: main
   content: Unwanted emissions in the out-of-band domain
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1541/R-REC-SM.1541-6-201508-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1541/R-REC-SM.1541-6-201508-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.1541-6
+- id: ITU-R SM.1541-6
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: 2015-08
 revdate: 2015-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

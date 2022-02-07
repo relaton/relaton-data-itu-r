@@ -1,25 +1,30 @@
 ---
 id: ITU-RF.1703-0
 title:
-  type: main
+- type: main
   content: Availability objectives for real digital fixed wireless links used in 27
     500 km hypothetical reference paths and connections
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1703/R-REC-F.1703-0-200501-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1703/R-REC-F.1703-0-200501-I
   type: src
 type: standard
 docid:
-  id: ITU-R F.1703-0
+- id: ITU-R F.1703-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2005'
 - type: published
   value: 2005-01
 revdate: 2005-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

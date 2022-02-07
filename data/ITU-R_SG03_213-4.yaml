@@ -1,25 +1,30 @@
 ---
 id: ITU-RSG03.213-4
 title:
-  type: main
+- type: main
   content: The short-term forecasting of operational parameters for trans-ionospheric
     radiocommunication and radionavigation services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.213/R-QUE-SG03.213-4-2015
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.213/R-QUE-SG03.213-4-2015
   type: src
 type: standard
 docid:
-  id: ITU-R SG03.213-4
+- id: ITU-R SG03.213-4
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2015'
 - type: published
   value: '2015'
 revdate: '2015'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: question

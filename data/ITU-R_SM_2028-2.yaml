@@ -1,25 +1,30 @@
 ---
 id: ITU-RSM.2028-2
 title:
-  type: main
+- type: main
   content: Monte Carlo simulation methodology for the use in sharing and compatibility
     studies between different radio services or systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2028/R-REP-SM.2028-2-2017
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2028/R-REP-SM.2028-2-2017
   type: src
 type: standard
 docid:
-  id: ITU-R SM.2028-2
+- id: ITU-R SM.2028-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2017'
 - type: published
   value: '2017'
 revdate: '2017'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: technical-report

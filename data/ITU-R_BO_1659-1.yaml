@@ -1,25 +1,30 @@
 ---
 id: ITU-RBO.1659-1
 title:
-  type: main
+- type: main
   content: Mitigation techniques for rain attenuation for broadcasting-satellite service
     systems in frequency bands between 17.3 GHz and 42.5 GHz
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1659/R-REC-BO.1659-1-201201-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1659/R-REC-BO.1659-1-201201-I
   type: src
 type: standard
 docid:
-  id: ITU-R BO.1659-1
+- id: ITU-R BO.1659-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2012'
 - type: published
   value: 2012-01
 revdate: 2012-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

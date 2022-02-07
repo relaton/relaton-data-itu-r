@@ -1,27 +1,32 @@
 ---
 id: ITU-RM.1829-0
 title:
-  type: main
+- type: main
   content: Method for determining the necessary geographical separation distances,
     in the 5 GHz band, between the international standard microwave landing system
     (MLS) stations operating in the aeronautical radionavigation service and transmitters
     operating in th...
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1829/R-REC-M.1829-0-200710-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1829/R-REC-M.1829-0-200710-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1829-0
+- id: ITU-R M.1829-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: 2007-25-10
 - type: published
   value: 2007-10
 revdate: 2007-10
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

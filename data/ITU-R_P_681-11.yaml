@@ -1,25 +1,30 @@
 ---
 id: ITU-RP.681-11
 title:
-  type: main
+- type: main
   content: Propagation data required for the design systems in the land mobile-satellite
     service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.681/R-REC-P.681-11-201908-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.681/R-REC-P.681-11-201908-I
   type: src
 type: standard
 docid:
-  id: ITU-R P.681-11
+- id: ITU-R P.681-11
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2019'
 - type: published
   value: 2019-08
 revdate: 2019-08
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

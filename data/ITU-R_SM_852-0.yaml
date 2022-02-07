@@ -1,24 +1,29 @@
 ---
 id: ITU-RSM.852-0
 title:
-  type: main
+- type: main
   content: Sensitivity of radio receivers for class of emissions F3E
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.852/R-REC-SM.852-0-199203-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.852/R-REC-SM.852-0-199203-I
   type: src
 type: standard
 docid:
-  id: ITU-R SM.852-0
+- id: ITU-R SM.852-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1992'
 - type: published
   value: 1992-03
 revdate: 1992-03
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

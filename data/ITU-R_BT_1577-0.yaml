@@ -1,25 +1,30 @@
 ---
 id: ITU-RBT.1577-0
 title:
-  type: main
+- type: main
   content: Serial digital interface-based transport interface for compressed television
     signals in networked television production based on Recommendation ITU-R BT.1120
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1577/R-REC-BT.1577-0-200206-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1577/R-REC-BT.1577-0-200206-I
   type: src
 type: standard
 docid:
-  id: ITU-R BT.1577-0
+- id: ITU-R BT.1577-0
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2002'
 - type: published
   value: 2002-06
 revdate: 2002-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

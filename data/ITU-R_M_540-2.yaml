@@ -1,26 +1,31 @@
 ---
 id: ITU-RM.540-2
 title:
-  type: main
+- type: main
   content: Operational and technical characteristics for an automated direct-printing
     telegraph system for promulgation of navigational and meteorological warnings
     and urgent information to ships
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.540/R-REC-M.540-2-199006-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.540/R-REC-M.540-2-199006-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.540-2
+- id: ITU-R M.540-2
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '1990'
 - type: published
   value: 1990-06
 revdate: 1990-06
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation

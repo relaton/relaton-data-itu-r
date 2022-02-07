@@ -1,27 +1,32 @@
 ---
 id: ITU-RM.1472-1
 title:
-  type: main
+- type: main
   content: Methodology to evaluate the impact of interference from time division multiple
     access/frequency division multiple access (TDMA/FDMA) mobile-satellite service
     (MSS) space-to-Earth transmissions on baseband performance in frequency division
     multiplexing-...
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1472/R-REC-M.1472-1-201001-I
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1472/R-REC-M.1472-1-201001-I
   type: src
 type: standard
 docid:
-  id: ITU-R M.1472-1
+- id: ITU-R M.1472-1
   type: ITU
+  primary: true
 date:
 - type: confirmed
   value: '2010'
 - type: published
   value: 2010-01
 revdate: 2010-01
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 doctype: recommendation
