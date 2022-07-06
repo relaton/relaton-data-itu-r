@@ -29,5 +29,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-07-05'
+fetched: '2022-07-06'
 doctype: handbook
