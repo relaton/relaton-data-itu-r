@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-12'
+fetched: '2022-08-13'
 doctype: technical-report
