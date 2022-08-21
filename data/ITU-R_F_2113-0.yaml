@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.2113-0
 title:
-- type: main
-  content: Error performance and availability objectives and requirements for real
+- content: Error performance and availability objectives and requirements for real
     point-to-point packet-based radio links
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.2113/R-REC-F.2113-0-201801-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

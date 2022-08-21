@@ -1,14 +1,14 @@
 ---
 id: ITU-RSA.2166-200
 title:
-- type: main
-  content: Examples of radiation patterns of large antennas used for space research
+- content: Examples of radiation patterns of large antennas used for space research
     and radio astronomy
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2166/R-REP-SA.2166-2009
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

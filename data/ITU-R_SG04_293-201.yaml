@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG04.293-201
 title:
-- type: main
-  content: Antenna radiation diagrams/patterns for small (D/?  around 30) earth station
+- content: Antenna radiation diagrams/patterns for small (D/?  around 30) earth station
     antennas used in fixed-satellite and broadcasting-satellite systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.293/R-QUE-SG04.293-2015
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

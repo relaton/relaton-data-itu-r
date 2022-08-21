@@ -1,8 +1,7 @@
 ---
 id: ITU-RBT.2069-7
 title:
-- type: main
-  content: Tuning ranges and operational characteristics of terrestrial electronic
+- content: Tuning ranges and operational characteristics of terrestrial electronic
     news gathering (ENG), television outside broadcast (TVOB) and electronic field
     production (EFP) systems
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2069/R-REP-BT.2069-7-2017
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

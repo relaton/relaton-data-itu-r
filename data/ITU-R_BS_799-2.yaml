@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.799-2
 title:
-- type: main
-  content: Subjective assessment of quality of sound in broadcasting using digital
+- content: Subjective assessment of quality of sound in broadcasting using digital
     techniques
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.799/R-REP-BS.799-2-1986
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

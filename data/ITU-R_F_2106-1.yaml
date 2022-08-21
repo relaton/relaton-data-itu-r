@@ -1,13 +1,13 @@
 ---
 id: ITU-RF.2106-1
 title:
-- type: main
-  content: Fixed service applications using free-space optical links
+- content: Fixed service applications using free-space optical links
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2106/R-REP-F.2106-1-2010
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

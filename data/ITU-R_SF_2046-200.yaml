@@ -1,8 +1,7 @@
 ---
 id: ITU-RSF.2046-200
 title:
-- type: main
-  content: Determination of the interference potential, and its possible reduction
+- content: Determination of the interference potential, and its possible reduction
     by mitigation techniques, between earth stations in the fixed-satellite service
     operating with non-geostationary satellites and stations in the fixed service
     in the 18/19 GHz band
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SF/R-REP-SF.2046/R-REP-SF.2046-2005
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

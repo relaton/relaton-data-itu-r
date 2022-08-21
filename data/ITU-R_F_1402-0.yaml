@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.1402-0
 title:
-- type: main
-  content: Frequency sharing criteria between a land mobile wireless access system
+- content: Frequency sharing criteria between a land mobile wireless access system
     and a fixed wireless access system using the same equipment type as the mobile
     wireless access system
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1402/R-REC-F.1402-0-199905-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

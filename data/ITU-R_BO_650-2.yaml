@@ -1,14 +1,14 @@
 ---
 id: ITU-RBO.650-2
 title:
-- type: main
-  content: Standards for conventional television systems for satellite broadcasting
+- content: Standards for conventional television systems for satellite broadcasting
     in the channels defined by Appendix 30 of the Radio Regulations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.650/R-REC-BO.650-2-199203-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

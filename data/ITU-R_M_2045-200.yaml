@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2045-200
 title:
-- type: main
-  content: Mitigating techniques to address coexistence between IMT-2000 time division
+- content: Mitigating techniques to address coexistence between IMT-2000 time division
     duplex and frequency division duplex radio interface technologies within the frequency
     range 2 500-2 690 MHz operating in adjacent bands and in the same geographical
     area
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2045/R-REP-M.2045-2004
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

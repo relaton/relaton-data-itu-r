@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1480-0
 title:
-- type: main
-  content: Essential technical requirements of mobile Earth stations of geostationary
+- content: Essential technical requirements of mobile Earth stations of geostationary
     mobile-satellite systems that are implementing the Global mobile personal communications
     by satellite (GMPCS) - Memorandum of understanding arrangements in parts of the
     frequenc...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1480/R-REC-M.1480-0-200005-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2002-0
 title:
-- type: main
-  content: Objectives, characteristics and functional requirements of wide-area sensor
+- content: Objectives, characteristics and functional requirements of wide-area sensor
     and/or actuator network (WASN) systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2002/R-REC-M.2002-0-201203-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

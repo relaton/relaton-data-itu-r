@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.1058-198
 title:
-- type: main
-  content: Minimum AF and RF signal-to-noise ratio required for broadcasting in band
+- content: Minimum AF and RF signal-to-noise ratio required for broadcasting in band
     7 (HF)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.1058/R-REP-BS.1058-1986
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

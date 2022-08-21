@@ -1,8 +1,7 @@
 ---
 id: ITU-RBO.1697-0
 title:
-- type: main
-  content: Power flux-density values in the band 11.7-12.7 GHz and associated calculation
+- content: Power flux-density values in the band 11.7-12.7 GHz and associated calculation
     methodology which may be used for bilateral coordination when the power flux-density
     values in Section 3 of Annex 1 to Appendix 30 or Annex 4 to Appendix 30 of the
     Radio Reg...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1697/R-REC-BO.1697-0-200502-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

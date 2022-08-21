@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.1248-0
 title:
-- type: main
-  content: Limiting interference to satellites in the space science services from
+- content: Limiting interference to satellites in the space science services from
     the emissions of trans-horizon radio-relay systems in the bands 2 025-2 110 MHz
     and 2 200-2 290 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1248/R-REC-F.1248-0-199705-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

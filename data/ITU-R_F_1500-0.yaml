@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.1500-0
 title:
-- type: main
-  content: Preferred characteristics of systems in the fixed service using high altitude
+- content: Preferred characteristics of systems in the fixed service using high altitude
     platforms operating in the bands 47.2-47.5 GHz and 47.9-48.2 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1500/R-REC-F.1500-0-200005-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

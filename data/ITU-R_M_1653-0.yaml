@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1653-0
 title:
-- type: main
-  content: Operational and deployment requirements for wireless access systems including
+- content: Operational and deployment requirements for wireless access systems including
     radio local area networks in the mobile service to facilitate sharing between
     these systems and systems in the Earth exploration-satellite service (active)
     and the space rese...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1653/R-REC-M.1653-0-200306-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

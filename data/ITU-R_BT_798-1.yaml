@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.798-1
 title:
-- type: main
-  content: Digital television terrestrial broadcasting in the VHF/UHF bands
+- content: Digital television terrestrial broadcasting in the VHF/UHF bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.798/R-REC-BT.798-1-199407-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

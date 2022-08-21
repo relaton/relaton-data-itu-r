@@ -1,14 +1,14 @@
 ---
 id: ITU-RP.532-1
 title:
-- type: main
-  content: Ionospheric effects and operational considerations associated with artificial
+- content: Ionospheric effects and operational considerations associated with artificial
     modification of the ionosphere and the radio-wave channel
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.532/R-REC-P.532-1-199203-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

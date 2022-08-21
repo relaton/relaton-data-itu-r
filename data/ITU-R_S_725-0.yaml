@@ -1,13 +1,13 @@
 ---
 id: ITU-RS.725-0
 title:
-- type: main
-  content: Technical characteristics for very small aperture terminals (VSATs)
+- content: Technical characteristics for very small aperture terminals (VSATs)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.725/R-REC-S.725-0-199203-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

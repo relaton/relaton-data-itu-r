@@ -1,14 +1,14 @@
 ---
 id: ITU-RBO.1776-1
 title:
-- type: main
-  content: Maximum power flux-density for the broadcasting-satellite service in the
+- content: Maximum power flux-density for the broadcasting-satellite service in the
     band 21.4-22.0 GHz in Regions 1 and 3
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1776/R-REC-BO.1776-1-201201-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

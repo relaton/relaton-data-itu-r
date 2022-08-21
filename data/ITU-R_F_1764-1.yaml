@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.1764-1
 title:
-- type: main
-  content: Methodology to evaluate interference from user links in fixed service systems
+- content: Methodology to evaluate interference from user links in fixed service systems
     using high altitude platform stations to fixed wireless systems in the bands above
     3 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1764/R-REC-F.1764-1-201105-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

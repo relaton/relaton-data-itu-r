@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG05.209-6
 title:
-- type: main
-  content: 'Use of the mobile, amateur and the amateur-satellite services in support
+- content: 'Use of the mobile, amateur and the amateur-satellite services in support
     of disaster radiocommunications
 
     '
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.209/R-QUE-SG05.209-6-2019
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

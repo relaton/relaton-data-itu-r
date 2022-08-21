@@ -1,13 +1,13 @@
 ---
 id: ITU-R52-201
 title:
-- type: main
-  content: Amateur and amateur-satellite services
+- content: Amateur and amateur-satellite services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-52/R-HDB-52-2014
   type: src
@@ -40,5 +40,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

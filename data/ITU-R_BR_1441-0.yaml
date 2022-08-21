@@ -1,14 +1,14 @@
 ---
 id: ITU-RBR.1441-0
 title:
-- type: main
-  content: Compromise scanned area dimensions for television from 35 mm wide-screen
+- content: Compromise scanned area dimensions for television from 35 mm wide-screen
     films
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BR/R-REC-BR.1441/R-REC-BR.1441-0-200003-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

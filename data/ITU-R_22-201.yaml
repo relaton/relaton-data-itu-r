@@ -1,13 +1,13 @@
 ---
 id: ITU-R22-201
 title:
-- type: main
-  content: Radio Astronomy
+- content: Radio Astronomy
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-22/R-HDB-22-2013
   type: src
@@ -41,5 +41,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

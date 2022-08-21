@@ -1,13 +1,13 @@
 ---
 id: ITU-RR.70-201
 title:
-- type: main
-  content: Principles for the future development of broadcasting
+- content: Principles for the future development of broadcasting
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.70/R-RES-R.70-2019
   type: src
@@ -29,5 +29,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: resolution

@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2083-0
 title:
-- type: main
-  content: IMT Vision - "Framework and overall objectives of the future development
+- content: IMT Vision - "Framework and overall objectives of the future development
     of IMT for 2020 and beyond"
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2083/R-REC-M.2083-0-201509-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

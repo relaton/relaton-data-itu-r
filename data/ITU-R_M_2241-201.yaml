@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2241-201
 title:
-- type: main
-  content: Compatibility studies in relation to Resolution 224 in the bands 698-806
+- content: Compatibility studies in relation to Resolution 224 in the bands 698-806
     MHz and 790-862 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2241/R-REP-M.2241-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

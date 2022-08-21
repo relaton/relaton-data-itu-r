@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.586-1
 title:
-- type: main
-  content: Automated VHF/UHF maritime mobile telephone system
+- content: Automated VHF/UHF maritime mobile telephone system
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.586/R-REC-M.586-1-198607-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RSA.1158-3
 title:
-- type: main
-  content: Feasibility of frequency sharing in the 1 670-1 710 MHz band between the
+- content: Feasibility of frequency sharing in the 1 670-1 710 MHz band between the
     meteorological-satellite service (space-to-Earth) and the mobile-satellite service
     (Earth-to-space)
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1158/R-REC-SA.1158-3-200305-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

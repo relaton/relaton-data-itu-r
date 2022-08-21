@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2050-200
 title:
-- type: main
-  content: Test results illustrating the susceptibility of maritime radionavigation
+- content: Test results illustrating the susceptibility of maritime radionavigation
     radars to emissions from digital communication and pulsed systems in the bands
     2 900-3 100 MHz and 9 200-9 500 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2050/R-REP-M.2050-2004
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

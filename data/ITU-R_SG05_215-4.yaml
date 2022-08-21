@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG05.215-4
 title:
-- type: main
-  content: Frequency bands, technical characteristics, and operational requirements
+- content: Frequency bands, technical characteristics, and operational requirements
     for fixed wireless access systems in the fixed and/or land mobile services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.215/R-QUE-SG05.215-4-2012
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

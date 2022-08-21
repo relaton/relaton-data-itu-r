@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.2211-2
 title:
-- type: main
-  content: Comparison of Time-Difference-of-Arrival and Angle-of-Arrival Methods of
+- content: Comparison of Time-Difference-of-Arrival and Angle-of-Arrival Methods of
     signal geolocation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2211/R-REP-SM.2211-2-2018
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

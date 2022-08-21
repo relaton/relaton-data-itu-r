@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1801-2
 title:
-- type: main
-  content: Radio interface standards for broadband wireless access systems, including
+- content: Radio interface standards for broadband wireless access systems, including
     mobile and nomadic applications, in the mobile service operating below 6 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1801/R-REC-M.1801-2-201302-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

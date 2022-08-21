@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.2207-4
 title:
-- type: main
-  content: Accessibility to broadcasting services for persons with disabilities
+- content: Accessibility to broadcasting services for persons with disabilities
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2207/R-REP-BT.2207-4-2018
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

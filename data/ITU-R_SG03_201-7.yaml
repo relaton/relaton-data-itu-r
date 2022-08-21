@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG03.201-7
 title:
-- type: main
-  content: 'Radiometeorological data required for the planning of terrestrial and
+- content: 'Radiometeorological data required for the planning of terrestrial and
     space communication systems and space research application
 
     '
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.201/R-QUE-SG03.201-7-2019
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

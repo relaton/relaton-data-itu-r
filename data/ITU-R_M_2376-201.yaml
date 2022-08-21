@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.2376-201
 title:
-- type: main
-  content: Technical feasibility of IMT in bands above 6 GHz
+- content: Technical feasibility of IMT in bands above 6 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2376/R-REP-M.2376-2015
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

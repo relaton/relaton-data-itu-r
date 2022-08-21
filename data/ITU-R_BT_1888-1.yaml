@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.1888-1
 title:
-- type: main
-  content: Basic elements of file-based broadcasting systems
+- content: Basic elements of file-based broadcasting systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1888/R-REC-BT.1888-1-201109-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

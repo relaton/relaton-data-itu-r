@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2078-200
 title:
-- type: main
-  content: Estimated spectrum bandwidth requirements for the future development of
+- content: Estimated spectrum bandwidth requirements for the future development of
     IMT-2000 and IMT-Advanced
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2078/R-REP-M.2078-2006
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

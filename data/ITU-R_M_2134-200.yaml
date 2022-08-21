@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.2134-200
 title:
-- type: main
-  content: Requirements related to technical performance for IMT-Advanced radio interface(s)
+- content: Requirements related to technical performance for IMT-Advanced radio interface(s)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2134/R-REP-M.2134-2008
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

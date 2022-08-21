@@ -1,13 +1,13 @@
 ---
 id: ITU-R58-201
 title:
-- type: main
-  content: ITU-R propagation prediction methods for interference and sharing studies
+- content: ITU-R propagation prediction methods for interference and sharing studies
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-58/R-HDB-58-2012
   type: src
@@ -40,5 +40,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

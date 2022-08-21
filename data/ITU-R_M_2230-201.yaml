@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2230-201
 title:
-- type: main
-  content: Frequency sharing between unmanned aircraft systems for beyond line of
+- content: Frequency sharing between unmanned aircraft systems for beyond line of
     sight control and non-payload communications links and other existing and planned
     services in the frequency bands 13.25-13.40 GHz, 15.4-15.7 GHz, 22.5-22.55 GHz
     and 23.55-23.60 GHz
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2230/R-REP-M.2230-2011
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

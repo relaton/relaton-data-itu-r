@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2122-0
 title:
-- type: main
-  content: Technical and operational characteristics for aeronautical mobile service
+- content: Technical and operational characteristics for aeronautical mobile service
     systems limited to aircraft transmissions of aeronautical mobile telemetry for
     flight testing in the band 5 150-5 250 MHz in Region 1 and in Brazil in accordance
     with RR No. 5.446C
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2122/R-REC-M.2122-0-201901-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

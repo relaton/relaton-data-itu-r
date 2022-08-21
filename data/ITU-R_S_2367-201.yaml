@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.2367-201
 title:
-- type: main
-  content: Sharing and compatibility between International Mobile Telecommunication
+- content: Sharing and compatibility between International Mobile Telecommunication
     systems and fixed-satellite service networks in the 5 850-6 425 MHz frequency
     range
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2367/R-REP-S.2367-2015
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

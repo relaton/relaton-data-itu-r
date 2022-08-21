@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1850-2
 title:
-- type: main
-  content: Detailed specifications of the radio interfaces for the satellite component
+- content: Detailed specifications of the radio interfaces for the satellite component
     of International Mobile Telecommunications-2000 (IMT-2000)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1850/R-REC-M.1850-2-201409-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

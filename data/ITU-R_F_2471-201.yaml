@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.2471-201
 title:
-- type: main
-  content: Sharing and compatibility studies of HAPS systems in the fixed service
+- content: Sharing and compatibility studies of HAPS systems in the fixed service
     in the 21.4 22 GHz frequency range for Region 2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2471/R-REP-F.2471-2019
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

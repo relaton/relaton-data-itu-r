@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1643-0
 title:
-- type: main
-  content: Technical and operational requirements for aircraft earth stations of aeronautical
+- content: Technical and operational requirements for aircraft earth stations of aeronautical
     mobile-satellite service including those using fixed-satellite service network
     transponders in the band 14-14.5 GHz (Earth-to-space)
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1643/R-REC-M.1643-0-200306-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

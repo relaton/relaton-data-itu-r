@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1905-1
 title:
-- type: main
-  content: Characteristics and protection criteria for receiving earth stations in
+- content: Characteristics and protection criteria for receiving earth stations in
     the radionavigation-satellite service (space-to-Earth) operating in the band 1
     164-1 215 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1905/R-REC-M.1905-1-201909-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

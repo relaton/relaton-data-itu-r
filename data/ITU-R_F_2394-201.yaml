@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.2394-201
 title:
-- type: main
-  content: Compatibility between point-to-point applications in the fixed service
+- content: Compatibility between point-to-point applications in the fixed service
     operating in the 71-76 GHz and 81-86 GHz bands and automotive radar applications
     in the radiolocation service operating in the 76-81 GHz bands
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2394/R-REP-F.2394-2016
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

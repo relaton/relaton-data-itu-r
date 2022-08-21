@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.377-4
 title:
-- type: main
-  content: Accuracy of frequency measurements at stations for international monitoring
+- content: Accuracy of frequency measurements at stations for international monitoring
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.377/R-REC-SM.377-4-200702-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

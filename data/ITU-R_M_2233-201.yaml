@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2233-201
 title:
-- type: main
-  content: Examples of technical characteristics for unmanned aircraft control and
+- content: Examples of technical characteristics for unmanned aircraft control and
     non-payload communications links
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2233/R-REP-M.2233-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

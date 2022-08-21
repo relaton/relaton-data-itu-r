@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.731-1
 title:
-- type: main
-  content: Reference earth-station cross-polarized radiation pattern for use in frequency
+- content: Reference earth-station cross-polarized radiation pattern for use in frequency
     coordination and interference assessment in the frequency range from 2 to about
     30 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.731/R-REC-S.731-1-200504-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.1519-0
 title:
-- type: main
-  content: Guidance on frequency arrangements based on frequency blocks for systems
+- content: Guidance on frequency arrangements based on frequency blocks for systems
     in the fixed service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1519/R-REC-F.1519-0-200105-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

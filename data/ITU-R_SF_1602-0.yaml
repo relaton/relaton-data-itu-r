@@ -1,14 +1,14 @@
 ---
 id: ITU-RSF.1602-0
 title:
-- type: main
-  content: Methodology for determining power flux-density statistics for use in sharing
+- content: Methodology for determining power flux-density statistics for use in sharing
     studies between fixed wireless systems and multiple fixed-satellite service satellites
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1602/R-REC-SF.1602-0-200302-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

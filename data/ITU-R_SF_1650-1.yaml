@@ -1,8 +1,7 @@
 ---
 id: ITU-RSF.1650-1
 title:
-- type: main
-  content: The minimum distance from the baseline beyond which in-motion earth stations
+- content: The minimum distance from the baseline beyond which in-motion earth stations
     located on board vessels would not cause unacceptable interference to the terrestrial
     service in the bands 5 925-6 425 MHz and 14-14.5 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1650/R-REC-SF.1650-1-200502-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

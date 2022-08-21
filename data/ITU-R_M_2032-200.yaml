@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2032-200
 title:
-- type: main
-  content: Tests illustrating the compatibility between maritime radionavigation radars
+- content: Tests illustrating the compatibility between maritime radionavigation radars
     and emissions from radiolocation radars in the band 2 900-3 100 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2032/R-REP-M.2032-2003
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

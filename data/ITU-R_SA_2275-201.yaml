@@ -1,14 +1,14 @@
 ---
 id: ITU-RSA.2275-201
 title:
-- type: main
-  content: Sharing between the EESS (Earth-to-space) and the fixed service in the
+- content: Sharing between the EESS (Earth-to-space) and the fixed service in the
     7-8 GHz range
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2275/R-REP-SA.2275-2013
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

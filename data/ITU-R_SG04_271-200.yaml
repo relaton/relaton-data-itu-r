@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG04.271-200
 title:
-- type: main
-  content: Interference between satellite news gathering (SNG) carriers by unintentional
+- content: Interference between satellite news gathering (SNG) carriers by unintentional
     access
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.271/R-QUE-SG04.271-2004
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

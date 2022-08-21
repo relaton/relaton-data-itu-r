@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.1777-2
 title:
-- type: main
-  content: System characteristics of television outside broadcast, electronic news
+- content: System characteristics of television outside broadcast, electronic news
     gathering and electronic field production in the fixed service for use in sharing
     studies
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1777/R-REC-F.1777-2-201801-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

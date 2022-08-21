@@ -1,14 +1,14 @@
 ---
 id: ITU-RSA.2191-201
 title:
-- type: main
-  content: Spectrum requirements for future SRS missions operating under a potential
+- content: Spectrum requirements for future SRS missions operating under a potential
     new SRS allocation in the band 22.55-23.15 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2191/R-REP-SA.2191-2010
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

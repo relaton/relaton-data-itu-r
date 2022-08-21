@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1143-3
 title:
-- type: main
-  content: System specific methodology for coordination of non-geostationary space
+- content: System specific methodology for coordination of non-geostationary space
     stations (space-to-Earth) operating in the mobile-satellite service with the fixed
     service
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1143/R-REC-M.1143-3-200506-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

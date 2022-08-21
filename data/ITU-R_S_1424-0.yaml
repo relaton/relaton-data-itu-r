@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1424-0
 title:
-- type: main
-  content: Availability objectives for a hypothetical reference digital path when
+- content: Availability objectives for a hypothetical reference digital path when
     used for the transmission of B-ISDN asynchronous transfer mode in the fixed-satellite
     service by geostationary orbit satellite systems using frequencies below 15 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1424/R-REC-S.1424-0-200001-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

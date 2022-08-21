@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.1114-11
 title:
-- type: main
-  content: Systems for terrestrial digital sound broadcasting to vehicular, portable
+- content: Systems for terrestrial digital sound broadcasting to vehicular, portable
     and fixed receivers in the frequency range 30-3 000 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1114/R-REC-BS.1114-11-201906-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

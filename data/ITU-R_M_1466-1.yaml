@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1466-1
 title:
-- type: main
-  content: Characteristics of and protection criteria for radars operating in the
+- content: Characteristics of and protection criteria for radars operating in the
     radionavigation service in the frequency band 31.8-33.4 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1466/R-REC-M.1466-1-201701-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

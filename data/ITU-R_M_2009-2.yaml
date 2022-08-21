@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2009-2
 title:
-- type: main
-  content: Radio interface standards for use by public protection and disaster relief
+- content: Radio interface standards for use by public protection and disaster relief
     operations in accordance with Resolution 646 (Rev.WRC-15)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2009/R-REC-M.2009-2-201901-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

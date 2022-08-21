@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2236-201
 title:
-- type: main
-  content: Compatibility study to support the line of sight control and non-payload
+- content: Compatibility study to support the line of sight control and non-payload
     communication links for unmanned aircraft systems proposed in the frequency bands
     5 000-5 010 and 5 010-5 030 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2236/R-REP-M.2236-2011
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

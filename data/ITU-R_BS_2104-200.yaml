@@ -1,13 +1,13 @@
 ---
 id: ITU-RBS.2104-200
 title:
-- type: main
-  content: FM modulator interference to broadcast services
+- content: FM modulator interference to broadcast services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2104/R-REP-BS.2104-2007
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

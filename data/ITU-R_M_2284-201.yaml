@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2284-201
 title:
-- type: main
-  content: Compatibility of radio-navigation satellite service (space-to-Earth) systems
+- content: Compatibility of radio-navigation satellite service (space-to-Earth) systems
     and radars operating in the frequency band 1 215-1 300 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2284/R-REP-M.2284-2013
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1641-1
 title:
-- type: main
-  content: 'A methodology for co-channel interference evaluation to determine separation
+- content: 'A methodology for co-channel interference evaluation to determine separation
     distance from a system using high-altitude platform stations to a cellular system
     to provide IMT-2000 service
 
@@ -12,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1641/R-REC-M.1641-1-200603-I
   type: src
@@ -30,5 +30,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

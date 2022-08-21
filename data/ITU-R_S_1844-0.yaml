@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.1844-0
 title:
-- type: main
-  content: Cross-polarization reference gain pattern for linearly polarized very small
+- content: Cross-polarization reference gain pattern for linearly polarized very small
     aperture terminals (VSAT) for frequencies in the range 2 to 31 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1844/R-REC-S.1844-0-200902-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.2151-1
 title:
-- type: main
-  content: Use and examples of systems in the fixed-satellite service in the event
+- content: Use and examples of systems in the fixed-satellite service in the event
     of natural disasters and similar emergencies for warning and relief operations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2151/R-REP-S.2151-1-2012
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,14 +1,14 @@
 ---
 id: ITU-RR.61-2
 title:
-- type: main
-  content: ITU-R's contribution in implementing the outcomes of the  World Summit
+- content: ITU-R's contribution in implementing the outcomes of the  World Summit
     on the Information Society and the  2030 Agenda for Sustainable Development
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.61/R-RES-R.61-2-2019
   type: src
@@ -30,5 +30,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: resolution

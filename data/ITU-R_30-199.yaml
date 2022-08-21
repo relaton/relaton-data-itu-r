@@ -1,14 +1,14 @@
 ---
 id: ITU-R30-199
 title:
-- type: main
-  content: 'Land Mobile (including Wireless Access) - Volume 2: Principles and Approaches
+- content: 'Land Mobile (including Wireless Access) - Volume 2: Principles and Approaches
     on Evolution to IMT-2000/FPLMTS'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-30/R-HDB-30-1997
   type: src
@@ -40,5 +40,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

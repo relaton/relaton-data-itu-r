@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.2199-201
 title:
-- type: main
-  content: Studies on compatibility of broadband wireless access (BWA) systems and
+- content: Studies on compatibility of broadband wireless access (BWA) systems and
     fixed-satellite service (FSS) networks in the 3 400-4 200 MHz band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2199/R-REP-S.2199-2010
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

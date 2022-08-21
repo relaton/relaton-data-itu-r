@@ -1,14 +1,14 @@
 ---
 id: ITU-RSF.765-1
 title:
-- type: main
-  content: Intersection of radio-relay antenna beams with orbits used by space stations
+- content: Intersection of radio-relay antenna beams with orbits used by space stations
     in the fixed-satellite service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.765/R-REC-SF.765-1-200302-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

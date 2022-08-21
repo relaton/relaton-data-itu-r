@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2420-1
 title:
-- type: main
-  content: Collection of usage scenarios and current statuses of advanced immersive
+- content: Collection of usage scenarios and current statuses of advanced immersive
     audio-visual (AIAV) systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2420/R-REP-BT.2420-1-2020
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

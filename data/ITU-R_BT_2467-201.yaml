@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2467-201
 title:
-- type: main
-  content: Methods for the evaluation of the quality of service of second generation
+- content: Methods for the evaluation of the quality of service of second generation
     DTTB systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2467/R-REP-BT.2467-2019
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

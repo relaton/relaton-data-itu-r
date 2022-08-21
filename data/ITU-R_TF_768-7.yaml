@@ -1,13 +1,13 @@
 ---
 id: ITU-RTF.768-7
 title:
-- type: main
-  content: Standard frequencies and time signals
+- content: Standard frequencies and time signals
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.768/R-REC-TF.768-7-201104-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RSM.2423-201
 title:
-- type: main
-  content: Technical and operational aspects of low-power wide-area networks for machine-type
+- content: Technical and operational aspects of low-power wide-area networks for machine-type
     communication and the Internet of Things in frequency ranges harmonised for SRD
     operation
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2423/R-REP-SM.2423-2018
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

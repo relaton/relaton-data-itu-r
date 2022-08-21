@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1720-0
 title:
-- type: main
-  content: Quality of service ranking and measurement methods for digital video broadcasting
+- content: Quality of service ranking and measurement methods for digital video broadcasting
     services delivered over broadband Internet protocol networks
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1720/R-REC-BT.1720-0-200507-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

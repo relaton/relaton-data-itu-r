@@ -1,8 +1,7 @@
 ---
 id: ITU-RSA.2193-201
 title:
-- type: main
-  content: Compatibility between the space research service (Earth-to-space) and the
+- content: Compatibility between the space research service (Earth-to-space) and the
     systems in the fixed, mobile and inter-satellite service in the band 22.55-23.15
     GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2193/R-REP-SA.2193-2010
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

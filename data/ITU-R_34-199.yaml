@@ -1,13 +1,13 @@
 ---
 id: ITU-R34-199
 title:
-- type: main
-  content: Technical Specifications of ITU-R Teletext Systems
+- content: Technical Specifications of ITU-R Teletext Systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-34/R-HDB-34-1999
   type: src
@@ -41,5 +41,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

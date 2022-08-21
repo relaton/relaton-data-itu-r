@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1165-199
 title:
-- type: main
-  content: Transmission of digital data for the updating of electronic chart display
+- content: Transmission of digital data for the updating of electronic chart display
     systems (ECDIS)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.1165/R-REP-M.1165-1990
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.2084-200
 title:
-- type: main
-  content: Satellite detection of automatic identification system messages
+- content: Satellite detection of automatic identification system messages
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2084/R-REP-M.2084-2007
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

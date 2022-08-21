@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.1603-2
 title:
-- type: main
-  content: Spectrum redeployment as a method of national spectrum management
+- content: Spectrum redeployment as a method of national spectrum management
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1603/R-REC-SM.1603-2-201408-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

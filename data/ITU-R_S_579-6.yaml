@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.579-6
 title:
-- type: main
-  content: Availability objectives for a hypothetical reference circuits and hypothetical
+- content: Availability objectives for a hypothetical reference circuits and hypothetical
     reference digital paths when used for telephony using pulse code modulation, or
     as part of an integrated services digital network hypothetical reference connection,
     in the f...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.579/R-REC-S.579-6-200504-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

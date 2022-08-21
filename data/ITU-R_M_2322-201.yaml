@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2322-201
 title:
-- type: main
-  content: Systems characteristics and compatibility of automotive radars operating
+- content: Systems characteristics and compatibility of automotive radars operating
     in the frequency band 77.5-78 GHz for sharing studies
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2322/R-REP-M.2322-2014
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

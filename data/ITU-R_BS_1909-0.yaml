@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.1909-0
 title:
-- type: main
-  content: Performance requirements for an advanced multichannel stereophonic sound
+- content: Performance requirements for an advanced multichannel stereophonic sound
     system for use with or without accompanying picture
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1909/R-REC-BS.1909-0-201201-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

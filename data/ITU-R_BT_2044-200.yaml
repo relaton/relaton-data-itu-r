@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2044-200
 title:
-- type: main
-  content: Tolerable round-trip time delay for sound-programme and television broadcast
+- content: Tolerable round-trip time delay for sound-programme and television broadcast
     programme inserts - Context and rationale
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2044/R-REP-BT.2044-2004
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

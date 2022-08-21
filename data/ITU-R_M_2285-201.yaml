@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2285-201
 title:
-- type: main
-  content: Maritime survivor locating systems and devices (man overboard systems)
+- content: Maritime survivor locating systems and devices (man overboard systems)
     - An overview of systems and their mode of operation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2285/R-REP-M.2285-2014
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

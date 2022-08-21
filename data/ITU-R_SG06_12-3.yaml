@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG06.12-3
 title:
-- type: main
-  content: Generic bit-rate reduction coding of digital video signals for production,
+- content: Generic bit-rate reduction coding of digital video signals for production,
     for contribution, for primary and secondary distribution, for emission and for
     related applications
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.12/R-QUE-SG06.12-3-2012
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

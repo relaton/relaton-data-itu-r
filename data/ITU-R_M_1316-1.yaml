@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1316-1
 title:
-- type: main
-  content: Principles and a methodology for frequency sharing in the 1 610.6-1 613.8
+- content: Principles and a methodology for frequency sharing in the 1 610.6-1 613.8
     MHz and 1 660-1 660.5 MHz bands between the mobile-satellite service (Earth-to-space)
     and the radio astronomy service
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1316/R-REC-M.1316-1-200506-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

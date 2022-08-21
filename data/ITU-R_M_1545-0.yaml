@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1545-0
 title:
-- type: main
-  content: Measurement uncertainty as it applies to test limits for the terrestrial
+- content: Measurement uncertainty as it applies to test limits for the terrestrial
     component of International Mobile Telecommunications-2000
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1545/R-REC-M.1545-0-200108-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG06.143-1
 title:
-- type: main
-  content: 'Advanced Immersive Audio-Visual Systems for Programme Production and Exchange
+- content: 'Advanced Immersive Audio-Visual Systems for Programme Production and Exchange
     for Broadcasting
 
     '
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.143/R-QUE-SG06.143-1-2019
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

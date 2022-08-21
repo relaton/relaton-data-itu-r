@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.2028-0
 title:
-- type: main
-  content: Protection distance calculation between inductive systems and radiocommunication
+- content: Protection distance calculation between inductive systems and radiocommunication
     services using frequencies below 30 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2028/R-REC-SM.2028-0-201209-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

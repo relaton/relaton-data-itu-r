@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.1839-1
 title:
-- type: main
-  content: Test procedure for measuring the scanning speed of radio monitoring receivers
+- content: Test procedure for measuring the scanning speed of radio monitoring receivers
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1839/R-REC-SM.1839-1-201109-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1228-0
 title:
-- type: main
-  content: Methodology for determining performance objectives for narrow-band channels
+- content: Methodology for determining performance objectives for narrow-band channels
     in mobile satellite systems using geostationary satellites not forming part of
     the ISDN
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1228/R-REC-M.1228-0-199702-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

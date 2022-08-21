@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2270-201
 title:
-- type: main
-  content: The radio source visualizing technology for spectrum monitoring
+- content: The radio source visualizing technology for spectrum monitoring
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2270/R-REP-SM.2270-2013
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

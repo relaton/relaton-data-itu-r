@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.1553-0
 title:
-- type: main
-  content: A possible method to account for environmental and other effects on satellite
+- content: A possible method to account for environmental and other effects on satellite
     antenna patterns
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1553/R-REC-S.1553-0-200203-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

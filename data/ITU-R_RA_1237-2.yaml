@@ -1,14 +1,14 @@
 ---
 id: ITU-RRA.1237-2
 title:
-- type: main
-  content: Protection of the radio astronomy service from unwanted emissions resulting
+- content: Protection of the radio astronomy service from unwanted emissions resulting
     from applications of wideband digital modulation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RA/R-REC-RA.1237/R-REC-RA.1237-2-201001-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

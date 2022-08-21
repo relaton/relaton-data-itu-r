@@ -1,13 +1,13 @@
 ---
 id: ITU-RF.302-3
 title:
-- type: main
-  content: Limitation of interference from trans-horizon radio-relay systems
+- content: Limitation of interference from trans-horizon radio-relay systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.302/R-REC-F.302-3-199705-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

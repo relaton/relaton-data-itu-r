@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG06.145-201
 title:
-- type: main
-  content: 'Systems for enabling access to broadcast and cooperative media for persons
+- content: 'Systems for enabling access to broadcast and cooperative media for persons
     with disabilities
 
     '
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.145/R-QUE-SG06.145-2019
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

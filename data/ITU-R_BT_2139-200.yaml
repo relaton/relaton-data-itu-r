@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.2139-200
 title:
-- type: main
-  content: Diversity reception of digital terrestrial television broadcasting signals
+- content: Diversity reception of digital terrestrial television broadcasting signals
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2139/R-REP-BT.2139-2009
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

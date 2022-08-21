@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2378-201
 title:
-- type: main
-  content: Operational guidelines for the deployment of broadband wireless access
+- content: Operational guidelines for the deployment of broadband wireless access
     systems for local coverage operating below 6 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2378/R-REP-M.2378-2015
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.1763-1
 title:
-- type: main
-  content: Radio interface standards for broadband wireless access systems in the
+- content: Radio interface standards for broadband wireless access systems in the
     fixed service operating below 66 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1763/R-REC-F.1763-1-201402-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

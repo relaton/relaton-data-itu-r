@@ -1,8 +1,7 @@
 ---
 id: ITU-RBT.1867-0
 title:
-- type: main
-  content: Objective perceptual visual quality measurement techniques for broadcasting
+- content: Objective perceptual visual quality measurement techniques for broadcasting
     applications using low definition television in the presence of a reduced bandwidth
     reference
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1867/R-REC-BT.1867-0-201003-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

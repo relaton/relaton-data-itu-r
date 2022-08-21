@@ -1,14 +1,14 @@
 ---
 id: ITU-R51-200
 title:
-- type: main
-  content: Supplements No. 1, 2, 3 and 4  to Handbook on Mobile-satellite service
+- content: Supplements No. 1, 2, 3 and 4  to Handbook on Mobile-satellite service
     (MSS)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-51/R-HDB-51-2006
   type: src
@@ -42,5 +42,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

@@ -1,14 +1,14 @@
 ---
 id: ITU-RBO.1408-1
 title:
-- type: main
-  content: Transmission system for advanced multimedia services provided by integrated
+- content: Transmission system for advanced multimedia services provided by integrated
     services digital broadcasting in a broadcasting-satellite channel
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1408/R-REC-BO.1408-1-200204-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

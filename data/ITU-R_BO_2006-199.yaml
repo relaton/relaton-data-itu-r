@@ -1,14 +1,14 @@
 ---
 id: ITU-RBO.2006-199
 title:
-- type: main
-  content: Introduction of satellite and complementary terrestrial digital sound broadcasting
+- content: Introduction of satellite and complementary terrestrial digital sound broadcasting
     in the WARC-92 frequency allocations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.2006/R-REP-BO.2006-1995
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

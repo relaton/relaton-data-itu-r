@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG05.260-201
 title:
-- type: main
-  content: 'Coexistence analysis between foreign object debris detection systems operating
+- content: 'Coexistence analysis between foreign object debris detection systems operating
     in the frequency range 92 to 100 GHz and earth exploration satellite service sensors
     in-band and in adjacent bands
 
@@ -12,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.260/R-QUE-SG05.260-2019
   type: src
@@ -30,5 +30,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

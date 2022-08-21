@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG04.267-200
 title:
-- type: main
-  content: Technical and operational considerations relating to the advance publication,
+- content: Technical and operational considerations relating to the advance publication,
     coordination and notification of fixed-satellite networks
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.267/R-QUE-SG04.267-2003
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2218-201
 title:
-- type: main
-  content: Traffic forecasts and estimated spectrum requirements for future development
+- content: Traffic forecasts and estimated spectrum requirements for future development
     of the mobile-satellite service in the range 4 16 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2218/R-REP-M.2218-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

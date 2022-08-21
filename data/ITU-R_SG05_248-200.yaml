@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG05.248-200
 title:
-- type: main
-  content: Technical and operational characteristics for systems in the fixed service
+- content: Technical and operational characteristics for systems in the fixed service
     used for disaster mitigation and relief
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.248/R-QUE-SG05.248-2008
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

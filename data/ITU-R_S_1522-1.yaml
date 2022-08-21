@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.1522-1
 title:
-- type: main
-  content: Impact of loss of synchronization recovery time on availability in hypothetical
+- content: Impact of loss of synchronization recovery time on availability in hypothetical
     reference digital paths
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1522/R-REC-S.1522-1-200502-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

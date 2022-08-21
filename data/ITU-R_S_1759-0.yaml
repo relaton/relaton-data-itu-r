@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1759-0
 title:
-- type: main
-  content: Analysis of interference from HEO system space operation transmissions
+- content: Analysis of interference from HEO system space operation transmissions
     in FSS bands into GSO networks and corresponding guidelines to be  used for designing
     and operating TT&C for HEO-type FSS system
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1759/R-REC-S.1759-0-200604-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

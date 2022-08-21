@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.2102-0
 title:
-- type: main
-  content: Allocation and ordering of audio channels to formats containing 12-, 16-
+- content: Allocation and ordering of audio channels to formats containing 12-, 16-
     and 32-tracks of audio
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2102/R-REC-BS.2102-0-201701-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

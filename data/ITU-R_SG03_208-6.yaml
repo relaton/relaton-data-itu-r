@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG03.208-6
 title:
-- type: main
-  content: Propagation factors in frequency sharing issues affecting space radiocommunication
+- content: Propagation factors in frequency sharing issues affecting space radiocommunication
     services and terrestrial services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.208/R-QUE-SG03.208-6-2019
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

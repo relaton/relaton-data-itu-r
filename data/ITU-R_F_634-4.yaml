@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.634-4
 title:
-- type: main
-  content: Error performance objectives for real digital radio-relay links forming
+- content: Error performance objectives for real digital radio-relay links forming
     part of the high-grade portion of international digital connections at a bit rate
     below the primary rate within an integrated services digital network
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.634/R-REC-F.634-4-199707-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

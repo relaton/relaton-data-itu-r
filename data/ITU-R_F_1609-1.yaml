@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.1609-1
 title:
-- type: main
-  content: Interference evaluation from fixed service systems using high altitude
+- content: Interference evaluation from fixed service systems using high altitude
     platform stations to conventional fixed service systems in the bands 27.5-28.35
     GHz and 31-31.3 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1609/R-REC-F.1609-1-200604-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

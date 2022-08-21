@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.483-3
 title:
-- type: main
-  content: Maximum permissible level of interference in a television channel of a
+- content: Maximum permissible level of interference in a television channel of a
     geostationary-satellite network in the fixed-satellite service employing frequency
     modulation, caused by other networks of this service
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.483/R-REC-S.483-3-199705-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

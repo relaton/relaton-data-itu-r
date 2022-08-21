@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2302-201
 title:
-- type: main
-  content: Spectrum requirements for terrestrial television broadcasting in the UHF
+- content: Spectrum requirements for terrestrial television broadcasting in the UHF
     frequency band in Region 1 and the Islamic Republic of Iran
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2302/R-REP-BT.2302-2014
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

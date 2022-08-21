@@ -1,14 +1,14 @@
 ---
 id: ITU-RSA.1018-1
 title:
-- type: main
-  content: Hypothetical reference system for systems comprising data relay satellites
+- content: Hypothetical reference system for systems comprising data relay satellites
     in the geostationary orbit and user spacecraft in low Earth-orbits
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1018/R-REC-SA.1018-1-201707-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

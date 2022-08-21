@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2113-1
 title:
-- type: main
-  content: Sharing studies in the 2 500-2 690 MHz band between IMT-2000 and fixed
+- content: Sharing studies in the 2 500-2 690 MHz band between IMT-2000 and fixed
     broadband wireless access systems including nomadic applications in the same geographical
     area
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2113/R-REP-M.2113-1-2009
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

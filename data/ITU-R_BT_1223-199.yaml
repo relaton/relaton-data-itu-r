@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.1223-199
 title:
-- type: main
-  content: A layered model approach for digital television
+- content: A layered model approach for digital television
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.1223/R-REP-BT.1223-1990
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

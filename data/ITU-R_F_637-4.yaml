@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.637-4
 title:
-- type: main
-  content: Radio-frequency channel arrangements for fixed wireless systems operating
+- content: Radio-frequency channel arrangements for fixed wireless systems operating
     in the 21.2-23.6  GHz band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.637/R-REC-F.637-4-201203-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,13 +1,13 @@
 ---
 id: ITU-RBO.791-0
 title:
-- type: main
-  content: Choice of polarization for the broadcasting-satellite service
+- content: Choice of polarization for the broadcasting-satellite service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.791/R-REC-BO.791-0-199203-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

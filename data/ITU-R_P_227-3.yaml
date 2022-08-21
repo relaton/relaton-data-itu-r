@@ -1,13 +1,13 @@
 ---
 id: ITU-RP.227-3
 title:
-- type: main
-  content: General methods of measuring the field strength and related parameters
+- content: General methods of measuring the field strength and related parameters
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-P/R-REP-P.227/R-REP-P.227-3-1982
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

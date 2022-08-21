@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1161-199
 title:
-- type: main
-  content: Use of MF/HF DSC for automatic connection of calls in the maritime-mobile
+- content: Use of MF/HF DSC for automatic connection of calls in the maritime-mobile
     service MF and HF bands to the public switched network
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.1161/R-REP-M.1161-1990
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.1021-198
 title:
-- type: main
-  content: Equipment characteristics for digital transmission in the land mobile services
+- content: Equipment characteristics for digital transmission in the land mobile services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.1021/R-REP-M.1021-1986
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

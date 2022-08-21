@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1453-2
 title:
-- type: main
-  content: Intelligent transport systems - Dedicated short range communications at
+- content: Intelligent transport systems - Dedicated short range communications at
     5.8 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1453/R-REC-M.1453-2-200506-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

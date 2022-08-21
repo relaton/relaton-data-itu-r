@@ -1,13 +1,13 @@
 ---
 id: ITU-RSNG.771-1
 title:
-- type: main
-  content: Auxiliary coordination satellite circuits for SNG terminals
+- content: Auxiliary coordination satellite circuits for SNG terminals
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SNG/R-REC-SNG.771/R-REC-SNG.771-1-199304-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

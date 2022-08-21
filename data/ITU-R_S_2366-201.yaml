@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.2366-201
 title:
-- type: main
-  content: Assessment on use of spectrum in the 13-17 GHz range for the GSO fixed-satellite
+- content: Assessment on use of spectrum in the 13-17 GHz range for the GSO fixed-satellite
     service in Regions 2 and 3
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-S/R-REP-S.2366/R-REP-S.2366-2015
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

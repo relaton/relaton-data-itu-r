@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.2107-0
 title:
-- type: main
-  content: Use of International Radio for Disaster Relief frequencies for emergency
+- content: Use of International Radio for Disaster Relief frequencies for emergency
     broadcasts in the High Frequency bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.2107/R-REC-BS.2107-0-201706-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

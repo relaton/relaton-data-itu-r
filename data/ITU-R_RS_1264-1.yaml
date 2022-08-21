@@ -1,14 +1,14 @@
 ---
 id: ITU-RRS.1264-1
 title:
-- type: main
-  content: Feasibility of frequency sharing between the meteorological aids service
+- content: Feasibility of frequency sharing between the meteorological aids service
     and the mobile-satellite service (Earth-to-space) in the 1 668.4-1 700 MHz band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1264/R-REC-RS.1264-1-200305-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

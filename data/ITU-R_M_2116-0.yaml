@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2116-0
 title:
-- type: main
-  content: Technical characteristics and protection criteria for the aeronautical
+- content: Technical characteristics and protection criteria for the aeronautical
     mobile service systems operating within the 4 400-4 990 MHz frequency range
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2116/R-REC-M.2116-0-201801-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.763-5
 title:
-- type: main
-  content: Data transmission over HF circuits using phase shift keying or quadrature
+- content: Data transmission over HF circuits using phase shift keying or quadrature
     amplitude modulation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.763/R-REC-F.763-5-200501-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

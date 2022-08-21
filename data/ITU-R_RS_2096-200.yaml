@@ -1,14 +1,14 @@
 ---
 id: ITU-RRS.2096-200
 title:
-- type: main
-  content: Sharing of the 10.6-10.68 GHz band by the fixed and mobile services and
+- content: Sharing of the 10.6-10.68 GHz band by the fixed and mobile services and
     the Earth exploration-satellite service (passive)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2096/R-REP-RS.2096-2007
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

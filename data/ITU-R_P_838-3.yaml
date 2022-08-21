@@ -1,13 +1,13 @@
 ---
 id: ITU-RP.838-3
 title:
-- type: main
-  content: Specific attenuation model for rain for use in prediction methods
+- content: Specific attenuation model for rain for use in prediction methods
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.838/R-REC-P.838-3-200503-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

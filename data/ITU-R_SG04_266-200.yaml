@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG04.266-200
 title:
-- type: main
-  content: Technical characteristics of high-density fixed-satellite service earth
+- content: Technical characteristics of high-density fixed-satellite service earth
     stations operating with geostationary satellite orbit fixed-satellite service
     networks in the 20/30 GHz bands
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.266/R-QUE-SG04.266-2001
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

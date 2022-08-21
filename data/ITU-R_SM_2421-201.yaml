@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2421-201
 title:
-- type: main
-  content: Unwanted emissions of digital radio systems
+- content: Unwanted emissions of digital radio systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2421/R-REP-SM.2421-2018
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

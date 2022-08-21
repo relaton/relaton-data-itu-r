@@ -1,13 +1,13 @@
 ---
 id: ITU-R60-200
 title:
-- type: main
-  content: Deployment of IMT-2000 Systems
+- content: Deployment of IMT-2000 Systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-60/R-HDB-60-2003
   type: src
@@ -40,5 +40,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

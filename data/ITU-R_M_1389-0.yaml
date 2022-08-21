@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1389-0
 title:
-- type: main
-  content: Methods for achieving coordinated use of spectrum by multiple non-geostationary
+- content: Methods for achieving coordinated use of spectrum by multiple non-geostationary
     mobile-satellite service systems below 1 GHz and sharing with other services in
     existing mobile-satellite service allocations
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1389/R-REC-M.1389-0-199901-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

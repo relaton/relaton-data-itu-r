@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2021-200
 title:
-- type: main
-  content: Production and mitigation of intermodulation products in the transmitter
+- content: Production and mitigation of intermodulation products in the transmitter
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2021/R-REP-SM.2021-2000
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

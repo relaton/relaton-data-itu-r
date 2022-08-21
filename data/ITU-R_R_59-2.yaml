@@ -1,8 +1,7 @@
 ---
 id: ITU-RR.59-2
 title:
-- type: main
-  content: Studies on availability of frequency bands for worldwide and/or regional
+- content: Studies on availability of frequency bands for worldwide and/or regional
     harmonization and conditions for their use by terrestrial electronic news gathering
     systems
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.59/R-RES-R.59-2-2019
   type: src
@@ -31,5 +31,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: resolution

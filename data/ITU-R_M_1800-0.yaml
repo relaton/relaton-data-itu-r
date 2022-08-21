@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1800-0
 title:
-- type: main
-  content: Protection of the fixed, mobile and radiolocation services from MSS feeder
+- content: Protection of the fixed, mobile and radiolocation services from MSS feeder
     links that may operate in the bands 1 390-1 392 MHz (Earth-to-space) and 1 430-1
     432 MHz (space-to-Earth)
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1800/R-REC-M.1800-0-200703-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

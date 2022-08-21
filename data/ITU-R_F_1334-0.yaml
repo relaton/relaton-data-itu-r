@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.1334-0
 title:
-- type: main
-  content: Protection criteria for systems in the fixed service sharing the same frequency
+- content: Protection criteria for systems in the fixed service sharing the same frequency
     bands in the 1 to 3 GHz range with the land mobile service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1334/R-REC-F.1334-0-199707-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

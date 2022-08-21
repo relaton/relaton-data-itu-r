@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1747-0
 title:
-- type: main
-  content: Protection of the Earth exploration-satellite service (passive) in the
+- content: Protection of the Earth exploration-satellite service (passive) in the
     band 1 400-1 427 MHz from unwanted emissions of mobile satellite service feeder
     links that may operate in the bands 1 390-1 392 MHz (Earth-to-space) and 1 430-1
     432 MHz (space-to-Ea...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1747/R-REC-M.1747-0-200603-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

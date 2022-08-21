@@ -1,13 +1,13 @@
 ---
 id: ITU-RSA.2177-201
 title:
-- type: main
-  content: Selection of frequency bands in the 1-120 GHz range for deep-space research
+- content: Selection of frequency bands in the 1-120 GHz range for deep-space research
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2177/R-REP-SA.2177-2010
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

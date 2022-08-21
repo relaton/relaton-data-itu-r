@@ -1,8 +1,7 @@
 ---
 id: ITU-RRS.2185-201
 title:
-- type: main
-  content: Study on compatibility between "arrival time difference" (ATD) stations
+- content: Study on compatibility between "arrival time difference" (ATD) stations
     of the meteorological aids service and stations of the radionavigation service
     in the frequency band 9 to 14 kHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2185/R-REP-RS.2185-2010
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

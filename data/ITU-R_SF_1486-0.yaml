@@ -1,8 +1,7 @@
 ---
 id: ITU-RSF.1486-0
 title:
-- type: main
-  content: Sharing methodology between fixed wireless access systems in the fixed
+- content: Sharing methodology between fixed wireless access systems in the fixed
     service and very small aperture terminals in the fixed-satellite service in the
     3 400-3 700 MHz band
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1486/R-REC-SF.1486-0-200005-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RBO.631-4
 title:
-- type: main
-  content: Frequency sharing between the broadcasting-satellite service (sound and
+- content: Frequency sharing between the broadcasting-satellite service (sound and
     television) and terrestrial services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.631/R-REP-BO.631-4-1990
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

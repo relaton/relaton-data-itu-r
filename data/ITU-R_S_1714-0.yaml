@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.1714-0
 title:
-- type: main
-  content: Static methodology for calculating epfddown to facilitate coordination
+- content: Static methodology for calculating epfddown to facilitate coordination
     of very large antennas under Nos. 9.7A and 9.7B of the Radio Regulations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1714/R-REC-S.1714-0-200504-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

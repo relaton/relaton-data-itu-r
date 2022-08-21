@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2392-201
 title:
-- type: main
-  content: Applications of wireless power transmission via radio frequency beam
+- content: Applications of wireless power transmission via radio frequency beam
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2392/R-REP-SM.2392-2016
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,8 +1,7 @@
 ---
 id: ITU-RF.2327-201
 title:
-- type: main
-  content: Sharing and compatibility study between International Mobile Telecommunication
+- content: Sharing and compatibility study between International Mobile Telecommunication
     systems and point-to-point fixed wireless systems in the frequency band 4 400-4
     990 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2327/R-REP-F.2327-2014
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

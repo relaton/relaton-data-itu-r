@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2168-1
 title:
-- type: main
-  content: Compatibility between a proposed new aeronautical mobile (R) service (AM(R)S)
+- content: Compatibility between a proposed new aeronautical mobile (R) service (AM(R)S)
     system and both radionavigation-satellite service (RNSS) operating in the 5 000-5
     010 MHz band and radio astronomy in the adjacent band 4 990-5 000 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2168/R-REP-M.2168-1-2010
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

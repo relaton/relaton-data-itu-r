@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.2009-199
 title:
-- type: main
-  content: Direct-dial telephone systems for the maritime mobile service
+- content: Direct-dial telephone systems for the maritime mobile service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2009/R-REP-M.2009-1995
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

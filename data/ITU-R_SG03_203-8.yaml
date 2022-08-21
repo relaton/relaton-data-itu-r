@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG03.203-8
 title:
-- type: main
-  content: 'Propagation prediction methods for terrestrial broadcasting, fixed (broadband
+- content: 'Propagation prediction methods for terrestrial broadcasting, fixed (broadband
     access) and mobile services using frequencies above 30 MHz<br/>
 
     '
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.203/R-QUE-SG03.203-8-2019
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

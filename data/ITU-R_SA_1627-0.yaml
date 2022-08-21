@@ -1,14 +1,14 @@
 ---
 id: ITU-RSA.1627-0
 title:
-- type: main
-  content: Telecommunication requirements and characteristics of EESS and MetSat service
+- content: Telecommunication requirements and characteristics of EESS and MetSat service
     systems for data collection and platform location
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1627/R-REC-SA.1627-0-200305-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

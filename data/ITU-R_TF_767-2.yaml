@@ -1,13 +1,13 @@
 ---
 id: ITU-RTF.767-2
 title:
-- type: main
-  content: Use of global navigation satellite systems for high-accuracy time transfer
+- content: Use of global navigation satellite systems for high-accuracy time transfer
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.767/R-REC-TF.767-2-200103-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

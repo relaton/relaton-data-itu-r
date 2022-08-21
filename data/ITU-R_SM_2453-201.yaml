@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2453-201
 title:
-- type: main
-  content: Cooperation in the field of space radio monitoring
+- content: Cooperation in the field of space radio monitoring
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2453/R-REP-SM.2453-2019
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

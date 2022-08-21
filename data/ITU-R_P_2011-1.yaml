@@ -1,13 +1,13 @@
 ---
 id: ITU-RP.2011-1
 title:
-- type: main
-  content: Propagation at frequencies above the basic MUF
+- content: Propagation at frequencies above the basic MUF
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-P/R-REP-P.2011/R-REP-P.2011-1-1999
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

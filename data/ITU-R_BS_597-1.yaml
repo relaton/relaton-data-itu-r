@@ -1,13 +1,13 @@
 ---
 id: ITU-RBS.597-1
 title:
-- type: main
-  content: Channel spacing for sound broadcasting in band 7 (HF)
+- content: Channel spacing for sound broadcasting in band 7 (HF)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.597/R-REC-BS.597-1-198607-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

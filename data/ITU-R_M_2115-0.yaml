@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2115-0
 title:
-- type: main
-  content: Technical and operational characteristics of and protection criteria for
+- content: Technical and operational characteristics of and protection criteria for
     aeronautical mobile systems operating in the 45.5-47 GHz frequency range
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2115/R-REC-M.2115-0-201801-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

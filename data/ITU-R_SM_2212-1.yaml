@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.2212-1
 title:
-- type: main
-  content: Impact of power line telecommunication systems on radiocommunication systems
+- content: Impact of power line telecommunication systems on radiocommunication systems
     operating in the VHF and UHF bands above 80 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2212/R-REP-SM.2212-1-2012
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

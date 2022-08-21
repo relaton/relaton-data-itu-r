@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2068-0
 title:
-- type: main
-  content: Characteristics of and protection criteria for systems operating in the
+- content: Characteristics of and protection criteria for systems operating in the
     mobile service in the frequency range 14.5-15.35 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2068/R-REC-M.2068-0-201502-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2220-201
 title:
-- type: main
-  content: Calculation method to determine aggregate interference parameters of pulsed
+- content: Calculation method to determine aggregate interference parameters of pulsed
     RF systems operating in and near the bands 1 164-1 215 MHz and 1 215 1 300 MHz
     that may impact radionavigation-satellite service airborne and ground-based receivers
     operating i...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2220/R-REP-M.2220-2011
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

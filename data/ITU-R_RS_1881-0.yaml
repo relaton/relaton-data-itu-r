@@ -1,14 +1,14 @@
 ---
 id: ITU-RRS.1881-0
 title:
-- type: main
-  content: Protection criteria for arrival time difference receivers operating in
+- content: Protection criteria for arrival time difference receivers operating in
     the meteorological aids service in the frequency band 9-11.3 kHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1881/R-REC-RS.1881-0-201102-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

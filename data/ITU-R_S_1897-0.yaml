@@ -1,13 +1,13 @@
 ---
 id: ITU-RS.1897-0
 title:
-- type: main
-  content: Cross-layer QoS provisioning in IP-based hybrid satellite-terrestrial networks
+- content: Cross-layer QoS provisioning in IP-based hybrid satellite-terrestrial networks
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1897/R-REC-S.1897-0-201201-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

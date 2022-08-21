@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1080-1
 title:
-- type: main
-  content: International exchange of television programmes with data-encoded captions
+- content: International exchange of television programmes with data-encoded captions
     (sub-titles)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.1080/R-REP-BT.1080-1-1990
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

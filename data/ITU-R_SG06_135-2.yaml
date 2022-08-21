@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG06.135-2
 title:
-- type: main
-  content: "System parameters for and management of digital sound systems with and
+- content: "System parameters for and management of digital sound systems with and
     without accompanying picture\n\n"
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.135/R-QUE-SG06.135-2-2019
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

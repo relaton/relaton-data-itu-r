@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.1067-198
 title:
-- type: main
-  content: Improvement of the reception quality in automobiles for frequency modulation
+- content: Improvement of the reception quality in automobiles for frequency modulation
     sound broadcasts in band 8 (VHF)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.1067/R-REP-BS.1067-1986
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

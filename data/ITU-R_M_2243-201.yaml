@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2243-201
 title:
-- type: main
-  content: Assessment of the global mobile broadband deployments and forecasts for
+- content: Assessment of the global mobile broadband deployments and forecasts for
     International Mobile Telecommunications
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2243/R-REP-M.2243-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

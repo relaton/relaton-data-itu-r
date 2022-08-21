@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2111-200
 title:
-- type: main
-  content: Sharing studies between IMT-Advanced and the radiolocation service in the
+- content: Sharing studies between IMT-Advanced and the radiolocation service in the
     3 400-3 700 MHz bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2111/R-REP-M.2111-2007
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

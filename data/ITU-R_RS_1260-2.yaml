@@ -1,14 +1,14 @@
 ---
 id: ITU-RRS.1260-2
 title:
-- type: main
-  content: Feasibility of sharing between active spaceborne sensors and other services
+- content: Feasibility of sharing between active spaceborne sensors and other services
     in the range 420-470 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1260/R-REC-RS.1260-2-201709-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

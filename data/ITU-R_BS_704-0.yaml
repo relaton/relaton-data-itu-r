@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.704-0
 title:
-- type: main
-  content: Characteristics of FM sound broadcasting reference receivers for planning
+- content: Characteristics of FM sound broadcasting reference receivers for planning
     purposes
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.704/R-REC-BS.704-0-199006-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

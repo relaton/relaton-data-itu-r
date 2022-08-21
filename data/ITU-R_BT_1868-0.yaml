@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1868-0
 title:
-- type: main
-  content: User requirements for codecs for transmission of television signals through
+- content: User requirements for codecs for transmission of television signals through
     contribution, primary distribution, and SNG networks
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1868/R-REC-BT.1868-0-201003-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

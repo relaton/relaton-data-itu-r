@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1529-0
 title:
-- type: main
-  content: Analytical method for determining the statistics of interference between
+- content: Analytical method for determining the statistics of interference between
     non-geostationary-satellite orbit fixed-satellite service systems and other non-geostationary-satellite
     orbit fixed-satellite service systems or geostationary-satellite orbit fixe...
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1529/R-REC-S.1529-0-200106-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

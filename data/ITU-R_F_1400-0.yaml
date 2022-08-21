@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.1400-0
 title:
-- type: main
-  content: Performance and availability requirements and objectives for fixed wireless
+- content: Performance and availability requirements and objectives for fixed wireless
     access to public switched telephone network
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1400/R-REC-F.1400-0-199905-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

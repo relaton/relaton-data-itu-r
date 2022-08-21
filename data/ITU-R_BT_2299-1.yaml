@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.2299-1
 title:
-- type: main
-  content: Broadcasting for public warning, disaster mitigation and relief
+- content: Broadcasting for public warning, disaster mitigation and relief
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2299/R-REP-BT.2299-1-2015
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

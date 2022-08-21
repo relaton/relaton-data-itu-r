@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG06.111-1
 title:
-- type: main
-  content: Technical methods for the protection of the privacy of end-users in interactive
+- content: Technical methods for the protection of the privacy of end-users in interactive
     broadcasting systems (television, sound and data)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.111/R-QUE-SG06.111-1-2004
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

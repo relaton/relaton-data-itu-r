@@ -1,13 +1,13 @@
 ---
 id: ITU-RBS.2251-1
 title:
-- type: main
-  content: Digital Radio Mondiale in the 26 MHz band (25 670-26 100 kHz)
+- content: Digital Radio Mondiale in the 26 MHz band (25 670-26 100 kHz)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2251/R-REP-BS.2251-1-2012
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

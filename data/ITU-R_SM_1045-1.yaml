@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.1045-1
 title:
-- type: main
-  content: Frequency tolerance of transmitters
+- content: Frequency tolerance of transmitters
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1045/R-REC-SM.1045-1-199707-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

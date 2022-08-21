@@ -1,14 +1,14 @@
 ---
 id: ITU-RRS.2431-201
 title:
-- type: main
-  content: Technical and operational characteristics of EESS (passive) systems in
+- content: Technical and operational characteristics of EESS (passive) systems in
     the frequency range 275-450 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2431/R-REP-RS.2431-2019
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

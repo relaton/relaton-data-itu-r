@@ -1,13 +1,13 @@
 ---
 id: ITU-RS.1758-0
 title:
-- type: main
-  content: Characterization of HEO-type systems in the fixed-satellite service
+- content: Characterization of HEO-type systems in the fixed-satellite service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1758/R-REC-S.1758-0-200604-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

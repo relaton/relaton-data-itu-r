@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1371-5
 title:
-- type: main
-  content: Technical characteristics for an automatic identification system using
+- content: Technical characteristics for an automatic identification system using
     time-division multiple access in the VHF maritime mobile band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1371/R-REC-M.1371-5-201402-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

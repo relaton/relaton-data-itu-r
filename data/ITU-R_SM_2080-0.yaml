@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2080-0
 title:
-- type: main
-  content: Precision of time information in output data of monitoring receivers
+- content: Precision of time information in output data of monitoring receivers
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2080/R-REC-SM.2080-0-201508-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

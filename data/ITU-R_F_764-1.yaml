@@ -1,13 +1,13 @@
 ---
 id: ITU-RF.764-1
 title:
-- type: main
-  content: Minimum requirements for HF radio systems using a packet transmission protocol
+- content: Minimum requirements for HF radio systems using a packet transmission protocol
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.764/R-REC-F.764-1-199409-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

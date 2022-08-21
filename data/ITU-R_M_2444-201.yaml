@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2444-201
 title:
-- type: main
-  content: Examples of arrangements for Intelligent Transport Systems deployments
+- content: Examples of arrangements for Intelligent Transport Systems deployments
     under the mobile service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2444/R-REP-M.2444-2019
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

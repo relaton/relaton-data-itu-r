@@ -1,13 +1,13 @@
 ---
 id: ITU-R62-201
 title:
-- type: main
-  content: Handbook on Global Trends in International Mobile Telecommunications
+- content: Handbook on Global Trends in International Mobile Telecommunications
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-62/R-HDB-62-2015
   type: src
@@ -42,5 +42,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

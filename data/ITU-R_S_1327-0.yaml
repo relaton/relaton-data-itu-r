@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.1327-0
 title:
-- type: main
-  content: Requirements and suitable bands for operation of the inter-satellite service
+- content: Requirements and suitable bands for operation of the inter-satellite service
     within the range 50.2-71 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1327/R-REC-S.1327-0-199709-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

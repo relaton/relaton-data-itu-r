@@ -1,14 +1,14 @@
 ---
 id: ITU-RR.62-2
 title:
-- type: main
-  content: Studies related to testing for conformance with ITU-R Recommendations and
+- content: Studies related to testing for conformance with ITU-R Recommendations and
     interoperability of radiocommunication equipment and systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.62/R-RES-R.62-2-2019
   type: src
@@ -30,5 +30,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: resolution

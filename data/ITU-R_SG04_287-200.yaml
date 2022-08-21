@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG04.287-200
 title:
-- type: main
-  content: Technical and operational characteristics for packet network transmission
+- content: Technical and operational characteristics for packet network transmission
     in mobile-satellite services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.287/R-QUE-SG04.287-2009
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

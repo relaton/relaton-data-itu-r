@@ -1,8 +1,7 @@
 ---
 id: ITU-RRS.2311-201
 title:
-- type: main
-  content: Pulsed radio frequency signal impact measurements and possible mitigation
+- content: Pulsed radio frequency signal impact measurements and possible mitigation
     techniques between Earth exploration-satellite service (active) systems and RNSS
     systems and networks in the band 1 215-1 300 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2311/R-REP-RS.2311-2014
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

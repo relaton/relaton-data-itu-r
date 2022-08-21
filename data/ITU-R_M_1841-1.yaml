@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1841-1
 title:
-- type: main
-  content: Compatibility between FM sound-broadcasting systems in the frequency band
+- content: Compatibility between FM sound-broadcasting systems in the frequency band
     of about 87-108 MHz and the aeronautical ground-based augmentation system in the
     frequency band 108-117.975 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1841/R-REC-M.1841-1-201302-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

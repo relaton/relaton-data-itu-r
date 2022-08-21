@@ -1,14 +1,14 @@
 ---
 id: ITU-RSF.675-4
 title:
-- type: main
-  content: Calculation of the maximum power density (averaged over 4 kHz or 1 MHz)
+- content: Calculation of the maximum power density (averaged over 4 kHz or 1 MHz)
     of angle-modulated and digital carriers
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.675/R-REC-SF.675-4-201201-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1300-3
 title:
-- type: main
-  content: Service multiplex, transport, and identification methods for digital terrestrial
+- content: Service multiplex, transport, and identification methods for digital terrestrial
     television broadcasting
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1300/R-REC-BT.1300-3-200508-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

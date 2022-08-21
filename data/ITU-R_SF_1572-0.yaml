@@ -1,8 +1,7 @@
 ---
 id: ITU-RSF.1572-0
 title:
-- type: main
-  content: Methodology to evaluate the impact of space-to-Earth interference from
+- content: Methodology to evaluate the impact of space-to-Earth interference from
     the fixed-satellite service to the fixed service in frequency bands where precipitation
     is the predominant fade mechanism
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1572/R-REC-SF.1572-0-200205-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

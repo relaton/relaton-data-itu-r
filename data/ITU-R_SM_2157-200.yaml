@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.2157-200
 title:
-- type: main
-  content: Measurement methods for power line high data rate telecommunication systems
+- content: Measurement methods for power line high data rate telecommunication systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2157/R-REP-SM.2157-2009
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

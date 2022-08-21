@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2289-201
 title:
-- type: main
-  content: Future radio aspect parameters for use with the terrestrial IMT spectrum
+- content: Future radio aspect parameters for use with the terrestrial IMT spectrum
     estimate methodology of Recommendation ITU-R M.1768-1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2289/R-REP-M.2289-2013
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

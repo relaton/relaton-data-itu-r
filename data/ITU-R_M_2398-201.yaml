@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2398-201
 title:
-- type: main
-  content: Scenarios and performance of an integrated MSS system operating in frequency
+- content: Scenarios and performance of an integrated MSS system operating in frequency
     bands below 3 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2398/R-REP-M.2398-2016
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

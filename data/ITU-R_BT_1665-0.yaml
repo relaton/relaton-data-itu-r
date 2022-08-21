@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1665-0
 title:
-- type: main
-  content: Considerations for colour encoding and spatial resolution for large screen
+- content: Considerations for colour encoding and spatial resolution for large screen
     digital imagery  display
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1665/R-REC-BT.1665-0-200312-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

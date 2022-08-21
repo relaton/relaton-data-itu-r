@@ -1,8 +1,7 @@
 ---
 id: ITU-RRS.2165-200
 title:
-- type: main
-  content: Identification of degradation due to interference and characterization
+- content: Identification of degradation due to interference and characterization
     of possible interference mitigation techniques for passive sensors operating in
     the Earth exploration satellite service (passive)
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2165/R-REP-RS.2165-2009
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

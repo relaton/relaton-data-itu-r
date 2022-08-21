@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1458-0
 title:
-- type: main
-  content: Use of the frequency bands between 2.8-22 MHz by the aeronautical mobile
+- content: Use of the frequency bands between 2.8-22 MHz by the aeronautical mobile
     (R) service for data transmission using class of emission J2D
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1458/R-REC-M.1458-0-200005-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

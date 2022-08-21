@@ -1,14 +1,14 @@
 ---
 id: ITU-RP.1814-0
 title:
-- type: main
-  content: Prediction methods required for the design of terrestrial free-space optical
+- content: Prediction methods required for the design of terrestrial free-space optical
     links
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1814/R-REC-P.1814-0-200708-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,13 +1,13 @@
 ---
 id: ITU-RBO.952-2
 title:
-- type: main
-  content: Technical characteristics of feeder links to broadcasting satellites
+- content: Technical characteristics of feeder links to broadcasting satellites
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BO/R-REP-BO.952/R-REP-BO.952-2-1990
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

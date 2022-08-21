@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.598-1
 title:
-- type: main
-  content: Factors influencing the limits of amplitude-modulation sound-broadcasting
+- content: Factors influencing the limits of amplitude-modulation sound-broadcasting
     coverage in band 6 (MF)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.598/R-REC-BS.598-1-199006-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

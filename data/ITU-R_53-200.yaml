@@ -1,13 +1,13 @@
 ---
 id: ITU-R53-200
 title:
-- type: main
-  content: Supplement to  Handbook on Spectrum Monitoring
+- content: Supplement to  Handbook on Spectrum Monitoring
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-53/R-HDB-53-2008
   type: src
@@ -42,5 +42,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

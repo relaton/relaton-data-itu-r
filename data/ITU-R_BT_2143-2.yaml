@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2143-2
 title:
-- type: main
-  content: Boundary coverage assessment of digital terrestrial television broadcasting
+- content: Boundary coverage assessment of digital terrestrial television broadcasting
     signals
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2143/R-REP-BT.2143-2-2010
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

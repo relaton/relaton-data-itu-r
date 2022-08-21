@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1727-0
 title:
-- type: main
-  content: Terrestrial and satellite delivery of programme material to large screen
+- content: Terrestrial and satellite delivery of programme material to large screen
     digital imagery venues
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1727/R-REC-BT.1727-0-200504-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

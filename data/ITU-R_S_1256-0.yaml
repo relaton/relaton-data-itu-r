@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1256-0
 title:
-- type: main
-  content: Methodology for determining the maximum aggregate power flux-density at
+- content: Methodology for determining the maximum aggregate power flux-density at
     the geostationary-satellite orbit in the band 6 700-7 075 MHz from feeder links
     of non-geostationary satellite systems in the mobile-satellite service in the
     space-to-Earth direction
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1256/R-REC-S.1256-0-199705-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

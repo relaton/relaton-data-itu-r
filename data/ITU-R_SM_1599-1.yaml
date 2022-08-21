@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.1599-1
 title:
-- type: main
-  content: Determination of the geographical and frequency distribution of the spectrum
+- content: Determination of the geographical and frequency distribution of the spectrum
     utilization factor for frequency planning purposes
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1599/R-REC-SM.1599-1-200702-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,13 +1,13 @@
 ---
 id: ITU-R40-200
 title:
-- type: main
-  content: Frequency adaptive communication systems and networks in the MF/HF bands
+- content: Frequency adaptive communication systems and networks in the MF/HF bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-40/R-HDB-40-2002
   type: src
@@ -40,5 +40,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

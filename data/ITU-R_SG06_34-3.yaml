@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG06.34-3
 title:
-- type: main
-  content: 'File formats and transport for the exchange of audio, video, data and
+- content: 'File formats and transport for the exchange of audio, video, data and
     metadata materials in the professional broadcast environments
 
     '
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG06/R-QUE-SG06.34/R-QUE-SG06.34-3-2019
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

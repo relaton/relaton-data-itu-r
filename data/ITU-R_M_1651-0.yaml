@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1651-0
 title:
-- type: main
-  content: A method for assessing the required spectrum for broadband nomadic wireless
+- content: A method for assessing the required spectrum for broadband nomadic wireless
     access systems including radio local area networks using the 5 GHz band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1651/R-REC-M.1651-0-200306-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

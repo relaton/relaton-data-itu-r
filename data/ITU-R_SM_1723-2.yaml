@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.1723-2
 title:
-- type: main
-  content: Mobile spectrum monitoring unit
+- content: Mobile spectrum monitoring unit
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1723/R-REC-SM.1723-2-201109-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

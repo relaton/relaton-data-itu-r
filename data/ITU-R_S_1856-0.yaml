@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1856-0
 title:
-- type: main
-  content: Methodologies for determining whether an IMT station at a given location
+- content: Methodologies for determining whether an IMT station at a given location
     operating in the band 3 400-3 600 MHz would transmit without exceeding the power
     flux-density limits in the Radio Regulations Nos. 5.430A, 5.432A, 5.432B and 5.433A
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1856/R-REC-S.1856-0-201001-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1428-1
 title:
-- type: main
-  content: Reference FSS earth-station radiation patterns for use in interference
+- content: Reference FSS earth-station radiation patterns for use in interference
     assessment involving non-GSO satellites in frequency bands between 10.7 GHz and
     30 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1428/R-REC-S.1428-1-200102-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

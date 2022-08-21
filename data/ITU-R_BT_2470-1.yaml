@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.2470-1
 title:
-- type: main
-  content: Use of Monte Carlo simulation to model interference to DTTB
+- content: Use of Monte Carlo simulation to model interference to DTTB
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2470/R-REP-BT.2470-1-2020
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

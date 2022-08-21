@@ -1,14 +1,14 @@
 ---
 id: ITU-RS.1528-0
 title:
-- type: main
-  content: Satellite antenna radiation patterns for non-geostationary orbit satellite
+- content: Satellite antenna radiation patterns for non-geostationary orbit satellite
     antennas operating in the fixed-satellite service below 30 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1528/R-REC-S.1528-0-200106-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

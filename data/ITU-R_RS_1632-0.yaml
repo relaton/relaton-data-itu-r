@@ -1,8 +1,7 @@
 ---
 id: ITU-RRS.1632-0
 title:
-- type: main
-  content: Sharing in the band 5 250-5 350 MHz between the Earth exploration-satellite
+- content: Sharing in the band 5 250-5 350 MHz between the Earth exploration-satellite
     service (active) and wireless access systems (including radio local area networks)
     in the mobile service
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1632/R-REC-RS.1632-0-200306-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

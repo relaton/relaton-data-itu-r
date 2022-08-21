@@ -1,8 +1,7 @@
 ---
 id: ITU-RRA.2332-201
 title:
-- type: main
-  content: Compatibility and sharing studies between the radio astronomy service and
+- content: Compatibility and sharing studies between the radio astronomy service and
     IMT systems in the frequency bands 608-614 MHz, 1 330-1 400 MHz, 1 400-1 427 MHz,
     1 610.6-1 613.8 MHz, 1 660-1 670 MHz, 2 690-2 700 MHz, 4 800-4 990 MHz and 4 990-5
     000 MHz
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RA/R-REP-RA.2332/R-REP-RA.2332-2014
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

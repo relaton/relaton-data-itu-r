@@ -1,13 +1,13 @@
 ---
 id: ITU-RSG03.232-1
 title:
-- type: main
-  content: The effect of nanostructure materials on propagation
+- content: The effect of nanostructure materials on propagation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG03/R-QUE-SG03.232/R-QUE-SG03.232-1-2015
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

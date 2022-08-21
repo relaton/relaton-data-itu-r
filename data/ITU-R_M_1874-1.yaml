@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.1874-1
 title:
-- type: main
-  content: Technical and operational characteristics of oceanographic radars operating
+- content: Technical and operational characteristics of oceanographic radars operating
     in sub-bands within the frequency range 3-50 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1874/R-REC-M.1874-1-201302-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

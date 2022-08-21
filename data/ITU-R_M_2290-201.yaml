@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.2290-201
 title:
-- type: main
-  content: Future spectrum requirements estimate for terrestrial IMT
+- content: Future spectrum requirements estimate for terrestrial IMT
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2290/R-REP-M.2290-2014
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

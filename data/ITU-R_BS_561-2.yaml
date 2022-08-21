@@ -1,13 +1,13 @@
 ---
 id: ITU-RBS.561-2
 title:
-- type: main
-  content: Definitions of radiation in LF, MF and HF broadcasting bands
+- content: Definitions of radiation in LF, MF and HF broadcasting bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.561/R-REC-BS.561-2-198607-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

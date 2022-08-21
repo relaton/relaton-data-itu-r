@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.1792-0
 title:
-- type: main
-  content: Measuring sideband emissions of T-DAB and DVB-T transmitters for monitoring
+- content: Measuring sideband emissions of T-DAB and DVB-T transmitters for monitoring
     purposes
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1792/R-REC-SM.1792-0-200702-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

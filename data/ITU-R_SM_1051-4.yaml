@@ -1,8 +1,7 @@
 ---
 id: ITU-RSM.1051-4
 title:
-- type: main
-  content: Priority of identifying and eliminating harmful interference in the frequency
+- content: Priority of identifying and eliminating harmful interference in the frequency
     band 406-406.1 MHz and monitoring in the adjacent frequency bands 405.9 406 MHz
     and 406.1-406.2 MHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1051/R-REC-SM.1051-4-201809-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,13 +1,13 @@
 ---
 id: ITU-RM.2412-201
 title:
-- type: main
-  content: Guidelines for evaluation of radio interface technologies for IMT-2020
+- content: Guidelines for evaluation of radio interface technologies for IMT-2020
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2412/R-REP-M.2412-2017
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

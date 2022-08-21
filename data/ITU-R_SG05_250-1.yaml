@@ -1,8 +1,7 @@
 ---
 id: ITU-RSG05.250-1
 title:
-- type: main
-  content: Mobile wireless access systems providing telecommunications for a large
+- content: Mobile wireless access systems providing telecommunications for a large
     number of ubiquitous sensors and/or actuators scattered over wide areas as well
     as machine to machine communications in the land mobile service
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG05/R-QUE-SG05.250/R-QUE-SG05.250-1-2012
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

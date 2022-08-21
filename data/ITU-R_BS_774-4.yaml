@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.774-4
 title:
-- type: main
-  content: Service requirements for digital sound broadcasting to vehicular, portable
+- content: Service requirements for digital sound broadcasting to vehicular, portable
     and fixed receivers using terrestrial transmitters in the VHF/UHF bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.774/R-REC-BS.774-4-201406-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

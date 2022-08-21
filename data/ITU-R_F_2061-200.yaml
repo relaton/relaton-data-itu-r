@@ -1,13 +1,13 @@
 ---
 id: ITU-RF.2061-200
 title:
-- type: main
-  content: HF fixed radiocommunications systems
+- content: HF fixed radiocommunications systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2061/R-REP-F.2061-2006
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

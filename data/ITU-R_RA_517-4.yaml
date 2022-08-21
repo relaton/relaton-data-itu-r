@@ -1,14 +1,14 @@
 ---
 id: ITU-RRA.517-4
 title:
-- type: main
-  content: Protection of the radio astronomy service from transmitters operating in
+- content: Protection of the radio astronomy service from transmitters operating in
     adjacent bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RA/R-REC-RA.517/R-REC-RA.517-4-200605-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

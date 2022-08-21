@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG07.211-199
 title:
-- type: main
-  content: Frequency sharing between the space research service and other services
+- content: Frequency sharing between the space research service and other services
     in the 37-38 GHz and 40-40.5 GHz bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.211/R-QUE-SG07.211-1993
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

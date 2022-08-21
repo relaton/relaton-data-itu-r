@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.2240-201
 title:
-- type: main
-  content: Interference analysis modelling for sharing between HAPS gateway links
+- content: Interference analysis modelling for sharing between HAPS gateway links
     in the fixed service and other systems/services in the range 5 850-7 075 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-F/R-REP-F.2240/R-REP-F.2240-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

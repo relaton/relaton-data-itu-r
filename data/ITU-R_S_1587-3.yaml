@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1587-3
 title:
-- type: main
-  content: Technical characteristics of earth stations on board vessels communicating
+- content: Technical characteristics of earth stations on board vessels communicating
     with FSS satellites in the frequency bands 5 925-6 425 MHz and 14-14.5 GHz which
     are allocated to the fixed-satellite service
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1587/R-REC-S.1587-3-201509-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

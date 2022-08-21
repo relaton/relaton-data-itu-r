@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.589-3
 title:
-- type: main
-  content: Technical characteristics of methods of data transmission and interference
+- content: Technical characteristics of methods of data transmission and interference
     protection for radionavigation services in the frequency bands between 70 and
     130 kHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.589/R-REC-M.589-3-200108-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

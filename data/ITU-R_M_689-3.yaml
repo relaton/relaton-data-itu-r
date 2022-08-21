@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.689-3
 title:
-- type: main
-  content: International maritime VHF radiotelephone system with automatic facilities
+- content: International maritime VHF radiotelephone system with automatic facilities
     based on DSC signalling format
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.689/R-REC-M.689-3-201203-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

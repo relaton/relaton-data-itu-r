@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2114-200
 title:
-- type: main
-  content: Key technical and operational characteristics for access technologies to
+- content: Key technical and operational characteristics for access technologies to
     support IP applications over land mobile systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2114/R-REP-M.2114-2007
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

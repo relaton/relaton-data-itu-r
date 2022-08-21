@@ -1,8 +1,7 @@
 ---
 id: ITU-RSF.1483-0
 title:
-- type: main
-  content: Maximum allowable values of power flux-density (pfd) produced at the Earth's
+- content: Maximum allowable values of power flux-density (pfd) produced at the Earth's
     surface by non-GSO satellites in the fixed-satellite service (FSS) operating in
     the 17.7-19.3 GHz band
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.1483/R-REC-SF.1483-0-200005-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

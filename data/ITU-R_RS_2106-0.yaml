@@ -1,14 +1,14 @@
 ---
 id: ITU-RRS.2106-0
 title:
-- type: main
-  content: Detection and resolution of radio frequency interference to Earth exploration-satellite
+- content: Detection and resolution of radio frequency interference to Earth exploration-satellite
     service (passive) sensors
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2106/R-REC-RS.2106-0-201707-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

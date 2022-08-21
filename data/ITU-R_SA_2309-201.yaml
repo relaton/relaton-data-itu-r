@@ -1,14 +1,14 @@
 ---
 id: ITU-RSA.2309-201
 title:
-- type: main
-  content: Compatibility between EESS (Earth-to-space) and the space research service
+- content: Compatibility between EESS (Earth-to-space) and the space research service
     or the space operation service in the band 7 100-7 235 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2309/R-REP-SA.2309-2014
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

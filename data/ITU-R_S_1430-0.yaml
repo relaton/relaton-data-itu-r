@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1430-0
 title:
-- type: main
-  content: Determination of the coordination area for Earth stations operating with
+- content: Determination of the coordination area for Earth stations operating with
     non-geostationary space stations with respect to Earth stations operating in the
     reverse direction in frequency bands allocated bidirectionally to the fixed-satellite
     service
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1430/R-REC-S.1430-0-200001-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.632-3
 title:
-- type: main
-  content: Transmission characteristics of a satellite emergency position-indicating
+- content: Transmission characteristics of a satellite emergency position-indicating
     radio beacon (satellite EPIRB) system operating through geostationary satellites
     in the 1.6 GHz band
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.632/R-REC-M.632-3-199702-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

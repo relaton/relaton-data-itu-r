@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.1708-1
 title:
-- type: main
-  content: Field-strength measurements along a route with geographical coordinate
+- content: Field-strength measurements along a route with geographical coordinate
     registrations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1708/R-REC-SM.1708-1-201109-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

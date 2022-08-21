@@ -1,13 +1,13 @@
 ---
 id: ITU-RP.533-14
 title:
-- type: main
-  content: Method for the prediction of the performance of HF circuits
+- content: Method for the prediction of the performance of HF circuits
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.533/R-REC-P.533-14-201908-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

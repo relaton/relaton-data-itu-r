@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.1447-0
 title:
-- type: main
-  content: Monitoring of the radio coverage of land mobile networks to verify compliance
+- content: Monitoring of the radio coverage of land mobile networks to verify compliance
     with a given licence
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1447/R-REC-SM.1447-0-200004-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

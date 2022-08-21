@@ -1,13 +1,13 @@
 ---
 id: ITU-RF.592-4
 title:
-- type: main
-  content: Vocabulary of terms for the fixed service
+- content: Vocabulary of terms for the fixed service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.592/R-REC-F.592-4-200709-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG04.217-2
 title:
-- type: main
-  content: Interference to the radionavigation-satellite service in the ICAO global
+- content: Interference to the radionavigation-satellite service in the ICAO global
     navigation satellite system
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.217/R-QUE-SG04.217-2-2007
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

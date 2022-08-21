@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.2061-0
 title:
-- type: main
-  content: Test procedure for measuring direction finder immunity against multi-path
+- content: Test procedure for measuring direction finder immunity against multi-path
     propagation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.2061/R-REC-SM.2061-0-201411-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

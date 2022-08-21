@@ -1,13 +1,13 @@
 ---
 id: ITU-R13-199
 title:
-- type: main
-  content: Curves for Radiowave Propagation over the Surface of the Earth
+- content: Curves for Radiowave Propagation over the Surface of the Earth
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-13/R-HDB-13-1991
   type: src
@@ -29,5 +29,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.1234-1
 title:
-- type: main
-  content: Permissible level of interference in a digital channel of a geostationary
+- content: Permissible level of interference in a digital channel of a geostationary
     satellite network in the aeronautical mobile-satellite (R) service (AMS(R)S) in
     the bands 1 545 to 1 555 MHz and 1 646.5 to 1 656.5 MHz and its associated feeder
     links caused by ...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1234/R-REC-M.1234-1-200603-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

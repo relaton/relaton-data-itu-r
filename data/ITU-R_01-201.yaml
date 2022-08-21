@@ -1,13 +1,13 @@
 ---
 id: ITU-R01-201
 title:
-- type: main
-  content: Computer-aided Techniques for Spectrum Management (CAT)
+- content: Computer-aided Techniques for Spectrum Management (CAT)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-01/R-HDB-01-2015
   type: src
@@ -44,5 +44,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

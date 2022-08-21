@@ -1,13 +1,13 @@
 ---
 id: ITU-RSM.1875-3
 title:
-- type: main
-  content: DVB-T coverage measurements and verification of planning criteria
+- content: DVB-T coverage measurements and verification of planning criteria
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1875/R-REC-SM.1875-3-201908-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

@@ -1,13 +1,13 @@
 ---
 id: ITU-RBS.2159-8
 title:
-- type: main
-  content: Multichannel sound technology in home and broadcasting applications
+- content: Multichannel sound technology in home and broadcasting applications
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2159/R-REP-BS.2159-8-2019
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

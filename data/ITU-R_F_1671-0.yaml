@@ -1,14 +1,14 @@
 ---
 id: ITU-RF.1671-0
 title:
-- type: main
-  content: Guidelines for a process to address the deployment of area-licensed fixed
+- content: Guidelines for a process to address the deployment of area-licensed fixed
     wireless systems operating in neighbouring countries
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1671/R-REC-F.1671-0-200401-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

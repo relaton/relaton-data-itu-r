@@ -1,13 +1,13 @@
 ---
 id: ITU-R43-201
 title:
-- type: main
-  content: Space Research Communications
+- content: Space Research Communications
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-43/R-HDB-43-2013
   type: src
@@ -39,5 +39,5 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: handbook

@@ -1,8 +1,7 @@
 ---
 id: ITU-RM.2335-201
 title:
-- type: main
-  content: Sharing and compatibility analysis of possible amateur service stations
+- content: Sharing and compatibility analysis of possible amateur service stations
     with fixed, land mobile, and radiolocation services in the frequency band 5 250-5
     450 kHz and the aeronautical mobile service in an adjacent band
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2335/R-REP-M.2335-2014
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,14 +1,14 @@
 ---
 id: ITU-RM.2172-1
 title:
-- type: main
-  content: Radiolocation service sharing feasibility in the frequency band 154-156
+- content: Radiolocation service sharing feasibility in the frequency band 154-156
     MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-M/R-REP-M.2172/R-REP-M.2172-1-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

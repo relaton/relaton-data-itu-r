@@ -1,13 +1,13 @@
 ---
 id: ITU-RBS.2482-202
 title:
-- type: main
-  content: Planning analysis for the HD Radio system in the MF band
+- content: Planning analysis for the HD Radio system in the MF band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BS/R-REP-BS.2482/R-REP-BS.2482-2020
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

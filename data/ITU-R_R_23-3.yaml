@@ -1,13 +1,13 @@
 ---
 id: ITU-RR.23-3
 title:
-- type: main
-  content: Extension of the international monitoring system to a worldwide scale
+- content: Extension of the international monitoring system to a worldwide scale
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-RES/R-RES-R.23/R-RES-R.23-3-2015
   type: src
@@ -29,5 +29,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: resolution

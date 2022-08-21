@@ -1,13 +1,13 @@
 ---
 id: ITU-RRS.2194-201
 title:
-- type: main
-  content: Passive bands of scientific interest to EESS/SRS from 275 to 3 000 GHz
+- content: Passive bands of scientific interest to EESS/SRS from 275 to 3 000 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-RS/R-REP-RS.2194/R-REP-RS.2194-2010
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

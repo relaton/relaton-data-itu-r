@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2129-200
 title:
-- type: main
-  content: User requirements for a Flat Panel Display (FPD) as a Master monitor in
+- content: User requirements for a Flat Panel Display (FPD) as a Master monitor in
     an HDTV programme production environment
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2129/R-REP-BT.2129-2008
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

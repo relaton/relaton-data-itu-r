@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.2112-0
 title:
-- type: main
-  content: Guidelines to conduct bilateral coordination for explicit agreements, in
+- content: Guidelines to conduct bilateral coordination for explicit agreements, in
     the frequency band 14.5-14.75 GHz for Regions 1 and 2 countries, or in the frequency
     band 14.5 14.8 GHz for Region 3 countries, in the fixed-satellite service (Earth-to-space)
     not...
@@ -11,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2112/R-REC-S.2112-0-201801-I
   type: src
@@ -29,5 +29,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

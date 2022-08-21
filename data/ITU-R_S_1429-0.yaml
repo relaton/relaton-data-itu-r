@@ -1,8 +1,7 @@
 ---
 id: ITU-RS.1429-0
 title:
-- type: main
-  content: Error performance objectives due to internetwork interference between GSO
+- content: Error performance objectives due to internetwork interference between GSO
     and non-GSO FSS systems for hypothetical reference digital paths operating at
     or above the primary rate carried by systems using frequencies below 15 GHz
   language:
@@ -10,6 +9,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1429/R-REC-S.1429-0-200001-I
   type: src
@@ -28,5 +28,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

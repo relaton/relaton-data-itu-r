@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.1886-0
 title:
-- type: main
-  content: Reference electro-optical transfer function for flat panel displays  used
+- content: Reference electro-optical transfer function for flat panel displays  used
     in HDTV studio production
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1886/R-REC-BT.1886-0-201103-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

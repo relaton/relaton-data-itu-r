@@ -1,14 +1,14 @@
 ---
 id: ITU-RBS.1698-0
 title:
-- type: main
-  content: Evaluating fields from terrestrial broadcasting transmitting systems operating
+- content: Evaluating fields from terrestrial broadcasting transmitting systems operating
     in any frequency band for assessing exposure to non-ionizing radiation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1698/R-REC-BS.1698-0-200502-I
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

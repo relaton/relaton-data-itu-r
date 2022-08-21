@@ -1,14 +1,14 @@
 ---
 id: ITU-RBT.2216-201
 title:
-- type: main
-  content: A perspective of the hierarchy of digital television image systems based
+- content: A perspective of the hierarchy of digital television image systems based
     on human viewing behaviour
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-BT/R-REP-BT.2216/R-REP-BT.2216-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

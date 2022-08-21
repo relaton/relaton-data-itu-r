@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG01.221-2
 title:
-- type: main
-  content: Compatibility between radiocommunication systems and high data rate telecommunication
+- content: Compatibility between radiocommunication systems and high data rate telecommunication
     systems using wired electrical power supply
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG01/R-QUE-SG01.221/R-QUE-SG01.221-2-2011
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question

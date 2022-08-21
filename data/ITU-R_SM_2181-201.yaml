@@ -1,14 +1,14 @@
 ---
 id: ITU-RSM.2181-201
 title:
-- type: main
-  content: Use of Appendix 10 of the Radio Regulations to convey information related
+- content: Use of Appendix 10 of the Radio Regulations to convey information related
     to emissions from both GSO and non-GSO space stations including geolocation information
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SM/R-REP-SM.2181/R-REP-SM.2181-2010
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

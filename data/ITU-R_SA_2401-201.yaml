@@ -1,13 +1,13 @@
 ---
 id: ITU-RSA.2401-201
 title:
-- type: main
-  content: Modelling methods to predict the gain and radiation patterns of large antennas
+- content: Modelling methods to predict the gain and radiation patterns of large antennas
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REP/R-REP-SA/R-REP-SA.2401/R-REP-SA.2401-2017
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: technical-report

@@ -1,13 +1,13 @@
 ---
 id: ITU-RBT.2072-0
 title:
-- type: main
-  content: Main functionalities of consumer receivers for worldwide broadcasting roaming
+- content: Main functionalities of consumer receivers for worldwide broadcasting roaming
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.2072/R-REC-BT.2072-0-201502-I
   type: src
@@ -26,5 +26,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: recommendation

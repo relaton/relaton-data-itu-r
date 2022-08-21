@@ -1,14 +1,14 @@
 ---
 id: ITU-RSG04.211-2
 title:
-- type: main
-  content: Interference criteria and calculation methods for the mobile-satellite
+- content: Interference criteria and calculation methods for the mobile-satellite
     service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG04/R-QUE-SG04.211/R-QUE-SG04.211-2-2003
   type: src
@@ -27,5 +27,5 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: question
