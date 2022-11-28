@@ -31,5 +31,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-11-27'
+fetched: '2022-11-28'
 doctype: resolution
