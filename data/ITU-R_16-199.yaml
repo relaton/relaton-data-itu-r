@@ -30,5 +30,5 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-03'
+fetched: '2022-12-04'
 doctype: handbook
