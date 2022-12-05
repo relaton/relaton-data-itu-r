@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RRS.1449-0
 title:
 - content: Feasibility of sharing between the FSS (space-to-Earth) and the Earth exploration-satellite
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

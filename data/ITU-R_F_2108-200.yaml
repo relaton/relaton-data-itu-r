@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RF.2108-200
 title:
 - content: Fixed service system parameters for different frequency bands
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

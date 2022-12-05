@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.2080-200
 title:
 - content: Consideration of sharing conditions and usage in the 4-10 MHz band
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

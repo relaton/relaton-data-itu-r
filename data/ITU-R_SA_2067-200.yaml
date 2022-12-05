@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSA.2067-200
 title:
 - content: Use of the 13.75 to 14.0 GHz band by the space research service and the
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

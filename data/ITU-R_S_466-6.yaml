@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RS.466-6
 title:
 - content: Maximum permissible level of interference in a telephone channel of a geostationary-satellite
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RRA.1237-2
 title:
 - content: Protection of the radio astronomy service from unwanted emissions resulting
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

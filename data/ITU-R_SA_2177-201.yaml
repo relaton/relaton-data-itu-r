@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSA.2177-201
 title:
 - content: Selection of frequency bands in the 1-120 GHz range for deep-space research
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

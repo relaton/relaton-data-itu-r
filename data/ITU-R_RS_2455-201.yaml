@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RRS.2455-201
 title:
 - content: Preliminary results of sharing studies between a 45 MHz radar sounder and
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-R49-200
 title:
 - content: 'Land Mobile (including Wireless Access) - Volume 4: Intelligent Transport
@@ -41,5 +42,7 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: handbook
+ext:
+  schema-version: v1.0.0

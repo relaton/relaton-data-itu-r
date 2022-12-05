@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.2360-201
 title:
 - content: Sharing between GSO MSS and other services in the allocations in the 22-26
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

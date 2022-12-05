@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.2244-201
 title:
 - content: Isolation between antennas of IMT base stations in the land mobile service
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

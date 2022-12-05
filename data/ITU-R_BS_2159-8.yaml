@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RBS.2159-8
 title:
 - content: Multichannel sound technology in home and broadcasting applications
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

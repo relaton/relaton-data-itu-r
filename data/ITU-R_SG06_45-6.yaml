@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG06.45-6
 title:
 - content: Broadcasting of multimedia and data applications
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0

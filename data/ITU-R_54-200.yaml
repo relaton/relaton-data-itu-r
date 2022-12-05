@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-R54-200
 title:
 - content: Radiowave propagation information for designing terrestrial point-to-point
@@ -41,5 +42,7 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: handbook
+ext:
+  schema-version: v1.0.0

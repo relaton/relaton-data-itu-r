@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RBO.1517-0
 title:
 - content: Equivalent power flux-density limits, epfddown, to protect the broadcasting-satellite
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

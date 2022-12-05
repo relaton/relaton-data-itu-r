@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG04.267-200
 title:
 - content: Technical and operational considerations relating to the advance publication,
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0

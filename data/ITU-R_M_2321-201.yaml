@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.2321-201
 title:
 - content: Guidelines for the use of spectrum by oceanographic radars in the frequency
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

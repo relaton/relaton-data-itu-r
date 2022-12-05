@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RS.2357-201
 title:
 - content: Technical and operational guidelines for earth stations on mobile platforms
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

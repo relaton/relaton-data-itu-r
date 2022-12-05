@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSA.2066-200
 title:
 - content: Means of calculating low-orbit satellite visibility statistics
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

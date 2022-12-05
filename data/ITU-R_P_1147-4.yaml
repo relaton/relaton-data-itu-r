@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RP.1147-4
 title:
 - content: Prediction of sky-wave field strength at frequencies between about 150
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

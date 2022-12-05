@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSM.2352-201
 title:
 - content: Technology trends of active services in the frequency range 275-3 000 GHz
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

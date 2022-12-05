@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG01.240-201
 title:
 - content: Assessment of spectrum efficiency and economic value
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0

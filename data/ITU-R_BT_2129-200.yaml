@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RBT.2129-200
 title:
 - content: User requirements for a Flat Panel Display (FPD) as a Master monitor in
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

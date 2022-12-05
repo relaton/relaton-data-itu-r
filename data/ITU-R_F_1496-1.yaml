@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RF.1496-1
 title:
 - content: Radio-frequency channel arrangements for fixed wireless systems operating
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

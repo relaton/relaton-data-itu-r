@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RR.36-5
 title:
 - content: Coordination of vocabulary in the six official languages of the Union on
@@ -30,5 +31,7 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: resolution
+ext:
+  schema-version: v1.0.0

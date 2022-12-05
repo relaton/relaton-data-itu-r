@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RV.574-5
 title:
 - content: Use of the decibel and the neper in telecommunications
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

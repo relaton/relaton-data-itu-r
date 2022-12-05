@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RR.47-2
 title:
 - content: Future  submission  of  satellite  radio  transmission  technologies  for  IMT-2000
@@ -29,5 +30,7 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: resolution
+ext:
+  schema-version: v1.0.0

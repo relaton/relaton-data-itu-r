@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RS.1716-0
 title:
 - content: Performance and availability objectives for fixed-satellite service telemetry,
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

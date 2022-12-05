@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.1161-199
 title:
 - content: Use of MF/HF DSC for automatic connection of calls in the maritime-mobile
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

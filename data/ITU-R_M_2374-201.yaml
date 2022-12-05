@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.2374-201
 title:
 - content: Coexistence of two TDD networks in the 2 300-2 400 MHz band
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

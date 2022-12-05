@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG07.145-3
 title:
 - content: 'Technical factors relating to the protection of radioastronomical observations
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0

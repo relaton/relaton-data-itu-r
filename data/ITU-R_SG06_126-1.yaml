@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG06.126-1
 title:
 - content: Recommended operating practices to tailor  television programme material
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0

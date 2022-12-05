@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RS.2151-1
 title:
 - content: Use and examples of systems in the fixed-satellite service in the event
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

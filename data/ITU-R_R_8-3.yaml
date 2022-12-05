@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RR.8-3
 title:
 - content: Radiowave propagation studies and measurement campaigns in developing countries
@@ -29,5 +30,7 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: resolution
+ext:
+  schema-version: v1.0.0

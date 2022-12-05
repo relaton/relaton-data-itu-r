@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RBO.2071-2
 title:
 - content: Broadcasting-satellite service system parameters between 17.3 GHz and 42.5
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

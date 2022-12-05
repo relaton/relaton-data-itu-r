@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RM.1584-0
 title:
 - content: Methodology for computation of separation distances between earth stations
@@ -29,5 +30,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-R44-200
 title:
 - content: Terrestrial land mobile radiowave propagation in the VHF/UHF bands
@@ -37,5 +38,7 @@ abstract:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: handbook
+ext:
+  schema-version: v1.0.0

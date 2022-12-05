@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RBS.2002-199
 title:
 - content: Introduction of satellite and complementary terrestrial digital sound broadcasting
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

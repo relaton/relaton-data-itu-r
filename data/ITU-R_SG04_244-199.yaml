@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG04.244-199
 title:
 - content: Sharing between feeder links of the mobile-satellite (non-geostationary)
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0

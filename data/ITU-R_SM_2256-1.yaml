@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSM.2256-1
 title:
 - content: Spectrum occupancy measurements and evaluation
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

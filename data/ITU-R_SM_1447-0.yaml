@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSM.1447-0
 title:
 - content: Monitoring of the radio coverage of land mobile networks to verify compliance
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

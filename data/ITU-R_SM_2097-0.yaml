@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSM.2097-0
 title:
 - content: On-site accuracy measurements of a fixed direction finder system
@@ -26,5 +27,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

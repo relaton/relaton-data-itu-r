@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RF.2394-201
 title:
 - content: Compatibility between point-to-point applications in the fixed service
@@ -28,5 +29,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: technical-report
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITU-RSG04.293-201
 title:
 - content: Antenna radiation diagrams/patterns for small (D/?  around 30) earth station
@@ -27,5 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-04'
+fetched: '2022-12-05'
 doctype: question
+ext:
+  schema-version: v1.0.0
