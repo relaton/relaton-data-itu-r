@@ -31,7 +31,7 @@ script:
 docstatus:
   stage:
     value: In force
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: handbook
 ext:
   schema-version: v1.0.0

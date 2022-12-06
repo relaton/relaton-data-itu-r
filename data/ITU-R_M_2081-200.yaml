@@ -28,7 +28,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: technical-report
 ext:
   schema-version: v1.0.0
