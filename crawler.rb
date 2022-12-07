@@ -61,7 +61,7 @@ end
 def parse_page(url, type, agent)
   doc = agent.get url
   bib = RelatonItu::ItuBibliographicItem.new(
-    fetched: Date.today.to_s, docid: fetch_docid(doc), title: fetch_title(doc),
+    docid: fetch_docid(doc), title: fetch_title(doc),
     abstract: fetch_abstract(doc), date: fetch_date(doc), language: ['en'],
     link: fetch_link(url), script: ['Latn'], docstatus: fetch_status(doc),
     type: 'standard', doctype: type
