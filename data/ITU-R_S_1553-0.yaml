@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ITU-RS.1553-0
 title:
 - content: A possible method to account for environmental and other effects on satellite

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ITU-RBS.1058-198
 title:
 - content: Minimum AF and RF signal-to-noise ratio required for broadcasting in band

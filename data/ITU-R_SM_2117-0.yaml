@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ITU-RSM.2117-0
 title:
 - content: Data format definition for exchanging stored I/Q data for the purpose of
