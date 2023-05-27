@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RP.1058-2
 title:
-- type: main
-  content: Digital topographic databases for propagation studies
+- content: Digital topographic databases for propagation studies
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1058/R-REC-P.1058-2-199910-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1999-15-10
+  value: '1999-10-15'
 - type: published
-  value: 1999-10
-revdate: 1999-10
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

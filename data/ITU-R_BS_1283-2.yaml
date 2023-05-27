@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBS.1283-2
 title:
-- type: main
-  content: Guidance for the selection of the most appropriate ITU-R Recommendation(s)
+- content: Guidance for the selection of the most appropriate ITU-R Recommendation(s)
     for subjective assessment of sound quality
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.1283/R-REC-BS.1283-2-201910-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2019-14-10
+  value: '2019-10-14'
 - type: published
-  value: 2019-10
-revdate: 2019-10
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

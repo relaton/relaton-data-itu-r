@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RS.1339-1
 title:
-- type: main
-  content: Sharing between spaceborne passive sensors of the Earth exploration-satellite
+- content: Sharing between spaceborne passive sensors of the Earth exploration-satellite
     service and inter-satellite links of geostationary-satellite networks in the range
     54.25 to 59.3 GHz
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1339/R-REC-S.1339-1-199911-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1999-30-11
+  value: '1999-11-30'
 - type: published
-  value: 1999-11
-revdate: 1999-11
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

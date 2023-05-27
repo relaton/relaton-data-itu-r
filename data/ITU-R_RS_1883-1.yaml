@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RRS.1883-1
 title:
-- type: main
-  content: Use of remote sensing systems in the study of climate change and the effects
+- content: Use of remote sensing systems in the study of climate change and the effects
     thereof
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1883/R-REC-RS.1883-1-201812-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2018-19-12
+  value: '2018-12-19'
 - type: published
-  value: 2018-12
-revdate: 2018-12
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

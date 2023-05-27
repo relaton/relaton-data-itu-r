@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.627-1
 title:
-- type: main
-  content: Technical characteristics for HF maritime radio equipment using narrow-band
+- content: Technical characteristics for HF maritime radio equipment using narrow-band
     phase-shift keying (NBPSK) telegraphy
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.627/R-REC-M.627-1-199510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.2082-0
 title:
-- type: main
-  content: Methodology and technical example to assist coordination of the mobile-satellite
+- content: Methodology and technical example to assist coordination of the mobile-satellite
     service and the radiodetermination-satellite service with the fixed service based
     on the power flux-density coordination trigger levels in the 2 483.5-2 500 MHz
     band
@@ -11,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2082/R-REC-M.2082-0-201511-I
   type: src
@@ -21,13 +22,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2015-15-11
+  value: '2015-11-15'
 - type: published
-  value: 2015-11
-revdate: 2015-11
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

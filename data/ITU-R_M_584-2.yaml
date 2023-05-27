@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.584-2
 title:
-- type: main
-  content: Codes and formats for radio paging
+- content: Codes and formats for radio paging
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.584/R-REC-M.584-2-199711-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1997-29-11
+  value: '1997-11-29'
 - type: published
-  value: 1997-11
-revdate: 1997-11
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBO.1597-0
 title:
-- type: main
-  content: Methodology for the calculation of the worst-case interference levels between
+- content: Methodology for the calculation of the worst-case interference levels between
     non-geostationary broadcasting-satellite service (sound) systems using highly-elliptical
     orbit and geostationary orbit satellite networks operating in the band 2 630-2
     655 MHz
@@ -11,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1597/R-REC-BO.1597-0-200210-I
   type: src
@@ -21,13 +22,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2002-15-10
+  value: '2002-10-15'
 - type: published
-  value: 2002-10
-revdate: 2002-10
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

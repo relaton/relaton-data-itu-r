@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RRS.2066-0
 title:
-- type: main
-  content: Protection of the radio astronomy service in the frequency band 10.6-10.7
+- content: Protection of the radio astronomy service in the frequency band 10.6-10.7
     GHz from unwanted emissions of synthetic aperture radars operating in the Earth
     exploration-satellite service (active) around 9 600 MHz
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2066/R-REC-RS.2066-0-201412-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2014-22-12
+  value: '2014-12-22'
 - type: published
-  value: 2014-12
-revdate: 2014-12
+  value: '2014'
+revdate: '2014'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

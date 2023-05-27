@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RRS.2042-1
 title:
-- type: main
-  content: Typical technical and operating characteristics for spaceborne radar sounder
+- content: Typical technical and operating characteristics for spaceborne radar sounder
     systems using the 40-50 MHz band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.2042/R-REC-RS.2042-1-201812-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2018-19-12
+  value: '2018-12-19'
 - type: published
-  value: 2018-12
-revdate: 2018-12
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

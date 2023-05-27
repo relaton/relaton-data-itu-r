@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSM.326-7
 title:
-- type: main
-  content: Determination and measurement of the power of amplitude-modulated radio
+- content: Determination and measurement of the power of amplitude-modulated radio
     transmitters
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.326/R-REC-SM.326-7-199811-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1998-14-11
+  value: '1998-11-14'
 - type: published
-  value: 1998-11
-revdate: 1998-11
+  value: '1998'
+revdate: '1998'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

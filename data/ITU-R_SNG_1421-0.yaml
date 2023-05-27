@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSNG.1421-0
 title:
-- type: main
-  content: Common operating parameters to ensure interoperability for transmission
+- content: Common operating parameters to ensure interoperability for transmission
     of digital television news gathering
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SNG/R-REC-SNG.1421/R-REC-SNG.1421-0-199911-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1999-30-11
+  value: '1999-11-30'
 - type: published
-  value: 1999-11
-revdate: 1999-11
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

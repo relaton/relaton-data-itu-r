@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSA.1154-0
 title:
-- type: main
-  content: Provisions to protect the space research (SR), space operations (SO) and
+- content: Provisions to protect the space research (SR), space operations (SO) and
     Earth exploration-satellite services (EESS) and to facilitate sharing with the
     mobile service in the 2 025-2 110 MHz and 2 200-2 290 MHz bands
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1154/R-REC-SA.1154-0-199510-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

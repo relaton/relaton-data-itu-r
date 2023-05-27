@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBT.1120-9
 title:
-- type: main
-  content: Digital interfaces for studio signals with 1 920 × 1 080 image formats
+- content: Digital interfaces for studio signals with 1 920 × 1 080 image formats
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1120/R-REC-BT.1120-9-201712-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2017-30-12
+  value: '2017-12-30'
 - type: published
-  value: 2017-12
-revdate: 2017-12
+  value: '2017'
+revdate: '2017'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBT.1198-0
 title:
-- type: main
-  content: Stereoscopic television based on R-and L-eye two channel signals
+- content: Stereoscopic television based on R-and L-eye two channel signals
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1198/R-REC-BT.1198-0-199510-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

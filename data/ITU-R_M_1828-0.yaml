@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.1828-0
 title:
-- type: main
-  content: Technical and operational requirements for aircraft stations of aeronautical
+- content: Technical and operational requirements for aircraft stations of aeronautical
     mobile service limited to transmissions of telemetry for flight testing in the
     bands around 5 GHz
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1828/R-REC-M.1828-0-200710-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2007-25-10
+  value: '2007-10-25'
 - type: published
-  value: 2007-10
-revdate: 2007-10
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

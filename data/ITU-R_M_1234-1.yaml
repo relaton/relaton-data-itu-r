@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2006'
+  value: '2006-03-19'
 - type: published
-  value: 2006-03
-revdate: 2006-03
+  value: '2006'
+revdate: '2006'
 language:
 - en
 script:

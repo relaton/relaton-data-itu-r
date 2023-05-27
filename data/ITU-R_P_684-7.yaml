@@ -21,8 +21,8 @@ date:
 - type: confirmed
   value: '2016-11-11'
 - type: published
-  value: 2016-11
-revdate: 2016-11
+  value: '2016'
+revdate: '2016'
 language:
 - en
 script:

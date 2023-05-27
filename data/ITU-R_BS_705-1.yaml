@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBS.705-1
 title:
-- type: main
-  content: HF transmitting and receiving antennas characteristics and diagrams
+- content: HF transmitting and receiving antennas characteristics and diagrams
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BS/R-REC-BS.705/R-REC-BS.705-1-199510-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

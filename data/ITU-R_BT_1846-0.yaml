@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2008'
+  value: '2008-10-09'
 - type: published
-  value: 2008-10
-revdate: 2008-10
+  value: '2008'
+revdate: '2008'
 language:
 - en
 script:

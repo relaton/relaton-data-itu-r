@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBO.1295-0
 title:
-- type: main
-  content: Reference transmit Earth station antenna off-axis e.i.r.p. patterns for
+- content: Reference transmit Earth station antenna off-axis e.i.r.p. patterns for
     planning purposes to be used in the revision of the Appendix 30A (Orb-88) Plans
     of the Radio Regulations at 14 GHz and 17 GHz in Regions 1 and 3
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1295/R-REC-BO.1295-0-199710-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1997-24-10
+  value: '1997-10-24'
 - type: published
-  value: 1997-10
-revdate: 1997-10
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

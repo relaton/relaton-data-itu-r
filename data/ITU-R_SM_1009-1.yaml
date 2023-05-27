@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSM.1009-1
 title:
-- type: main
-  content: Compatibility between the sound-broadcasting service in the band of about
+- content: Compatibility between the sound-broadcasting service in the band of about
     87-108 MHz and the aeronautical services in the band 108-137 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1009/R-REC-SM.1009-1-199510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

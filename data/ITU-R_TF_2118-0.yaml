@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RTF.2118-0
 title:
-- type: main
-  content: Relativistic Time Transfer
+- content: Relativistic Time Transfer
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-TF/R-REC-TF.2118/R-REC-TF.2118-0-201812-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2018-17-12
+  value: '2018-12-17'
 - type: published
-  value: 2018-12
-revdate: 2018-12
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

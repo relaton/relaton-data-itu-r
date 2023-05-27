@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.2046-0
 title:
-- type: main
-  content: Characteristics and protection criteria for non-geostationary mobile-satellite
+- content: Characteristics and protection criteria for non-geostationary mobile-satellite
     service systems operating in the band 399.9-400.05 MHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2046/R-REC-M.2046-0-201312-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2013-28-12
+  value: '2013-12-28'
 - type: published
-  value: 2013-12
-revdate: 2013-12
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

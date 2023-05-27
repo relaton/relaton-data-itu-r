@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RRS.1416-0
 title:
-- type: main
-  content: Sharing between spaceborne passive sensors and the inter-satellite service
+- content: Sharing between spaceborne passive sensors and the inter-satellite service
     operating near 118 and 183 GHz
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1416/R-REC-RS.1416-0-199910-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1999-26-10
+  value: '1999-10-26'
 - type: published
-  value: 1999-10
-revdate: 1999-10
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSM.1271-0
 title:
-- type: main
-  content: Efficient spectrum utilization using probabilistic methods
+- content: Efficient spectrum utilization using probabilistic methods
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1271/R-REC-SM.1271-0-199710-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1997-24-10
+  value: '1997-10-24'
 - type: published
-  value: 1997-10
-revdate: 1997-10
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

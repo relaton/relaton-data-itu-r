@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.2091-0
 title:
-- type: main
-  content: Methodology to calculate spectrum requirements within the frequency bands
+- content: Methodology to calculate spectrum requirements within the frequency bands
     1 545-1 555 MHz (space-to-Earth) and 1 646.5-1 656.5 MHz (Earth-to-space) for
     aeronautical mobile-satellite (R) service communications related to the priority
     categories 1 to 6 o...
@@ -11,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2091/R-REC-M.2091-0-201510-I
   type: src
@@ -21,13 +22,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2015-30-10
+  value: '2015-10-30'
 - type: published
-  value: 2015-10
-revdate: 2015-10
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

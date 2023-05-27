@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSM.337-6
 title:
-- type: main
-  content: Frequency and distance separations
+- content: Frequency and distance separations
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.337/R-REC-SM.337-6-200810-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2008-22-10
+  value: '2008-10-22'
 - type: published
-  value: 2008-10
-revdate: 2008-10
+  value: '2008'
+revdate: '2008'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

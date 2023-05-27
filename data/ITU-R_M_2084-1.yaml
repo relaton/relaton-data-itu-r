@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.2084-1
 title:
-- type: main
-  content: Radio interface standards of vehicle-to-vehicle and vehicle-to-infrastructure
+- content: Radio interface standards of vehicle-to-vehicle and vehicle-to-infrastructure
     two-way communications for Intelligent Transport System applications
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.2084/R-REC-M.2084-1-201911-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2019-19-11
+  value: '2019-11-19'
 - type: published
-  value: 2019-11
-revdate: 2019-11
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

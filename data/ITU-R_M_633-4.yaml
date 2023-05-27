@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.3
 id: ITU-RM.633-4
 title:
-- type: main
-  content: Transmission characteristics of a satellite emergency position-indicating
+- content: Transmission characteristics of a satellite emergency position-indicating
     radio beacon (satellite EPIRB) system operating through a satellite system in
     the 406 MHz band
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.633/R-REC-M.633-4-201012-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2010-17-12
+  value: '2010-12-17'
 - type: published
-  value: 2010-12
-revdate: 2010-12
+  value: '2010'
+revdate: '2010'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

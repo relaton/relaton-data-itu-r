@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBT.417-5
 title:
-- type: main
-  content: Minimum field strengths for which protection may be sought in planning
+- content: Minimum field strengths for which protection may be sought in planning
     an analogue terrestrial television service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.417/R-REC-BT.417-5-200210-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2002-15-10
+  value: '2002-10-15'
 - type: published
-  value: 2002-10
-revdate: 2002-10
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

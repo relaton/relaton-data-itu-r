@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RBT.1774-2
 title:
-- type: main
-  content: Use of satellite and terrestrial broadcast infrastructures for public warning,
+- content: Use of satellite and terrestrial broadcast infrastructures for public warning,
     disaster mitigation and relief
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1774/R-REC-BT.1774-2-201510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2015-14-10
+  value: '2015-10-14'
 - type: published
-  value: 2015-10
-revdate: 2015-10
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

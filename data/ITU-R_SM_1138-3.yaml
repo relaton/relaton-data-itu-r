@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.3
 id: ITU-RSM.1138-3
 title:
-- type: main
-  content: Determination of necessary bandwidths including examples for their calculation
+- content: Determination of necessary bandwidths including examples for their calculation
     and associated examples for the designation of emissions
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1138/R-REC-SM.1138-3-201910-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2019-20-10
+  value: '2019-10-20'
 - type: published
-  value: 2019-10
-revdate: 2019-10
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0
