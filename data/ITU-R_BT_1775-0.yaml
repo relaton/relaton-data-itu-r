@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: ITU-RBT.1775-0
 title:
 - content: File format with editing capability, for the exchange of metadata, audio,
