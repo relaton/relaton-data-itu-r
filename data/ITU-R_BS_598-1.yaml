@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBS.598-1
 title:
 - content: Factors influencing the limits of amplitude-modulation sound-broadcasting
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1990'
+  value: '1990-06-01'
 - type: published
-  value: 1990-06
-revdate: 1990-06
+  value: '1990'
+revdate: '1990'
 language:
 - en
 script:

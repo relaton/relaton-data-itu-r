@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1842-1
 title:
 - content: Characteristics of VHF radio systems and equipment for the exchange of
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2009'
+  value: '2009-06-06'
 - type: published
-  value: 2009-06
-revdate: 2009-06
+  value: '2009'
+revdate: '2009'
 language:
 - en
 script:

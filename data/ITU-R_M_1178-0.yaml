@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.1178-0
 title:
-- type: main
-  content: Use of the maritime radionavigation band 283.5-315 kHz (Region 1) and 285-325 kHz
+- content: Use of the maritime radionavigation band 283.5-315 kHz (Region 1) and 285-325 kHz
     (Regions 2 and 3)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1178/R-REC-M.1178-0-199510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-19-10
+  value: '1995-10-19'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

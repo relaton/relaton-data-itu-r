@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RSM.1836-0
 title:
-- type: main
-  content: Test procedure for measuring the properties of the IF filter of radio monitoring
+- content: Test procedure for measuring the properties of the IF filter of radio monitoring
     receivers
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1836/R-REC-SM.1836-0-200712-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2007-18-12
+  value: '2007-12-18'
 - type: published
-  value: 2007-12
-revdate: 2007-12
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

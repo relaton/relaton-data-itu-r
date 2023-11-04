@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1730-1
 title:
 - content: Characteristics of and protection criteria for the radiolocation service
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2009'
+  value: '2009-10-03'
 - type: published
-  value: 2009-10
-revdate: 2009-10
+  value: '2009'
+revdate: '2009'
 language:
 - en
 script:

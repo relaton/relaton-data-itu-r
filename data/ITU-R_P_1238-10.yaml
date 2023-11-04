@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.1238-10
 title:
 - content: Propagation data and prediction methods for the planning of indoor radiocommunication
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2019'
+  value: '2019-08-14'
 - type: published
-  value: 2019-08
-revdate: 2019-08
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:

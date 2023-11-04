@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1713-1
 title:
 - content: Methodology to calculate the minimum separation angle at the Earth's surface
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2007'
+  value: '2007-01-18'
 - type: published
-  value: 2007-01
-revdate: 2007-01
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:

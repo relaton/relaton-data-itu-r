@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1594-0
 title:
 - content: Maximum emission levels and associated requirements of high density fixed-satellite
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-09-07'
 - type: published
-  value: 2002-09
-revdate: 2002-09
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.368-9
 title:
 - content: Ground-wave propagation curves for frequencies between 10 kHz and 30 MHz
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2007'
+  value: '2007-02-17'
 - type: published
-  value: 2007-02
-revdate: 2007-02
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.302-3
 title:
 - content: Limitation of interference from trans-horizon radio-relay systems
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1997'
+  value: '1997-05-28'
 - type: published
-  value: 1997-05
-revdate: 1997-05
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:

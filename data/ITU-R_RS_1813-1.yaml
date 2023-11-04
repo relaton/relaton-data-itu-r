@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.1813-1
 title:
 - content: Reference antenna pattern for passive sensors operating in the Earth exploration-satellite
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2011'
+  value: '2011-02-04'
 - type: published
-  value: 2011-02
-revdate: 2011-02
+  value: '2011'
+revdate: '2011'
 language:
 - en
 script:

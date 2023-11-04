@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1692-1
 title:
 - content: Optimization of the quality of colour reproduction in digital television
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2009'
+  value: '2009-09-18'
 - type: published
-  value: 2009-09
-revdate: 2009-09
+  value: '2009'
+revdate: '2009'
 language:
 - en
 script:

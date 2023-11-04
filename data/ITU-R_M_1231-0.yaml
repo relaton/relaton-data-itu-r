@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1231-0
 title:
 - content: Interference criteria for space-to-Earth links operating in the mobile-satellite
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1997'
+  value: '1997-02-28'
 - type: published
-  value: 1997-02
-revdate: 1997-02
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:

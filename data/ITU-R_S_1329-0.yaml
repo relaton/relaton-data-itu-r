@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1329-0
 title:
 - content: Frequency sharing of the bands 19.7-20.2 GHz and 29.5-30.0 GHz between
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1997'
+  value: '1997-09-18'
 - type: published
-  value: 1997-09
-revdate: 1997-09
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1787-3
 title:
 - content: Description of systems and networks in the radionavigation-satellite service
@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2018'
+  value: '2018-03-23'
 - type: published
-  value: 2018-03
-revdate: 2018-03
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:

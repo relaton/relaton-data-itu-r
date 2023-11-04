@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1608-0
 title:
 - content: Frequency sharing between systems in the fixed service using high altitude
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003'
+  value: '2003-02-26'
 - type: published
-  value: 2003-02
-revdate: 2003-02
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBO.1658-0
 title:
 - content: Continuous curves of epfddown versus the geostationary broadcasting-satellite
@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003-11-12'
+  value: '2003-12-11'
 - type: published
-  value: 2003-12
-revdate: 2003-12
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

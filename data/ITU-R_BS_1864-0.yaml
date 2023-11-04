@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBS.1864-0
 title:
 - content: Operational practices for loudness in the international exchange of digital
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2010'
+  value: '2010-03-18'
 - type: published
-  value: 2010-03
-revdate: 2010-03
+  value: '2010'
+revdate: '2010'
 language:
 - en
 script:

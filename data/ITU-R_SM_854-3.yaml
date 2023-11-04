@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.854-3
 title:
 - content: Direction finding and location determination at monitoring stations
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2011'
+  value: '2011-09-22'
 - type: published
-  value: 2011-09
-revdate: 2011-09
+  value: '2011'
+revdate: '2011'
 language:
 - en
 script:

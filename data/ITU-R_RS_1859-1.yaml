@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RRS.1859-1
 title:
-- type: main
-  content: Use of remote sensing systems for data collection to be used in the event
+- content: Use of remote sensing systems for data collection to be used in the event
     of natural disasters and similar emergencies
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1859/R-REC-RS.1859-1-201812-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2018-19-12
+  value: '2018-12-19'
 - type: published
-  value: 2018-12
-revdate: 2018-12
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

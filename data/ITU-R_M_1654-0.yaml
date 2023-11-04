@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1654-0
 title:
 - content: A methodology to assess interference from broadcasting-satellite service
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003'
+  value: '2003-06-06'
 - type: published
-  value: 2003-06
-revdate: 2003-06
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

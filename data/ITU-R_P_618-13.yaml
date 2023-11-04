@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.618-13
 title:
 - content: Propagation data and prediction methods required for the design of Earth-space
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2017'
+  value: '2017-12-04'
 - type: published
-  value: 2017-12
-revdate: 2017-12
+  value: '2017'
+revdate: '2017'
 language:
 - en
 script:

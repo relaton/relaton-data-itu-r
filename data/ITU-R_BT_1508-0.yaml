@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1508-0
 title:
 - content: Interaction channel using global system for mobile communications (GSM)
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2000-12-10'
+  value: '2000-10-12'
 - type: published
-  value: 2000-10
-revdate: 2000-10
+  value: '2000'
+revdate: '2000'
 language:
 - en
 script:

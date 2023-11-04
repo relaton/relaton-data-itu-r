@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RBT.1893-1
 title:
-- type: main
-  content: Assessment methods of impairment caused to digital television reception
+- content: Assessment methods of impairment caused to digital television reception
     by a wind turbine
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1893/R-REC-BT.1893-1-201510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2015-14-10
+  value: '2015-10-14'
 - type: published
-  value: 2015-10
-revdate: 2015-10
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

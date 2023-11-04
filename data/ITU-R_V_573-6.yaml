@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RV.573-6
 title:
 - content: Radiocommunication vocabulary
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2015'
+  value: '2015-08-17'
 - type: published
-  value: 2015-08
-revdate: 2015-08
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:

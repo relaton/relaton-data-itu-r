@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1456-0
 title:
 - content: Minimum performance characteristics and operational conditions for high
@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2000'
+  value: '2000-05-05'
 - type: published
-  value: 2000-05
-revdate: 2000-05
+  value: '2000'
+revdate: '2000'
 language:
 - en
 script:

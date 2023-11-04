@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.673-2
 title:
 - content: Terms and definitions relating to space radiocommunications
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-03-11'
 - type: published
-  value: 2002-03
-revdate: 2002-03
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

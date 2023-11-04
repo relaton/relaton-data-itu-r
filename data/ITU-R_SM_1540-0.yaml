@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.1540-0
 title:
 - content: Unwanted emissions in the out-of-band domain falling into adjacent allocated
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2001'
+  value: '2001-07-24'
 - type: published
-  value: 2001-07
-revdate: 2001-07
+  value: '2001'
+revdate: '2001'
 language:
 - en
 script:

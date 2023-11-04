@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1452-2
 title:
 - content: Millimetre wave vehicular collision avoidance radars and radiocommunication
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2012'
+  value: '2012-05-22'
 - type: published
-  value: 2012-05
-revdate: 2012-05
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:

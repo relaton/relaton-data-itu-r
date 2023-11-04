@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1402-0
 title:
 - content: Frequency sharing criteria between a land mobile wireless access system
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1999'
+  value: '1999-05-25'
 - type: published
-  value: 1999-05
-revdate: 1999-05
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:

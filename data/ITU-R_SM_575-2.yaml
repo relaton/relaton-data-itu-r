@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RSM.575-2
 title:
-- type: main
-  content: Protection of fixed monitoring stations against interference from nearby
+- content: Protection of fixed monitoring stations against interference from nearby
     or stong transmitters
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.575/R-REC-SM.575-2-201310-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2013-30-10
+  value: '2013-10-30'
 - type: published
-  value: 2013-10
-revdate: 2013-10
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

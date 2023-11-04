@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.2016-1
 title:
 - content: Error-correction, data framing, modulation and emission methods for terrestrial
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2013'
+  value: '2013-01-22'
 - type: published
-  value: 2013-01
-revdate: 2013-01
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:

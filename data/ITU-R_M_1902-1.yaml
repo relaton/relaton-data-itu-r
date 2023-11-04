@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1902-1
 title:
 - content: Characteristics and protection criteria for receiving earth stations in
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2019'
+  value: '2019-09-17'
 - type: published
-  value: 2019-09
-revdate: 2019-09
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:

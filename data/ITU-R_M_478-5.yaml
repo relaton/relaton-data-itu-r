@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.478-5
 title:
-- type: main
-  content: Technical characteristics of equipment and principles governing the allocation
+- content: Technical characteristics of equipment and principles governing the allocation
     of frequency channels between 25 and 3 000 MHz for the FM land mobile service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.478/R-REC-M.478-5-199510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RBO.1784-1
 title:
-- type: main
-  content: Digital satellite broadcasting system with flexible configuration (television,
+- content: Digital satellite broadcasting system with flexible configuration (television,
     sound and data)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.1784/R-REC-BO.1784-1-201612-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2016-19-12
+  value: '2016-12-19'
 - type: published
-  value: 2016-12
-revdate: 2016-12
+  value: '2016'
+revdate: '2016'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

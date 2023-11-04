@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1210-4
 title:
 - content: Test materials to be used in assessment of picture quality
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2012'
+  value: '2012-01-27'
 - type: published
-  value: 2012-01
-revdate: 2012-01
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1450-5
 title:
 - content: Characteristics of broadband radio local area networks
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2014'
+  value: '2014-04-17'
 - type: published
-  value: 2014-04
-revdate: 2014-04
+  value: '2014'
+revdate: '2014'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.815-1
 title:
 - content: Specification of a signal for measurement of the contrast ratio of displays
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1994'
+  value: '1994-07-30'
 - type: published
-  value: 1994-07
-revdate: 1994-07
+  value: '1994'
+revdate: '1994'
 language:
 - en
 script:

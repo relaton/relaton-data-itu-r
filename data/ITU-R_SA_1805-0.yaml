@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSA.1805-0
 title:
 - content: Technical and operational characteristics of space-to-space telecommunication
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2007'
+  value: '2007-06-22'
 - type: published
-  value: 2007-06
-revdate: 2007-06
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:

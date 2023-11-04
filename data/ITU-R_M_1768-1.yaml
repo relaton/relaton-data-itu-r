@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1768-1
 title:
 - content: Methodology for calculation of spectrum requirements for the terrestrial
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2013'
+  value: '2013-04-08'
 - type: published
-  value: 2013-04
-revdate: 2013-04
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1520-3
 title:
 - content: Radio-frequency arrangements for systems in the fixed service operating
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2011'
+  value: '2011-04-19'
 - type: published
-  value: 2011-04
-revdate: 2011-04
+  value: '2011'
+revdate: '2011'
 language:
 - en
 script:

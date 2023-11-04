@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.696-2
 title:
 - content: Error performance and availability objectives for hypothetical reference
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1997'
+  value: '1997-07-30'
 - type: published
-  value: 1997-07
-revdate: 1997-07
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:

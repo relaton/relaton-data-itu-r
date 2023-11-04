@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.4
 id: ITU-RSM.1140-0
 title:
-- type: main
-  content: Test procedures for measuring aeronautical receiver characteristics used
+- content: Test procedures for measuring aeronautical receiver characteristics used
     for determining compatibility between the sound-broadcasting service in the band
     of about 87-108 MHz and the aeronautical services in the band 108-118 MHz
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SM/R-REC-SM.1140/R-REC-SM.1140-0-199510-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

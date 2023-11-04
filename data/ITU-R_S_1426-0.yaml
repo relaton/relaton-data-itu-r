@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1426-0
 title:
 - content: Aggregate power flux-density limits, at the FSS satellite orbit for radio
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2000'
+  value: '2000-01-04'
 - type: published
-  value: 2000-01
-revdate: 2000-01
+  value: '2000'
+revdate: '2000'
 language:
 - en
 script:

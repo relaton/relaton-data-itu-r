@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.684-7
 title:
 - content: Prediction of field strength at frequencies below about 150 kHz
@@ -21,8 +21,8 @@ date:
 - type: confirmed
   value: '2016-11-11'
 - type: published
-  value: 2016-11
-revdate: 2016-11
+  value: '2016'
+revdate: '2016'
 language:
 - en
 script:

@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.1583-1
 title:
-- type: main
-  content: Interference calculations between non-geostationary mobile-satellite service
+- content: Interference calculations between non-geostationary mobile-satellite service
     or radionavigation-satellite service systems and radio astronomy telescope sites
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1583/R-REC-M.1583-1-200710-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2007-25-10
+  value: '2007-10-25'
 - type: published
-  value: 2007-10
-revdate: 2007-10
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

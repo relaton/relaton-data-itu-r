@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.628-5
 title:
 - content: Technical characteristics for search and rescue radar transponders
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2012'
+  value: '2012-03-15'
 - type: published
-  value: 2012-03
-revdate: 2012-03
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:

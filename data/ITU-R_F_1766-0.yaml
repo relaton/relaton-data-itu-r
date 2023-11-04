@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1766-0
 title:
 - content: Methodology to determine the probability of a radio astronomy observatory
@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2006'
+  value: '2006-04-27'
 - type: published
-  value: 2006-04
-revdate: 2006-04
+  value: '2006'
+revdate: '2006'
 language:
 - en
 script:

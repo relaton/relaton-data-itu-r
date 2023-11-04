@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.1823-0
 title:
-- type: main
-  content: Technical and operational characteristics of digital cellular land mobile
+- content: Technical and operational characteristics of digital cellular land mobile
     systems for use in sharing studies
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1823/R-REC-M.1823-0-200710-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2007-25-10
+  value: '2007-10-25'
 - type: published
-  value: 2007-10
-revdate: 2007-10
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.742-1
 title:
 - content: Spectrum utilization methodologies
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1993'
+  value: '1993-04-25'
 - type: published
-  value: 1993-04
-revdate: 1993-04
+  value: '1993'
+revdate: '1993'
 language:
 - en
 script:

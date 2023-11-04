@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSA.1276-5
 title:
 - content: Orbital locations of data relay satellites to be protected from the emissions
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2017'
+  value: '2017-07-10'
 - type: published
-  value: 2017-07
-revdate: 2017-07
+  value: '2017'
+revdate: '2017'
 language:
 - en
 script:

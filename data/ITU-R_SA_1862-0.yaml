@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSA.1862-0
 title:
 - content: Guidelines for efficient use of the band 25.5-27.0 GHz by the Earth exploration-satellite
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2010'
+  value: '2010-01-27'
 - type: published
-  value: 2010-01
-revdate: 2010-01
+  value: '2010'
+revdate: '2010'
 language:
 - en
 script:

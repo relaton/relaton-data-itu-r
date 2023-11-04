@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1306-8
 title:
 - content: Error correction, data framing, modulation and emission methods for digital
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2020'
+  value: '2020-04-30'
 - type: published
-  value: 2020-04
-revdate: 2020-04
+  value: '2020'
+revdate: '2020'
 language:
 - en
 script:

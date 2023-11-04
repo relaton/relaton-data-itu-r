@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1431-0
 title:
 - content: Methods to enhance sharing between non-GSO FSS systems (except MSS feeder
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2000'
+  value: '2000-01-04'
 - type: published
-  value: 2000-01
-revdate: 2000-01
+  value: '2000'
+revdate: '2000'
 language:
 - en
 script:

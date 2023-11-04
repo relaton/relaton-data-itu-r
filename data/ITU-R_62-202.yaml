@@ -1,0 +1,48 @@
+---
+schema-version: v1.2.4
+id: ITU-R62-202
+title:
+- content: Handbook on International Mobile Telecommunications (IMT)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-HDB/R-HDB-62/R-HDB-62-2022
+  type: src
+type: standard
+docid:
+- id: ITU-R 62-202
+  type: ITU
+  primary: true
+date:
+- type: updated
+  value: '2022'
+- type: published
+  value: '2022'
+revdate: '2022'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Handbook identifies International Mobile Telecommunications (IMT)
+    and provides the general information such as service requirements, application
+    trends, system characteristics, and substantive information on spectrum, regulatory
+    issues, guideline for the evolution and migration, and core network evolution
+    on IMT. The purpose of this Handbook is to provide general guidance to relevant
+    parties on issues related to the deployment of IMT systems and to the introduction
+    of their IMT-2000, IMT-Advanced  and IMT-2020 networks.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: In force
+doctype: handbook
+ext:
+  schema-version: v1.0.0

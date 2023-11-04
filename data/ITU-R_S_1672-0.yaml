@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1672-0
 title:
 - content: Guidelines to be used in the event of non-compliance with single-entry
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2004'
+  value: '2004-01-06'
 - type: published
-  value: 2004-01
-revdate: 2004-01
+  value: '2004'
+revdate: '2004'
 language:
 - en
 script:

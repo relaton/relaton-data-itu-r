@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.2039-0
 title:
 - content: Spectrum monitoring evolution
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2013'
+  value: '2013-08-28'
 - type: published
-  value: 2013-08
-revdate: 2013-08
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:

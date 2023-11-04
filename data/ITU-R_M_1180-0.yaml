@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.1180-0
 title:
-- type: main
-  content: Availability of communication circuits in the aeronautical mobile-satellite
+- content: Availability of communication circuits in the aeronautical mobile-satellite
     (R) services (AMS(R)S)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1180/R-REC-M.1180-0-199510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1995-20-10
+  value: '1995-10-20'
 - type: published
-  value: 1995-10
-revdate: 1995-10
+  value: '1995'
+revdate: '1995'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

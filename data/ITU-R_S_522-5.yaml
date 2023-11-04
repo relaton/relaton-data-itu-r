@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.522-5
 title:
 - content: Allowable bit error ratios at the output of the hypothetical reference
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1994'
+  value: '1994-09-16'
 - type: published
-  value: 1994-09
-revdate: 1994-09
+  value: '1994'
+revdate: '1994'
 language:
 - en
 script:

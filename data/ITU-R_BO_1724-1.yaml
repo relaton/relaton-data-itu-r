@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBO.1724-1
 title:
 - content: Interactive satellite broadcasting systems (television, sound and data)
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2007'
+  value: '2007-01-26'
 - type: published
-  value: 2007-01
-revdate: 2007-01
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:

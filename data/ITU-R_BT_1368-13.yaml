@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1368-13
 title:
 - content: Planning criteria, including protection ratios, for digital terrestrial
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2017'
+  value: '2017-06-20'
 - type: published
-  value: 2017-06
-revdate: 2017-06
+  value: '2017'
+revdate: '2017'
 language:
 - en
 script:

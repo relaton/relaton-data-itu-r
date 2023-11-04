@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.2058-0
 title:
 - content: Characteristics of a digital system, named navigational data for broadcasting
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2014'
+  value: '2014-02-18'
 - type: published
-  value: 2014-02
-revdate: 2014-02
+  value: '2014'
+revdate: '2014'
 language:
 - en
 script:

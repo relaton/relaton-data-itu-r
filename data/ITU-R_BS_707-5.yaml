@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBS.707-5
 title:
 - content: Transmission of multisound in terrestrial television systems PAL B, B1,
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2005'
+  value: '2005-08-17'
 - type: published
-  value: 2005-08
-revdate: 2005-08
+  value: '2005'
+revdate: '2005'
 language:
 - en
 script:

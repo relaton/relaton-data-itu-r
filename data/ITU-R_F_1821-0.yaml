@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1821-0
 title:
 - content: Characteristics of advanced digital high frequency (HF) radiocommunication
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2007'
+  value: '2007-09-22'
 - type: published
-  value: 2007-09
-revdate: 2007-09
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:

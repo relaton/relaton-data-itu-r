@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.1406-2
 title:
 - content: Propagation effects relating to terrestrial land mobile and broadcasting
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2015'
+  value: '2015-07-29'
 - type: published
-  value: 2015-07
-revdate: 2015-07
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1699-2
 title:
 - content: Harmonization of declarative application formats for interactive TV
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2013'
+  value: '2013-01-22'
 - type: published
-  value: 2013-01
-revdate: 2013-01
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:

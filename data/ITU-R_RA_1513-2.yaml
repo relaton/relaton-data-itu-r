@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRA.1513-2
 title:
 - content: Levels of data loss to radio astronomy observations and percentage-of-time
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2015'
+  value: '2015-03-15'
 - type: published
-  value: 2015-03
-revdate: 2015-03
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:

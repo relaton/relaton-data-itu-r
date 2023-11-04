@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBO.600-1
 title:
 - content: Standardized set of test conditions and measurement procedures for the
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1986'
+  value: '1986-07-01'
 - type: published
-  value: 1986-07
-revdate: 1986-07
+  value: '1986'
+revdate: '1986'
 language:
 - en
 script:

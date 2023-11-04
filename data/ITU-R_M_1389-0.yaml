@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1389-0
 title:
 - content: Methods for achieving coordinated use of spectrum by multiple non-geostationary
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1999'
+  value: '1999-01-14'
 - type: published
-  value: 1999-01
-revdate: 1999-01
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:

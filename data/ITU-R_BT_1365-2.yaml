@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.4
 id: ITU-RBT.1365-2
 title:
-- type: main
-  content: 24-bit digital audio format as ancillary data signals in HDTV serial interfaces
+- content: 24-bit digital audio format as ancillary data signals in HDTV serial interfaces
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1365/R-REC-BT.1365-2-201510-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2015-14-10
+  value: '2015-10-14'
 - type: published
-  value: 2015-10
-revdate: 2015-10
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

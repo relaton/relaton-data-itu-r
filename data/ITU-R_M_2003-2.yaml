@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.2003-2
 title:
 - content: Multiple gigabit wireless systems in frequencies around 60 GHz
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2018'
+  value: '2018-01-30'
 - type: published
-  value: 2018-01
-revdate: 2018-01
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:

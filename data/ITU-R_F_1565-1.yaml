@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.4
 id: ITU-RF.1565-1
 title:
-- type: main
-  content: Performance degradation due to interference from other services sharing
+- content: Performance degradation due to interference from other services sharing
     the same frequency bands on a co-primary basis, or from other sources of interference,
     with real digital fixed wireless systems used in the international and national
     portions of a...
@@ -11,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1565/R-REC-F.1565-1-201911-I
   type: src
@@ -21,13 +22,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2019-18-11
+  value: '2019-11-18'
 - type: published
-  value: 2019-11
-revdate: 2019-11
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

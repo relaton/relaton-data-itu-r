@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBO.1408-1
 title:
 - content: Transmission system for advanced multimedia services provided by integrated
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-04-30'
 - type: published
-  value: 2002-04
-revdate: 2002-04
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

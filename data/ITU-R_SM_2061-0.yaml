@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.2061-0
 title:
 - content: Test procedure for measuring direction finder immunity against multi-path
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2014-10-11'
+  value: '2014-11-10'
 - type: published
-  value: 2014-11
-revdate: 2014-11
+  value: '2014'
+revdate: '2014'
 language:
 - en
 script:

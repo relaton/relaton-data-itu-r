@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RP.1412-0
 title:
-- type: main
-  content: Propagation data for the evaluation of coordination between Earth stations
+- content: Propagation data for the evaluation of coordination between Earth stations
     working in the bidirectionally allocated frequency bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-P/R-REC-P.1412/R-REC-P.1412-0-199910-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1999-15-10
+  value: '1999-10-15'
 - type: published
-  value: 1999-10
-revdate: 1999-10
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

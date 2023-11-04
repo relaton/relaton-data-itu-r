@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1827-1
 title:
 - content: Guideline on technical and operational requirements for stations of the
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2015'
+  value: '2015-01-27'
 - type: published
-  value: 2015-01
-revdate: 2015-01
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:

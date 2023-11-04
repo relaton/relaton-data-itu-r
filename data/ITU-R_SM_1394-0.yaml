@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.1394-0
 title:
 - content: Common format for Memorandum of Understanding between the agreeing countries
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1999'
+  value: '1999-01-23'
 - type: published
-  value: 1999-01
-revdate: 1999-01
+  value: '1999'
+revdate: '1999'
 language:
 - en
 script:

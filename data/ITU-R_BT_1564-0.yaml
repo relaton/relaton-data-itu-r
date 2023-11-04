@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1564-0
 title:
 - content: Interaction channel using local multipoint distribution systems
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-04-30'
 - type: published
-  value: 2002-04
-revdate: 2002-04
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

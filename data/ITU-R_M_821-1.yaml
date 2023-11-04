@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.821-1
 title:
 - content: Optional expansion of the digital selective-calling system for use in the
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1997'
+  value: '1997-02-28'
 - type: published
-  value: 1997-02
-revdate: 1997-02
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:

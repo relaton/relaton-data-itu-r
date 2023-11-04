@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.1830-0
 title:
-- type: main
-  content: Technical characteristics and protection criteria of aeronautical radionavigation
+- content: Technical characteristics and protection criteria of aeronautical radionavigation
     service systems in the 645-862 MHz frequency band
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.1830/R-REC-M.1830-0-200710-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2007-25-10
+  value: '2007-10-25'
 - type: published
-  value: 2007-10
-revdate: 2007-10
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

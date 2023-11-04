@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1301-1
 title:
 - content: Data services in digital television broadcasting
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2011'
+  value: '2011-03-02'
 - type: published
-  value: 2011-03
-revdate: 2011-03
+  value: '2011'
+revdate: '2011'
 language:
 - en
 script:

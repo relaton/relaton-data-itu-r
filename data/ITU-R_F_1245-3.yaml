@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1245-3
 title:
 - content: Mathematical model of average and related radiation patterns for point-to-point
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2019'
+  value: '2019-01-30'
 - type: published
-  value: 2019-01
-revdate: 2019-01
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:

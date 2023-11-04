@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.2057-1
 title:
 - content: Systems characteristics of automotive radars operating in the frequency
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2018'
+  value: '2018-01-30'
 - type: published
-  value: 2018-01
-revdate: 2018-01
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:

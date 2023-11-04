@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.577-7
 title:
 - content: Frequency bands and required bandwidths used for spaceborne active sensors
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2009'
+  value: '2009-02-14'
 - type: published
-  value: 2009-02
-revdate: 2009-02
+  value: '2009'
+revdate: '2009'
 language:
 - en
 script:

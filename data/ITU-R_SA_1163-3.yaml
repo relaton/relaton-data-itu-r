@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.4
 id: ITU-RSA.1163-3
 title:
-- type: main
-  content: Aggregate interference criteria for service links in data collection systems
+- content: Aggregate interference criteria for service links in data collection systems
     for GSO satellites in the Earth exploration-satellite and meteorological-satellite
     services
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SA/R-REC-SA.1163/R-REC-SA.1163-3-201812-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2018-19-12
+  value: '2018-12-19'
 - type: published
-  value: 2018-12
-revdate: 2018-12
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

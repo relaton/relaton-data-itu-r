@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1106-0
 title:
 - content: Effects of propagation on the design and operation of trans-horizon radio-relay
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1994'
+  value: '1994-09-16'
 - type: published
-  value: 1994-09
-revdate: 1994-09
+  value: '1994'
+revdate: '1994'
 language:
 - en
 script:

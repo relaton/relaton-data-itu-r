@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1655-0
 title:
 - content: Interference mitigation techniques and frequency sharing in the bands 37.5-42.5
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003'
+  value: '2003-10-08'
 - type: published
-  value: 2003-10
-revdate: 2003-10
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.4
 id: ITU-RS.1342-0
 title:
-- type: main
-  content: Method for determining coordination distances, in the 5 GHz band, between
+- content: Method for determining coordination distances, in the 5 GHz band, between
     the international standard microwave landing system stations operating in the
     aeronautical radionavigation service and non-geostationary mobile-satellite service
     stations providi...
@@ -11,6 +11,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1342/R-REC-S.1342-0-199710-I
   type: src
@@ -21,13 +22,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 1997-24-10
+  value: '1997-10-24'
 - type: published
-  value: 1997-10
-revdate: 1997-10
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

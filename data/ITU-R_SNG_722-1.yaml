@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSNG.722-1
 title:
 - content: Uniform technical standards (analogue) for satellite news gathering (SNG)
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1992'
+  value: '1992-03-08'
 - type: published
-  value: 1992-03
-revdate: 1992-03
+  value: '1992'
+revdate: '1992'
 language:
 - en
 script:

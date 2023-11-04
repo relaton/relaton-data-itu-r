@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBO.1773-0
 title:
 - content: Criterion to assess the impact of interference to the broadcasting-satellite
@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2006'
+  value: '2006-07-10'
 - type: published
-  value: 2006-07
-revdate: 2006-07
+  value: '2006'
+revdate: '2006'
 language:
 - en
 script:

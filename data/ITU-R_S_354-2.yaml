@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.354-2
 title:
 - content: Video bandwidth and permissible noise level in the hypothetical reference
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1974'
+  value: '1974-07-01'
 - type: published
-  value: 1974-07
-revdate: 1974-07
+  value: '1974'
+revdate: '1974'
 language:
 - en
 script:

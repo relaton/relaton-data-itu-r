@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.832-4
 title:
 - content: World Atlas of Ground Conductivities
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2015'
+  value: '2015-07-22'
 - type: published
-  value: 2015-07
-revdate: 2015-07
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:

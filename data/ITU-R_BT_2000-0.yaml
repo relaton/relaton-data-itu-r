@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.2000-0
 title:
 - content: Use of large screen digital imagery Recommendations in video information
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2012'
+  value: '2012-01-27'
 - type: published
-  value: 2012-01
-revdate: 2012-01
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:

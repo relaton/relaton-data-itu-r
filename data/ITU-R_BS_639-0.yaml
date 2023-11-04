@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBS.639-0
 title:
 - content: Necessary bandwidth of emission in LF, MF and HF broadcasting
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1986'
+  value: '1986-07-01'
 - type: published
-  value: 1986-07
-revdate: 1986-07
+  value: '1986'
+revdate: '1986'
 language:
 - en
 script:

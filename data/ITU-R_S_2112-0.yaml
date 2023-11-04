@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.2112-0
 title:
 - content: Guidelines to conduct bilateral coordination for explicit agreements, in
@@ -22,10 +22,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2018'
+  value: '2018-01-15'
 - type: published
-  value: 2018-01
-revdate: 2018-01
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:

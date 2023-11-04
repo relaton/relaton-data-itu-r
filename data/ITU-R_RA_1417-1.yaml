@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRA.1417-1
 title:
 - content: A radio-quiet zone in the vicinity of the L2 Sun-Earth Lagrange point
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2013-10-12'
+  value: '2013-12-10'
 - type: published
-  value: 2013-12
-revdate: 2013-12
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:

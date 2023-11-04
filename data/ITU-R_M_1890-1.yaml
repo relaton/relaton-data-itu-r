@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1890-1
 title:
 - content: Operational radiocommunication objectives and requirements for advanced
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2019'
+  value: '2019-01-30'
 - type: published
-  value: 2019-01
-revdate: 2019-01
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1545-0
 title:
 - content: Measurement uncertainty as it applies to test limits for the terrestrial
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2001'
+  value: '2001-08-14'
 - type: published
-  value: 2001-08
-revdate: 2001-08
+  value: '2001'
+revdate: '2001'
 language:
 - en
 script:

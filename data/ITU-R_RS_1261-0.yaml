@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.1261-0
 title:
 - content: Feasibility of sharing between spaceborne cloud radars and other services
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1997'
+  value: '1997-06-26'
 - type: published
-  value: 1997-06
-revdate: 1997-06
+  value: '1997'
+revdate: '1997'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.1147-4
 title:
 - content: Prediction of sky-wave field strength at frequencies between about 150
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2007'
+  value: '2007-08-31'
 - type: published
-  value: 2007-08
-revdate: 2007-08
+  value: '2007'
+revdate: '2007'
 language:
 - en
 script:

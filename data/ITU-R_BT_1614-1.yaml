@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1614-1
 title:
 - content: Payload identification data structure for digital television interfaces
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2012'
+  value: '2012-01-27'
 - type: published
-  value: 2012-01
-revdate: 2012-01
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:

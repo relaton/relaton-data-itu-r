@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.1633-0
 title:
 - content: Compatibility analysis between a passive service and an active service
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003'
+  value: '2003-06-06'
 - type: published
-  value: 2003-06
-revdate: 2003-06
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

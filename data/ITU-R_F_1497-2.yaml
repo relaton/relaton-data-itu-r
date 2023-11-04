@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1497-2
 title:
 - content: Radio-frequency channel arrangements for fixed wireless systems operating
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2014'
+  value: '2014-02-18'
 - type: published
-  value: 2014-02
-revdate: 2014-02
+  value: '2014'
+revdate: '2014'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBR.1374-1
 title:
 - content: Scanned area dimensions from 16 mm and 35 mm cinematographic film used
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2001'
+  value: '2001-06-30'
 - type: published
-  value: 2001-06
-revdate: 2001-06
+  value: '2001'
+revdate: '2001'
 language:
 - en
 script:

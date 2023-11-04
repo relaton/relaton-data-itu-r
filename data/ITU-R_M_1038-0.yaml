@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.1038-0
 title:
 - content: Efficient use of the geostationary-satellite orbit and spectrum in the
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1994'
+  value: '1994-03-24'
 - type: published
-  value: 1994-03
-revdate: 1994-03
+  value: '1994'
+revdate: '1994'
 language:
 - en
 script:

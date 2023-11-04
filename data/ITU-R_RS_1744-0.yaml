@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.1744-0
 title:
 - content: Technical and operational characteristics of ground-based meteorological
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2006'
+  value: '2006-03-20'
 - type: published
-  value: 2006-03
-revdate: 2006-03
+  value: '2006'
+revdate: '2006'
 language:
 - en
 script:

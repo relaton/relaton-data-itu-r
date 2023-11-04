@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.329-12
 title:
 - content: Unwanted emissions in the spurious domain
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2012'
+  value: '2012-09-13'
 - type: published
-  value: 2012-09
-revdate: 2012-09
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:

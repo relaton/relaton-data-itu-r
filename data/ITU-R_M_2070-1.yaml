@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.2070-1
 title:
 - content: Generic unwanted emission characteristics of base stations using the terrestrial
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2017'
+  value: '2017-02-09'
 - type: published
-  value: 2017-02
-revdate: 2017-02
+  value: '2017'
+revdate: '2017'
 language:
 - en
 script:

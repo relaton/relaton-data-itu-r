@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBS.708-0
 title:
 - content: Determination of the electro-acoustical properties of studio monitor headphones
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1990'
+  value: '1990-06-01'
 - type: published
-  value: 1990-06
-revdate: 1990-06
+  value: '1990'
+revdate: '1990'
 language:
 - en
 script:

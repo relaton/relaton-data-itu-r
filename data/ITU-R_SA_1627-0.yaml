@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSA.1627-0
 title:
 - content: Telecommunication requirements and characteristics of EESS and MetSat service
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003'
+  value: '2003-05-28'
 - type: published
-  value: 2003-05
-revdate: 2003-05
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

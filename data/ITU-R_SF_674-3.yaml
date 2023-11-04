@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.4
 id: ITU-RSF.674-3
 title:
-- type: main
-  content: Determination of the impact on the fixed service operating in the 11.7-12.2
+- content: Determination of the impact on the fixed service operating in the 11.7-12.2
     GHz band when geostationary fixed-satellite service networks in Region 2 exceed
     power flux-density thresholds for coordination
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-SF/R-REC-SF.674/R-REC-SF.674-3-201312-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2013-28-12
+  value: '2013-12-28'
 - type: published
-  value: 2013-12
-revdate: 2013-12
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

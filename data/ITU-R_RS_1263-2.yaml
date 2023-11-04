@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RRS.1263-2
 title:
-- type: main
-  content: Interference criteria for meteorological aids operated in the 400.15-406
+- content: Interference criteria for meteorological aids operated in the 400.15-406
     MHz and 1 668.4-1 700 MHz bands
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-RS/R-REC-RS.1263/R-REC-RS.1263-2-201812-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2018-19-12
+  value: '2018-12-19'
 - type: published
-  value: 2018-12
-revdate: 2018-12
+  value: '2018'
+revdate: '2018'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

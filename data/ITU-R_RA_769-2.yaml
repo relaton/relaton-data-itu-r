@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRA.769-2
 title:
 - content: Protection criteria used for radio astronomical measurements
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2003'
+  value: '2003-05-28'
 - type: published
-  value: 2003-05
-revdate: 2003-05
+  value: '2003'
+revdate: '2003'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.1407-7
 title:
 - content: Multipath propagation and parameterization of its characteristics
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2019'
+  value: '2019-08-14'
 - type: published
-  value: 2019-08
-revdate: 2019-08
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:

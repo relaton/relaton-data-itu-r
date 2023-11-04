@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.1858-0
 title:
 - content: Characterization and assessment of aggregate interference to the Earth
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2010'
+  value: '2010-01-27'
 - type: published
-  value: 2010-01
-revdate: 2010-01
+  value: '2010'
+revdate: '2010'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RM.2083-0
 title:
 - content: IMT Vision - "Framework and overall objectives of the future development
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2015'
+  value: '2015-09-29'
 - type: published
-  value: 2015-09
-revdate: 2015-09
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RP.617-5
 title:
 - content: Propagation prediction techniques and data required for the design of trans-horizon
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2019'
+  value: '2019-08-25'
 - type: published
-  value: 2019-08
-revdate: 2019-08
+  value: '2019'
+revdate: '2019'
 language:
 - en
 script:

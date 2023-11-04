@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBR.1574-0
 title:
 - content: Archival of sound-program material in the form of files recorded on information
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-06-28'
 - type: published
-  value: 2002-06
-revdate: 2002-06
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

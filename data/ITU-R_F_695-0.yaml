@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.695-0
 title:
 - content: Availability objectives for real digital radio-relay links forming part
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1990'
+  value: '1990-06-01'
 - type: published
-  value: 1990-06
-revdate: 1990-06
+  value: '1990'
+revdate: '1990'
 language:
 - en
 script:

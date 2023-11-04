@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.454-1
 title:
 - content: Pilot carrier level for HF single-sideband and independent-sideband reduced-carrier
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1978'
+  value: '1978-07-01'
 - type: published
-  value: 1978-07
-revdate: 1978-07
+  value: '1978'
+revdate: '1978'
 language:
 - en
 script:

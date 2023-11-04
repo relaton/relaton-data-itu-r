@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RS.1855-0
 title:
 - content: Alternative reference radiation pattern for earth station antennas used
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2010'
+  value: '2010-01-23'
 - type: published
-  value: 2010-01
-revdate: 2010-01
+  value: '2010'
+revdate: '2010'
 language:
 - en
 script:

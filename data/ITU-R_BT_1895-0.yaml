@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1895-0
 title:
 - content: Protection criteria for terrestrial broadcasting systems
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2011'
+  value: '2011-05-25'
 - type: published
-  value: 2011-05
-revdate: 2011-05
+  value: '2011'
+revdate: '2011'
 language:
 - en
 script:

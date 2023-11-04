@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.805-0
 title:
 - content: Assessment of impairment caused to television reception by a wind turbine
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1992'
+  value: '1992-03-08'
 - type: published
-  value: 1992-03
-revdate: 1992-03
+  value: '1992'
+revdate: '1992'
 language:
 - en
 script:

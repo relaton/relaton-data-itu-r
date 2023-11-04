@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.1756-0
 title:
 - content: Framework for the introduction of devices using ultra-wideband technology
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2006'
+  value: '2006-05-22'
 - type: published
-  value: 2006-05
-revdate: 2006-05
+  value: '2006'
+revdate: '2006'
 language:
 - en
 script:

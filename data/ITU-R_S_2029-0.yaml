@@ -1,8 +1,8 @@
 ---
+schema-version: v1.2.4
 id: ITU-RS.2029-0
 title:
-- type: main
-  content: Statistical methodology to assess time-varying interference produced by
+- content: Statistical methodology to assess time-varying interference produced by
     a geostationary fixed-satellite service network of earth stations operating with
     MF-TDMA schemes to geostationary fixed-satellite service networks
   language:
@@ -10,6 +10,7 @@ title:
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.2029/R-REC-S.2029-0-201212-I
   type: src
@@ -20,13 +21,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2012-19-12
+  value: '2012-12-19'
 - type: published
-  value: 2012-12
-revdate: 2012-12
+  value: '2012'
+revdate: '2012'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

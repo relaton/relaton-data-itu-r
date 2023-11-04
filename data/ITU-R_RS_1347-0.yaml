@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.1347-0
 title:
 - content: Feasibility of sharing between radionavigation-satellite service receivers
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1998'
+  value: '1998-02-10'
 - type: published
-  value: 1998-02
-revdate: 1998-02
+  value: '1998'
+revdate: '1998'
 language:
 - en
 script:

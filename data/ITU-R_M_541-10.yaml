@@ -1,14 +1,15 @@
 ---
+schema-version: v1.2.4
 id: ITU-RM.541-10
 title:
-- type: main
-  content: Operational procedures for the use of digital selective-calling equipment
+- content: Operational procedures for the use of digital selective-calling equipment
     in the maritime mobile service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-M/R-REC-M.541/R-REC-M.541-10-201510-I
   type: src
@@ -19,13 +20,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2015-30-10
+  value: '2015-10-30'
 - type: published
-  value: 2015-10
-revdate: 2015-10
+  value: '2015'
+revdate: '2015'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

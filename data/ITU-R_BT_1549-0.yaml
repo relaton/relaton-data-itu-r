@@ -1,13 +1,14 @@
 ---
+schema-version: v1.2.4
 id: ITU-RBT.1549-0
 title:
-- type: main
-  content: Data link protocol for interaction channel
+- content: Data link protocol for interaction channel
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BT/R-REC-BT.1549/R-REC-BT.1549-0-200111-I
   type: src
@@ -18,13 +19,14 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: 2001-24-11
+  value: '2001-11-24'
 - type: published
-  value: 2001-11
-revdate: 2001-11
+  value: '2001'
+revdate: '2001'
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-11'
 doctype: recommendation
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RTF.768-7
 title:
 - content: Standard frequencies and time signals
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2011'
+  value: '2011-04-21'
 - type: published
-  value: 2011-04
-revdate: 2011-04
+  value: '2011'
+revdate: '2011'
 language:
 - en
 script:

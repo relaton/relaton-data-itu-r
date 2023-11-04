@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRA.1272-1
 title:
 - content: Protection of radio astronomy measurements above 60 GHz from ground based
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-02-12'
 - type: published
-  value: 2002-02
-revdate: 2002-02
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

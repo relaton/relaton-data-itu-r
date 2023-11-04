@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1498-1
 title:
 - content: Deployment characteristics of fixed service systems in the band 37-40 GHz
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002'
+  value: '2002-05-25'
 - type: published
-  value: 2002-05
-revdate: 2002-05
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

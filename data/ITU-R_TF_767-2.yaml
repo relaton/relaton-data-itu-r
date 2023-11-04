@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RTF.767-2
 title:
 - content: Use of global navigation satellite systems for high-accuracy time transfer
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2001'
+  value: '2001-03-15'
 - type: published
-  value: 2001-03
-revdate: 2001-03
+  value: '2001'
+revdate: '2001'
 language:
 - en
 script:

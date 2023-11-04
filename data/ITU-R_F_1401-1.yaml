@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RF.1401-1
 title:
 - content: Considerations for the identification of possible frequency bands for fixed
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2004'
+  value: '2004-01-06'
 - type: published
-  value: 2004-01
-revdate: 2004-01
+  value: '2004'
+revdate: '2004'
 language:
 - en
 script:

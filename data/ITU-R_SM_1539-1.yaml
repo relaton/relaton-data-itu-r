@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSM.1539-1
 title:
 - content: Variation of the boundary between the out-of-band and spurious domains
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2002-12-11'
+  value: '2002-11-12'
 - type: published
-  value: 2002-11
-revdate: 2002-11
+  value: '2002'
+revdate: '2002'
 language:
 - en
 script:

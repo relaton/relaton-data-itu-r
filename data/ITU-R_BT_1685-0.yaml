@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1685-0
 title:
 - content: Structure of inter-station control data conveyed by ancillary data packets
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2004'
+  value: '2004-09-29'
 - type: published
-  value: 2004-09
-revdate: 2004-09
+  value: '2004'
+revdate: '2004'
 language:
 - en
 script:

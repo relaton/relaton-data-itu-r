@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RRS.1745-0
 title:
 - content: Use of the band 1 668.4 1 710 MHz by the meteorological aids service and
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2006'
+  value: '2006-03-20'
 - type: published
-  value: 2006-03
-revdate: 2006-03
+  value: '2006'
+revdate: '2006'
 language:
 - en
 script:

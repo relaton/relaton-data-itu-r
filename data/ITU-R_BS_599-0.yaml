@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBS.599-0
 title:
 - content: Directivity of antennas for the reception of sound broadcasting in band
@@ -20,10 +20,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '1982'
+  value: '1982-07-01'
 - type: published
-  value: 1982-07
-revdate: 1982-07
+  value: '1982'
+revdate: '1982'
 language:
 - en
 script:

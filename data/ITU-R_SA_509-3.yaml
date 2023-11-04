@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RSA.509-3
 title:
 - content: Space research earth station and radio astronomy reference antenna radiation
@@ -21,10 +21,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2013-10-12'
+  value: '2013-12-10'
 - type: published
-  value: 2013-12
-revdate: 2013-12
+  value: '2013'
+revdate: '2013'
 language:
 - en
 script:

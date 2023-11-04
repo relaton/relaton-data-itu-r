@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.4
 id: ITU-RBT.1124-3
 title:
 - content: Reference signals for ghost cancelling in analogue television systems
@@ -19,10 +19,10 @@ docid:
   primary: true
 date:
 - type: confirmed
-  value: '2001'
+  value: '2001-06-30'
 - type: published
-  value: 2001-06
-revdate: 2001-06
+  value: '2001'
+revdate: '2001'
 language:
 - en
 script:
