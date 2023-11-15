@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: ITU-RSM.2080-0
 title:
 - content: Precision of time information in output data of monitoring receivers

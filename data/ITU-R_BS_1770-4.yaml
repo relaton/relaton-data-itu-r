@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: ITU-RBS.1770-4
 title:
 - content: Algorithms to measure audio programme loudness and true-peak audio level

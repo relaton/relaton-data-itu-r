@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: ITU-RS.1897-0
 title:
 - content: Cross-layer QoS provisioning in IP-based hybrid satellite-terrestrial networks
