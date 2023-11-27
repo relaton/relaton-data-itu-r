@@ -31,6 +31,7 @@ script:
 docstatus:
   stage:
     value: In force
-doctype: handbook
+doctype:
+  type: handbook
 ext:
   schema-version: v1.0.0

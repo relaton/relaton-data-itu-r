@@ -30,6 +30,7 @@ language:
 - en
 script:
 - Latn
-doctype: question
+doctype:
+  type: question
 ext:
   schema-version: v1.0.0

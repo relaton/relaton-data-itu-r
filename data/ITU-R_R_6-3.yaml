@@ -31,6 +31,7 @@ script:
 docstatus:
   stage:
     value: In force
-doctype: resolution
+doctype:
+  type: resolution
 ext:
   schema-version: v1.0.0

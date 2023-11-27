@@ -28,6 +28,7 @@ language:
 - en
 script:
 - Latn
-doctype: recommendation
+doctype:
+  type: recommendation
 ext:
   schema-version: v1.0.0

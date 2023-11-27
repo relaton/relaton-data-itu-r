@@ -27,6 +27,7 @@ language:
 - en
 script:
 - Latn
-doctype: technical-report
+doctype:
+  type: technical-report
 ext:
   schema-version: v1.0.0
