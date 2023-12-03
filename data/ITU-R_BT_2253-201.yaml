@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ITU-RBT.2253-201
 title:
 - content: 'GPS timing receivers for DVB-T SFN application: 10 MHz phase recovery'

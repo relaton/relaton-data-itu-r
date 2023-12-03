@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ITU-RF.763-5
 title:
 - content: Data transmission over HF circuits using phase shift keying or quadrature

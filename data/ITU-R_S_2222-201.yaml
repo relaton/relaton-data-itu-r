@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ITU-RS.2222-201
 title:
 - content: Cross-layer QoS for IP-based hybrid satellite-terrestrial networks

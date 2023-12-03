@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: ITU-RS.2148-200
 title:
 - content: Transmission control protocol (TCP) over satellite networks
