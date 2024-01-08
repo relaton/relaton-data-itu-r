@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: ITU-RSF.675-4
 title:
 - content: Calculation of the maximum power density (averaged over 4 kHz or 1 MHz)
