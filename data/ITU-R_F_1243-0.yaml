@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.8
+id: ITU-RF.1243-0
+title:
+- content: Radio-frequency channel arrangements for digital radio systems operating
+    in the range 2 290-2 670 MHz
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-F/R-REC-F.1243/R-REC-F.1243-0-199705-I
+  type: src
+type: standard
+docid:
+- id: ITU-R F.1243-0
+  type: ITU
+  primary: true
+date:
+- type: confirmed
+  value: '1997-05-28'
+- type: published
+  value: '1997'
+revdate: '1997'
+language:
+- en
+script:
+- Latn
+doctype:
+  type: recommendation
+ext:
+  schema-version: v1.0.0
