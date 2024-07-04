@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ITU-RBT.656-5
 title:
 - content: Interface for digital component video signals in 525-line and 625-line

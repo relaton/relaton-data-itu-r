@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: ITU-RBT.1304-0
 title:
 - content: Checksum for error detection and status information in interfaces conforming
