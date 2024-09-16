@@ -1,0 +1,33 @@
+---
+schema-version: v1.2.9
+id: ITU-RBO.791-0
+title:
+- content: Choice of polarization for the broadcasting-satellite service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-BO/R-REC-BO.791/R-REC-BO.791-0-199203-I
+  type: src
+type: standard
+docid:
+- id: ITU-R BO.791-0
+  type: ITU
+  primary: true
+date:
+- type: confirmed
+  value: '1992-03-08'
+- type: published
+  value: '1992'
+revdate: '1992'
+language:
+- en
+script:
+- Latn
+doctype:
+  type: recommendation
+ext:
+  schema-version: v1.0.0
