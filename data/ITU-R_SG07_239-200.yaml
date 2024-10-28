@@ -1,0 +1,33 @@
+---
+schema-version: v1.2.9
+id: ITU-RSG07.239-200
+title:
+- content: Instrumentation time codes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-QUE/R-QUE-SG07/R-QUE-SG07.239/R-QUE-SG07.239-2001
+  type: src
+type: standard
+docid:
+- id: ITU-R SG07.239-200
+  type: ITU
+  primary: true
+date:
+- type: confirmed
+  value: '2001'
+- type: published
+  value: '2001'
+revdate: '2001'
+language:
+- en
+script:
+- Latn
+doctype:
+  type: question
+ext:
+  schema-version: v1.0.0
