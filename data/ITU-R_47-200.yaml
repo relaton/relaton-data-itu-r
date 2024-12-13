@@ -46,7 +46,7 @@ abstract:
 docstatus:
   stage:
     value: In force
-doctype:
-  type: handbook
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: handbook
