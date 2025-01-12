@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.9
+id: ITU-RS.1061-1
+title:
+- content: Utilization of fade countermeasure strategies and techniques in the fixed-satellite
+    service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://extranet.itu.int/brdocsearch/_layouts/15/DocSetHome.aspx?id=/brdocsearch/R-REC/R-REC-S/R-REC-S.1061/R-REC-S.1061-1-200701-I
+  type: src
+type: standard
+docid:
+- id: ITU-R S.1061-1
+  type: ITU
+  primary: true
+date:
+- type: confirmed
+  value: '2007-01-23'
+- type: published
+  value: '2007'
+revdate: '2007'
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: recommendation
