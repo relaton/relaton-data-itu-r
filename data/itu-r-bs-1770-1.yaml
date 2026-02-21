@@ -1,0 +1,28 @@
+---
+id: ITURBS17701
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Algorithms to measure audio programme loudness and true-peak audio level
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1770-1-200709-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BS.1770-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

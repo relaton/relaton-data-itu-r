@@ -1,0 +1,28 @@
+---
+id: ITURBT20771
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Real-time serial digital interfaces for UHDTV signals
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2077-1-201510-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2077-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURBR6025
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Exchange of standard definition television recordings for programme content
+    evaluation
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/br/R-REC-BR.602-5-200402-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BR.602-5
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2004-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

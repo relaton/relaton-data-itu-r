@@ -1,0 +1,26 @@
+---
+id: ITUR25715
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical and operational characteristics of stations in the fixed service
+    in the frequency range 275-1 000 GHz
+  type: main
+docidentifier:
+- content: 'ITU-R 257-1/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

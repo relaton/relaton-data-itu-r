@@ -1,0 +1,27 @@
+---
+id: ITURBS7730
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radio-frequency protection ratios required by FM sound broadcasting in
+    the band between 87.5 MHz and 108 MHz against interference from D/SECAM television
+    transmissions
+  type: main
+docidentifier:
+- content: ITU-R BS.773-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

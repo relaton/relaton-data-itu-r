@@ -1,0 +1,29 @@
+---
+id: ITURBR13842
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Parameters for international exchange of multi-channel sound recordings
+    with or without accompanying picture
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/br/R-REC-BR.1384-2-201103-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BR.1384-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2011-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURBS61005
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Draft new Recommendation ITU-R BS.[Doc. 6/324] - Planning parameters for
+    digital sound broadcasting at frequencies below 30 MHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1615-0-200306-P!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BS.6/1005
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

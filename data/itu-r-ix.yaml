@@ -1,0 +1,26 @@
+---
+id: ITURIX
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Annex to Volume IX - Part 1: XVIIth Plenary Assembly of the CCIR (Düsseldorf
+    1990)'
+  type: main
+docidentifier:
+- content: ITU-R IX
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1990-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

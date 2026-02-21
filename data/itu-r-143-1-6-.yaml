@@ -1,0 +1,26 @@
+---
+id: ITUR14316
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Advanced Immersive Audio-Visual Systems for Programme Production and Exchange
+    for Broadcasting
+  type: main
+docidentifier:
+- content: 'ITU-R 143-1/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2021-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

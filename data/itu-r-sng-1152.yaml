@@ -1,0 +1,29 @@
+---
+id: ITURSNG1152
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of digital transmission techniques for Satellite News Gathering (SNG)
+    (sound)
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sng/R-REC-SNG.1152-0-199510-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SNG.1152
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

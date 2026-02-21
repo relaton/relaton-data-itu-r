@@ -1,0 +1,29 @@
+---
+id: ITURBT8142
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Specifications and alignment procedures for setting of brightness and contrast
+    of displays
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.814-2-200709-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.814-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

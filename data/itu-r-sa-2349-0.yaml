@@ -1,0 +1,30 @@
+---
+id: ITURSA23490
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Compatibility between GSO EESS (Earth-to-space), and the fixed service,
+    the mobile service, the space research service, or the space operation service
+    in the band 7 190-7 235
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-SA.2349-2015-PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.2349-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2018-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

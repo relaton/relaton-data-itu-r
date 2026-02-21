@@ -1,0 +1,25 @@
+---
+id: ITURP52614
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Propagation by diffraction
+  type: main
+docidentifier:
+- content: ITU-R P.526-14
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2018-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

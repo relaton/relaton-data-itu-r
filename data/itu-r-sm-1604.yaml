@@ -1,0 +1,25 @@
+---
+id: ITURSM1604
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for an upgraded spectrum management system for developing countries
+  type: main
+docidentifier:
+- content: ITU-R SM.1604
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

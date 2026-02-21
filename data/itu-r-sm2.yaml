@@ -1,0 +1,26 @@
+---
+id: ITURSM2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ITU-R Report SM.2022 - The effect on digital communications systems of
+    interference from other modulation schemes
+  type: main
+docidentifier:
+- content: ITU-R SM2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

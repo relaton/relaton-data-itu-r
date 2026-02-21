@@ -1,0 +1,29 @@
+---
+id: ITURBT21231
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Video parameter values for advanced immersive audio-visual systems for
+    production and international programme exchange in broadcasting
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2123-1-202502-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2123-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2025-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

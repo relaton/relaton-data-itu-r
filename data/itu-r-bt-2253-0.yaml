@@ -1,0 +1,28 @@
+---
+id: ITURBT22530
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'GPS timing receivers for DVB-T SFN application: 10 MHz phase recovery'
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2253-2012-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2253-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2012-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

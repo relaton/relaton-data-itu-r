@@ -1,0 +1,25 @@
+---
+id: ITURBS4152
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Minimum performance specifications for low-cost sound-broadcasting receivers
+  type: main
+docidentifier:
+- content: ITU-R BS.415-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

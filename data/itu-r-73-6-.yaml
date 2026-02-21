@@ -1,0 +1,26 @@
+---
+id: ITUR736
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transmitting and receiving antennas for the broadcasting-satellite service
+    (sound and television) and for the associated feeder links
+  type: main
+docidentifier:
+- content: 'ITU-R 73/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

@@ -1,0 +1,25 @@
+---
+id: ITURBS1393
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transmitting antennas for sound broadcasting in the Tropical Zone
+  type: main
+docidentifier:
+- content: ITU-R BS.139-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURM21140
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Key technical and operational characteristics for access technologies to
+    support IP applications over land mobile systems
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2114-2007-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2114-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

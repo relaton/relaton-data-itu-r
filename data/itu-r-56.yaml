@@ -1,0 +1,28 @@
+---
+id: ITUR56
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Earth Exploration-Satellite Service
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/hdb/R-HDB-56-2011-PDF-E.pdf
+docidentifier:
+- content: ITU-R 56
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

@@ -1,0 +1,25 @@
+---
+id: ITURBT11991
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of bit-rate reduction in the HDTV studio environment
+  type: main
+docidentifier:
+- content: ITU-R BT.1199-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

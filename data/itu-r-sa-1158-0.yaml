@@ -1,0 +1,26 @@
+---
+id: ITURSA11580
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sharing of the 1 675-1710 MHz band between the meteorological-satellite
+    service (space-to-Earth) and the mobile-satellite service (Earth-to-space)
+  type: main
+docidentifier:
+- content: ITU-R SA.1158-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

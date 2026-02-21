@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require 'relaton_itu'
+require 'relaton/itu/data_fetcher'
 
 FileUtils.rm_rf 'data'
 FileUtils.rm Dir.glob('index*')
 
-RelatonItu::DataFetcher.fetch
+Relaton::Itu::DataFetcher.fetch

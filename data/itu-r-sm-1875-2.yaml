@@ -1,0 +1,28 @@
+---
+id: ITURSM18752
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DVB-T coverage measurements and verification of planning criteria
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1875-2-201408-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1875-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2014-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

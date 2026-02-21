@@ -1,0 +1,26 @@
+---
+id: ITUR24615
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical characteristics and channelling requirements for adaptive HF
+    systems
+  type: main
+docidentifier:
+- content: 'ITU-R 246-1/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

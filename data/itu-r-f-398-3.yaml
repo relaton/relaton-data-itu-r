@@ -1,0 +1,29 @@
+---
+id: ITURF3983
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurements of noise in actual traffic over radio-relay systems for telephony
+    using frequency-division multiplex
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.398-3-197407-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.398-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

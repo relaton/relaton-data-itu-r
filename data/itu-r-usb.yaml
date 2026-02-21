@@ -1,0 +1,28 @@
+---
+id: ITURUSB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ITU-R Recommendations, Reports and selected Handbooks
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/usb/R-PN-451-17-PDF-E.pdf
+docidentifier:
+- content: ITU-R USB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

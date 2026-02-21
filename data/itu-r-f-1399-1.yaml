@@ -1,0 +1,28 @@
+---
+id: ITURF13991
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Vocabulary of terms for wireless access
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1399-1-200105-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.1399-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

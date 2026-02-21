@@ -1,0 +1,25 @@
+---
+id: ITUR24125
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cognitive radio systems in the mobile service
+  type: main
+docidentifier:
+- content: 'ITU-R 241-2/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2012-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

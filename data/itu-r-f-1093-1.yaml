@@ -1,0 +1,29 @@
+---
+id: ITURF10931
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Effects of multipath propagation on the design and operation of line-of-sight
+    digital radio-relay systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1093-1-199709-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.1093-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

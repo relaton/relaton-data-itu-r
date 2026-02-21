@@ -1,0 +1,28 @@
+---
+id: ITURBT18700
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Video coding for digital television broadcasting emission
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1870-0-201003-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1870-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

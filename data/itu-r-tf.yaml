@@ -1,0 +1,25 @@
+---
+id: ITURTF
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ITU-R Recommendations, 1994 - TF Series
+  type: main
+docidentifier:
+- content: ITU-R TF
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1994-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

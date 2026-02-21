@@ -1,0 +1,25 @@
+---
+id: ITURP10576
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Probability distributions relevant to radiowave propagation modelling
+  type: main
+docidentifier:
+- content: ITU-R P.1057-6
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

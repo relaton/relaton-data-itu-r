@@ -1,0 +1,29 @@
+---
+id: ITURSM24491
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical characteristics and impact analyses of non-beam inductive wireless
+    power transmission for mobile and portable devices on radiocommunication services
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-SM.2449-1-2024-PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.2449-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

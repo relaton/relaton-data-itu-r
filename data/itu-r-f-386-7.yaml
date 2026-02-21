@@ -1,0 +1,29 @@
+---
+id: ITURF3867
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radio-frequency channel arrangements for fixed wireless systems operating
+    in the 8 GHz band
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.386-7-200701-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.386-7
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

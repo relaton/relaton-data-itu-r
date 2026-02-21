@@ -1,0 +1,25 @@
+---
+id: ITURBS13860
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LF and MF transmitting antennas characteristics and diagrams
+  type: main
+docidentifier:
+- content: ITU-R BS.1386-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

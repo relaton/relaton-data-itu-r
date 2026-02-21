@@ -1,0 +1,30 @@
+---
+id: ITURF13310
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Performance degradation due to interference from other services sharing
+    the same frequency bands on a primary basis with analogue radio-relay systems
+    for television
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1331-0-199709-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.1331-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

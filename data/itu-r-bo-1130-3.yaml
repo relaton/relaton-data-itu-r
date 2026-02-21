@@ -1,0 +1,27 @@
+---
+id: ITURBO11303
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: System description and selection for digital satellite broadcasting to
+    vehicular, portable and fixed receivers in the bands allocated to bss (sound)
+    in the frequency range 1 400-2 700 MHz
+  type: main
+docidentifier:
+- content: ITU-R BO.1130-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURM14532
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intelligent transport systems - Dedicated short range communications at
+    5.8 GHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1453-2-200506-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R M.1453-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2005-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

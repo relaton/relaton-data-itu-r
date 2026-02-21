@@ -1,0 +1,27 @@
+---
+id: ITURBO11301
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: System for digital sound broadcasting to vehicular, portable and fixed
+    receivers for broadcasting service satellite (sound) bands in the frequency range
+    1 400-2 700 MHz
+  type: main
+docidentifier:
+- content: ITU-R BO.1130-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

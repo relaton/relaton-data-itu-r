@@ -1,0 +1,25 @@
+---
+id: ITUR2387
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trusted time source for time stamp authority
+  type: main
+docidentifier:
+- content: 'ITU-R 238/7:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2020-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

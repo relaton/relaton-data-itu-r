@@ -1,0 +1,26 @@
+---
+id: ITURBS16607
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical basis for planning of terrestrial digital sound broadcasting
+    in the VHF band
+  type: main
+docidentifier:
+- content: ITU-R BS.1660-7
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

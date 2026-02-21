@@ -1,0 +1,25 @@
+---
+id: ITURBT16921
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Optimization of the quality of colour reproduction in digital television
+  type: main
+docidentifier:
+- content: ITU-R BT.1692-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2009-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

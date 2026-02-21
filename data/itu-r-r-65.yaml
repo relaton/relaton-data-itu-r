@@ -1,0 +1,28 @@
+---
+id: ITURR65
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Principles for the process of future development of IMT for 2020 and beyond
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/res/R-RES-R.65-2015-PDF-E.pdf
+docidentifier:
+- content: ITU-R R.65
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: resolution
+  flavor: itu

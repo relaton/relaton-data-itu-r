@@ -1,0 +1,26 @@
+---
+id: ITUR20965
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of the mobile, amateur and the amateur-satellite services in support
+    of disaster radiocommunications
+  type: main
+docidentifier:
+- content: 'ITU-R 209-6/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

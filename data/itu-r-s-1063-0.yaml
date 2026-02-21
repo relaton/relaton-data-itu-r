@@ -1,0 +1,29 @@
+---
+id: ITURS10630
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Criteria for sharing between BSS feeder links and other Earth-to-space
+    or space-to-Earth links of the FSS
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/s/R-REC-S.1063-0-199409-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R S.1063-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

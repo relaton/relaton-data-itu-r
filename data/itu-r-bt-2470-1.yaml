@@ -1,0 +1,28 @@
+---
+id: ITURBT24701
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of Monte Carlo simulation to model interference to DTTB
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2470-1-2020-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2470-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2020-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

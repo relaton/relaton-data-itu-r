@@ -1,0 +1,29 @@
+---
+id: ITURBT13002
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service multiplex, transport, and identification methods for digital terrestrial
+    television broadcasting
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1300-2-200402-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1300-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2004-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURSM17080
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Field-strength measurements along a route with geographical coordinate
+    registrations
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1708-0-200504-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1708-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2005-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

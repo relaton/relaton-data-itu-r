@@ -1,0 +1,25 @@
+---
+id: ITUR28HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Subjective Assessment Methodology in Television
+  type: main
+docidentifier:
+- content: ITU-R 28.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

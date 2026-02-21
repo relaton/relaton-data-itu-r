@@ -1,0 +1,28 @@
+---
+id: ITUR48HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Emergency and Disaster relief
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/hdb/R-HDB-48-2006-OAS-PDF-E.pdf
+docidentifier:
+- content: ITU-R 48.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

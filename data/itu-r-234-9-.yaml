@@ -1,0 +1,26 @@
+---
+id: ITUR2349
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical and operational characteristics of fixed wireless systems operating
+    in frequency bands allocated to the fixed service above 57 GHz
+  type: main
+docidentifier:
+- content: 'ITU-R 234/9:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2004-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

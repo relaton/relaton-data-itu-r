@@ -1,0 +1,28 @@
+---
+id: ITURBT12103
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test materials to be used in subjective assessment
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1210-3-200402-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1210-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2004-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

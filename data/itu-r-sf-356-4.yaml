@@ -1,0 +1,30 @@
+---
+id: ITURSF3564
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Maximum allowable values of interference from line-of-sight radio-relay
+    systems in a telephone channel of a system in the fixed-satellite service employing
+    frequency modulation, when the same frequency bands are shared by both systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sf/R-REC-SF.356-4-197807-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SF.356-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

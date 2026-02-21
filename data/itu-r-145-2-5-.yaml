@@ -1,0 +1,26 @@
+---
+id: ITUR14525
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characteristics required for high-speed data transmission over HF radio
+    circuits
+  type: main
+docidentifier:
+- content: 'ITU-R 145-2/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURBT13040
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Checksum for error detection and status information in interfaces conforming
+    with Recommendations ITU-R BT.656 and ITU-R BT.799
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1304-0-199710-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1304-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

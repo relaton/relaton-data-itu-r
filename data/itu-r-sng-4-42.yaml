@@ -1,0 +1,29 @@
+---
+id: ITURSNG442
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Draft new Recommendation ITU-R SNG.[uap] [Doc. 4/42] - SNG carriers universal
+    access procedures
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sng/R-REC-SNG.1710-0-200504-P!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SNG.4/42
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2005-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

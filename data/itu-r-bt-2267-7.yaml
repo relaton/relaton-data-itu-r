@@ -1,0 +1,28 @@
+---
+id: ITURBT22677
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integrated broadcast-broadband systems
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2267-7-2017-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2267-7
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

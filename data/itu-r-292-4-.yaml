@@ -1,0 +1,25 @@
+---
+id: ITUR2924
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: UHDTV satellite broadcasting systems
+  type: main
+docidentifier:
+- content: 'ITU-R 292/4:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

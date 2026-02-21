@@ -1,0 +1,29 @@
+---
+id: ITURBT12990
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The basic elements of a worldwide common family of systems for digital
+    terrestrial television broadcasting
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1299-0-199710-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1299-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

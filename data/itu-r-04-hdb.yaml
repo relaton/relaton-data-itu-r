@@ -1,0 +1,25 @@
+---
+id: ITUR04HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IFRB Handbook on radio regulatory procedures
+  type: main
+docidentifier:
+- content: ITU-R 04.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1984-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

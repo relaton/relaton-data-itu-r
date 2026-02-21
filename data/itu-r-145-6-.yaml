@@ -1,0 +1,26 @@
+---
+id: ITUR1456
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Systems for enabling access to broadcast and cooperative media for persons
+    with disabilities
+  type: main
+docidentifier:
+- content: 'ITU-R 145/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

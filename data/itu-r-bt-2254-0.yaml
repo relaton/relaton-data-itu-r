@@ -1,0 +1,28 @@
+---
+id: ITURBT22540
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Frequency and network planning aspects of DVB-T2
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2254-2012-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2254-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2012-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

@@ -1,0 +1,25 @@
+---
+id: ITURM5BL11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characteristics of broadband radio local area networks
+  type: main
+docidentifier:
+- content: ITU-R M.5/BL/11
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2014-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

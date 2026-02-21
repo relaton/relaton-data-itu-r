@@ -1,0 +1,28 @@
+---
+id: ITURBT13581
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Studio parameters of 625 and 525 line progressive television systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1358-1-200709-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1358-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2012-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

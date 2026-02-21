@@ -1,0 +1,26 @@
+---
+id: ITUR756
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Telemetry, tracking and command signals and test signals for maintenance
+    and testing of the radio-frequency characteristics of broadcasting-satellite
+  type: main
+docidentifier:
+- content: 'ITU-R 75/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

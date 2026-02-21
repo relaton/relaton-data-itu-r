@@ -1,0 +1,25 @@
+---
+id: ITURSM10450
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Frequency tolerance of transmitters
+  type: main
+docidentifier:
+- content: ITU-R SM.1045-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

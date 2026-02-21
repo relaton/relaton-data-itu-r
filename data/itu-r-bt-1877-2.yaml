@@ -1,0 +1,29 @@
+---
+id: ITURBT18772
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Error-correction, data framing, modulation and emission methods and selection
+    guidance for second generation digital terrestrial television broadcasting systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1877-2-201912-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1877-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

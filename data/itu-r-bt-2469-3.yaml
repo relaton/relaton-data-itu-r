@@ -1,0 +1,29 @@
+---
+id: ITURBT24693
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Typical frequency sharing characteristics for digital terrestrial broadcasting
+    systems in the frequency band 174-230 MHz
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2469-3-2023-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2469-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

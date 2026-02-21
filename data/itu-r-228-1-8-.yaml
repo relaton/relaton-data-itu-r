@@ -1,0 +1,26 @@
+---
+id: ITUR22818
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Future submission of satellite radio transmission technologies for International
+    Mobile Telecommunications-2000
+  type: main
+docidentifier:
+- content: 'ITU-R 228-1/8:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2006-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

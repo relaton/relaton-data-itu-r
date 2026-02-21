@@ -1,0 +1,29 @@
+---
+id: ITURRA12371
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protection of the radio astronomy service from unwanted emissions resulting
+    from applications of wideband digital modulation
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/ra/R-REC-RA.1237-1-200306-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R RA.1237-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

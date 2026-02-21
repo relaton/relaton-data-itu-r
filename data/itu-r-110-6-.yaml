@@ -1,0 +1,26 @@
+---
+id: ITUR1106
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Processability margins required for contribution programme material in
+    television production
+  type: main
+docidentifier:
+- content: 'ITU-R 110/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

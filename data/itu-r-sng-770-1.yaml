@@ -1,0 +1,28 @@
+---
+id: ITURSNG7701
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Uniform operational procedures for satellite news gathering (SNG)
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sng/R-REC-SNG.770-1-199409-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SNG.770-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

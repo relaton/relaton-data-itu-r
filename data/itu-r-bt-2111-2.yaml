@@ -1,0 +1,29 @@
+---
+id: ITURBT21112
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Specification of colour bar test pattern for high dynamic range television
+    systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2111-2-202012-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2111-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2021-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,25 @@
+---
+id: ITURF11910
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bandwidths and unwanted emissions of digital radio-relay systems
+  type: main
+docidentifier:
+- content: ITU-R F.1191-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

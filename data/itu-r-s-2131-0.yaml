@@ -1,0 +1,29 @@
+---
+id: ITURS21310
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Method for the determination of performance objectives for satellite hypothetical
+    reference digital paths using adaptive coding and modulation
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/s/R-REC-S.2131-0-201909-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R S.2131-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

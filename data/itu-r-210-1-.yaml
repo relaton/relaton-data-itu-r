@@ -1,0 +1,25 @@
+---
+id: ITUR2101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Wireless power transmission
+  type: main
+docidentifier:
+- content: 'ITU-R 210/1:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

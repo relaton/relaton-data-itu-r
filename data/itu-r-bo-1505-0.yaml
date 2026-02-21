@@ -1,0 +1,26 @@
+---
+id: ITURBO15050
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Coordination procedure for assignments of space operation service in the
+    guardbands of Appendices S30 and S30A Plans of the Radio Regulations
+  type: main
+docidentifier:
+- content: ITU-R BO.1505-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

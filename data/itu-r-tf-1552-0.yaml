@@ -1,0 +1,28 @@
+---
+id: ITURTF15520
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Time scales for use by standard-frequency and time-signal services
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/tf/R-REC-TF.1552-0-200202-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R TF.1552-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

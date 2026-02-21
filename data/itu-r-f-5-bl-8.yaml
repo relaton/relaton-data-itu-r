@@ -1,0 +1,30 @@
+---
+id: ITURF5BL8
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Draft revision of Recommendation ITU-R F.1107-1 - Probabilistic analysis
+    for calculating interference into the fixed service from satellites occupying
+    the geostationary orbit
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1107-2-201105-P!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.5/BL/8
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2011-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

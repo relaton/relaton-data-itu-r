@@ -1,0 +1,28 @@
+---
+id: ITURP18151
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Differential rain attenuation
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1815-1-200910-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.1815-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

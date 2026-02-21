@@ -1,0 +1,28 @@
+---
+id: ITURSM32910
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Unwanted emissions in the spurious domain
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.329-10-200302-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.329-10
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,26 @@
+---
+id: ITUR2684
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Development of methodologies for the assessment of satellite unwanted emission
+    levels before launch
+  type: main
+docidentifier:
+- content: 'ITU-R 268/4:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

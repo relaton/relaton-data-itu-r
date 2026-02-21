@@ -1,0 +1,29 @@
+---
+id: ITURM25200
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The use of the terrestrial component of International Mobile Telecommunications
+    for the Cellular-Vehicle-to-Everything
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2520-2022-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2520-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

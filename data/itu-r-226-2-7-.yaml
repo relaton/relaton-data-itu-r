@@ -1,0 +1,26 @@
+---
+id: ITUR22627
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Frequency sharing between the radio astronomy service and other services
+    in bands between 67 and 275 GHz
+  type: main
+docidentifier:
+- content: 'ITU-R 226-2/7:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

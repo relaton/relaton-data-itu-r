@@ -1,0 +1,25 @@
+---
+id: ITUR2315
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Operation of wideband aeronautical telemetry in bands above 3 GHz
+  type: main
+docidentifier:
+- content: 'ITU-R 231/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

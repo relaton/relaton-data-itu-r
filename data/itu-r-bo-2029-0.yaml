@@ -1,0 +1,29 @@
+---
+id: ITURBO20290
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Broadcasting-satellite service earth station antenna pattern measurements
+    and related analyses
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BO.2029-2002-PDF-E.pdf
+docidentifier:
+- content: ITU-R BO.2029-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

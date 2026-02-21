@@ -1,0 +1,27 @@
+---
+id: ITUR2297
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Frequency sharing between the Earth exploration-satellite service (passive)
+    and airborne altimeters in the aeronautical radionavigation service in the band
+    4 200-4 400 MHz
+  type: main
+docidentifier:
+- content: 'ITU-R 229/7:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

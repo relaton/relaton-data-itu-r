@@ -1,0 +1,26 @@
+---
+id: ITUR2595
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Operational and radio regulatory aspects for planes operating in the upper
+    level of the atmosphere
+  type: main
+docidentifier:
+- content: 'ITU-R 259/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

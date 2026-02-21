@@ -1,0 +1,26 @@
+---
+id: ITURSM3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ITU-R Report SM.2021 - Production and mitigation of intermodulation products
+    in the transmitter
+  type: main
+docidentifier:
+- content: ITU-R SM3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

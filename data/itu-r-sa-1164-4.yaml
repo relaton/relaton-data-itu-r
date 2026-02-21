@@ -1,0 +1,30 @@
+---
+id: ITURSA11644
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sharing and coordination criteria for service links in data collection
+    systems using GSO satellites in the Earth exploration-satellite and meteorological-satellite
+    services
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.1164-4-201908-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.1164-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

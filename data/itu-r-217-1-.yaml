@@ -1,0 +1,27 @@
+---
+id: ITUR2171
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Compatibility between short range devices operating within the band 59-64
+    GHz and industrial, scientific and medical (ISM) applications operating in the
+    band 61-61.5 GHz
+  type: main
+docidentifier:
+- content: 'ITU-R 217/1:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

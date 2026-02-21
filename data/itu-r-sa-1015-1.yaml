@@ -1,0 +1,28 @@
+---
+id: ITURSA10151
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bandwidth requirements for deep-space research
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.1015-1-200706-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.1015-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

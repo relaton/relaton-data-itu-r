@@ -1,0 +1,28 @@
+---
+id: ITURRA6113
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protection of the radio astronomy service from spurious emissions
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/ra/R-REC-RA.611-3-200306-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R RA.611-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

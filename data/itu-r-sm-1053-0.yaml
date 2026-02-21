@@ -1,0 +1,28 @@
+---
+id: ITURSM10530
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Methods of improving HF direction-finding accuracy at fixed stations
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1053-0-199407-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1053-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,25 @@
+---
+id: ITURBT14370
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: User requirements for digital coding for multi-programme television transmission
+  type: main
+docidentifier:
+- content: ITU-R BT.1437-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

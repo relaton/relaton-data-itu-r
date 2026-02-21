@@ -1,0 +1,28 @@
+---
+id: ITURBR6491
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring methods for analogue audio tape recordings
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/br/R-REC-BR.649-1-199203-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BR.649-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

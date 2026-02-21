@@ -1,0 +1,26 @@
+---
+id: ITURP4526
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Prediction procedure for the evaluation of microwave interference between
+    stations on the surface of the Earth at frequencies above about 0.7 GHz
+  type: main
+docidentifier:
+- content: ITU-R P.452-6
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,26 @@
+---
+id: ITUR11216
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines on functionalities of facilities based on the use of digital
+    servers in broadcast programme recording, archiving and playout
+  type: main
+docidentifier:
+- content: 'ITU-R 112-1/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

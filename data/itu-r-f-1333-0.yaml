@@ -1,0 +1,29 @@
+---
+id: ITURF13330
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Estimation of the actual elevation angle from a station in the fixed service
+    towards a space station taking into account atmospheric refraction
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1333-0-199709-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.1333-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

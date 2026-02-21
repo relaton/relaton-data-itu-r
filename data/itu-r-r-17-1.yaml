@@ -1,0 +1,26 @@
+---
+id: ITURR171
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integration of International mobile telecommunications-2000  (IMT-2000)
+    with existing networks
+  type: main
+docidentifier:
+- content: ITU-R R.17-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1997-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: resolution
+  flavor: itu

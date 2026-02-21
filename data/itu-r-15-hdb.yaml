@@ -1,0 +1,26 @@
+---
+id: ITUR15HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Supplement No. 2 to Handbook on Satellite Communications: Computer Programs
+    for Satellite Communications'
+  type: main
+docidentifier:
+- content: ITU-R 15.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1993-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

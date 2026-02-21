@@ -1,0 +1,25 @@
+---
+id: ITURV2500
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test
+  type: main
+docidentifier:
+- content: ITU-R V.2500
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2020-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

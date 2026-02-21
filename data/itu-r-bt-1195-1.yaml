@@ -1,0 +1,28 @@
+---
+id: ITURBT11951
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transmitting antenna characteristics at VHF and UHF
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1195-1-201301-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1195-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2013-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

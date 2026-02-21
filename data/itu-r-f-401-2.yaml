@@ -1,0 +1,29 @@
+---
+id: ITURF4012
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Frequencies and deviations of continuity pilots for frequency modulation
+    radio-relay systems for television and telephony
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.401-2-197007-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.401-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

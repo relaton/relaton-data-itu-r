@@ -1,0 +1,28 @@
+---
+id: ITURSA20660
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Means of calculating low-orbit satellite visibility statistics
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-SA.2066-2006-PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.2066-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2006-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

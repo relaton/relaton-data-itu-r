@@ -1,0 +1,28 @@
+---
+id: ITURRA7691
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protection criteria used for radioastronomical measurements
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/ra/R-REC-RA.769-1-199510-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R RA.769-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

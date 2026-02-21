@@ -1,0 +1,28 @@
+---
+id: ITURSM3786
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Field-strength measurements at monitoring stations
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.378-6-199510-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.378-6
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURM20320
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tests illustrating the compatibility between maritime radionavigation radars
+    and emissions from radiolocation radars in the band 2 900-3 100 MHz
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2032-2003-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2032-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

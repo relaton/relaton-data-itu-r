@@ -1,0 +1,29 @@
+---
+id: ITURBT13620
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interfaces for digital component video signals in 525- and 625-line progressive
+    scan television systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1362-0-199802-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1362-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

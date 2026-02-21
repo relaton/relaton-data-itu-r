@@ -1,0 +1,29 @@
+---
+id: ITURBT24070
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Colour gamut conversion from Recommendation ITU-R BT.2020 to Recommendation
+    ITU-R BT.709
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2407-2017-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2407-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

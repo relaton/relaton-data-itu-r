@@ -1,0 +1,29 @@
+---
+id: ITURRA25070
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical and operational characteristics of the existing and planned Geodetic
+    Very Long Baseline Interferometry
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-RA.2507-2022-PDF-E.pdf
+docidentifier:
+- content: ITU-R RA.2507-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2022-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

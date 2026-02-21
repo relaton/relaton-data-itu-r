@@ -1,0 +1,25 @@
+---
+id: ITUR07HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Chart in colour showing frequency allocations from 0 to 400 GHz
+  type: main
+docidentifier:
+- content: ITU-R 07.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1986-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

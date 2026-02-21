@@ -1,0 +1,27 @@
+---
+id: ITUR2293
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Prediction of sky-wave propagation conditions, signal intensity, circuit
+    performance and reliability at frequencies between about 1.6 and 30 MHz, in particular
+    for systems using digital modulation techniques
+  type: main
+docidentifier:
+- content: 'ITU-R 229/3:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

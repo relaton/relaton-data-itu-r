@@ -1,0 +1,26 @@
+---
+id: ITURSA5101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Feasibility of frequency sharing between the space research service and
+    other services in band 10. Potential interference from data relay satellite systems
+  type: main
+docidentifier:
+- content: ITU-R SA.510-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

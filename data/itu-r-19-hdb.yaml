@@ -1,0 +1,25 @@
+---
+id: ITUR19HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Digital Television Signals: Coding and Interfacing within Studios'
+  type: main
+docidentifier:
+- content: ITU-R 19.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

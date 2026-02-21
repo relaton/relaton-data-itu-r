@@ -1,0 +1,30 @@
+---
+id: ITURBT6132
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Draft new Recommendation ITU-R BT.[IBB-GENERAL] - General requirements
+    for broadcast-oriented applications of integrated broadcast-broadband systems
+    and their envisaged utilization
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2037-0-201307-P!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.6/132
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2013-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

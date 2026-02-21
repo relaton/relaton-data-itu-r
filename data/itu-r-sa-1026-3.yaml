@@ -1,0 +1,30 @@
+---
+id: ITURSA10263
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interference criteria for space-to-Earth data transmission systems operating
+    in the Earth exploration-satellite and meteorological-satellite services using
+    satellites in low-Earth orbit
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.1026-3-199910-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.1026-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1999-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

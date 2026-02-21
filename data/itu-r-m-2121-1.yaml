@@ -1,0 +1,29 @@
+---
+id: ITURM21211
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Harmonization of frequency bands for Intelligent Transport Systems in the
+    mobile service
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2121-1-202312-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2121-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

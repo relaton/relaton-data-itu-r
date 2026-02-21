@@ -1,0 +1,26 @@
+---
+id: ITURSM1BL3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Test procedure for measuring direction finder immunity against multi-path
+    propagation
+  type: main
+docidentifier:
+- content: ITU-R SM.1/BL/3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2014-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

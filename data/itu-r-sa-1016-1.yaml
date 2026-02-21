@@ -1,0 +1,28 @@
+---
+id: ITURSA10161
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sharing considerations relating to space research service (deep space)
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.1016-1-201908-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.1016-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

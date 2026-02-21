@@ -1,0 +1,29 @@
+---
+id: ITURF14980
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Deployment characteristics of fixed service systems in the band 37-40 GHz
+    for use in sharing studies
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1498-0-200005-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.1498-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

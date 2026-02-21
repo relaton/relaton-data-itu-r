@@ -1,0 +1,26 @@
+---
+id: ITUR20314
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The impact of using small antennas on the efficient use of the geostationary-satellite
+    orbit
+  type: main
+docidentifier:
+- content: 'ITU-R 203-1/4:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

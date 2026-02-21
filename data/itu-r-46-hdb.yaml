@@ -1,0 +1,29 @@
+---
+id: ITUR46HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Migration to IMT-2000 Systems - Supplement 1 to the Handbook on Deployment
+    of IMT-2000 Systems
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/pub/R-HDB-46-2005
+docidentifier:
+- content: ITU-R 46.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

@@ -1,0 +1,28 @@
+---
+id: ITUR21625
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Compatibility of radionavigation, earth exploration-satellite (active),
+    space research (active), mobile, and radiolocation services operating in the band
+    5 350-5 650 MHz and compatibility between the radionavigation and radiolocation
+    services in the band 2 900-3 100 MHz
+  type: main
+docidentifier:
+- content: 'ITU-R 216-2/5:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

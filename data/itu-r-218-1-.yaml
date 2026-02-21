@@ -1,0 +1,26 @@
+---
+id: ITUR2181
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Techniques for measurement of radiation from high data rate telecommunication
+    systems using electricity power supply of telephone distribution wiring
+  type: main
+docidentifier:
+- content: 'ITU-R 218/1:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2006-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

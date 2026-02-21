@@ -1,0 +1,29 @@
+---
+id: ITURR73
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Telecommunication development including liaison and collaboration with
+    the ITU Telecommunication Development Sector
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/res/R-RES-R.7-3-2015-PDF-E.pdf
+docidentifier:
+- content: ITU-R R.7-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: resolution
+  flavor: itu

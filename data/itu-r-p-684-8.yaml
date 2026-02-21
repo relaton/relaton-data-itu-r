@@ -1,0 +1,28 @@
+---
+id: ITURP6848
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Prediction of field strength at frequencies below about 150 kHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.684-8-202208-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.684-8
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2022-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

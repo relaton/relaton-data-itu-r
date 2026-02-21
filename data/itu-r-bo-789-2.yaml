@@ -1,0 +1,27 @@
+---
+id: ITURBO7892
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service for digital sound broadcasting to vehicular portable and fixed
+    receivers for broadcasting-satellite service (sound) in the frequency range 1
+    400-2 700 MHz
+  type: main
+docidentifier:
+- content: ITU-R BO.789-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

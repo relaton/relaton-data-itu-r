@@ -1,0 +1,25 @@
+---
+id: ITURBS7080
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Determination of the electro-acoustical properties of studio monitor headphones
+  type: main
+docidentifier:
+- content: ITU-R BS.708-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

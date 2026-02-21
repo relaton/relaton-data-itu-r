@@ -1,0 +1,29 @@
+---
+id: ITURSM21101
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidance on frequency ranges for operation of non-beam wireless power transmission
+    for electric vehicles
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.2110-1-201910-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.2110-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

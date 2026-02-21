@@ -1,0 +1,25 @@
+---
+id: ITUR14729
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automatically controlled radio systems and networks in the HF fixed service
+  type: main
+docidentifier:
+- content: 'ITU-R 147-2/9:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

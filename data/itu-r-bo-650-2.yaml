@@ -1,0 +1,26 @@
+---
+id: ITURBO6502
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standards for conventional television systems for satellite broadcasting
+    in the channels defined by Appendix 30 of the Radio Regulations
+  type: main
+docidentifier:
+- content: ITU-R BO.650-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

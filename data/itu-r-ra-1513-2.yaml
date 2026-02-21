@@ -1,0 +1,30 @@
+---
+id: ITURRA15132
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Levels of data loss to radio astronomy observations and percentage-of-time
+    criteria resulting from degradation by interference for frequency bands allocated
+    to the radio astronomy service on a primary basis
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/ra/R-REC-RA.1513-2-201503-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R RA.1513-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

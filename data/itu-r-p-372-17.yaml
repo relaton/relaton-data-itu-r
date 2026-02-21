@@ -1,0 +1,28 @@
+---
+id: ITURP37217
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radio noise
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.372-17-202408-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.372-17
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

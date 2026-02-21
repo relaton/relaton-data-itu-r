@@ -1,0 +1,30 @@
+---
+id: ITURSA12780
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Feasibility of sharing between the Earth exploration-satellite service
+    (space-to-Earth) and the fixed, inter-satellite, and mobile services in the band
+    25.5-27.0 GHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.1278-0-199710-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.1278-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

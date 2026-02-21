@@ -1,0 +1,25 @@
+---
+id: ITUR37HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'IMT-2000: Special Edition'
+  type: main
+docidentifier:
+- content: ITU-R 37.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

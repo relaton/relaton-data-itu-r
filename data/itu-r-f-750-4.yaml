@@ -1,0 +1,29 @@
+---
+id: ITURF7504
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Architectures and functional aspects of radio-relay systems for synchronous
+    digital hierarchy (SDH)-based network
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.750-4-200005-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.750-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

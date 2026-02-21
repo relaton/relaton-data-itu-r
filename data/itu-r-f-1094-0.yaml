@@ -1,0 +1,27 @@
+---
+id: ITURF10940
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Maximum allowable error performance and availability degradations to digital
+    radio-relay systems arising from interference from emissions and radiations from
+    other sources
+  type: main
+docidentifier:
+- content: ITU-R F.1094-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

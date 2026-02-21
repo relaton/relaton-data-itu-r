@@ -1,0 +1,26 @@
+---
+id: ITUR2674
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical and operational considerations relating to the advance publication,
+    coordination and notification of fixed-satellite networks
+  type: main
+docidentifier:
+- content: 'ITU-R 267/4:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2024-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

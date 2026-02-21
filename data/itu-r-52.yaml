@@ -1,0 +1,28 @@
+---
+id: ITUR52
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Amateur and amateur-satellite services
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/pub/R-HDB-52-2008
+docidentifier:
+- content: ITU-R 52
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

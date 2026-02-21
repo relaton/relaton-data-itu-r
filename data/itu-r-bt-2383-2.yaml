@@ -1,0 +1,29 @@
+---
+id: ITURBT23832
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Characteristics of digital terrestrial television broadcasting systems
+    in the frequency band 470-862 MHz for frequency sharing/interference analyses
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2383-2-2019-PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2383-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

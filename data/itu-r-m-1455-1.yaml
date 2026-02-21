@@ -1,0 +1,29 @@
+---
+id: ITURM14551
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Key characteristics for the International Mobile Telecommunications-2000
+    (IMT-2000) radio interfaces
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1455-1-200108-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R M.1455-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,25 @@
+---
+id: ITUR38HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LF/MF system design
+  type: main
+docidentifier:
+- content: ITU-R 38.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2005-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

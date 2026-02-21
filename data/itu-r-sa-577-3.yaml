@@ -1,0 +1,26 @@
+---
+id: ITURSA5773
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Preferred frequencies and necessary bandwidths for spaceborne active remote
+    sensing
+  type: main
+docidentifier:
+- content: ITU-R SA.577-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

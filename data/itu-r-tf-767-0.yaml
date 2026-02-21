@@ -1,0 +1,26 @@
+---
+id: ITURTF7670
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of the Global Positioning System (GPS) and the Global Navigation Satellite
+    System (GLONASS) for high-accuracy time transfer
+  type: main
+docidentifier:
+- content: ITU-R TF.767-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

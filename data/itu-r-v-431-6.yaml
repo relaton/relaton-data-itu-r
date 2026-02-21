@@ -1,0 +1,28 @@
+---
+id: ITURV4316
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nomenclature of the frequency and wavelength bands used in telecommunications
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/v/R-REC-V.431-6-199304-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R V.431-6
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

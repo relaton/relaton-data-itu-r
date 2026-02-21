@@ -1,0 +1,26 @@
+---
+id: ITURBT11BL12
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Draft rev. of Rec. BT.1200 - Target standard for digital video systems
+    for the studio and for international programme exchange - (Question ITU-R 213/11)
+  type: main
+docidentifier:
+- content: ITU-R BT.11/BL/12
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

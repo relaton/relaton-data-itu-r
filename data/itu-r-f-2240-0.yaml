@@ -1,0 +1,29 @@
+---
+id: ITURF22400
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interference analysis modelling for sharing between HAPS gateway links
+    in the fixed service and other systems/services in the range 5 850-7 075 MHz
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-F.2240-2011-PDF-E.pdf
+docidentifier:
+- content: ITU-R F.2240-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2012-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

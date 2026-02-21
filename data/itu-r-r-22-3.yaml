@@ -1,0 +1,28 @@
+---
+id: ITURR223
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Improvement of national radio spectrum management practices and techniques
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/res/R-RES-R.22-3-2012-PDF-E.pdf
+docidentifier:
+- content: ITU-R R.22-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2012-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: resolution
+  flavor: itu

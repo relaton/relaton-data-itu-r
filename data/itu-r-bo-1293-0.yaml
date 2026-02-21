@@ -1,0 +1,26 @@
+---
+id: ITURBO12930
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protection masks and associated calculation methods for interference into
+    broadcast satellite systems involving digital emissions
+  type: main
+docidentifier:
+- content: ITU-R BO.1293-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

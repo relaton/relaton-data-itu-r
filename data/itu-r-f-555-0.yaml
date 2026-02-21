@@ -1,0 +1,26 @@
+---
+id: ITURF5550
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Permissible noise in the hypothetical reference circuit of radio-relay
+    systems for television
+  type: main
+docidentifier:
+- content: ITU-R F.555-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

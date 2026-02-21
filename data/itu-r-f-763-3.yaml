@@ -1,0 +1,28 @@
+---
+id: ITURF7633
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data transmission over HF circuits using phase-shift keying
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.763-3-199709-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.763-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURBT21000
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Image parameter values for high dynamic range television for use in production
+    and international programme exchange
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2100-0-201607-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2100-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2016-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

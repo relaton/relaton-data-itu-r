@@ -1,0 +1,26 @@
+---
+id: ITUR996
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Relationship between quality, quality evaluation methodology, and type
+    of application, in a multimedia environment
+  type: main
+docidentifier:
+- content: 'ITU-R 99/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

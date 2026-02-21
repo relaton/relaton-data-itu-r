@@ -1,0 +1,28 @@
+---
+id: ITURF1062
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The use of diversity for voice-frequency telegraphy on HF radio circuits
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.106-2-199905-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.106-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

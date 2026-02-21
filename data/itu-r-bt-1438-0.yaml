@@ -1,0 +1,25 @@
+---
+id: ITURBT14380
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Subjective assessment of stereoscopic television pictures
+  type: main
+docidentifier:
+- content: ITU-R BT.1438-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

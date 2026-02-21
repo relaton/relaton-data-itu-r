@@ -1,0 +1,25 @@
+---
+id: ITUR21823
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ionospheric influences on space systems
+  type: main
+docidentifier:
+- content: 'ITU-R 218-2/3:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

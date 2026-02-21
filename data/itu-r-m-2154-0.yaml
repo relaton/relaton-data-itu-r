@@ -1,0 +1,29 @@
+---
+id: ITURM21540
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: High-level system architecture for immersive video for presentation on
+    various types of display devices
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2154-0-202212-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2154-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2022-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

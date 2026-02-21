@@ -1,0 +1,27 @@
+---
+id: ITURBO12970
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protection ratios to be used for planning purposes in the revision of the
+    Appendices 30 (Orb-85) and 30A (Orb-88) Plans of the Radio Regulations in Regions
+    1 and 3
+  type: main
+docidentifier:
+- content: ITU-R BO.1297-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,26 @@
+---
+id: ITURBO12130
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reference receiving earth station antenna patterns for replanning purposes
+    to be used in the revision of the WARC-77 BSS plans for Regions 1 and 3
+  type: main
+docidentifier:
+- content: ITU-R BO.1213-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURF38310
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Radio-frequency channel arrangements for high-capacity fixed wireless systems
+    operating in the lower 6 GHz (5 925 to 6 425 MHz) band
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.383-10202102-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.383-10
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2021-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

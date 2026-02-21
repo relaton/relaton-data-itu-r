@@ -1,0 +1,28 @@
+---
+id: ITURBS20761
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Audio Definition Model
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.2076-1-201706-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BS.2076-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2018-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

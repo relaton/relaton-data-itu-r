@@ -1,0 +1,28 @@
+---
+id: ITURSA5131
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Preferred frequency bands for spacecraft transmitters used as beacons
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.513-1-198607-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.513-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

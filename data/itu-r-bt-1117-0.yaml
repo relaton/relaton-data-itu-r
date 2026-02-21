@@ -1,0 +1,26 @@
+---
+id: ITURBT11170
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Studio format parameters for enhanced 16:9 625-line television systems
+    (D-and D2-MAC, PALplus, enhanced SECAM)
+  type: main
+docidentifier:
+- content: ITU-R BT.1117-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

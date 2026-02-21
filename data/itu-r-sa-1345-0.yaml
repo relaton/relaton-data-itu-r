@@ -1,0 +1,29 @@
+---
+id: ITURSA13450
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Methods for predicting radiation patterns of large antennas used for space
+    research and radio astronomy
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sa/R-REC-SA.1345-0-199802-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SA.1345-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,30 @@
+---
+id: ITURSF
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Draft new Recommendation ITU R SF.[4-9S/HAPS-PLIMIT] - Methodology for
+    determining the power level for HAPS user terminals to facilitate sharing with
+    space station receivers in the bands 47.2-47.5 GHz and 47.9-48.2 GHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sf/R-REC-SF.1843-0-200710-P!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SF.
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

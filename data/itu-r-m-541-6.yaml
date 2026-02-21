@@ -1,0 +1,26 @@
+---
+id: ITURM5416
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Operational procedures for the use of digital selective-calling (DSC) equipment
+    in the maritime mobile service
+  type: main
+docidentifier:
+- content: ITU-R M.541-6
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

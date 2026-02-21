@@ -1,0 +1,29 @@
+---
+id: ITURSM10512
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Priority of identifying and eliminating harmful interference in the band
+    406-406.1 MHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1051-2-199707-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1051-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

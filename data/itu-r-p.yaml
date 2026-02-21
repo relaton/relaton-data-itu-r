@@ -1,0 +1,25 @@
+---
+id: ITURP
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ITU-R Recommendations, 1995 - P Series
+  type: main
+docidentifier:
+- content: ITU-R P
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1994-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

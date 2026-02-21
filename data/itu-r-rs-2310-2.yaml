@@ -1,0 +1,31 @@
+---
+id: ITURRS23102
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Worst-case interference levels from mainlobe-to-mainlobe antenna coupling
+    of systems operating in the radiolocation service into active sensor receivers
+    operating in the Earth exploration-satellite service (active) in the 35.5-36.0
+    GHz band
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-RS.2310-2-2025-PDF-E.pdf
+docidentifier:
+- content: ITU-R RS.2310-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2025-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

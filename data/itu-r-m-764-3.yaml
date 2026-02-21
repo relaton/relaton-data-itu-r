@@ -1,0 +1,29 @@
+---
+id: ITURM7643
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interference and noise problems for maritime mobile-satellite systems using
+    frequencies in the region of 1.5 and 1.6 GHz
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.764-3-2006-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.764-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2006-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

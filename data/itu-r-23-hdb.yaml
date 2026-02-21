@@ -1,0 +1,28 @@
+---
+id: ITUR23HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spectrum Monitoring
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/pub/R-HDB-23-2002
+docidentifier:
+- content: ITU-R 23.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2011-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

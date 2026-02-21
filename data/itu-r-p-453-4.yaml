@@ -1,0 +1,25 @@
+---
+id: ITURP4534
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'The radio refractice index: its formula and refractivity data'
+  type: main
+docidentifier:
+- content: ITU-R P.453-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

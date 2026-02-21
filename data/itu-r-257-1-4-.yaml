@@ -1,0 +1,26 @@
+---
+id: ITUR25714
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spectrum requirements below 17 GHz for telemetry, tracking and control
+    of fixed-satellite service networks operating with service links above 17 GHz
+  type: main
+docidentifier:
+- content: 'ITU-R 257-1/4:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

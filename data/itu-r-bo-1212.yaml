@@ -1,0 +1,26 @@
+---
+id: ITURBO1212
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Calculation of total interference between geostationary-satellite networks
+    in the broadcasting-satellite service
+  type: main
+docidentifier:
+- content: ITU-R BO.1212
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

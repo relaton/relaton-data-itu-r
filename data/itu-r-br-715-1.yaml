@@ -1,0 +1,28 @@
+---
+id: ITURBR7151
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: International exchange of analogue electronic news gathering recordings
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/br/R-REC-BR.715-1-200104-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BR.715-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

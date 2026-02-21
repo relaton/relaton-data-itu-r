@@ -1,0 +1,25 @@
+---
+id: ITURBR16840
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recording of 5.1-channel audio programmes on video tape recorders
+  type: main
+docidentifier:
+- content: ITU-R BR.1684-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

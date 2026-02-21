@@ -1,0 +1,30 @@
+---
+id: ITURM24130
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reception of automatic dependent surveillance broadcast via satellite and
+    compatibility studies with incumbent systems in the frequency band 1 087.7-1 092.3
+    MHz
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2413-2017-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2413-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

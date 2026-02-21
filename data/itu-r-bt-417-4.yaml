@@ -1,0 +1,26 @@
+---
+id: ITURBT4174
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Minimum field strengths for which protection may be sought in planning
+    an analogue terrestrial television service
+  type: main
+docidentifier:
+- content: ITU-R BT.417-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2002-06
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

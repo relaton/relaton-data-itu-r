@@ -1,0 +1,29 @@
+---
+id: ITURF17781
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Channel access requirements for HF adaptive systems in the fixed and land
+    mobile services
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.1778-1-201502-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.1778-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

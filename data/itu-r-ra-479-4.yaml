@@ -1,0 +1,29 @@
+---
+id: ITURRA4794
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protection of frequencies for radioastronomical measurements in the shielded
+    zone of the Moon
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/ra/R-REC-RA.479-4-199510-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R RA.479-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

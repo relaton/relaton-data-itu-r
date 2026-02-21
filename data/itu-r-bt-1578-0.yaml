@@ -1,0 +1,29 @@
+---
+id: ITURBT15780
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Content package format, elements, and metadata definition for applications
+    in television production utilizing interfaces based on Recommendation ITU-R BT.1381
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1578-0-200206-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1578-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2003-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

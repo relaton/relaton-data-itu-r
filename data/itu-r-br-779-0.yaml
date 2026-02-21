@@ -1,0 +1,25 @@
+---
+id: ITURBR7790
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Operating practices for 4:2:2 digital television recording
+  type: main
+docidentifier:
+- content: ITU-R BR.779-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

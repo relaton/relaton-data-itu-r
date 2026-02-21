@@ -1,0 +1,29 @@
+---
+id: ITURBT20742
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service configuration, media transport protocol, and signalling information
+    for MMT-based broadcasting systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2074-2-202311-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2074-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

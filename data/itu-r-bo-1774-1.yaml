@@ -1,0 +1,29 @@
+---
+id: ITURBO17741
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Use of satellite and terrestrial broadcast infrastructures for public warning,
+    disaster mitigation and relief
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bo/R-REC-BO.1774-1-200704-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BO.1774-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

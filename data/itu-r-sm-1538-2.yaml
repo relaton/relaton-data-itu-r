@@ -1,0 +1,29 @@
+---
+id: ITURSM15382
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical and operating parameters and spectrum requirements for short
+    range radiocommunication devices
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1538-2-200605-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1538-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2006-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

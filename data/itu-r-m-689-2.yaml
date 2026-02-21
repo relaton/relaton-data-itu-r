@@ -1,0 +1,29 @@
+---
+id: ITURM6892
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: International maritime VHF radiotelephone system with automatic facilities
+    based on DSC signalling format
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.689-2-199409-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R M.689-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

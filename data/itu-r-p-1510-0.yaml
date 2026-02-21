@@ -1,0 +1,28 @@
+---
+id: ITURP15100
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Annual mean surface temperature
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1510-0-200102-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.1510-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

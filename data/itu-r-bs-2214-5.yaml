@@ -1,0 +1,29 @@
+---
+id: ITURBS22145
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Planning parameters for terrestrial digital sound broadcasting systems
+    in VHF bands
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2214-5-2020-PDF-E.pdf
+docidentifier:
+- content: ITU-R BS.2214-5
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2020-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

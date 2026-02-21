@@ -1,0 +1,29 @@
+---
+id: ITURSM17930
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measuring frequency channel occupancy using the technique used for frequency
+    band measurement
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1793-0-200702-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1793-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2007-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

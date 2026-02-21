@@ -1,0 +1,28 @@
+---
+id: ITURM21350
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidelines for evaluation of radio interface technologies  for IMT-Advanced
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2135-2008-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2135-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

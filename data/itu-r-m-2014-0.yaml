@@ -1,0 +1,28 @@
+---
+id: ITURM20140
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spectrum efficient digital land mobile systems for dispatch traffic
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2014-1998-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2014-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

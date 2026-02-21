@@ -1,0 +1,25 @@
+---
+id: ITUR2369
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fixed wireless systems providing broadband wireless access
+  type: main
+docidentifier:
+- content: 'ITU-R 236/9:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2005-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

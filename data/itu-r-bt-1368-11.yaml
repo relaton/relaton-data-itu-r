@@ -1,0 +1,29 @@
+---
+id: ITURBT136811
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Planning criteria, including protection ratios, for digital terrestrial
+    television services in the VHF/UHF bands
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1368-11-201402-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1368-11
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2014-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

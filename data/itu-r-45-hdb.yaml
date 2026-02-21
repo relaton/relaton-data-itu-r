@@ -1,0 +1,29 @@
+---
+id: ITUR45HDB
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Use of Radio Spectrum for Meteorology: Weather, Water and Climate Monitoring
+    and Prediction'
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/pub/R-HDB-45-2002
+docidentifier:
+- content: ITU-R 45.HDB
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: handbook
+  flavor: itu

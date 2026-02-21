@@ -1,0 +1,29 @@
+---
+id: ITURBT15620
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Consistency in the alignment of displays in production rooms and control
+    rooms
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1562-0-200204-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1562-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

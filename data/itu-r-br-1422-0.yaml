@@ -1,0 +1,29 @@
+---
+id: ITURBR14220
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Operational practices for television use of film soundtracks encoded with
+    noise reduction and matrix surround
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/br/R-REC-BR.1422-0-199912-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BR.1422-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1999-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

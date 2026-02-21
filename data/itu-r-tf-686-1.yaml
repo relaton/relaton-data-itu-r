@@ -1,0 +1,28 @@
+---
+id: ITURTF6861
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Glossary
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/tf/R-REC-TF.686-1-199710-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R TF.686-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

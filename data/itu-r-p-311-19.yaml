@@ -1,0 +1,29 @@
+---
+id: ITURP31119
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Acquisition, presentation and analysis of data in studies of radio-wave
+    propagation
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.311-19-202511-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.311-19
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2025-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

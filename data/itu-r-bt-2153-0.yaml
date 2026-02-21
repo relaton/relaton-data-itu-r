@@ -1,0 +1,29 @@
+---
+id: ITURBT21530
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The use of componentized workflows for the exchange of non-live television
+    programmes
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.2153-0-202212-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.2153-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITURM25270
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Applications of the terrestrial component of International Mobile Telecommunications
+    for specific societal, industrial and other usages
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2527-2023-PDF-E.pdf
+docidentifier:
+- content: ITU-R M.2527-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2023-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu

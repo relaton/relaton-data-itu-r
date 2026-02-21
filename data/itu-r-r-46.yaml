@@ -1,0 +1,29 @@
+---
+id: ITURR46
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Compatibility between radiocommunication systems and high data rate telecommunication
+    systems using electricity power supply or telephone distribution wiring
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/res/R-RES-R.46-2000-PDF-E.pdf
+docidentifier:
+- content: ITU-R R.46
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: resolution
+  flavor: itu

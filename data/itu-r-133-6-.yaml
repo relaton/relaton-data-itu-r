@@ -1,0 +1,25 @@
+---
+id: ITUR1336
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Enhancements of digital terrestrial television broadcasting
+  type: main
+docidentifier:
+- content: 'ITU-R 133/6:'
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2010-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: question
+  flavor: itu

@@ -1,0 +1,26 @@
+---
+id: ITURBT7092
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Parameter values for the HDTV standards for production and international
+    programme exchange
+  type: main
+docidentifier:
+- content: ITU-R BT.709-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

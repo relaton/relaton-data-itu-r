@@ -1,0 +1,29 @@
+---
+id: ITURS5214
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypothetical reference digital paths for systems using digital transmission
+    in the fixed-satellite service
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/s/R-REC-S.521-4-200001-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R S.521-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

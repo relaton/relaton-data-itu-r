@@ -1,0 +1,28 @@
+---
+id: ITURP2170
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Methods and models for predicting lunar radio-wave propagation characteristics
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.2170-0-202509-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.2170
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2025-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

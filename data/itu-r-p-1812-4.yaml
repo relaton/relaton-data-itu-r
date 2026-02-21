@@ -1,0 +1,26 @@
+---
+id: ITURP18124
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A path-specific propagation prediction method for point-to-area terrestrial
+    services in the VHF and UHF bands
+  type: main
+docidentifier:
+- content: ITU-R P.1812-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2017-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

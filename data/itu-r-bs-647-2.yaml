@@ -1,0 +1,25 @@
+---
+id: ITURBS6472
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: A digital audio interface for broadcasting studios
+  type: main
+docidentifier:
+- content: ITU-R BS.647-2
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2011-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

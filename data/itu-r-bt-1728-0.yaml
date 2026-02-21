@@ -1,0 +1,29 @@
+---
+id: ITURBT17280
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Guidance on the use of flat panel displays in television production and
+    postproduction
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.1728-0-200504-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.1728-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2006-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: recommendation
+  flavor: itu

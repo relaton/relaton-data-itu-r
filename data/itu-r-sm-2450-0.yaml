@@ -1,0 +1,29 @@
+---
+id: ITURSM24500
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sharing and compatibility studies between land-mobile, fixed and passive
+    services in the frequency range 275-450 GHz
+  type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-SM.2450-2019-PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.2450-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2020-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.0.2
+  doctype:
+    type: technical-report
+  flavor: itu
