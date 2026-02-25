@@ -21,5 +21,5 @@ script:
 ext:
   schema_version: v1.0.2
   doctype:
-    type: recommendation
+    content: recommendation
   flavor: itu
