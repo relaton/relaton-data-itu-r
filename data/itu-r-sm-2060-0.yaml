@@ -1,22 +1,22 @@
 ---
-id: ITURBS25021
+id: ITURSM20600
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measuring techniques for digital audio broadcast coverage performance
+  content: Test procedure for measuring direction finder accuracy
   type: main
 source:
 - type: pdf
-  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2502-1-2023-PDF-E.pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.2060-0-201411-I!!PDF-E.pdf
 docidentifier:
-- content: ITU-R BS.2502-1
+- content: ITU-R SM.2060-0
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2023-10
+  at: 2023-06
 language:
 - en
 script:
@@ -24,5 +24,5 @@ script:
 ext:
   schema_version: v1.1.3
   doctype:
-    content: technical-report
+    content: recommendation
   flavor: itu
