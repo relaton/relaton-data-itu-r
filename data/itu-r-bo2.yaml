@@ -5,10 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Report BO.1227-2 - Satellite broadcasting systems of integrated services
-    digital broadcasting  ITU-R, Report BO.2007-1 - Considerations for the introduction
-    of broadcasting satellite service high definition television systems,  ITU-R Report
-    BO.2008
+  content: ITU-R Reports, 1995 - BO Series
   type: main
 docidentifier:
 - content: ITU-R BO2
@@ -16,7 +13,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1999-01
+  at: 1995-01
 language:
 - en
 script:
