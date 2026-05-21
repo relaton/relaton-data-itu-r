@@ -7,13 +7,16 @@ title:
   script: Latn
   content: Radio Astronomy
   type: main
+source:
+- type: pdf
+  content: http://www.itu.int/pub/R-HDB-22-2003
 docidentifier:
 - content: ITU-R 22.HDB
   type: ITU
   primary: true
 date:
 - type: published
-  at: 1995-01
+  at: 2005-05
 language:
 - en
 script:
