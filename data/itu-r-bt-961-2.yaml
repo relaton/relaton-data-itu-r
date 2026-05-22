@@ -1,23 +1,22 @@
 ---
-id: ITURM25270
+id: ITURBT9612
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Applications of the terrestrial component of International Mobile Telecommunications
-    for specific societal, industrial and other usages
+  content: Terrestrial television broadcasting in bands above 2 GHz
   type: main
 source:
 - type: pdf
-  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2527-2023-PDF-E.pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.961-2-1994-PDF-E.pdf
 docidentifier:
-- content: ITU-R M.2527-0
+- content: ITU-R BT.961-2
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2023-10
+  at: 1994-01
 language:
 - en
 script:

@@ -7,16 +7,13 @@ title:
   script: Latn
   content: 'Digital Television Signals: Coding and Interfacing within Studios'
   type: main
-source:
-- type: pdf
-  content: http://www.itu.int/dms_pub/itu-r/opb/hdb/R-HDB-19-2010-OAS-PDF-E.pdf
 docidentifier:
 - content: ITU-R 19.HDB
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2010-03
+  at: 1995-01
 language:
 - en
 script:

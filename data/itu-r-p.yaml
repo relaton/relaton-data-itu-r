@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Recommendations, 1997 - P Series - Volume 1997
+  content: ITU-R Recommendations, 1995 - P Series
   type: main
 docidentifier:
 - content: ITU-R P
@@ -13,7 +13,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1997-01
+  at: 1994-01
 language:
 - en
 script:
