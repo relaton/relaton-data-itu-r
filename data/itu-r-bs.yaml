@@ -5,15 +5,19 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Recommendations - BS Series - Volume 1997
+  content: Draft new Recommendation ITU-R BS.[LOUD] - Operational practices for loudness
+    in the international exchange of digital television programmes
   type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1864-0-201003-P!!PDF-E.pdf
 docidentifier:
-- content: ITU-R BS
+- content: ITU-R BS.
   type: ITU
   primary: true
 date:
 - type: published
-  at: 1997-01
+  at: 2011-06
 language:
 - en
 script:

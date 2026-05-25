@@ -1,4 +1,16 @@
 ---
+- :id: ITU-R BT.2343-11
+  :file: data/itu-r-bt-2343-11.yaml
+- :id: ITU-R BT.2386-6
+  :file: data/itu-r-bt-2386-6.yaml
+- :id: ITU-R BT.2485-4
+  :file: data/itu-r-bt-2485-4.yaml
+- :id: ITU-R BT.2408-9
+  :file: data/itu-r-bt-2408-9.yaml
+- :id: ITU-R 43
+  :file: data/itu-r-43.yaml
+- :id: ITU-R BT.2140-15
+  :file: data/itu-r-bt-2140-15.yaml
 - :id: ITU-R M.2174-0
   :file: data/itu-r-m-2174-0.yaml
 - :id: ITU-R M.1371-6
@@ -905,18 +917,18 @@
   :file: data/itu-r-f-2323-2.yaml
 - :id: ITU-R M.2444-1
   :file: data/itu-r-m-2444-1.yaml
-- :id: ITU-R M.2479-1
-  :file: data/itu-r-m-2479-1.yaml
-- :id: ITU-R M.2531-0
-  :file: data/itu-r-m-2531-0.yaml
-- :id: ITU-R M.2532-0
-  :file: data/itu-r-m-2532-0.yaml
-- :id: ITU-R M.2534-0
-  :file: data/itu-r-m-2534-0.yaml
-- :id: ITU-R M.2533-0
-  :file: data/itu-r-m-2533-0.yaml
-- :id: 'ITU-R 218-2/4:'
-  :file: data/itu-r-218-2-4.yaml
+- :id: ITU-R SM.1133-0
+  :file: data/itu-r-sm-1133-0.yaml
+- :id: ITU-R SM.1599-1
+  :file: data/itu-r-sm-1599-1.yaml
+- :id: ITU-R SM.1537-1
+  :file: data/itu-r-sm-1537-1.yaml
+- :id: ITU-R SM.1370-2
+  :file: data/itu-r-sm-1370-2.yaml
+- :id: ITU-R SM.1603-2
+  :file: data/itu-r-sm-1603-2.yaml
+- :id: ITU-R SM.1753-2
+  :file: data/itu-r-sm-1753-2.yaml
 - :id: ITU-R SM.1756-0
   :file: data/itu-r-sm-1756-0.yaml
 - :id: ITU-R SM.1757-0
@@ -1169,8 +1181,6 @@
   :file: data/itu-r-62.yaml
 - :id: ITU-R 46
   :file: data/itu-r-46.yaml
-- :id: ITU-R 43
-  :file: data/itu-r-43.yaml
 - :id: ITU-R SM.2182-2
   :file: data/itu-r-sm-2182-2.yaml
 - :id: ITU-R F.749-4
@@ -1835,10 +1845,10 @@
   :file: data/itu-r-r-7-4.yaml
 - :id: ITU-R R.4-8
   :file: data/itu-r-r-4-8.yaml
-- :id: ITU-R R.2-8
-  :file: data/itu-r-r-2-8.yaml
 - :id: ITU-R R.1-8
   :file: data/itu-r-r-1-8.yaml
+- :id: ITU-R R.2-8
+  :file: data/itu-r-r-2-8.yaml
 - :id: ITU-R M.2135-0
   :file: data/itu-r-m-2135-0.yaml
 - :id: ITU-R M.1174-4
@@ -2129,10 +2139,10 @@
   :file: data/itu-r-f-2439-0.yaml
 - :id: ITU-R M.2122-0
   :file: data/itu-r-m-2122-0.yaml
-- :id: ITU-R F.2438-0
-  :file: data/itu-r-f-2438-0.yaml
 - :id: ITU-R F.2437-0
   :file: data/itu-r-f-2437-0.yaml
+- :id: ITU-R F.2438-0
+  :file: data/itu-r-f-2438-0.yaml
 - :id: ITU-R SM.2093-3
   :file: data/itu-r-sm-2093-3.yaml
 - :id: ITU-R P.838-3
@@ -2241,10 +2251,10 @@
   :file: data/itu-r-ra-2428-0.yaml
 - :id: ITU-R SA.2426-0
   :file: data/itu-r-sa-2426-0.yaml
-- :id: ITU-R SM.2158-3
-  :file: data/itu-r-sm-2158-3.yaml
 - :id: ITU-R SM.2028-2
   :file: data/itu-r-sm-2028-2.yaml
+- :id: ITU-R SM.2158-3
+  :file: data/itu-r-sm-2158-3.yaml
 - :id: ITU-R SM.2256-1
   :file: data/itu-r-sm-2256-1.yaml
 - :id: ITU-R SM.2156-0
@@ -2721,10 +2731,10 @@
   :file: data/itu-r-p-683-0.yaml
 - :id: ITU-R BT.1380-0
   :file: data/itu-r-bt-1380-0.yaml
-- :id: ITU-R F.763-4
-  :file: data/itu-r-f-763-4.yaml
 - :id: ITU-R BS.775-1
   :file: data/itu-r-bs-775-1.yaml
+- :id: ITU-R F.763-4
+  :file: data/itu-r-f-763-4.yaml
 - :id: ITU-R S.2223-1
   :file: data/itu-r-s-2223-1.yaml
 - :id: ITU-R M.2398-0
@@ -2937,16 +2947,16 @@
   :file: data/itu-r-m-2091-0.yaml
 - :id: ITU-R R.7-3
   :file: data/itu-r-r-7-3.yaml
-- :id: ITU-R R.1-7
-  :file: data/itu-r-r-1-7.yaml
-- :id: ITU-R R.34-4
-  :file: data/itu-r-r-34-4.yaml
 - :id: ITU-R R.35-4
   :file: data/itu-r-r-35-4.yaml
 - :id: ITU-R R.36-4
   :file: data/itu-r-r-36-4.yaml
 - :id: ITU-R R.43-1
   :file: data/itu-r-r-43-1.yaml
+- :id: ITU-R R.1-7
+  :file: data/itu-r-r-1-7.yaml
+- :id: ITU-R R.34-4
+  :file: data/itu-r-r-34-4.yaml
 - :id: ITU-R R.65
   :file: data/itu-r-r-65.yaml
 - :id: ITU-R R.66
@@ -3069,10 +3079,10 @@
   :file: data/itu-r-m-2360-0.yaml
 - :id: ITU-R S.2365-0
   :file: data/itu-r-s-2365-0.yaml
-- :id: ITU-R M.2085-0
-  :file: data/itu-r-m-2085-0.yaml
 - :id: ITU-R M.1544-1
   :file: data/itu-r-m-1544-1.yaml
+- :id: ITU-R M.2085-0
+  :file: data/itu-r-m-2085-0.yaml
 - :id: ITU-R M.2084-0
   :file: data/itu-r-m-2084-0.yaml
 - :id: ITU-R F.758-6
@@ -3379,12 +3389,12 @@
   :file: data/itu-r-bs-1196-4.yaml
 - :id: ITU-R M.2009-1
   :file: data/itu-r-m-2009-1.yaml
+- :id: ITU-R M.1827-1
+  :file: data/itu-r-m-1827-1.yaml
 - :id: ITU-R M.1824-1
   :file: data/itu-r-m-1824-1.yaml
 - :id: ITU-R M.1579-2
   :file: data/itu-r-m-1579-2.yaml
-- :id: ITU-R M.1827-1
-  :file: data/itu-r-m-1827-1.yaml
 - :id: ITU-R M.1465-2
   :file: data/itu-r-m-1465-2.yaml
 - :id: ITU-R M.2320-0
@@ -3549,38 +3559,38 @@
   :file: data/itu-r-f-1336-4.yaml
 - :id: ITU-R M.2058-0
   :file: data/itu-r-m-2058-0.yaml
-- :id: ITU-R M.2292-0
-  :file: data/itu-r-m-2292-0.yaml
-- :id: ITU-R M.2288-0
-  :file: data/itu-r-m-2288-0.yaml
-- :id: ITU-R M.2291-0
-  :file: data/itu-r-m-2291-0.yaml
-- :id: ITU-R P.2145-1
-  :file: data/itu-r-p-2145-1.yaml
-- :id: ITU-R M.2290-0
-  :file: data/itu-r-m-2290-0.yaml
 - :id: ITU-R BT.2249-4
   :file: data/itu-r-bt-2249-4.yaml
 - :id: ITU-R BT.2267-1
   :file: data/itu-r-bt-2267-1.yaml
 - :id: ITU-R M.2285-0
   :file: data/itu-r-m-2285-0.yaml
+- :id: ITU-R M.2292-0
+  :file: data/itu-r-m-2292-0.yaml
+- :id: ITU-R M.2288-0
+  :file: data/itu-r-m-2288-0.yaml
 - :id: ITU-R M.2283-0
   :file: data/itu-r-m-2283-0.yaml
-- :id: ITU-R BS.2266-1
-  :file: data/itu-r-bs-2266-1.yaml
+- :id: ITU-R M.2291-0
+  :file: data/itu-r-m-2291-0.yaml
+- :id: ITU-R P.2145-1
+  :file: data/itu-r-p-2145-1.yaml
+- :id: ITU-R M.2290-0
+  :file: data/itu-r-m-2290-0.yaml
 - :id: ITU-R BT.2296-0
   :file: data/itu-r-bt-2296-0.yaml
 - :id: ITU-R BT.2252-1
   :file: data/itu-r-bt-2252-1.yaml
+- :id: ITU-R BS.2266-1
+  :file: data/itu-r-bs-2266-1.yaml
 - :id: ITU-R BS.2159-6
   :file: data/itu-r-bs-2159-6.yaml
 - :id: ITU-R M.1768-1
   :file: data/itu-r-m-1768-1.yaml
-- :id: ITU-R BT.2295-0
-  :file: data/itu-r-bt-2295-0.yaml
 - :id: ITU-R M.2289-0
   :file: data/itu-r-m-2289-0.yaml
+- :id: ITU-R BT.2295-0
+  :file: data/itu-r-bt-2295-0.yaml
 - :id: ITU-R BT.2052-0
   :file: data/itu-r-bt-2052-0.yaml
 - :id: ITU-R BT.2254-1
@@ -3619,12 +3629,12 @@
   :file: data/itu-r-236-1-7.yaml
 - :id: ITU-R S.1503-2
   :file: data/itu-r-s-1503-2.yaml
-- :id: ITU-R M.2047-0
-  :file: data/itu-r-m-2047-0.yaml
 - :id: ITU-R RS.2042
   :file: data/itu-r-rs-2042.yaml
 - :id: ITU-R RS.2043
   :file: data/itu-r-rs-2043.yaml
+- :id: ITU-R M.2047-0
+  :file: data/itu-r-m-2047-0.yaml
 - :id: ITU-R P.1812-3
   :file: data/itu-r-p-1812-3.yaml
 - :id: ITU-R F.749-3
@@ -3647,40 +3657,40 @@
   :file: data/itu-r-p-678-2.yaml
 - :id: 'ITU-R RS.7/BL/11:'
   :file: data/itu-r-rs-7-bl-11.yaml
+- :id: 'ITU-R M.5/BL/9:'
+  :file: data/itu-r-m-5-bl-9.yaml
 - :id: 'ITU-R M.5/BL/10:'
   :file: data/itu-r-m-5-bl-10.yaml
 - :id: ITU-R M.2046-0
   :file: data/itu-r-m-2046-0.yaml
 - :id: 'ITU-R M.5/BL/6:'
   :file: data/itu-r-m-5-bl-6.yaml
-- :id: 'ITU-R M.5/BL/9:'
-  :file: data/itu-r-m-5-bl-9.yaml
 - :id: 'ITU-R S.[4/BL/2]:'
   :file: data/itu-r-s-[4-bl-2].yaml
 - :id: ITU-R BT.2026-0
   :file: data/itu-r-bt-2026-0.yaml
-- :id: ITU-R S.2049-0
-  :file: data/itu-r-s-2049-0.yaml
 - :id: ITU-R SF.674-3
   :file: data/itu-r-sf-674-3.yaml
+- :id: ITU-R S.2049-0
+  :file: data/itu-r-s-2049-0.yaml
 - :id: ITU-R M.1901-1
   :file: data/itu-r-m-1901-1.yaml
 - :id: ITU-R S.2280-0
   :file: data/itu-r-s-2280-0.yaml
 - :id: ITU-R TF.686-3
   :file: data/itu-r-tf-686-3.yaml
+- :id: ITU-R SA.509-3
+  :file: data/itu-r-sa-509-3.yaml
 - :id: ITU-R SA.1276-4
   :file: data/itu-r-sa-1276-4.yaml
 - :id: ITU-R SA.1414-1
   :file: data/itu-r-sa-1414-1.yaml
-- :id: ITU-R SA.509-3
-  :file: data/itu-r-sa-509-3.yaml
 - :id: ITU-R SA.1275-4
   :file: data/itu-r-sa-1275-4.yaml
-- :id: ITU-R BT.2037-0
-  :file: data/itu-r-bt-2037-0.yaml
 - :id: ITU-R RA.1417-1
   :file: data/itu-r-ra-1417-1.yaml
+- :id: ITU-R BT.2037-0
+  :file: data/itu-r-bt-2037-0.yaml
 - :id: ITU-R S.2278-0
   :file: data/itu-r-s-2278-0.yaml
 - :id: 'ITU-R 130-2/6:'
@@ -3707,18 +3717,18 @@
   :file: data/itu-r-sa-2277-0.yaml
 - :id: ITU-R SM.2270-0
   :file: data/itu-r-sm-2270-0.yaml
+- :id: ITU-R RS.2273-0
+  :file: data/itu-r-rs-2273-0.yaml
 - :id: ITU-R SA.2276-0
   :file: data/itu-r-sa-2276-0.yaml
 - :id: ITU-R RS.2274-0
   :file: data/itu-r-rs-2274-0.yaml
-- :id: ITU-R SA.2271-0
-  :file: data/itu-r-sa-2271-0.yaml
-- :id: ITU-R RS.2273-0
-  :file: data/itu-r-rs-2273-0.yaml
 - :id: ITU-R RA.2126-1
   :file: data/itu-r-ra-2126-1.yaml
 - :id: ITU-R RS.2068-1
   :file: data/itu-r-rs-2068-1.yaml
+- :id: ITU-R SA.2271-0
+  :file: data/itu-r-sa-2271-0.yaml
 - :id: ITU-R RA.2099-1
   :file: data/itu-r-ra-2099-1.yaml
 - :id: ITU-R P.1057-3
@@ -3817,14 +3827,14 @@
   :file: data/itu-r-f-635-7.yaml
 - :id: ITU-R M.1874-1
   :file: data/itu-r-m-1874-1.yaml
-- :id: ITU-R S.2029-0
-  :file: data/itu-r-s-2029-0.yaml
-- :id: ITU-R S.732-1
-  :file: data/itu-r-s-732-1.yaml
 - :id: ITU-R S.1897-0
   :file: data/itu-r-s-1897-0.yaml
 - :id: ITU-R S.1899-0
   :file: data/itu-r-s-1899-0.yaml
+- :id: ITU-R S.2029-0
+  :file: data/itu-r-s-2029-0.yaml
+- :id: ITU-R S.732-1
+  :file: data/itu-r-s-732-1.yaml
 - :id: ITU-R S.1521-1
   :file: data/itu-r-s-1521-1.yaml
 - :id: ITU-R S.1527-0
@@ -4015,22 +4025,22 @@
   :file: data/itu-r-bt-1833-2.yaml
 - :id: ITU-R SM.1875-0
   :file: data/itu-r-sm-1875-0.yaml
-- :id: ITU-R BT.2025-0
-  :file: data/itu-r-bt-2025-0.yaml
 - :id: ITU-R BT.1877-1
   :file: data/itu-r-bt-1877-1.yaml
 - :id: ITU-R BT.2020-0
   :file: data/itu-r-bt-2020-0.yaml
 - :id: ITU-R BT.2023-0
   :file: data/itu-r-bt-2023-0.yaml
+- :id: ITU-R BT.2025-0
+  :file: data/itu-r-bt-2025-0.yaml
 - :id: ITU-R BS.1660-6
   :file: data/itu-r-bs-1660-6.yaml
-- :id: ITU-R BS.2019-0
-  :file: data/itu-r-bs-2019-0.yaml
 - :id: ITU-R BS.1548-3
   :file: data/itu-r-bs-1548-3.yaml
 - :id: ITU-R BS.1196-3
   :file: data/itu-r-bs-1196-3.yaml
+- :id: ITU-R BS.2019-0
+  :file: data/itu-r-bs-2019-0.yaml
 - :id: ITU-R BT.2253-0
   :file: data/itu-r-bt-2253-0.yaml
 - :id: ITU-R BT.2215-2
@@ -4051,10 +4061,10 @@
   :file: data/itu-r-sa-2164-1.yaml
 - :id: 'ITU-R 131/6:'
   :file: data/itu-r-131-6.yaml
-- :id: 'ITU-R 45-4/6:'
-  :file: data/itu-r-45-4-6.yaml
 - :id: 'ITU-R 130-1/6:'
   :file: data/itu-r-130-1-6.yaml
+- :id: 'ITU-R 45-4/6:'
+  :file: data/itu-r-45-4-6.yaml
 - :id: 'ITU-R 113/6:'
   :file: data/itu-r-113-6.yaml
 - :id: 'ITU-R 16-2/6:'
@@ -4063,16 +4073,16 @@
   :file: data/itu-r-15-2-6.yaml
 - :id: ITU-R M.1036-4
   :file: data/itu-r-m-1036-4.yaml
-- :id: ITU-R F.747-1
-  :file: data/itu-r-f-747-1.yaml
 - :id: ITU-R P.1812-2
   :file: data/itu-r-p-1812-2.yaml
+- :id: ITU-R F.747-1
+  :file: data/itu-r-f-747-1.yaml
 - :id: ITU-R M.1452-2
   :file: data/itu-r-m-1452-2.yaml
-- :id: ITU-R F.384-11
-  :file: data/itu-r-f-384-11.yaml
 - :id: ITU-R F.387-12
   :file: data/itu-r-f-387-12.yaml
+- :id: ITU-R F.384-11
+  :file: data/itu-r-f-384-11.yaml
 - :id: ITU-R M.625-4
   :file: data/itu-r-m-625-4.yaml
 - :id: ITU-R F.595-10
@@ -4183,12 +4193,12 @@
   :file: data/itu-r-m-2228-0.yaml
 - :id: ITU-R SNG.770-2
   :file: data/itu-r-sng-770-2.yaml
-- :id: ITU-R P.1411-6
-  :file: data/itu-r-p-1411-6.yaml
 - :id: ITU-R P.840-5
   :file: data/itu-r-p-840-5.yaml
 - :id: ITU-R P.313-11
   :file: data/itu-r-p-313-11.yaml
+- :id: ITU-R P.1411-6
+  :file: data/itu-r-p-1411-6.yaml
 - :id: ITU-R P.833-7
   :file: data/itu-r-p-833-7.yaml
 - :id: ITU-R P.832-3
@@ -4197,12 +4207,12 @@
   :file: data/itu-r-p-531-11.yaml
 - :id: ITU-R P.533-11
   :file: data/itu-r-p-533-11.yaml
+- :id: ITU-R P.534-5
+  :file: data/itu-r-p-534-5.yaml
 - :id: ITU-R P.684-6
   :file: data/itu-r-p-684-6.yaml
 - :id: ITU-R P.682-3
   :file: data/itu-r-p-682-3.yaml
-- :id: ITU-R P.534-5
-  :file: data/itu-r-p-534-5.yaml
 - :id: ITU-R BT.2246-0
   :file: data/itu-r-bt-2246-0.yaml
 - :id: ITU-R M.2235-0
@@ -4211,14 +4221,14 @@
   :file: data/itu-r-bo-1516-1.yaml
 - :id: ITU-R BS.1909-0
   :file: data/itu-r-bs-1909-0.yaml
+- :id: ITU-R F.2239-0
+  :file: data/itu-r-f-2239-0.yaml
 - :id: ITU-R M.2230-0
   :file: data/itu-r-m-2230-0.yaml
 - :id: ITU-R M.2232-0
   :file: data/itu-r-m-2232-0.yaml
 - :id: ITU-R M.2229-0
   :file: data/itu-r-m-2229-0.yaml
-- :id: ITU-R F.2239-0
-  :file: data/itu-r-f-2239-0.yaml
 - :id: ITU-R SM.1541-4
   :file: data/itu-r-sm-1541-4.yaml
 - :id: ITU-R BT.1614-1
@@ -4263,18 +4273,18 @@
   :file: data/itu-r-m-585-6.yaml
 - :id: 'ITU-R 226-1/7:'
   :file: data/itu-r-226-1-7.yaml
-- :id: ITU-R F.2011-0
-  :file: data/itu-r-f-2011-0.yaml
 - :id: ITU-R M.2013-0
   :file: data/itu-r-m-2013-0.yaml
+- :id: ITU-R F.2011-0
+  :file: data/itu-r-f-2011-0.yaml
 - :id: 'ITU-R 251/5:'
   :file: data/itu-r-251-5.yaml
 - :id: 'ITU-R 229-3/5:'
   :file: data/itu-r-229-3-5.yaml
-- :id: ITU-R BO.1898-0
-  :file: data/itu-r-bo-1898-0.yaml
 - :id: ITU-R SF.675-4
   :file: data/itu-r-sf-675-4.yaml
+- :id: ITU-R BO.1898-0
+  :file: data/itu-r-bo-1898-0.yaml
 - :id: ITU-R BO.1659-1
   :file: data/itu-r-bo-1659-1.yaml
 - :id: 'ITU-R 48-6/5:'
@@ -4339,6 +4349,14 @@
   :file: data/itu-r-r-55-1.yaml
 - :id: ITU-R R.56-1
   :file: data/itu-r-r-56-1.yaml
+- :id: ITU-R R.34-3
+  :file: data/itu-r-r-34-3.yaml
+- :id: ITU-R R.35-3
+  :file: data/itu-r-r-35-3.yaml
+- :id: ITU-R R.36-3
+  :file: data/itu-r-r-36-3.yaml
+- :id: ITU-R R.38-4
+  :file: data/itu-r-r-38-4.yaml
 - :id: ITU-R R.40-3
   :file: data/itu-r-r-40-3.yaml
 - :id: ITU-R R.47-2
@@ -4349,26 +4367,18 @@
   :file: data/itu-r-r-25-3.yaml
 - :id: ITU-R R.33-3
   :file: data/itu-r-r-33-3.yaml
-- :id: ITU-R R.34-3
-  :file: data/itu-r-r-34-3.yaml
-- :id: ITU-R R.35-3
-  :file: data/itu-r-r-35-3.yaml
-- :id: ITU-R R.36-3
-  :file: data/itu-r-r-36-3.yaml
-- :id: ITU-R R.38-4
-  :file: data/itu-r-r-38-4.yaml
 - :id: ITU-R R.28-2
   :file: data/itu-r-r-28-2.yaml
+- :id: ITU-R R.7-2
+  :file: data/itu-r-r-7-2.yaml
+- :id: ITU-R R.9-4
+  :file: data/itu-r-r-9-4.yaml
 - :id: ITU-R R.17-4
   :file: data/itu-r-r-17-4.yaml
 - :id: ITU-R R.22-3
   :file: data/itu-r-r-22-3.yaml
 - :id: ITU-R R.23-2
   :file: data/itu-r-r-23-2.yaml
-- :id: ITU-R R.7-2
-  :file: data/itu-r-r-7-2.yaml
-- :id: ITU-R R.9-4
-  :file: data/itu-r-r-9-4.yaml
 - :id: ITU-R R.2-6
   :file: data/itu-r-r-2-6.yaml
 - :id: ITU-R R.4-6
@@ -4443,10 +4453,10 @@
   :file: data/itu-r-sm-1879-1.yaml
 - :id: ITU-R SA.2191-0
   :file: data/itu-r-sa-2191-0.yaml
-- :id: ITU-R SM.1/161
-  :file: data/itu-r-sm-1-161.yaml
 - :id: ITU-R SM.1/160
   :file: data/itu-r-sm-1-160.yaml
+- :id: ITU-R SM.1/161
+  :file: data/itu-r-sm-1-161.yaml
 - :id: ITU-R BT.2049-5
   :file: data/itu-r-bt-2049-5.yaml
 - :id: ITU-R S.2223-0
@@ -4517,10 +4527,10 @@
   :file: data/itu-r-bs.yaml
 - :id: ITU-R F.1570-2
   :file: data/itu-r-f-1570-2.yaml
-- :id: ITU-R F.1891-0
-  :file: data/itu-r-f-1891-0.yaml
 - :id: ITU-R M.1652-1
   :file: data/itu-r-m-1652-1.yaml
+- :id: ITU-R F.1891-0
+  :file: data/itu-r-f-1891-0.yaml
 - :id: ITU-R F.1107-2
   :file: data/itu-r-f-1107-2.yaml
 - :id: ITU-R BS.1615-1
@@ -4547,10 +4557,10 @@
   :file: data/itu-r-sm-2180-0.yaml
 - :id: ITU-R SM.2012-3
   :file: data/itu-r-sm-2012-3.yaml
-- :id: ITU-R F.757-4
-  :file: data/itu-r-f-757-4.yaml
 - :id: ITU-R M.1177-4
   :file: data/itu-r-m-1177-4.yaml
+- :id: ITU-R F.757-4
+  :file: data/itu-r-f-757-4.yaml
 - :id: ITU-R F.1520-3
   :file: data/itu-r-f-1520-3.yaml
 - :id: ITU-R F.1096-1
@@ -4601,10 +4611,10 @@
   :file: data/itu-r-bt-1887-0.yaml
 - :id: ITU-R BT.2143-2
   :file: data/itu-r-bt-2143-2.yaml
-- :id: 'ITU-R 128-1/6:'
-  :file: data/itu-r-128-1-6.yaml
 - :id: 'ITU-R 40-2/6:'
   :file: data/itu-r-40-2-6.yaml
+- :id: 'ITU-R 128-1/6:'
+  :file: data/itu-r-128-1-6.yaml
 - :id: 'ITU-R 132-1/6:'
   :file: data/itu-r-132-1-6.yaml
 - :id: ITU-R M.1798-1
@@ -4667,16 +4677,16 @@
   :file: data/itu-r-rs-1881-0.yaml
 - :id: ITU-R BS.2208-0
   :file: data/itu-r-bs-2208-0.yaml
-- :id: ITU-R SM.1/129
-  :file: data/itu-r-sm-1-129.yaml
 - :id: ITU-R SM.1268-2
   :file: data/itu-r-sm-1268-2.yaml
+- :id: ITU-R SM.1/129
+  :file: data/itu-r-sm-1-129.yaml
 - :id: ITU-R M.1849-0
   :file: data/itu-r-m-1849-0.yaml
-- :id: ITU-R M.2206-0
-  :file: data/itu-r-m-2206-0.yaml
 - :id: ITU-R M.2203-0
   :file: data/itu-r-m-2203-0.yaml
+- :id: ITU-R M.2206-0
+  :file: data/itu-r-m-2206-0.yaml
 - :id: ITU-R M.2205-0
   :file: data/itu-r-m-2205-0.yaml
 - :id: ITU-R BT.2049-4
@@ -4719,12 +4729,12 @@
   :file: data/itu-r-f-5-bl-8.yaml
 - :id: ITU-R F.5/BL/9
   :file: data/itu-r-f-5-bl-9.yaml
-- :id: ITU-R BT.653-3
-  :file: data/itu-r-bt-653-3.yaml
 - :id: ITU-R BT.808-0
   :file: data/itu-r-bt-808-0.yaml
 - :id: ITU-R BT.805-0
   :file: data/itu-r-bt-805-0.yaml
+- :id: ITU-R BT.653-3
+  :file: data/itu-r-bt-653-3.yaml
 - :id: ITU-R BT.1203-1
   :file: data/itu-r-bt-1203-1.yaml
 - :id: ITU-R BS.1771-0
@@ -4749,16 +4759,16 @@
   :file: data/itu-r-s-2173-0.yaml
 - :id: ITU-R M.2204-0
   :file: data/itu-r-m-2204-0.yaml
-- :id: ITU-R RS.2187-0
-  :file: data/itu-r-rs-2187-0.yaml
 - :id: ITU-R M.2201-0
   :file: data/itu-r-m-2201-0.yaml
-- :id: ITU-R M.2170-0
-  :file: data/itu-r-m-2170-0.yaml
+- :id: ITU-R RS.2187-0
+  :file: data/itu-r-rs-2187-0.yaml
 - :id: ITU-R M.2172-0
   :file: data/itu-r-m-2172-0.yaml
 - :id: ITU-R M.2176-0
   :file: data/itu-r-m-2176-0.yaml
+- :id: ITU-R M.2170-0
+  :file: data/itu-r-m-2170-0.yaml
 - :id: ITU-R SM.2154-0
   :file: data/itu-r-sm-2154-0.yaml
 - :id: ITU-R M.2198-0
@@ -4801,20 +4811,20 @@
   :file: data/itu-r-s-2196-0.yaml
 - :id: ITU-R BT.1866-0
   :file: data/itu-r-bt-1866-0.yaml
-- :id: ITU-R SM.1839-0
-  :file: data/itu-r-sm-1839-0.yaml
 - :id: ITU-R SM.1837-0
   :file: data/itu-r-sm-1837-0.yaml
+- :id: ITU-R SM.1839-0
+  :file: data/itu-r-sm-1839-0.yaml
 - :id: ITU-R 55
   :file: data/itu-r-55.yaml
 - :id: ITU-R RA.517-4
   :file: data/itu-r-ra-517-4.yaml
 - :id: ITU-R SM.1051-2
   :file: data/itu-r-sm-1051-2.yaml
-- :id: ITU-R SF.765-1
-  :file: data/itu-r-sf-765-1.yaml
 - :id: ITU-R SF.1572-0
   :file: data/itu-r-sf-1572-0.yaml
+- :id: ITU-R SF.765-1
+  :file: data/itu-r-sf-765-1.yaml
 - :id: ITU-R SF.1395
   :file: data/itu-r-sf-1395.yaml
 - :id: ITU-R SF.1485-0
@@ -4835,18 +4845,18 @@
   :file: data/itu-r-sa-363-5.yaml
 - :id: ITU-R RA.314-10
   :file: data/itu-r-ra-314-10.yaml
-- :id: ITU-R M.1799-0
-  :file: data/itu-r-m-1799-0.yaml
 - :id: ITU-R P.368-9
   :file: data/itu-r-p-368-9.yaml
-- :id: ITU-R M.1767
-  :file: data/itu-r-m-1767.yaml
-- :id: ITU-R M.1768-0
-  :file: data/itu-r-m-1768-0.yaml
+- :id: ITU-R M.1799-0
+  :file: data/itu-r-m-1799-0.yaml
 - :id: ITU-R M.1795
   :file: data/itu-r-m-1795.yaml
 - :id: ITU-R M.1797-0
   :file: data/itu-r-m-1797-0.yaml
+- :id: ITU-R M.1767
+  :file: data/itu-r-m-1767.yaml
+- :id: ITU-R M.1768-0
+  :file: data/itu-r-m-1768-0.yaml
 - :id: ITU-R M.1747-0
   :file: data/itu-r-m-1747-0.yaml
 - :id: ITU-R M.1748-0
@@ -4875,10 +4885,10 @@
   :file: data/itu-r-m-1642-2.yaml
 - :id: ITU-R M.1652-0
   :file: data/itu-r-m-1652-0.yaml
-- :id: ITU-R M.1739-0
-  :file: data/itu-r-m-1739-0.yaml
 - :id: ITU-R M.1637-0
   :file: data/itu-r-m-1637-0.yaml
+- :id: ITU-R M.1739-0
+  :file: data/itu-r-m-1739-0.yaml
 - :id: ITU-R M.1639-1
   :file: data/itu-r-m-1639-1.yaml
 - :id: ITU-R M.1641-1
@@ -4891,32 +4901,32 @@
   :file: data/itu-r-sa-1027-4.yaml
 - :id: ITU-R M.1544-0
   :file: data/itu-r-m-1544-0.yaml
+- :id: ITU-R M.1477-0
+  :file: data/itu-r-m-1477-0.yaml
 - :id: ITU-R M.1467-1
   :file: data/itu-r-m-1467-1.yaml
 - :id: ITU-R M.1470-0
   :file: data/itu-r-m-1470-0.yaml
 - :id: ITU-R M.1476-0
   :file: data/itu-r-m-1476-0.yaml
-- :id: ITU-R M.1477-0
-  :file: data/itu-r-m-1477-0.yaml
 - :id: ITU-R M.1463-1
   :file: data/itu-r-m-1463-1.yaml
 - :id: ITU-R M.1465-1
   :file: data/itu-r-m-1465-1.yaml
-- :id: ITU-R M.1466-0
-  :file: data/itu-r-m-1466-0.yaml
 - :id: ITU-R M.1462-0
   :file: data/itu-r-m-1462-0.yaml
+- :id: ITU-R M.1466-0
+  :file: data/itu-r-m-1466-0.yaml
 - :id: ITU-R M.1458-0
   :file: data/itu-r-m-1458-0.yaml
 - :id: ITU-R F.1247-2
   :file: data/itu-r-f-1247-2.yaml
 - :id: ITU-R M.1043-2
   :file: data/itu-r-m-1043-2.yaml
-- :id: ITU-R BT.1786-0
-  :file: data/itu-r-bt-1786-0.yaml
 - :id: ITU-R BT.1774-1
   :file: data/itu-r-bt-1774-1.yaml
+- :id: ITU-R BT.1786-0
+  :file: data/itu-r-bt-1786-0.yaml
 - :id: ITU-R BT.1769-0
   :file: data/itu-r-bt-1769-0.yaml
 - :id: ITU-R F.1403-0
@@ -4999,16 +5009,16 @@
   :file: data/itu-r-f-1110-3.yaml
 - :id: ITU-R F.1496-1
   :file: data/itu-r-f-1496-1.yaml
+- :id: ITU-R F.1332-1
+  :file: data/itu-r-f-1332-1.yaml
 - :id: ITU-R F.1487-0
   :file: data/itu-r-f-1487-0.yaml
 - :id: ITU-R F.1333-1
   :file: data/itu-r-f-1333-1.yaml
-- :id: ITU-R F.1332-1
-  :file: data/itu-r-f-1332-1.yaml
-- :id: ITU-R F.1249-2
-  :file: data/itu-r-f-1249-2.yaml
 - :id: ITU-R F.755-2
   :file: data/itu-r-f-755-2.yaml
+- :id: ITU-R F.1249-2
+  :file: data/itu-r-f-1249-2.yaml
 - :id: ITU-R F.1097-1
   :file: data/itu-r-f-1097-1.yaml
 - :id: ITU-R F.106-2
@@ -5035,10 +5045,10 @@
   :file: data/itu-r-bt-2070-1.yaml
 - :id: ITU-R BT.1365-1
   :file: data/itu-r-bt-1365-1.yaml
-- :id: ITU-R BT.1305-1
-  :file: data/itu-r-bt-1305-1.yaml
 - :id: ITU-R BT.1364-2
   :file: data/itu-r-bt-1364-2.yaml
+- :id: ITU-R BT.1305-1
+  :file: data/itu-r-bt-1305-1.yaml
 - :id: ITU-R BT.1299-1
   :file: data/itu-r-bt-1299-1.yaml
 - :id: ITU-R BS.1196-2
@@ -5069,10 +5079,10 @@
   :file: data/itu-r-134-6.yaml
 - :id: 'ITU-R 135/6:'
   :file: data/itu-r-135-6.yaml
-- :id: ITU-R BT.1870-0
-  :file: data/itu-r-bt-1870-0.yaml
 - :id: ITU-R BT.1872-0
   :file: data/itu-r-bt-1872-0.yaml
+- :id: ITU-R BT.1870-0
+  :file: data/itu-r-bt-1870-0.yaml
 - :id: ITU-R BT.1728-1
   :file: data/itu-r-bt-1728-1.yaml
 - :id: ITU-R BT.1199-1
@@ -5081,10 +5091,10 @@
   :file: data/itu-r-m-1179.yaml
 - :id: ITU-R M.2169-0
   :file: data/itu-r-m-2169-0.yaml
-- :id: ITU-R RS.1861-0
-  :file: data/itu-r-rs-1861-0.yaml
 - :id: ITU-R RS.1859-0
   :file: data/itu-r-rs-1859-0.yaml
+- :id: ITU-R RS.1861-0
+  :file: data/itu-r-rs-1861-0.yaml
 - :id: ITU-R SA.2067-0
   :file: data/itu-r-sa-2067-0.yaml
 - :id: ITU-R 19.HDB
@@ -5131,14 +5141,14 @@
   :file: data/itu-r-129-2-7.yaml
 - :id: 'ITU-R 203-1/7:'
   :file: data/itu-r-203-1-7.yaml
-- :id: 'ITU-R 202-1/7:'
-  :file: data/itu-r-202-1-7.yaml
-- :id: 'ITU-R 207-2/7:'
-  :file: data/itu-r-207-2-7.yaml
 - :id: 'ITU-R 226/7:'
   :file: data/itu-r-226-7.yaml
+- :id: 'ITU-R 202-1/7:'
+  :file: data/itu-r-202-1-7.yaml
 - :id: 'ITU-R 223/7:'
   :file: data/itu-r-223-7.yaml
+- :id: 'ITU-R 207-2/7:'
+  :file: data/itu-r-207-2-7.yaml
 - :id: 'ITU-R 243/7:'
   :file: data/itu-r-243-7.yaml
 - :id: 'ITU-R 139-3/7:'
@@ -5155,10 +5165,10 @@
   :file: data/itu-r-s-4-104.yaml
 - :id: ITU-R S.1711-1
   :file: data/itu-r-s-1711-1.yaml
-- :id: ITU-R S.4/101
-  :file: data/itu-r-s-4-101.yaml
 - :id: ITU-R S.1673-1
   :file: data/itu-r-s-1673-1.yaml
+- :id: ITU-R S.4/101
+  :file: data/itu-r-s-4-101.yaml
 - :id: ITU-R M.1471-1
   :file: data/itu-r-m-1471-1.yaml
 - :id: ITU-R M.1474-1
@@ -5199,18 +5209,18 @@
   :file: data/itu-r-m-1371-3.yaml
 - :id: ITU-R M.1796-0
   :file: data/itu-r-m-1796-0.yaml
-- :id: ITU-R F.1498-1
-  :file: data/itu-r-f-1498-1.yaml
-- :id: ITU-R F.1404-1
-  :file: data/itu-r-f-1404-1.yaml
-- :id: ITU-R F.1605-0
-  :file: data/itu-r-f-1605-0.yaml
 - :id: ITU-R F.1671-0
   :file: data/itu-r-f-1671-0.yaml
 - :id: ITU-R F.635-6
   :file: data/itu-r-f-635-6.yaml
 - :id: ITU-R F.748-4
   :file: data/itu-r-f-748-4.yaml
+- :id: ITU-R F.1498-1
+  :file: data/itu-r-f-1498-1.yaml
+- :id: ITU-R F.1404-1
+  :file: data/itu-r-f-1404-1.yaml
+- :id: ITU-R F.1605-0
+  :file: data/itu-r-f-1605-0.yaml
 - :id: ITU-R F.1494-0
   :file: data/itu-r-f-1494-0.yaml
 - :id: ITU-R BS.2144-0
@@ -5267,36 +5277,36 @@
   :file: data/itu-r-p-1321-3.yaml
 - :id: ITU-R M.1581-3
   :file: data/itu-r-m-1581-3.yaml
-- :id: 'ITU-R 213-2/3:'
-  :file: data/itu-r-213-2-3.yaml
-- :id: 'ITU-R 230-1/3:'
-  :file: data/itu-r-230-1-3.yaml
 - :id: 'ITU-R 218-4/3:'
   :file: data/itu-r-218-4-3.yaml
 - :id: 'ITU-R 222-2/3:'
   :file: data/itu-r-222-2-3.yaml
+- :id: 'ITU-R 213-2/3:'
+  :file: data/itu-r-213-2-3.yaml
+- :id: 'ITU-R 230-1/3:'
+  :file: data/itu-r-230-1-3.yaml
 - :id: 'ITU-R 212-2/3:'
   :file: data/itu-r-212-2-3.yaml
 - :id: 'ITU-R 221-1/3:'
   :file: data/itu-r-221-1-3.yaml
 - :id: 'ITU-R 229-1/3:'
   :file: data/itu-r-229-1-3.yaml
-- :id: 'ITU-R 203-4/3:'
-  :file: data/itu-r-203-4-3.yaml
 - :id: 'ITU-R 204-4/3:'
   :file: data/itu-r-204-4-3.yaml
+- :id: 'ITU-R 203-4/3:'
+  :file: data/itu-r-203-4-3.yaml
 - :id: ITU-R M.2147-0
   :file: data/itu-r-m-2147-0.yaml
 - :id: ITU-R BT.500-12
   :file: data/itu-r-bt-500-12.yaml
 - :id: ITU-R M.1343-1
   :file: data/itu-r-m-1343-1.yaml
-- :id: ITU-R BT.1852-0
-  :file: data/itu-r-bt-1852-0.yaml
 - :id: ITU-R BT.1691-1
   :file: data/itu-r-bt-1691-1.yaml
 - :id: ITU-R BT.1692-1
   :file: data/itu-r-bt-1692-1.yaml
+- :id: ITU-R BT.1852-0
+  :file: data/itu-r-bt-1852-0.yaml
 - :id: ITU-R BT.2142-0
   :file: data/itu-r-bt-2142-0.yaml
 - :id: ITU-R M.1184-2
@@ -5311,10 +5321,10 @@
   :file: data/itu-r-234-1.yaml
 - :id: 'ITU-R 233/1:'
   :file: data/itu-r-233-1.yaml
-- :id: 'ITU-R 219/1:'
-  :file: data/itu-r-219-1.yaml
 - :id: 'ITU-R 230/1:'
   :file: data/itu-r-230-1.yaml
+- :id: 'ITU-R 219/1:'
+  :file: data/itu-r-219-1.yaml
 - :id: 'ITU-R 214/1:'
   :file: data/itu-r-214-1.yaml
 - :id: 'ITU-R 209-1/1:'
@@ -5333,16 +5343,16 @@
   :file: data/itu-r-bt-2049-3.yaml
 - :id: ITU-R M.2141-0
   :file: data/itu-r-m-2141-0.yaml
-- :id: ITU-R BT.2140-1
-  :file: data/itu-r-bt-2140-1.yaml
 - :id: ITU-R BT.2129-0
   :file: data/itu-r-bt-2129-0.yaml
+- :id: ITU-R BT.2140-1
+  :file: data/itu-r-bt-2140-1.yaml
 - :id: ITU-R M.1825-0
   :file: data/itu-r-m-1825-0.yaml
-- :id: ITU-R BT.709-5
-  :file: data/itu-r-bt-709-5.yaml
 - :id: ITU-R P.834-6
   :file: data/itu-r-p-834-6.yaml
+- :id: ITU-R BT.709-5
+  :file: data/itu-r-bt-709-5.yaml
 - :id: ITU-R BT.1848-0
   :file: data/itu-r-bt-1848-0.yaml
 - :id: ITU-R SA.2132-0
@@ -5371,10 +5381,10 @@
   :file: data/itu-r-209-3-5.yaml
 - :id: ITU-R F.1764-0
   :file: data/itu-r-f-1764-0.yaml
-- :id: ITU-R M.2136-0
-  :file: data/itu-r-m-2136-0.yaml
 - :id: ITU-R BT.2137-0
   :file: data/itu-r-bt-2137-0.yaml
+- :id: ITU-R M.2136-0
+  :file: data/itu-r-m-2136-0.yaml
 - :id: ITU-R 24.HDB
   :file: data/itu-r-24-hdb.yaml
 - :id: ITU-R M.2113-1
@@ -5409,20 +5419,20 @@
   :file: data/itu-r-bt-2069-2.yaml
 - :id: ITU-R SM.1723-1
   :file: data/itu-r-sm-1723-1.yaml
-- :id: ITU-R SA.1276-2
-  :file: data/itu-r-sa-1276-2.yaml
 - :id: ITU-R SA.1275-2
   :file: data/itu-r-sa-1275-2.yaml
+- :id: ITU-R SA.1276-2
+  :file: data/itu-r-sa-1276-2.yaml
 - :id: ITU-R SA.1026-4
   :file: data/itu-r-sa-1026-4.yaml
 - :id: ITU-R RS.577-7
   :file: data/itu-r-rs-577-7.yaml
 - :id: ITU-R RS.1813-0
   :file: data/itu-r-rs-1813-0.yaml
-- :id: ITU-R RS.1166-4
-  :file: data/itu-r-rs-1166-4.yaml
 - :id: ITU-R BT.1846-0
   :file: data/itu-r-bt-1846-0.yaml
+- :id: ITU-R RS.1166-4
+  :file: data/itu-r-rs-1166-4.yaml
 - :id: ITU-R BT.1366-2
   :file: data/itu-r-bt-1366-2.yaml
 - :id: ITU-R P.369-6
@@ -5465,8 +5475,6 @@
   :file: data/itu-r-rs-1632-0.yaml
 - :id: ITU-R P.1411-4
   :file: data/itu-r-p-1411-4.yaml
-- :id: ITU-R P.1546-2
-  :file: data/itu-r-p-1546-2.yaml
 - :id: ITU-R P.1621-1
   :file: data/itu-r-p-1621-1.yaml
 - :id: ITU-R 31.HDB
@@ -5509,16 +5517,10 @@
   :file: data/itu-r-212-3-5.yaml
 - :id: 'ITU-R 208-1/5:'
   :file: data/itu-r-208-1-5.yaml
-- :id: 'ITU-R 106-1/5:'
-  :file: data/itu-r-106-1-5.yaml
 - :id: 'ITU-R 205-4/5:'
   :file: data/itu-r-205-4-5.yaml
-- :id: 'ITU-R 111-3/5:'
-  :file: data/itu-r-111-3-5.yaml
-- :id: 'ITU-R 113-2/5:'
-  :file: data/itu-r-113-2-5.yaml
-- :id: 'ITU-R 118-4/5:'
-  :file: data/itu-r-118-4-5.yaml
+- :id: 'ITU-R 106-1/5:'
+  :file: data/itu-r-106-1-5.yaml
 - :id: 'ITU-R 96-2/5:'
   :file: data/itu-r-96-2-5.yaml
 - :id: 'ITU-R 99-1/5:'
@@ -5527,10 +5529,16 @@
   :file: data/itu-r-145-2-5.yaml
 - :id: 'ITU-R 98/5:'
   :file: data/itu-r-98-5.yaml
+- :id: 'ITU-R 111-3/5:'
+  :file: data/itu-r-111-3-5.yaml
 - :id: 'ITU-R 133-1/5:'
   :file: data/itu-r-133-1-5.yaml
 - :id: 'ITU-R 158-1/5:'
   :file: data/itu-r-158-1-5.yaml
+- :id: 'ITU-R 113-2/5:'
+  :file: data/itu-r-113-2-5.yaml
+- :id: 'ITU-R 118-4/5:'
+  :file: data/itu-r-118-4-5.yaml
 - :id: 'ITU-R 37-5/5:'
   :file: data/itu-r-37-5-5.yaml
 - :id: 'ITU-R 77-6/5:'
@@ -5579,14 +5587,14 @@
   :file: data/itu-r-bt-1833-0.yaml
 - :id: ITU-R M.1454-0
   :file: data/itu-r-m-1454-0.yaml
-- :id: ITU-R M.1036-3
-  :file: data/itu-r-m-1036-3.yaml
 - :id: ITU-R M.1227-2
   :file: data/itu-r-m-1227-2.yaml
 - :id: ITU-R M.1041-2
   :file: data/itu-r-m-1041-2.yaml
 - :id: ITU-R M.1452-0
   :file: data/itu-r-m-1452-0.yaml
+- :id: ITU-R M.1036-3
+  :file: data/itu-r-m-1036-3.yaml
 - :id: ITU-R M.589-3
   :file: data/itu-r-m-589-3.yaml
 - :id: ITU-R BT.814-2
@@ -5657,10 +5665,10 @@
   :file: data/itu-r-bt-1368-7.yaml
 - :id: ITU-R BT.1366-1
   :file: data/itu-r-bt-1366-1.yaml
-- :id: ITU-R BR.1352-3
-  :file: data/itu-r-br-1352-3.yaml
 - :id: ITU-R BO.1835-0
   :file: data/itu-r-bo-1835-0.yaml
+- :id: ITU-R BR.1352-3
+  :file: data/itu-r-br-1352-3.yaml
 - :id: ITU-R SM.2125-0
   :file: data/itu-r-sm-2125-0.yaml
 - :id: ITU-R BO.2102-0
@@ -5709,20 +5717,20 @@
   :file: data/itu-r-p-1816-0.yaml
 - :id: ITU-R P.618-9
   :file: data/itu-r-p-618-9.yaml
-- :id: ITU-R F.1669-1
-  :file: data/itu-r-f-1669-1.yaml
 - :id: ITU-R F.497-7
   :file: data/itu-r-f-497-7.yaml
+- :id: ITU-R F.1669-1
+  :file: data/itu-r-f-1669-1.yaml
 - :id: ITU-R M.1830-0
   :file: data/itu-r-m-1830-0.yaml
 - :id: ITU-R M.1828-0
   :file: data/itu-r-m-1828-0.yaml
 - :id: ITU-R M.1829-0
   :file: data/itu-r-m-1829-0.yaml
-- :id: ITU-R M.1826-0
-  :file: data/itu-r-m-1826-0.yaml
 - :id: ITU-R M.1827-0
   :file: data/itu-r-m-1827-0.yaml
+- :id: ITU-R M.1826-0
+  :file: data/itu-r-m-1826-0.yaml
 - :id: ITU-R M.2112-0
   :file: data/itu-r-m-2112-0.yaml
 - :id: ITU-R M.2110-0
@@ -5789,12 +5797,12 @@
   :file: data/itu-r-r-5-5.yaml
 - :id: ITU-R R.9-3
   :file: data/itu-r-r-9-3.yaml
+- :id: ITU-R R.22-2
+  :file: data/itu-r-r-22-2.yaml
 - :id: ITU-R R.33-2
   :file: data/itu-r-r-33-2.yaml
 - :id: ITU-R R.7-1
   :file: data/itu-r-r-7-1.yaml
-- :id: ITU-R R.22-2
-  :file: data/itu-r-r-22-2.yaml
 - :id: ITU-R R.15-4
   :file: data/itu-r-r-15-4.yaml
 - :id: ITU-R R.17-3
@@ -5833,18 +5841,18 @@
   :file: data/itu-r-126-6.yaml
 - :id: 'ITU-R 127/6:'
   :file: data/itu-r-127-6.yaml
-- :id: 'ITU-R 112-1/6:'
-  :file: data/itu-r-112-1-6.yaml
 - :id: 'ITU-R 34-1/6:'
   :file: data/itu-r-34-1-6.yaml
+- :id: 'ITU-R 112-1/6:'
+  :file: data/itu-r-112-1-6.yaml
 - :id: ITU-R BT.2069-1
   :file: data/itu-r-bt-2069-1.yaml
-- :id: ITU-R M.2079-0
-  :file: data/itu-r-m-2079-0.yaml
 - :id: ITU-R M.2077-0
   :file: data/itu-r-m-2077-0.yaml
 - :id: ITU-R M.2078-0
   :file: data/itu-r-m-2078-0.yaml
+- :id: ITU-R M.2079-0
+  :file: data/itu-r-m-2079-0.yaml
 - :id: ITU-R SA.1805-0
   :file: data/itu-r-sa-1805-0.yaml
 - :id: ITU-R S.1780-0
@@ -5855,26 +5863,26 @@
   :file: data/itu-r-bo-1724-1.yaml
 - :id: 'ITU-R 225-5/3:'
   :file: data/itu-r-225-5-3.yaml
+- :id: 'ITU-R 202-3/3:'
+  :file: data/itu-r-202-3-3.yaml
 - :id: 'ITU-R 231/3:'
   :file: data/itu-r-231-3.yaml
 - :id: 'ITU-R 214-3/3:'
   :file: data/itu-r-214-3-3.yaml
-- :id: 'ITU-R 202-3/3:'
-  :file: data/itu-r-202-3-3.yaml
 - :id: ITU-R F.701-2
   :file: data/itu-r-f-701-2.yaml
-- :id: ITU-R SA.1807-0
-  :file: data/itu-r-sa-1807-0.yaml
 - :id: ITU-R SA.1810-0
   :file: data/itu-r-sa-1810-0.yaml
+- :id: ITU-R SA.1807-0
+  :file: data/itu-r-sa-1807-0.yaml
 - :id: ITU-R M.1808-0
   :file: data/itu-r-m-1808-0.yaml
 - :id: ITU-R M.1800-0
   :file: data/itu-r-m-1800-0.yaml
-- :id: ITU-R BT.815-1
-  :file: data/itu-r-bt-815-1.yaml
 - :id: ITU-R F.302-3
   :file: data/itu-r-f-302-3.yaml
+- :id: ITU-R BT.815-1
+  :file: data/itu-r-bt-815-1.yaml
 - :id: ITU-R S.1709-1
   :file: data/itu-r-s-1709-1.yaml
 - :id: ITU-R 49.HDB
@@ -5895,16 +5903,16 @@
   :file: data/itu-r-bt-1305-0.yaml
 - :id: ITU-R BT.1700-0
   :file: data/itu-r-bt-1700-0.yaml
+- :id: ITU-R BT.799-3
+  :file: data/itu-r-bt-799-3.yaml
 - :id: ITU-R BT.801-1
   :file: data/itu-r-bt-801-1.yaml
 - :id: ITU-R BT.656-4
   :file: data/itu-r-bt-656-4.yaml
-- :id: ITU-R BT.1122-1
-  :file: data/itu-r-bt-1122-1.yaml
-- :id: ITU-R BT.799-3
-  :file: data/itu-r-bt-799-3.yaml
 - :id: ITU-R BT.1689-0
   :file: data/itu-r-bt-1689-0.yaml
+- :id: ITU-R BT.1122-1
+  :file: data/itu-r-bt-1122-1.yaml
 - :id: ITU-R S.1782-0
   :file: data/itu-r-s-1782-0.yaml
 - :id: ITU-R RS.2095
@@ -5931,10 +5939,10 @@
   :file: data/itu-r-sa-1745-rs-1745.yaml
 - :id: ITU-R P.833-6
   :file: data/itu-r-p-833-6.yaml
-- :id: ITU-R P.530-12
-  :file: data/itu-r-p-530-12.yaml
 - :id: ITU-R M.1801-0
   :file: data/itu-r-m-1801-0.yaml
+- :id: ITU-R P.530-12
+  :file: data/itu-r-p-530-12.yaml
 - :id: ITU-R F.1105-2
   :file: data/itu-r-f-1105-2.yaml
 - :id: ITU-R P.1321-2
@@ -5953,10 +5961,10 @@
   :file: data/itu-r-rs-2068-0.yaml
 - :id: 'ITU-R 209-2/8:'
   :file: data/itu-r-209-2-8.yaml
-- :id: ITU-R BO.1774-1
-  :file: data/itu-r-bo-1774-1.yaml
 - :id: ITU-R P.842-4
   :file: data/itu-r-p-842-4.yaml
+- :id: ITU-R BO.1774-1
+  :file: data/itu-r-bo-1774-1.yaml
 - :id: ITU-R RS.2094-0
   :file: data/itu-r-rs-2094-0.yaml
 - :id: ITU-R S.1713-1
@@ -5981,12 +5989,12 @@
   :file: data/itu-r-m-585-4.yaml
 - :id: 'ITU-R 4-2/6:'
   :file: data/itu-r-4-2-6.yaml
-- :id: ITU-R BT.1790-0
-  :file: data/itu-r-bt-1790-0.yaml
 - :id: ITU-R BS.1114-6
   :file: data/itu-r-bs-1114-6.yaml
 - :id: ITU-R SM.337-5
   :file: data/itu-r-sm-337-5.yaml
+- :id: ITU-R BT.1790-0
+  :file: data/itu-r-bt-1790-0.yaml
 - :id: ITU-R S.727-2
   :file: data/itu-r-s-727-2.yaml
 - :id: ITU-R P.1238-5
@@ -6029,20 +6037,20 @@
   :file: data/itu-r-m-2081-0.yaml
 - :id: ITU-R F.1668-1
   :file: data/itu-r-f-1668-1.yaml
-- :id: ITU-R F.1566-1
-  :file: data/itu-r-f-1566-1.yaml
 - :id: ITU-R F.1336-2
   :file: data/itu-r-f-1336-2.yaml
-- :id: ITU-R BT.601-6
-  :file: data/itu-r-bt-601-6.yaml
+- :id: ITU-R F.1566-1
+  :file: data/itu-r-f-1566-1.yaml
 - :id: ITU-R BT.1788-0
   :file: data/itu-r-bt-1788-0.yaml
+- :id: ITU-R BT.601-6
+  :file: data/itu-r-bt-601-6.yaml
 - :id: ITU-R P.1791-0
   :file: data/itu-r-p-1791-0.yaml
-- :id: ITU-R F.1777-0
-  :file: data/itu-r-f-1777-0.yaml
 - :id: ITU-R F.1778-0
   :file: data/itu-r-f-1778-0.yaml
+- :id: ITU-R F.1777-0
+  :file: data/itu-r-f-1777-0.yaml
 - :id: ITU-R S.4/96
   :file: data/itu-r-s-4-96.yaml
 - :id: 'ITU-R 125/6:'
@@ -6135,10 +6143,10 @@
   :file: data/itu-r-bs-1770-0.yaml
 - :id: ITU-R M.2064-0
   :file: data/itu-r-m-2064-0.yaml
-- :id: ITU-R BO.2071-0
-  :file: data/itu-r-bo-2071-0.yaml
 - :id: ITU-R F.2061-0
   :file: data/itu-r-f-2061-0.yaml
+- :id: ITU-R BO.2071-0
+  :file: data/itu-r-bo-2071-0.yaml
 - :id: ITU-R M.1457-5
   :file: data/itu-r-m-1457-5.yaml
 - :id: ITU-R BO.1773-0
@@ -6159,24 +6167,24 @@
   :file: data/itu-r-f-1760.yaml
 - :id: ITU-R BT.2044-0
   :file: data/itu-r-bt-2044-0.yaml
-- :id: 'ITU-R 214-1/3:'
-  :file: data/itu-r-214-1-3.yaml
-- :id: 'ITU-R 231/1:'
-  :file: data/itu-r-231-1.yaml
-- :id: 'ITU-R 210-1/1:'
-  :file: data/itu-r-210-1-1.yaml
 - :id: 'ITU-R 117/6:'
   :file: data/itu-r-117-6.yaml
+- :id: 'ITU-R 231/1:'
+  :file: data/itu-r-231-1.yaml
 - :id: 'ITU-R 118/6:'
   :file: data/itu-r-118-6.yaml
 - :id: 'ITU-R 115/6:'
   :file: data/itu-r-115-6.yaml
 - :id: 'ITU-R 123/6:'
   :file: data/itu-r-123-6.yaml
+- :id: 'ITU-R 210-1/1:'
+  :file: data/itu-r-210-1-1.yaml
 - :id: 'ITU-R 119/6:'
   :file: data/itu-r-119-6.yaml
 - :id: 'ITU-R 116/6:'
   :file: data/itu-r-116-6.yaml
+- :id: 'ITU-R 214-1/3:'
+  :file: data/itu-r-214-1-3.yaml
 - :id: 'ITU-R 25-1/6:'
   :file: data/itu-r-25-1-6.yaml
 - :id: 'ITU-R 78-1/6:'
@@ -6211,10 +6219,10 @@
   :file: data/itu-r-m-628-4.yaml
 - :id: ITU-R M.1188-1
   :file: data/itu-r-m-1188-1.yaml
-- :id: ITU-R F.1670-1
-  :file: data/itu-r-f-1670-1.yaml
 - :id: ITU-R F.1762
   :file: data/itu-r-f-1762.yaml
+- :id: ITU-R F.1670-1
+  :file: data/itu-r-f-1670-1.yaml
 - :id: ITU-R BS.1660-3
   :file: data/itu-r-bs-1660-3.yaml
 - :id: ITU-R BO.1774-0
@@ -6251,10 +6259,10 @@
   :file: data/itu-r-240-9.yaml
 - :id: 'ITU-R 239/9:'
   :file: data/itu-r-239-9.yaml
-- :id: ITU-R SA.1749-0
-  :file: data/itu-r-sa-1749-0.yaml
 - :id: ITU-R SA.609-2
   :file: data/itu-r-sa-609-2.yaml
+- :id: ITU-R SA.1749-0
+  :file: data/itu-r-sa-1749-0.yaml
 - :id: ITU-R SA.1742-0
   :file: data/itu-r-sa-1742-0.yaml
 - :id: ITU-R RS.1346-0
@@ -6315,10 +6323,10 @@
   :file: data/itu-r-rs-1416-0.yaml
 - :id: ITU-R RS.1264-1
   :file: data/itu-r-rs-1264-1.yaml
-- :id: ITU-R RS.1624-0
-  :file: data/itu-r-rs-1624-0.yaml
 - :id: ITU-R RS.1628-0
   :file: data/itu-r-rs-1628-0.yaml
+- :id: ITU-R RS.1624-0
+  :file: data/itu-r-rs-1624-0.yaml
 - :id: ITU-R RS.1263-0
   :file: data/itu-r-rs-1263-0.yaml
 - :id: ITU-R RS.1262-0
@@ -6329,24 +6337,24 @@
   :file: data/itu-r-rs-1029-2.yaml
 - :id: ITU-R RS.577-5
   :file: data/itu-r-rs-577-5.yaml
+- :id: ITU-R RS.1281-0
+  :file: data/itu-r-rs-1281-0.yaml
+- :id: ITU-R RS.1282-0
+  :file: data/itu-r-rs-1282-0.yaml
 - :id: ITU-R RS.1260-1
   :file: data/itu-r-rs-1260-1.yaml
+- :id: ITU-R RS.1259-0
+  :file: data/itu-r-rs-1259-0.yaml
 - :id: ITU-R RS.1279-0
   :file: data/itu-r-rs-1279-0.yaml
 - :id: ITU-R RS.1280-0
   :file: data/itu-r-rs-1280-0.yaml
 - :id: ITU-R RS.1261-0
   :file: data/itu-r-rs-1261-0.yaml
-- :id: ITU-R RS.1281-0
-  :file: data/itu-r-rs-1281-0.yaml
-- :id: ITU-R RS.1282-0
-  :file: data/itu-r-rs-1282-0.yaml
-- :id: ITU-R RS.1259-0
-  :file: data/itu-r-rs-1259-0.yaml
-- :id: ITU-R RS.1165-1
-  :file: data/itu-r-rs-1165-1.yaml
 - :id: ITU-R RS.1166-2
   :file: data/itu-r-rs-1166-2.yaml
+- :id: ITU-R RS.1165-1
+  :file: data/itu-r-rs-1165-1.yaml
 - :id: ITU-R BT.1737-0
   :file: data/itu-r-bt-1737-0.yaml
 - :id: ITU-R BT.1736-0
@@ -6421,14 +6429,14 @@
   :file: data/itu-r-bt-1720-0.yaml
 - :id: ITU-R BT.1120-6
   :file: data/itu-r-bt-1120-6.yaml
-- :id: ITU-R P.526-9
-  :file: data/itu-r-p-526-9.yaml
 - :id: ITU-R M.1730-0
   :file: data/itu-r-m-1730-0.yaml
-- :id: ITU-R BT.1735-0
-  :file: data/itu-r-bt-1735-0.yaml
+- :id: ITU-R P.526-9
+  :file: data/itu-r-p-526-9.yaml
 - :id: ITU-R S.1711-0
   :file: data/itu-r-s-1711-0.yaml
+- :id: ITU-R BT.1735-0
+  :file: data/itu-r-bt-1735-0.yaml
 - :id: ITU-R SM.2012-2
   :file: data/itu-r-sm-2012-2.yaml
 - :id: ITU-R BT.1364-1
@@ -6475,10 +6483,10 @@
   :file: data/itu-r-m-827-0.yaml
 - :id: ITU-R M.1455-2
   :file: data/itu-r-m-1455-2.yaml
-- :id: ITU-R M.1471-0
-  :file: data/itu-r-m-1471-0.yaml
 - :id: ITU-R M.1180
   :file: data/itu-r-m-1180.yaml
+- :id: ITU-R M.1471-0
+  :file: data/itu-r-m-1471-0.yaml
 - :id: ITU-R M.1167
   :file: data/itu-r-m-1167.yaml
 - :id: ITU-R M.1038-0
@@ -6491,12 +6499,12 @@
   :file: data/itu-r-p-833-5.yaml
 - :id: ITU-R M.1474-0
   :file: data/itu-r-m-1474-0.yaml
-- :id: ITU-R M.1453-2
-  :file: data/itu-r-m-1453-2.yaml
 - :id: ITU-R M.1182-1
   :file: data/itu-r-m-1182-1.yaml
 - :id: ITU-R M.1089-1
   :file: data/itu-r-m-1089-1.yaml
+- :id: ITU-R M.1453-2
+  :file: data/itu-r-m-1453-2.yaml
 - :id: ITU-R M.1318-0
   :file: data/itu-r-m-1318-0.yaml
 - :id: ITU-R M.1319-2
@@ -6533,10 +6541,10 @@
   :file: data/itu-r-bs-1698-0.yaml
 - :id: ITU-R F.1704-0
   :file: data/itu-r-f-1704-0.yaml
-- :id: ITU-R BT.1722-0
-  :file: data/itu-r-bt-1722-0.yaml
 - :id: ITU-R BT.1727-0
   :file: data/itu-r-bt-1727-0.yaml
+- :id: ITU-R BT.1722-0
+  :file: data/itu-r-bt-1722-0.yaml
 - :id: ITU-R S.1712-0
   :file: data/itu-r-s-1712-0.yaml
 - :id: ITU-R P.841-4
@@ -6553,28 +6561,28 @@
   :file: data/itu-r-sm-443-3.yaml
 - :id: ITU-R S.1715-0
   :file: data/itu-r-s-1715-0.yaml
+- :id: ITU-R M.1314-1
+  :file: data/itu-r-m-1314-1.yaml
 - :id: ITU-R M.1141-2
   :file: data/itu-r-m-1141-2.yaml
 - :id: ITU-R M.1142-2
   :file: data/itu-r-m-1142-2.yaml
-- :id: ITU-R M.1314-1
-  :file: data/itu-r-m-1314-1.yaml
 - :id: ITU-R F.758-4
   :file: data/itu-r-f-758-4.yaml
 - :id: ITU-R F.1706-0
   :file: data/itu-r-f-1706-0.yaml
 - :id: ITU-R SM.1682-0
   :file: data/itu-r-sm-1682-0.yaml
-- :id: ITU-R S.1522-1
-  :file: data/itu-r-s-1522-1.yaml
 - :id: ITU-R SF.1719-0
   :file: data/itu-r-sf-1719-0.yaml
 - :id: ITU-R SF.1650-1
   :file: data/itu-r-sf-1650-1.yaml
-- :id: ITU-R P.842-3
-  :file: data/itu-r-p-842-3.yaml
+- :id: ITU-R S.1522-1
+  :file: data/itu-r-s-1522-1.yaml
 - :id: ITU-R P.1147-3
   :file: data/itu-r-p-1147-3.yaml
+- :id: ITU-R P.842-3
+  :file: data/itu-r-p-842-3.yaml
 - :id: ITU-R P.684-4
   :file: data/itu-r-p-684-4.yaml
 - :id: ITU-R F.1705-0
@@ -6635,12 +6643,12 @@
   :file: data/itu-r-sm-1723-0.yaml
 - :id: ITU-R P.835-4
   :file: data/itu-r-p-835-4.yaml
+- :id: ITU-R P.1238-4
+  :file: data/itu-r-p-1238-4.yaml
 - :id: ITU-R P.311-12
   :file: data/itu-r-p-311-12.yaml
 - :id: ITU-R P.1407-2
   :file: data/itu-r-p-1407-2.yaml
-- :id: ITU-R P.1238-4
-  :file: data/itu-r-p-1238-4.yaml
 - :id: ITU-R F.1568-1
   :file: data/itu-r-f-1568-1.yaml
 - :id: ITU-R F.1108-4
@@ -6707,12 +6715,12 @@
   :file: data/itu-r-br-1695-0.yaml
 - :id: ITU-R BR.1694-0
   :file: data/itu-r-br-1694-0.yaml
-- :id: ITU-R BT.1691-0
-  :file: data/itu-r-bt-1691-0.yaml
 - :id: ITU-R BT.1692-0
   :file: data/itu-r-bt-1692-0.yaml
 - :id: ITU-R BT.1690-0
   :file: data/itu-r-bt-1690-0.yaml
+- :id: ITU-R BT.1691-0
+  :file: data/itu-r-bt-1691-0.yaml
 - :id: ITU-R BS.1693-0
   :file: data/itu-r-bs-1693-0.yaml
 - :id: ITU-R BR.1355-2
@@ -6745,12 +6753,12 @@
   :file: data/itu-r-m-493-11.yaml
 - :id: ITU-R BO.1293-2
   :file: data/itu-r-bo-1293-2.yaml
-- :id: ITU-R M.1171-0
-  :file: data/itu-r-m-1171-0.yaml
 - :id: ITU-R BT.1680-0
   :file: data/itu-r-bt-1680-0.yaml
 - :id: ITU-R BS.1679-0
   :file: data/itu-r-bs-1679-0.yaml
+- :id: ITU-R M.1171-0
+  :file: data/itu-r-m-1171-0.yaml
 - :id: 'ITU-R 236/8:'
   :file: data/itu-r-236-8.yaml
 - :id: ITU-R BT.1120-5
@@ -6783,10 +6791,10 @@
   :file: data/itu-r-bt-1210-3.yaml
 - :id: ITU-R BS.1114-5
   :file: data/itu-r-bs-1114-5.yaml
-- :id: ITU-R M.1654-0
-  :file: data/itu-r-m-1654-0.yaml
 - :id: ITU-R S.1587-1
   :file: data/itu-r-s-1587-1.yaml
+- :id: ITU-R M.1654-0
+  :file: data/itu-r-m-1654-0.yaml
 - :id: ITU-R F.1101-0
   :file: data/itu-r-f-1101-0.yaml
 - :id: ITU-R M.1581-1
@@ -6827,12 +6835,16 @@
   :file: data/itu-r-tf-485-2.yaml
 - :id: ITU-R TF.376-1
   :file: data/itu-r-tf-376-1.yaml
-- :id: ITU-R M.829-1
-  :file: data/itu-r-m-829-1.yaml
 - :id: ITU-R P.434-6
   :file: data/itu-r-p-434-6.yaml
 - :id: ITU-R SM.508-0
   :file: data/itu-r-sm-508-0.yaml
+- :id: ITU-R SA.362-2
+  :file: data/itu-r-sa-362-2.yaml
+- :id: ITU-R SA.578-0
+  :file: data/itu-r-sa-578-0.yaml
+- :id: ITU-R M.829-1
+  :file: data/itu-r-m-829-1.yaml
 - :id: ITU-R BR.501-2
   :file: data/itu-r-br-501-2.yaml
 - :id: ITU-R BR.716-2
@@ -6845,10 +6857,6 @@
   :file: data/itu-r-br-783-1.yaml
 - :id: ITU-R BR.784-0
   :file: data/itu-r-br-784-0.yaml
-- :id: ITU-R SA.362-2
-  :file: data/itu-r-sa-362-2.yaml
-- :id: ITU-R SA.578-0
-  :file: data/itu-r-sa-578-0.yaml
 - :id: ITU-R BR.1217-0
   :file: data/itu-r-br-1217-0.yaml
 - :id: ITU-R S.614-3
@@ -6887,10 +6895,10 @@
   :file: data/itu-r-bt-1662-0.yaml
 - :id: ITU-R BS.1284-1
   :file: data/itu-r-bs-1284-1.yaml
-- :id: ITU-R BO.1659-0
-  :file: data/itu-r-bo-1659-0.yaml
 - :id: ITU-R BO.1658-0
   :file: data/itu-r-bo-1658-0.yaml
+- :id: ITU-R BO.1659-0
+  :file: data/itu-r-bo-1659-0.yaml
 - :id: ITU-R BS.1283-1
   :file: data/itu-r-bs-1283-1.yaml
 - :id: 'ITU-R 234/9:'
@@ -7133,10 +7141,10 @@
   :file: data/itu-r-100-6.yaml
 - :id: ITU-R SA.1632-0
   :file: data/itu-r-sa-1632-0.yaml
-- :id: ITU-R RA.1513-1
-  :file: data/itu-r-ra-1513-1.yaml
 - :id: ITU-R SA.1260-1
   :file: data/itu-r-sa-1260-1.yaml
+- :id: ITU-R RA.1513-1
+  :file: data/itu-r-ra-1513-1.yaml
 - :id: ITU-R TF.1010-1
   :file: data/itu-r-tf-1010-1.yaml
 - :id: 'ITU-R 82/6:'
@@ -7165,12 +7173,12 @@
   :file: data/itu-r-81-6.yaml
 - :id: ITU-R M.1464-1
   :file: data/itu-r-m-1464-1.yaml
+- :id: ITU-R SF.1648-0
+  :file: data/itu-r-sf-1648-0.yaml
 - :id: ITU-R SF.1649-0
   :file: data/itu-r-sf-1649-0.yaml
 - :id: ITU-R SF.1650-0
   :file: data/itu-r-sf-1650-0.yaml
-- :id: ITU-R SF.1648-0
-  :file: data/itu-r-sf-1648-0.yaml
 - :id: ITU-R RA.517-3
   :file: data/itu-r-ra-517-3.yaml
 - :id: ITU-R RA.611-3
@@ -7337,10 +7345,10 @@
   :file: data/itu-r-260-4.yaml
 - :id: 'ITU-R 259/4:'
   :file: data/itu-r-259-4.yaml
-- :id: ITU-R RA.1631-0
-  :file: data/itu-r-ra-1631-0.yaml
 - :id: ITU-R SA.1275-1
   :file: data/itu-r-sa-1275-1.yaml
+- :id: ITU-R RA.1631-0
+  :file: data/itu-r-ra-1631-0.yaml
 - :id: ITU-R RA.1237-1
   :file: data/itu-r-ra-1237-1.yaml
 - :id: ITU-R TF.1153-2
@@ -7517,24 +7525,24 @@
   :file: data/itu-r-bs-1115-0.yaml
 - :id: ITU-R BT.1301-0
   :file: data/itu-r-bt-1301-0.yaml
-- :id: ITU-R BT.1362-0
-  :file: data/itu-r-bt-1362-0.yaml
 - :id: ITU-R BS.776-0
   :file: data/itu-r-bs-776-0.yaml
-- :id: ITU-R BT.1365-0
-  :file: data/itu-r-bt-1365-0.yaml
+- :id: ITU-R BT.1362-0
+  :file: data/itu-r-bt-1362-0.yaml
 - :id: ITU-R BT.1381-1
   :file: data/itu-r-bt-1381-1.yaml
+- :id: ITU-R BT.1365-0
+  :file: data/itu-r-bt-1365-0.yaml
 - :id: ITU-R BT.1367-0
   :file: data/itu-r-bt-1367-0.yaml
 - :id: ITU-R BT.1437-0
   :file: data/itu-r-bt-1437-0.yaml
 - :id: ITU-R F.1249-1
   :file: data/itu-r-f-1249-1.yaml
-- :id: ITU-R SA.1628-0
-  :file: data/itu-r-sa-1628-0.yaml
 - :id: ITU-R SA.1158-3
   :file: data/itu-r-sa-1158-3.yaml
+- :id: ITU-R SA.1628-0
+  :file: data/itu-r-sa-1628-0.yaml
 - :id: ITU-R BT.1619-0
   :file: data/itu-r-bt-1619-0.yaml
 - :id: ITU-R SA.515-4
@@ -7581,12 +7589,12 @@
   :file: data/itu-r-bt-1199-0.yaml
 - :id: ITU-R BT.1205-0
   :file: data/itu-r-bt-1205-0.yaml
+- :id: ITU-R BT.1209-1
+  :file: data/itu-r-bt-1209-1.yaml
 - :id: ITU-R BT.1207-1
   :file: data/itu-r-bt-1207-1.yaml
 - :id: ITU-R BT.1208-1
   :file: data/itu-r-bt-1208-1.yaml
-- :id: ITU-R BT.1209-1
-  :file: data/itu-r-bt-1209-1.yaml
 - :id: ITU-R BT.1302-0
   :file: data/itu-r-bt-1302-0.yaml
 - :id: ITU-R BT.1304-0
@@ -7595,24 +7603,24 @@
   :file: data/itu-r-bt-1306-1.yaml
 - :id: ITU-R TF.768-6
   :file: data/itu-r-tf-768-6.yaml
-- :id: ITU-R SA.1162-2
-  :file: data/itu-r-sa-1162-2.yaml
-- :id: ITU-R SA.1264-1
-  :file: data/itu-r-sa-1264-1.yaml
 - :id: ITU-R SA.1276-1
   :file: data/itu-r-sa-1276-1.yaml
 - :id: ITU-R TF.536-2
   :file: data/itu-r-tf-536-2.yaml
-- :id: ITU-R BT.1617-0
-  :file: data/itu-r-bt-1617-0.yaml
 - :id: ITU-R BT.1618-0
   :file: data/itu-r-bt-1618-0.yaml
+- :id: ITU-R SA.1162-2
+  :file: data/itu-r-sa-1162-2.yaml
+- :id: ITU-R SA.1264-1
+  :file: data/itu-r-sa-1264-1.yaml
+- :id: ITU-R BT.1617-0
+  :file: data/itu-r-bt-1617-0.yaml
 - :id: ITU-R SA.1012-0
   :file: data/itu-r-sa-1012-0.yaml
-- :id: ITU-R SA.1156-0
-  :file: data/itu-r-sa-1156-0.yaml
 - :id: ITU-R SA.509-2
   :file: data/itu-r-sa-509-2.yaml
+- :id: ITU-R SA.1156-0
+  :file: data/itu-r-sa-1156-0.yaml
 - :id: ITU-R SA.1155-0
   :file: data/itu-r-sa-1155-0.yaml
 - :id: ITU-R SA.1013-0
@@ -7673,10 +7681,10 @@
   :file: data/itu-r-p-452-11.yaml
 - :id: ITU-R P.1410-2
   :file: data/itu-r-p-1410-2.yaml
-- :id: ITU-R P.1546-1
-  :file: data/itu-r-p-1546-1.yaml
 - :id: ITU-R P.1621-0
   :file: data/itu-r-p-1621-0.yaml
+- :id: ITU-R P.1546-1
+  :file: data/itu-r-p-1546-1.yaml
 - :id: ITU-R P.833-4
   :file: data/itu-r-p-833-4.yaml
 - :id: ITU-R P.1411-2
@@ -7701,10 +7709,10 @@
   :file: data/itu-r-p-684-3.yaml
 - :id: ITU-R P.531-7
   :file: data/itu-r-p-531-7.yaml
-- :id: ITU-R P.1623-0
-  :file: data/itu-r-p-1623-0.yaml
 - :id: ITU-R P.526-8
   :file: data/itu-r-p-526-8.yaml
+- :id: ITU-R P.1623-0
+  :file: data/itu-r-p-1623-0.yaml
 - :id: ITU-R M.1143-1
   :file: data/itu-r-m-1143-1.yaml
 - :id: ITU-R F.758-3
@@ -7715,10 +7723,10 @@
   :file: data/itu-r-f-1609-0.yaml
 - :id: ITU-R SM.854-1
   :file: data/itu-r-sm-854-1.yaml
-- :id: ITU-R SM.1603-0
-  :file: data/itu-r-sm-1603-0.yaml
 - :id: ITU-R SM.1604
   :file: data/itu-r-sm-1604.yaml
+- :id: ITU-R SM.1603-0
+  :file: data/itu-r-sm-1603-0.yaml
 - :id: ITU-R SM.1538-1
   :file: data/itu-r-sm-1538-1.yaml
 - :id: ITU-R SM.1050-1
@@ -7769,12 +7777,12 @@
   :file: data/itu-r-bt-2035-0.yaml
 - :id: ITU-R SM.1600-0
   :file: data/itu-r-sm-1600-0.yaml
+- :id: ITU-R SM.1598-0
+  :file: data/itu-r-sm-1598-0.yaml
 - :id: ITU-R SM.1599-0
   :file: data/itu-r-sm-1599-0.yaml
 - :id: ITU-R SM.1541-1
   :file: data/itu-r-sm-1541-1.yaml
-- :id: ITU-R SM.1598-0
-  :file: data/itu-r-sm-1598-0.yaml
 - :id: ITU-R BT.1549-0
   :file: data/itu-r-bt-1549-0.yaml
 - :id: ITU-R BT.810-0
@@ -7789,10 +7797,10 @@
   :file: data/itu-r-bs-1195-0.yaml
 - :id: ITU-R BT.654-0
   :file: data/itu-r-bt-654-0.yaml
-- :id: ITU-R BS.644-1
-  :file: data/itu-r-bs-644-1.yaml
 - :id: ITU-R BS.1283-0
   :file: data/itu-r-bs-1283-0.yaml
+- :id: ITU-R BS.644-1
+  :file: data/itu-r-bs-644-1.yaml
 - :id: ITU-R BS.1285-0
   :file: data/itu-r-bs-1285-0.yaml
 - :id: ITU-R BT.802-1
@@ -7807,10 +7815,10 @@
   :file: data/itu-r-bt-812-0.yaml
 - :id: ITU-R BT.807-0
   :file: data/itu-r-bt-807-0.yaml
-- :id: ITU-R BT.1564-0
-  :file: data/itu-r-bt-1564-0.yaml
 - :id: ITU-R BT.1378-0
   :file: data/itu-r-bt-1378-0.yaml
+- :id: ITU-R BT.1564-0
+  :file: data/itu-r-bt-1564-0.yaml
 - :id: ITU-R BT.1127-0
   :file: data/itu-r-bt-1127-0.yaml
 - :id: ITU-R BS.1286-0
@@ -7839,10 +7847,10 @@
   :file: data/itu-r-bs-1514-1.yaml
 - :id: ITU-R BR.1575-0
   :file: data/itu-r-br-1575-0.yaml
-- :id: ITU-R S.1591-0
-  :file: data/itu-r-s-1591-0.yaml
 - :id: ITU-R BS.1114-3
   :file: data/itu-r-bs-1114-3.yaml
+- :id: ITU-R S.1591-0
+  :file: data/itu-r-s-1591-0.yaml
 - :id: ITU-R S.1593-0
   :file: data/itu-r-s-1593-0.yaml
 - :id: ITU-R S.1588-0
@@ -7851,10 +7859,10 @@
   :file: data/itu-r-s-1587-0.yaml
 - :id: ITU-R S.1526-1
   :file: data/itu-r-s-1526-1.yaml
-- :id: ITU-R F.1108-3
-  :file: data/itu-r-f-1108-3.yaml
 - :id: ITU-R F.283-5
   :file: data/itu-r-f-283-5.yaml
+- :id: ITU-R F.1108-3
+  :file: data/itu-r-f-1108-3.yaml
 - :id: ITU-R BT.500-11
   :file: data/itu-r-bt-500-11.yaml
 - :id: ITU-R S.1590-0
@@ -7875,10 +7883,10 @@
   :file: data/itu-r-f-1098-1.yaml
 - :id: ITU-R BR.469-7
   :file: data/itu-r-br-469-7.yaml
-- :id: ITU-R BR.1352-2
-  :file: data/itu-r-br-1352-2.yaml
 - :id: ITU-R BR.1574-0
   :file: data/itu-r-br-1574-0.yaml
+- :id: ITU-R BR.1352-2
+  :file: data/itu-r-br-1352-2.yaml
 - :id: ITU-R SF.1585-0
   :file: data/itu-r-sf-1585-0.yaml
 - :id: ITU-R S.1586-0
@@ -7897,20 +7905,20 @@
   :file: data/itu-r-m-1583-0.yaml
 - :id: ITU-R SM.1448
   :file: data/itu-r-sm-1448.yaml
-- :id: ITU-R BS.1386-1
-  :file: data/itu-r-bs-1386-1.yaml
 - :id: ITU-R S.1560-0
   :file: data/itu-r-s-1560-0.yaml
+- :id: ITU-R BS.1386-1
+  :file: data/itu-r-bs-1386-1.yaml
 - :id: ITU-R F.1107-1
   :file: data/itu-r-f-1107-1.yaml
 - :id: ITU-R BT.1201-0
   :file: data/itu-r-bt-1201-0.yaml
-- :id: ITU-R BR.780-0
-  :file: data/itu-r-br-780-0.yaml
 - :id: ITU-R BR.1292-0
   :file: data/itu-r-br-1292-0.yaml
 - :id: ITU-R BR.1376-0
   :file: data/itu-r-br-1376-0.yaml
+- :id: ITU-R BR.780-0
+  :file: data/itu-r-br-780-0.yaml
 - :id: ITU-R F.381-2
   :file: data/itu-r-f-381-2.yaml
 - :id: ITU-R BS.704-0
@@ -7957,12 +7965,12 @@
   :file: data/itu-r-bt-1204-0.yaml
 - :id: ITU-R BT.1298-0
   :file: data/itu-r-bt-1298-0.yaml
-- :id: ITU-R BS.703-0
-  :file: data/itu-r-bs-703-0.yaml
 - :id: ITU-R BS.707-4
   :file: data/itu-r-bs-707-4.yaml
 - :id: ITU-R BT.1123-0
   :file: data/itu-r-bt-1123-0.yaml
+- :id: ITU-R BS.703-0
+  :file: data/itu-r-bs-703-0.yaml
 - :id: ITU-R BS.645-2
   :file: data/itu-r-bs-645-2.yaml
 - :id: ITU-R BS.639-0
@@ -7995,12 +8003,8 @@
   :file: data/itu-r-f-1105-1.yaml
 - :id: ITU-R BT.1368-3
   :file: data/itu-r-bt-1368-3.yaml
-- :id: ITU-R BT.1198
-  :file: data/itu-r-bt-1198.yaml
 - :id: ITU-R BT.565-0
   :file: data/itu-r-bt-565-0.yaml
-- :id: ITU-R BT.1202-0
-  :file: data/itu-r-bt-1202-0.yaml
 - :id: ITU-R BT.803-0
   :file: data/itu-r-bt-803-0.yaml
 - :id: ITU-R BT.796-0
@@ -8009,18 +8013,22 @@
   :file: data/itu-r-bs-702-1.yaml
 - :id: ITU-R BS.708-0
   :file: data/itu-r-bs-708-0.yaml
+- :id: ITU-R BT.1198
+  :file: data/itu-r-bt-1198.yaml
+- :id: ITU-R BT.1202-0
+  :file: data/itu-r-bt-1202-0.yaml
 - :id: ITU-R BS.646-1
   :file: data/itu-r-bs-646-1.yaml
-- :id: ITU-R BS.597-1
-  :file: data/itu-r-bs-597-1.yaml
-- :id: ITU-R BS.599-0
-  :file: data/itu-r-bs-599-0.yaml
 - :id: ITU-R BS.638-0
   :file: data/itu-r-bs-638-0.yaml
 - :id: ITU-R BS.640-3
   :file: data/itu-r-bs-640-3.yaml
 - :id: ITU-R BS.642-1
   :file: data/itu-r-bs-642-1.yaml
+- :id: ITU-R BS.597-1
+  :file: data/itu-r-bs-597-1.yaml
+- :id: ITU-R BS.599-0
+  :file: data/itu-r-bs-599-0.yaml
 - :id: ITU-R BS.139-3
   :file: data/itu-r-bs-139-3.yaml
 - :id: ITU-R BS.215-2
@@ -8035,20 +8043,20 @@
   :file: data/itu-r-s-725-0.yaml
 - :id: ITU-R F.1568-0
   :file: data/itu-r-f-1568-0.yaml
+- :id: ITU-R BT.419-3
+  :file: data/itu-r-bt-419-3.yaml
+- :id: ITU-R BT.806-0
+  :file: data/itu-r-bt-806-0.yaml
 - :id: ITU-R BT.266-1
   :file: data/itu-r-bt-266-1.yaml
 - :id: ITU-R BT.417-4
   :file: data/itu-r-bt-417-4.yaml
-- :id: ITU-R BT.419-3
-  :file: data/itu-r-bt-419-3.yaml
 - :id: ITU-R BT.1299-0
   :file: data/itu-r-bt-1299-0.yaml
-- :id: ITU-R BT.806-0
-  :file: data/itu-r-bt-806-0.yaml
-- :id: ITU-R BS.467-0
-  :file: data/itu-r-bs-467-0.yaml
 - :id: ITU-R BS.415-2
   :file: data/itu-r-bs-415-2.yaml
+- :id: ITU-R BS.467-0
+  :file: data/itu-r-bs-467-0.yaml
 - :id: ITU-R BS.411-4
   :file: data/itu-r-bs-411-4.yaml
 - :id: ITU-R BO.652-1
@@ -8121,20 +8129,20 @@
   :file: data/itu-r-f-404-2.yaml
 - :id: ITU-R F.403-3
   :file: data/itu-r-f-403-3.yaml
+- :id: ITU-R F.400-2
+  :file: data/itu-r-f-400-2.yaml
+- :id: ITU-R F.1518-0
+  :file: data/itu-r-f-1518-0.yaml
 - :id: ITU-R F.395-2
   :file: data/itu-r-f-395-2.yaml
+- :id: ITU-R F.391-0
+  :file: data/itu-r-f-391-0.yaml
 - :id: ITU-R F.396-1
   :file: data/itu-r-f-396-1.yaml
 - :id: ITU-R F.397-3
   :file: data/itu-r-f-397-3.yaml
-- :id: ITU-R F.400-2
-  :file: data/itu-r-f-400-2.yaml
-- :id: ITU-R F.391-0
-  :file: data/itu-r-f-391-0.yaml
 - :id: ITU-R F.349-5
   :file: data/itu-r-f-349-5.yaml
-- :id: ITU-R F.1518-0
-  :file: data/itu-r-f-1518-0.yaml
 - :id: ITU-R S.740-0
   :file: data/itu-r-s-740-0.yaml
 - :id: ITU-R S.1329-0
@@ -8183,28 +8191,28 @@
   :file: data/itu-r-s-1063-0.yaml
 - :id: ITU-R P.1511-0
   :file: data/itu-r-p-1511-0.yaml
+- :id: ITU-R S.738-0
+  :file: data/itu-r-s-738-0.yaml
 - :id: ITU-R S.464-2
   :file: data/itu-r-s-464-2.yaml
 - :id: ITU-R S.1342-0
   :file: data/itu-r-s-1342-0.yaml
-- :id: ITU-R S.738-0
-  :file: data/itu-r-s-738-0.yaml
-- :id: ITU-R S.735-1
-  :file: data/itu-r-s-735-1.yaml
-- :id: ITU-R S.1340-0
-  :file: data/itu-r-s-1340-0.yaml
 - :id: ITU-R S.1151
   :file: data/itu-r-s-1151.yaml
+- :id: ITU-R S.1340-0
+  :file: data/itu-r-s-1340-0.yaml
+- :id: ITU-R S.735-1
+  :file: data/itu-r-s-735-1.yaml
 - :id: ITU-R M.1371-1
   :file: data/itu-r-m-1371-1.yaml
 - :id: ITU-R BO.792-0
   :file: data/itu-r-bo-792-0.yaml
 - :id: ITU-R F.745-1
   :file: data/itu-r-f-745-1.yaml
-- :id: ITU-R S.743-1
-  :file: data/itu-r-s-743-1.yaml
 - :id: ITU-R S.739-0
   :file: data/itu-r-s-739-0.yaml
+- :id: ITU-R S.743-1
+  :file: data/itu-r-s-743-1.yaml
 - :id: ITU-R S.1503-0
   :file: data/itu-r-s-1503-0.yaml
 - :id: ITU-R S.737-0
@@ -8217,28 +8225,28 @@
   :file: data/itu-r-s-484-3.yaml
 - :id: ITU-R S.466-6
   :file: data/itu-r-s-466-6.yaml
-- :id: ITU-R S.1064-1
-  :file: data/itu-r-s-1064-1.yaml
 - :id: ITU-R S.1065-0
   :file: data/itu-r-s-1065-0.yaml
+- :id: ITU-R S.1064-1
+  :file: data/itu-r-s-1064-1.yaml
 - :id: ITU-R S.1002-0
   :file: data/itu-r-s-1002-0.yaml
 - :id: ITU-R BO.1444-0
   :file: data/itu-r-bo-1444-0.yaml
 - :id: ITU-R TF.768-5
   :file: data/itu-r-tf-768-5.yaml
-- :id: ITU-R S.744-0
-  :file: data/itu-r-s-744-0.yaml
 - :id: ITU-R S.482-2
   :file: data/itu-r-s-482-2.yaml
-- :id: ITU-R S.1150
-  :file: data/itu-r-s-1150.yaml
+- :id: ITU-R S.744-0
+  :file: data/itu-r-s-744-0.yaml
 - :id: ITU-R S.730-0
   :file: data/itu-r-s-730-0.yaml
-- :id: ITU-R S.1001-0
-  :file: data/itu-r-s-1001-0.yaml
+- :id: ITU-R S.1150
+  :file: data/itu-r-s-1150.yaml
 - :id: ITU-R P.530-10
   :file: data/itu-r-p-530-10.yaml
+- :id: ITU-R S.1001-0
+  :file: data/itu-r-s-1001-0.yaml
 - :id: ITU-R BO.793-0
   :file: data/itu-r-bo-793-0.yaml
 - :id: ITU-R M.1457-1
@@ -8253,10 +8261,10 @@
   :file: data/itu-r-bs-1547-0.yaml
 - :id: ITU-R BR.714-2
   :file: data/itu-r-br-714-2.yaml
-- :id: ITU-R BO.791-0
-  :file: data/itu-r-bo-791-0.yaml
 - :id: ITU-R BO.650-2
   :file: data/itu-r-bo-650-2.yaml
+- :id: ITU-R BO.791-0
+  :file: data/itu-r-bo-791-0.yaml
 - :id: ITU-R RA.1513-0
   :file: data/itu-r-ra-1513-0.yaml
 - :id: ITU-R P.1546-0
@@ -8277,10 +8285,10 @@
   :file: data/itu-r-ra-314-9.yaml
 - :id: ITU-R TF.1552-0
   :file: data/itu-r-tf-1552-0.yaml
-- :id: ITU-R RA.1272-1
-  :file: data/itu-r-ra-1272-1.yaml
 - :id: ITU-R P.836-3
   :file: data/itu-r-p-836-3.yaml
+- :id: ITU-R RA.1272-1
+  :file: data/itu-r-ra-1272-1.yaml
 - :id: ITU-R BO.786-0
   :file: data/itu-r-bo-786-0.yaml
 - :id: ITU-R BO.794-0
@@ -8291,10 +8299,10 @@
   :file: data/itu-r-bs-1548-0.yaml
 - :id: ITU-R S.1061-0
   :file: data/itu-r-s-1061-0.yaml
-- :id: ITU-R SM.1538-0
-  :file: data/itu-r-sm-1538-0.yaml
 - :id: ITU-R S.731-0
   :file: data/itu-r-s-731-0.yaml
+- :id: ITU-R SM.1538-0
+  :file: data/itu-r-sm-1538-0.yaml
 - :id: ITU-R BS.1534-0
   :file: data/itu-r-bs-1534-0.yaml
 - :id: ITU-R BO.790-0
@@ -8309,10 +8317,10 @@
   :file: data/itu-r-sm-329-9.yaml
 - :id: ITU-R S.481-2
   :file: data/itu-r-s-481-2.yaml
-- :id: ITU-R BO.787-0
-  :file: data/itu-r-bo-787-0.yaml
 - :id: ITU-R BO.795-0
   :file: data/itu-r-bo-795-0.yaml
+- :id: ITU-R BO.787-0
+  :file: data/itu-r-bo-787-0.yaml
 - :id: ITU-R BO.1373-0
   :file: data/itu-r-bo-1373-0.yaml
 - :id: ITU-R BR.1531-0
@@ -8323,24 +8331,24 @@
   :file: data/itu-r-br-1374-1.yaml
 - :id: ITU-R V.608-2
   :file: data/itu-r-v-608-2.yaml
-- :id: ITU-R S.524-7
-  :file: data/itu-r-s-524-7.yaml
 - :id: ITU-R BO.651-0
   :file: data/itu-r-bo-651-0.yaml
-- :id: ITU-R S.729-0
-  :file: data/itu-r-s-729-0.yaml
+- :id: ITU-R S.524-7
+  :file: data/itu-r-s-524-7.yaml
 - :id: ITU-R S.727-0
   :file: data/itu-r-s-727-0.yaml
+- :id: ITU-R S.729-0
+  :file: data/itu-r-s-729-0.yaml
 - :id: ITU-R BO.788-1
   :file: data/itu-r-bo-788-1.yaml
 - :id: ITU-R BO.789-2
   :file: data/itu-r-bo-789-2.yaml
+- :id: ITU-R S.726-1
+  :file: data/itu-r-s-726-1.yaml
 - :id: ITU-R M.1455-1
   :file: data/itu-r-m-1455-1.yaml
 - :id: ITU-R BR.1530-0
   :file: data/itu-r-br-1530-0.yaml
-- :id: ITU-R S.726-1
-  :file: data/itu-r-s-726-1.yaml
 - :id: ITU-R BO
   :file: data/itu-r-bo.yaml
 - :id: ITU-R SM
@@ -8377,36 +8385,36 @@
   :file: data/itu-r-sf-1320-0.yaml
 - :id: ITU-R SF.1008-1
   :file: data/itu-r-sf-1008-1.yaml
-- :id: ITU-R SA.1071-0
-  :file: data/itu-r-sa-1071-0.yaml
 - :id: ITU-R SA.1345-0
   :file: data/itu-r-sa-1345-0.yaml
 - :id: ITU-R S.736-3
   :file: data/itu-r-s-736-3.yaml
+- :id: ITU-R SA.1071-0
+  :file: data/itu-r-sa-1071-0.yaml
 - :id: ITU-R S.524-6
   :file: data/itu-r-s-524-6.yaml
 - :id: ITU-R S.1325-1
   :file: data/itu-r-s-1325-1.yaml
-- :id: ITU-R S.1257-1
-  :file: data/itu-r-s-1257-1.yaml
-- :id: ITU-R S.1323-1
-  :file: data/itu-r-s-1323-1.yaml
 - :id: ITU-R S.1250-0
   :file: data/itu-r-s-1250-0.yaml
 - :id: ITU-R S.1149-1
   :file: data/itu-r-s-1149-1.yaml
+- :id: ITU-R S.1257-1
+  :file: data/itu-r-s-1257-1.yaml
+- :id: ITU-R S.1323-1
+  :file: data/itu-r-s-1323-1.yaml
 - :id: ITU-R S.1256-0
   :file: data/itu-r-s-1256-0.yaml
 - :id: ITU-R P.844-1
   :file: data/itu-r-p-844-1.yaml
 - :id: ITU-R P.684-1
   :file: data/itu-r-p-684-1.yaml
-- :id: ITU-R P.620-4
-  :file: data/itu-r-p-620-4.yaml
 - :id: ITU-R P.527-3
   :file: data/itu-r-p-527-3.yaml
 - :id: ITU-R P.528-2
   :file: data/itu-r-p-528-2.yaml
+- :id: ITU-R P.620-4
+  :file: data/itu-r-p-620-4.yaml
 - :id: ITU-R P.1410-0
   :file: data/itu-r-p-1410-0.yaml
 - :id: ITU-R P.368-7
@@ -8419,12 +8427,12 @@
   :file: data/itu-r-m-541-8.yaml
 - :id: ITU-R M.1371-0
   :file: data/itu-r-m-1371-0.yaml
+- :id: ITU-R F.758-2
+  :file: data/itu-r-f-758-2.yaml
 - :id: ITU-R M.1073-1
   :file: data/itu-r-m-1073-1.yaml
 - :id: ITU-R M.1033-1
   :file: data/itu-r-m-1033-1.yaml
-- :id: ITU-R F.758-2
-  :file: data/itu-r-f-758-2.yaml
 - :id: ITU-R F.162-3
   :file: data/itu-r-f-162-3.yaml
 - :id: ITU-R F.240-6
@@ -8449,10 +8457,10 @@
   :file: data/itu-r-bs-1196-0.yaml
 - :id: ITU-R BR.1357-0
   :file: data/itu-r-br-1357-0.yaml
-- :id: ITU-R SM.1370-1
-  :file: data/itu-r-sm-1370-1.yaml
 - :id: ITU-R S.1529-0
   :file: data/itu-r-s-1529-0.yaml
+- :id: ITU-R SM.1370-1
+  :file: data/itu-r-sm-1370-1.yaml
 - :id: ITU-R S.1522-0
   :file: data/itu-r-s-1522-0.yaml
 - :id: ITU-R S.1528-0
@@ -8467,10 +8475,10 @@
   :file: data/itu-r-s-1525-0.yaml
 - :id: ITU-R BO.1503-0
   :file: data/itu-r-bo-1503-0.yaml
-- :id: ITU-R SA.513-1
-  :file: data/itu-r-sa-513-1.yaml
 - :id: ITU-R PI.683
   :file: data/itu-r-pi-683.yaml
+- :id: ITU-R SA.513-1
+  :file: data/itu-r-sa-513-1.yaml
 - :id: ITU-R TF.768-4
   :file: data/itu-r-tf-768-4.yaml
 - :id: ITU-R S.1524-0
@@ -8515,12 +8523,12 @@
   :file: data/itu-r-bs-1114-2.yaml
 - :id: ITU-R S.1428-1
   :file: data/itu-r-s-1428-1.yaml
+- :id: ITU-R P.618-7
+  :file: data/itu-r-p-618-7.yaml
 - :id: ITU-R P.833-3
   :file: data/itu-r-p-833-3.yaml
 - :id: ITU-R P.679-3
   :file: data/itu-r-p-679-3.yaml
-- :id: ITU-R P.618-7
-  :file: data/itu-r-p-618-7.yaml
 - :id: ITU-R P.832-1
   :file: data/itu-r-p-832-1.yaml
 - :id: ITU-R BT.11/BL/12
@@ -8529,10 +8537,14 @@
   :file: data/itu-r-bs-1514-0.yaml
 - :id: ITU-R BT.1379-1
   :file: data/itu-r-bt-1379-1.yaml
-- :id: ITU-R S.1257-2
-  :file: data/itu-r-s-1257-2.yaml
 - :id: ITU-R TF.767-2
   :file: data/itu-r-tf-767-2.yaml
+- :id: ITU-R P.684-2
+  :file: data/itu-r-p-684-2.yaml
+- :id: ITU-R P.676-5
+  :file: data/itu-r-p-676-5.yaml
+- :id: ITU-R S.1257-2
+  :file: data/itu-r-s-1257-2.yaml
 - :id: ITU-R S.1512-0
   :file: data/itu-r-s-1512-0.yaml
 - :id: ITU-R S.1328-3
@@ -8543,24 +8555,24 @@
   :file: data/itu-r-sf-355-4.yaml
 - :id: ITU-R SF.1006-0
   :file: data/itu-r-sf-1006-0.yaml
+- :id: ITU-R P.619-1
+  :file: data/itu-r-p-619-1.yaml
 - :id: ITU-R P.842-2
   :file: data/itu-r-p-842-2.yaml
+- :id: ITU-R P.839-3
+  :file: data/itu-r-p-839-3.yaml
+- :id: ITU-R P.682-1
+  :file: data/itu-r-p-682-1.yaml
+- :id: ITU-R P.836-2
+  :file: data/itu-r-p-836-2.yaml
 - :id: ITU-R P.841-2
   :file: data/itu-r-p-841-2.yaml
+- :id: ITU-R P.678-1
+  :file: data/itu-r-p-678-1.yaml
 - :id: ITU-R P.530-9
   :file: data/itu-r-p-530-9.yaml
-- :id: ITU-R P.452-10
-  :file: data/itu-r-p-452-10.yaml
-- :id: ITU-R P.684-2
-  :file: data/itu-r-p-684-2.yaml
 - :id: ITU-R P.533-7
   :file: data/itu-r-p-533-7.yaml
-- :id: ITU-R P.676-5
-  :file: data/itu-r-p-676-5.yaml
-- :id: ITU-R P.526-7
-  :file: data/itu-r-p-526-7.yaml
-- :id: ITU-R P.453-8
-  :file: data/itu-r-p-453-8.yaml
 - :id: ITU-R P.531-6
   :file: data/itu-r-p-531-6.yaml
 - :id: ITU-R P.532-1
@@ -8571,56 +8583,52 @@
   :file: data/itu-r-p-616-0.yaml
 - :id: ITU-R P.617-1
   :file: data/itu-r-p-617-1.yaml
-- :id: ITU-R P.370-7
-  :file: data/itu-r-p-370-7.yaml
-- :id: ITU-R P.372-7
-  :file: data/itu-r-p-372-7.yaml
-- :id: ITU-R P.619-1
-  :file: data/itu-r-p-619-1.yaml
-- :id: ITU-R P.310-9
-  :file: data/itu-r-p-310-9.yaml
-- :id: ITU-R P.311-10
-  :file: data/itu-r-p-311-10.yaml
-- :id: ITU-R P.839-3
-  :file: data/itu-r-p-839-3.yaml
-- :id: ITU-R P.682-1
-  :file: data/itu-r-p-682-1.yaml
-- :id: ITU-R P.836-2
-  :file: data/itu-r-p-836-2.yaml
-- :id: ITU-R P.678-1
-  :file: data/itu-r-p-678-1.yaml
-- :id: ITU-R P.1238-2
-  :file: data/itu-r-p-1238-2.yaml
-- :id: ITU-R P.1321-0
-  :file: data/itu-r-p-1321-0.yaml
-- :id: ITU-R P.1239-0
-  :file: data/itu-r-p-1239-0.yaml
-- :id: ITU-R P.1240-0
-  :file: data/itu-r-p-1240-0.yaml
-- :id: ITU-R P.1510-0
-  :file: data/itu-r-p-1510-0.yaml
+- :id: ITU-R P.452-10
+  :file: data/itu-r-p-452-10.yaml
 - :id: ITU-R BR.785-1
   :file: data/itu-r-br-785-1.yaml
 - :id: ITU-R BR.408-7
   :file: data/itu-r-br-408-7.yaml
 - :id: ITU-R BR.777-3
   :file: data/itu-r-br-777-3.yaml
+- :id: ITU-R P.526-7
+  :file: data/itu-r-p-526-7.yaml
+- :id: ITU-R P.1238-2
+  :file: data/itu-r-p-1238-2.yaml
 - :id: ITU-R BR.1220-1
   :file: data/itu-r-br-1220-1.yaml
 - :id: ITU-R BR.715-1
   :file: data/itu-r-br-715-1.yaml
 - :id: ITU-R BR.1375-1
   :file: data/itu-r-br-1375-1.yaml
-- :id: ITU-R BO.1517-0
-  :file: data/itu-r-bo-1517-0.yaml
+- :id: ITU-R P.453-8
+  :file: data/itu-r-p-453-8.yaml
 - :id: ITU-R BR.1287-1
   :file: data/itu-r-br-1287-1.yaml
 - :id: ITU-R BR.1218-1
   :file: data/itu-r-br-1218-1.yaml
 - :id: ITU-R BR.1216-1
   :file: data/itu-r-br-1216-1.yaml
+- :id: ITU-R P.1321-0
+  :file: data/itu-r-p-1321-0.yaml
+- :id: ITU-R P.370-7
+  :file: data/itu-r-p-370-7.yaml
+- :id: ITU-R P.372-7
+  :file: data/itu-r-p-372-7.yaml
 - :id: ITU-R P.1060-0
   :file: data/itu-r-p-1060-0.yaml
+- :id: ITU-R P.310-9
+  :file: data/itu-r-p-310-9.yaml
+- :id: ITU-R P.311-10
+  :file: data/itu-r-p-311-10.yaml
+- :id: ITU-R P.1239-0
+  :file: data/itu-r-p-1239-0.yaml
+- :id: ITU-R P.1240-0
+  :file: data/itu-r-p-1240-0.yaml
+- :id: ITU-R P.1510-0
+  :file: data/itu-r-p-1510-0.yaml
+- :id: ITU-R BO.1517-0
+  :file: data/itu-r-bo-1517-0.yaml
 - :id: ITU-R BO.1130-3
   :file: data/itu-r-bo-1130-3.yaml
 - :id: ITU-R P.837-3
@@ -9167,1153 +9175,3 @@
   :file: data/itu-r-m-1319-0.yaml
 - :id: ITU-R M.1141-1
   :file: data/itu-r-m-1141-1.yaml
-- :id: ITU-R M.1142-1
-  :file: data/itu-r-m-1142-1.yaml
-- :id: ITU-R SM.328-9
-  :file: data/itu-r-sm-328-9.yaml
-- :id: ITU-R SM.1268-0
-  :file: data/itu-r-sm-1268-0.yaml
-- :id: ITU-R BS.1116-1
-  :file: data/itu-r-bs-1116-1.yaml
-- :id: ITU-R SM.337-4
-  :file: data/itu-r-sm-337-4.yaml
-- :id: ITU-R BR.1287-0
-  :file: data/itu-r-br-1287-0.yaml
-- :id: ITU-R BR.1288-0
-  :file: data/itu-r-br-1288-0.yaml
-- :id: ITU-R BR.1289-0
-  :file: data/itu-r-br-1289-0.yaml
-- :id: ITU-R BR.1290-0
-  :file: data/itu-r-br-1290-0.yaml
-- :id: ITU-R BR.1291-0
-  :file: data/itu-r-br-1291-0.yaml
-- :id: ITU-R BT.710-3
-  :file: data/itu-r-bt-710-3.yaml
-- :id: ITU-R BT.1128-2
-  :file: data/itu-r-bt-1128-2.yaml
-- :id: ITU-R BO.1293-0
-  :file: data/itu-r-bo-1293-0.yaml
-- :id: ITU-R BO.1295-0
-  :file: data/itu-r-bo-1295-0.yaml
-- :id: ITU-R BO.1297-0
-  :file: data/itu-r-bo-1297-0.yaml
-- :id: ITU-R BT.1300-0
-  :file: data/itu-r-bt-1300-0.yaml
-- :id: ITU-R BT.1306-0
-  :file: data/itu-r-bt-1306-0.yaml
-- :id: ITU-R BR.265-8
-  :file: data/itu-r-br-265-8.yaml
-- :id: ITU-R BR.713-1
-  :file: data/itu-r-br-713-1.yaml
-- :id: ITU-R M.1309-0
-  :file: data/itu-r-m-1309-0.yaml
-- :id: ITU-R M.493-9
-  :file: data/itu-r-m-493-9.yaml
-- :id: ITU-R M.1307-0
-  :file: data/itu-r-m-1307-0.yaml
-- :id: ITU-R M.1177-1
-  :file: data/itu-r-m-1177-1.yaml
-- :id: ITU-R M.825-2
-  :file: data/itu-r-m-825-2.yaml
-- :id: ITU-R M.816-1
-  :file: data/itu-r-m-816-1.yaml
-- :id: ITU-R M.1314-0
-  :file: data/itu-r-m-1314-0.yaml
-- :id: ITU-R M.1310-0
-  :file: data/itu-r-m-1310-0.yaml
-- :id: ITU-R M.1311-0
-  :file: data/itu-r-m-1311-0.yaml
-- :id: ITU-R M.1312-0
-  :file: data/itu-r-m-1312-0.yaml
-- :id: ITU-R M.1313-0
-  :file: data/itu-r-m-1313-0.yaml
-- :id: ITU-R M.1308-0
-  :file: data/itu-r-m-1308-0.yaml
-- :id: ITU-R BO.1296-0
-  :file: data/itu-r-bo-1296-0.yaml
-- :id: ITU-R M.823-2
-  :file: data/itu-r-m-823-2.yaml
-- :id: ITU-R TF.686-1
-  :file: data/itu-r-tf-686-1.yaml
-- :id: ITU-R TF.460-5
-  :file: data/itu-r-tf-460-5.yaml
-- :id: ITU-R TF.457-2
-  :file: data/itu-r-tf-457-2.yaml
-- :id: ITU-R TF.1011-1
-  :file: data/itu-r-tf-1011-1.yaml
-- :id: ITU-R SA.1280-0
-  :file: data/itu-r-sa-1280-0.yaml
-- :id: ITU-R SA.1273-0
-  :file: data/itu-r-sa-1273-0.yaml
-- :id: ITU-R SA.1279-0
-  :file: data/itu-r-sa-1279-0.yaml
-- :id: ITU-R SA.1281-0
-  :file: data/itu-r-sa-1281-0.yaml
-- :id: ITU-R SA.1274-0
-  :file: data/itu-r-sa-1274-0.yaml
-- :id: ITU-R SA.1275-0
-  :file: data/itu-r-sa-1275-0.yaml
-- :id: ITU-R SA.1276-0
-  :file: data/itu-r-sa-1276-0.yaml
-- :id: ITU-R SA.1278-0
-  :file: data/itu-r-sa-1278-0.yaml
-- :id: ITU-R SA.1282-0
-  :file: data/itu-r-sa-1282-0.yaml
-- :id: ITU-R SA.510-2
-  :file: data/itu-r-sa-510-2.yaml
-- :id: ITU-R SA.514-3
-  :file: data/itu-r-sa-514-3.yaml
-- :id: ITU-R S.579-4
-  :file: data/itu-r-s-579-4.yaml
-- :id: ITU-R S.1323-0
-  :file: data/itu-r-s-1323-0.yaml
-- :id: ITU-R S.1341-0
-  :file: data/itu-r-s-1341-0.yaml
-- :id: ITU-R S.1257-0
-  :file: data/itu-r-s-1257-0.yaml
-- :id: ITU-R S.1339-0
-  :file: data/itu-r-s-1339-0.yaml
-- :id: ITU-R S.1252-0
-  :file: data/itu-r-s-1252-0.yaml
-- :id: ITU-R S.1325-0
-  :file: data/itu-r-s-1325-0.yaml
-- :id: ITU-R F.1108-2
-  :file: data/itu-r-f-1108-2.yaml
-- :id: ITU-R F.1110-2
-  :file: data/itu-r-f-1110-2.yaml
-- :id: ITU-R F.1247-0
-  :file: data/itu-r-f-1247-0.yaml
-- :id: ITU-R F.763-3
-  :file: data/itu-r-f-763-3.yaml
-- :id: ITU-R BS.412-8
-  :file: data/itu-r-bs-412-8.yaml
-- :id: ITU-R RA.1272-0
-  :file: data/itu-r-ra-1272-0.yaml
-- :id: ITU-R F.1244-0
-  :file: data/itu-r-f-1244-0.yaml
-- :id: ITU-R F.1249-0
-  :file: data/itu-r-f-1249-0.yaml
-- :id: ITU-R F.1332-0
-  :file: data/itu-r-f-1332-0.yaml
-- :id: ITU-R F.1191-1
-  :file: data/itu-r-f-1191-1.yaml
-- :id: ITU-R F.1189-1
-  :file: data/itu-r-f-1189-1.yaml
-- :id: ITU-R F.1336-0
-  :file: data/itu-r-f-1336-0.yaml
-- :id: ITU-R F.1330-0
-  :file: data/itu-r-f-1330-0.yaml
-- :id: ITU-R F.1331-0
-  :file: data/itu-r-f-1331-0.yaml
-- :id: ITU-R F.1333-0
-  :file: data/itu-r-f-1333-0.yaml
-- :id: ITU-R F.1337
-  :file: data/itu-r-f-1337.yaml
-- :id: ITU-R F.635-4
-  :file: data/itu-r-f-635-4.yaml
-- :id: ITU-R F.386-5
-  :file: data/itu-r-f-386-5.yaml
-- :id: ITU-R F.750-3
-  :file: data/itu-r-f-750-3.yaml
-- :id: ITU-R F.751-2
-  :file: data/itu-r-f-751-2.yaml
-- :id: ITU-R F.757-1
-  :file: data/itu-r-f-757-1.yaml
-- :id: ITU-R F.1099-2
-  :file: data/itu-r-f-1099-2.yaml
-- :id: ITU-R F.1093-1
-  :file: data/itu-r-f-1093-1.yaml
-- :id: ITU-R F.1092-1
-  :file: data/itu-r-f-1092-1.yaml
-- :id: ITU-R F.557-4
-  :file: data/itu-r-f-557-4.yaml
-- :id: ITU-R F.758-1
-  :file: data/itu-r-f-758-1.yaml
-- :id: ITU-R SM.2015-0
-  :file: data/itu-r-sm-2015-0.yaml
-- :id: ITU-R BT.2017-0
-  :file: data/itu-r-bt-2017-0.yaml
-- :id: ITU-R BT.2018-0
-  :file: data/itu-r-bt-2018-0.yaml
-- :id: ITU-R BO.2008-1
-  :file: data/itu-r-bo-2008-1.yaml
-- :id: ITU-R BO.2007-1
-  :file: data/itu-r-bo-2007-1.yaml
-- :id: ITU-R BO.1227-2
-  :file: data/itu-r-bo-1227-2.yaml
-- :id: ITU-R M.1084-2
-  :file: data/itu-r-m-1084-2.yaml
-- :id: ITU-R S.1328-0
-  :file: data/itu-r-s-1328-0.yaml
-- :id: ITU-R S.1326-0
-  :file: data/itu-r-s-1326-0.yaml
-- :id: ITU-R S.1324-0
-  :file: data/itu-r-s-1324-0.yaml
-- :id: ITU-R S.521-3
-  :file: data/itu-r-s-521-3.yaml
-- :id: ITU-R SM.329-7
-  :file: data/itu-r-sm-329-7.yaml
-- :id: ITU-R P.530-7
-  :file: data/itu-r-p-530-7.yaml
-- :id: ITU-R P.526-5
-  :file: data/itu-r-p-526-5.yaml
-- :id: ITU-R P.452-8
-  :file: data/itu-r-p-452-8.yaml
-- :id: ITU-R P.620-3
-  :file: data/itu-r-p-620-3.yaml
-- :id: ITU-R P.676-3
-  :file: data/itu-r-p-676-3.yaml
-- :id: ITU-R P.839-1
-  :file: data/itu-r-p-839-1.yaml
-- :id: ITU-R P.835-2
-  :file: data/itu-r-p-835-2.yaml
-- :id: ITU-R P.840-2
-  :file: data/itu-r-p-840-2.yaml
-- :id: ITU-R P.680-2
-  :file: data/itu-r-p-680-2.yaml
-- :id: ITU-R P.834-2
-  :file: data/itu-r-p-834-2.yaml
-- :id: ITU-R P.681-3
-  :file: data/itu-r-p-681-3.yaml
-- :id: ITU-R S.1327-0
-  :file: data/itu-r-s-1327-0.yaml
-- :id: ITU-R P.1322-0
-  :file: data/itu-r-p-1322-0.yaml
-- :id: ITU-R P.845-3
-  :file: data/itu-r-p-845-3.yaml
-- :id: ITU-R P.843-1
-  :file: data/itu-r-p-843-1.yaml
-- :id: ITU-R P.836-1
-  :file: data/itu-r-p-836-1.yaml
-- :id: ITU-R SA.1163-1
-  :file: data/itu-r-sa-1163-1.yaml
-- :id: ITU-R SA.1164-1
-  :file: data/itu-r-sa-1164-1.yaml
-- :id: ITU-R SA.1160-1
-  :file: data/itu-r-sa-1160-1.yaml
-- :id: ITU-R SA.1159-1
-  :file: data/itu-r-sa-1159-1.yaml
-- :id: ITU-R SA.1166-1
-  :file: data/itu-r-sa-1166-1.yaml
-- :id: ITU-R SA.1027-2
-  :file: data/itu-r-sa-1027-2.yaml
-- :id: ITU-R SA.1026-2
-  :file: data/itu-r-sa-1026-2.yaml
-- :id: ITU-R SA.1025-2
-  :file: data/itu-r-sa-1025-2.yaml
-- :id: ITU-R SA.1158-1
-  :file: data/itu-r-sa-1158-1.yaml
-- :id: ITU-R SM.1265-0
-  :file: data/itu-r-sm-1265-0.yaml
-- :id: ITU-R SM.1267-0
-  :file: data/itu-r-sm-1267-0.yaml
-- :id: ITU-R SM.1269-0
-  :file: data/itu-r-sm-1269-0.yaml
-- :id: ITU-R SA.1261-0
-  :file: data/itu-r-sa-1261-0.yaml
-- :id: ITU-R SA.1259-0
-  :file: data/itu-r-sa-1259-0.yaml
-- :id: ITU-R SA.1260-0
-  :file: data/itu-r-sa-1260-0.yaml
-- :id: ITU-R SA.1258-0
-  :file: data/itu-r-sa-1258-0.yaml
-- :id: ITU-R SA.1263-0
-  :file: data/itu-r-sa-1263-0.yaml
-- :id: ITU-R SA.1262-0
-  :file: data/itu-r-sa-1262-0.yaml
-- :id: ITU-R SA.1264-0
-  :file: data/itu-r-sa-1264-0.yaml
-- :id: ITU-R S.1251
-  :file: data/itu-r-s-1251.yaml
-- :id: ITU-R S.1254-0
-  :file: data/itu-r-s-1254-0.yaml
-- :id: ITU-R S.1255-0
-  :file: data/itu-r-s-1255-0.yaml
-- :id: ITU-R S.1253-0
-  :file: data/itu-r-s-1253-0.yaml
-- :id: ITU-R F.1245-0
-  :file: data/itu-r-f-1245-0.yaml
-- :id: ITU-R F.1243-0
-  :file: data/itu-r-f-1243-0.yaml
-- :id: ITU-R F.1241-0
-  :file: data/itu-r-f-1241-0.yaml
-- :id: ITU-R F.1242-0
-  :file: data/itu-r-f-1242-0.yaml
-- :id: ITU-R P.1238-0
-  :file: data/itu-r-p-1238-0.yaml
-- :id: ITU-R M.819-2
-  :file: data/itu-r-m-819-2.yaml
-- :id: ITU-R M.632-3
-  :file: data/itu-r-m-632-3.yaml
-- :id: ITU-R P.453-6
-  :file: data/itu-r-p-453-6.yaml
-- :id: ITU-R P.531-4
-  :file: data/itu-r-p-531-4.yaml
-- :id: ITU-R P.1058-1
-  :file: data/itu-r-p-1058-1.yaml
-- :id: ITU-R P.618-5
-  :file: data/itu-r-p-618-5.yaml
-- :id: ITU-R M.1232-0
-  :file: data/itu-r-m-1232-0.yaml
-- :id: ITU-R M.1233-0
-  :file: data/itu-r-m-1233-0.yaml
-- :id: ITU-R M.1234-0
-  :file: data/itu-r-m-1234-0.yaml
-- :id: ITU-R M.493-8
-  :file: data/itu-r-m-493-8.yaml
-- :id: ITU-R M.541-7
-  :file: data/itu-r-m-541-7.yaml
-- :id: ITU-R P.311-8
-  :file: data/itu-r-p-311-8.yaml
-- :id: ITU-R F.746-3
-  :file: data/itu-r-f-746-3.yaml
-- :id: ITU-R F.699-4
-  :file: data/itu-r-f-699-4.yaml
-- :id: ITU-R M.1221-0
-  :file: data/itu-r-m-1221-0.yaml
-- :id: ITU-R M.1225-0
-  :file: data/itu-r-m-1225-0.yaml
-- :id: ITU-R M.1223-0
-  :file: data/itu-r-m-1223-0.yaml
-- :id: ITU-R M.1224-0
-  :file: data/itu-r-m-1224-0.yaml
-- :id: ITU-R M.1229-0
-  :file: data/itu-r-m-1229-0.yaml
-- :id: ITU-R M.1230-0
-  :file: data/itu-r-m-1230-0.yaml
-- :id: ITU-R M.1231-0
-  :file: data/itu-r-m-1231-0.yaml
-- :id: ITU-R M.1222-0
-  :file: data/itu-r-m-1222-0.yaml
-- :id: ITU-R M.1226-0
-  :file: data/itu-r-m-1226-0.yaml
-- :id: ITU-R M.1227-0
-  :file: data/itu-r-m-1227-0.yaml
-- :id: ITU-R M.1228-0
-  :file: data/itu-r-m-1228-0.yaml
-- :id: ITU-R M.1085-1
-  :file: data/itu-r-m-1085-1.yaml
-- :id: ITU-R M.1034-1
-  :file: data/itu-r-m-1034-1.yaml
-- :id: ITU-R M.1039-1
-  :file: data/itu-r-m-1039-1.yaml
-- :id: ITU-R TF.768-3
-  :file: data/itu-r-tf-768-3.yaml
-- :id: ITU-R TF.583-4
-  :file: data/itu-r-tf-583-4.yaml
-- :id: ITU-R TF.1153-1
-  :file: data/itu-r-tf-1153-1.yaml
-- :id: ITU-R SA.1162-1
-  :file: data/itu-r-sa-1162-1.yaml
-- :id: ITU-R SA.1165-1
-  :file: data/itu-r-sa-1165-1.yaml
-- :id: ITU-R SA.1028-1
-  :file: data/itu-r-sa-1028-1.yaml
-- :id: ITU-R SA.1024-1
-  :file: data/itu-r-sa-1024-1.yaml
-- :id: ITU-R SA.1029-1
-  :file: data/itu-r-sa-1029-1.yaml
-- :id: ITU-R SA.515-3
-  :file: data/itu-r-sa-515-3.yaml
-- :id: ITU-R SA.577-5
-  :file: data/itu-r-sa-577-5.yaml
-- :id: ITU-R SF.357-4
-  :file: data/itu-r-sf-357-4.yaml
-- :id: ITU-R SF.615-1
-  :file: data/itu-r-sf-615-1.yaml
-- :id: ITU-R P.1148-1
-  :file: data/itu-r-p-1148-1.yaml
-- :id: ITU-R F.555-1
-  :file: data/itu-r-f-555-1.yaml
-- :id: ITU-R RA.1237-0
-  :file: data/itu-r-ra-1237-0.yaml
-- :id: ITU-R SA.1236-0
-  :file: data/itu-r-sa-1236-0.yaml
-- :id: ITU-R BR
-  :file: data/itu-r-br.yaml
-- :id: ITU-R BS
-  :file: data/itu-r-bs.yaml
-- :id: ITU-R IS
-  :file: data/itu-r-is.yaml
-- :id: ITU-R RA
-  :file: data/itu-r-ra.yaml
-- :id: ITU-R SA
-  :file: data/itu-r-sa.yaml
-- :id: ITU-R SF
-  :file: data/itu-r-sf.yaml
-- :id: ITU-R SNG
-  :file: data/itu-r-sng.yaml
-- :id: ITU-R TF
-  :file: data/itu-r-tf.yaml
-- :id: ITU-R V
-  :file: data/itu-r-v.yaml
-- :id: ITU-R P.2011-0
-  :file: data/itu-r-p-2011-0.yaml
-- :id: ITU-R R.40
-  :file: data/itu-r-r-40.yaml
-- :id: ITU-R R.5-2
-  :file: data/itu-r-r-5-2.yaml
-- :id: ITU-R R.11-2
-  :file: data/itu-r-r-11-2.yaml
-- :id: ITU-R R.10-1
-  :file: data/itu-r-r-10-1.yaml
-- :id: ITU-R R.1-2
-  :file: data/itu-r-r-1-2.yaml
-- :id: ITU-R R.2-2
-  :file: data/itu-r-r-2-2.yaml
-- :id: ITU-R R.15-2
-  :file: data/itu-r-r-15-2.yaml
-- :id: ITU-R R.17-1
-  :file: data/itu-r-r-17-1.yaml
-- :id: ITU-R R.21-1
-  :file: data/itu-r-r-21-1.yaml
-- :id: ITU-R R.22-1
-  :file: data/itu-r-r-22-1.yaml
-- :id: ITU-R R.38-1
-  :file: data/itu-r-r-38-1.yaml
-- :id: ITU-R R.39
-  :file: data/itu-r-r-39.yaml
-- :id: ITU-R R.4-2
-  :file: data/itu-r-r-4-2.yaml
-- :id: ITU-R R.41-1
-  :file: data/itu-r-r-41-1.yaml
-- :id: ITU-R R.42
-  :file: data/itu-r-r-42.yaml
-- :id: ITU-R BO.2016-0
-  :file: data/itu-r-bo-2016-0.yaml
-- :id: ITU-R M.825-1
-  :file: data/itu-r-m-825-1.yaml
-- :id: ITU-R BR.1218-0
-  :file: data/itu-r-br-1218-0.yaml
-- :id: ITU-R BR.1219-0
-  :file: data/itu-r-br-1219-0.yaml
-- :id: ITU-R BR.1220-0
-  :file: data/itu-r-br-1220-0.yaml
-- :id: ITU-R BR.1214-0
-  :file: data/itu-r-br-1214-0.yaml
-- :id: ITU-R BR.1215-0
-  :file: data/itu-r-br-1215-0.yaml
-- :id: ITU-R BR.1216-0
-  :file: data/itu-r-br-1216-0.yaml
-- :id: ITU-R BT.656-3
-  :file: data/itu-r-bt-656-3.yaml
-- :id: ITU-R SM.1138-0
-  :file: data/itu-r-sm-1138-0.yaml
-- :id: ITU-R M.823-1
-  :file: data/itu-r-m-823-1.yaml
-- :id: ITU-R M.824-2
-  :file: data/itu-r-m-824-2.yaml
-- :id: ITU-R M.690-1
-  :file: data/itu-r-m-690-1.yaml
-- :id: ITU-R BO.1130-1
-  :file: data/itu-r-bo-1130-1.yaml
-- :id: ITU-R BS.707-2
-  :file: data/itu-r-bs-707-2.yaml
-- :id: ITU-R BS.774-2
-  :file: data/itu-r-bs-774-2.yaml
-- :id: ITU-R BT.601-5
-  :file: data/itu-r-bt-601-5.yaml
-- :id: ITU-R BT.1200-0
-  :file: data/itu-r-bt-1200-0.yaml
-- :id: ITU-R BT.655-4
-  :file: data/itu-r-bt-655-4.yaml
-- :id: ITU-R BT.709-2
-  :file: data/itu-r-bt-709-2.yaml
-- :id: ITU-R BT.500-7
-  :file: data/itu-r-bt-500-7.yaml
-- :id: ITU-R BT.1197-0
-  :file: data/itu-r-bt-1197-0.yaml
-- :id: ITU-R BT.1117-1
-  :file: data/itu-r-bt-1117-1.yaml
-- :id: ITU-R BT.1124-1
-  :file: data/itu-r-bt-1124-1.yaml
-- :id: ITU-R BT.1119-1
-  :file: data/itu-r-bt-1119-1.yaml
-- :id: ITU-R BT.1128-1
-  :file: data/itu-r-bt-1128-1.yaml
-- :id: ITU-R BT.1129-1
-  :file: data/itu-r-bt-1129-1.yaml
-- :id: ITU-R BO.1213-0
-  :file: data/itu-r-bo-1213-0.yaml
-- :id: ITU-R BT.470-4
-  :file: data/itu-r-bt-470-4.yaml
-- :id: ITU-R S.736-2
-  :file: data/itu-r-s-736-2.yaml
-- :id: ITU-R S.672-3
-  :file: data/itu-r-s-672-3.yaml
-- :id: ITU-R S.1062-1
-  :file: data/itu-r-s-1062-1.yaml
-- :id: ITU-R S.1149-0
-  :file: data/itu-r-s-1149-0.yaml
-- :id: ITU-R P.530-6
-  :file: data/itu-r-p-530-6.yaml
-- :id: ITU-R P.453-5
-  :file: data/itu-r-p-453-5.yaml
-- :id: ITU-R P.533-5
-  :file: data/itu-r-p-533-5.yaml
-- :id: ITU-R P.529-2
-  :file: data/itu-r-p-529-2.yaml
-- :id: ITU-R P.618-4
-  :file: data/itu-r-p-618-4.yaml
-- :id: ITU-R P.526-4
-  :file: data/itu-r-p-526-4.yaml
-- :id: ITU-R P.452-7
-  :file: data/itu-r-p-452-7.yaml
-- :id: ITU-R P.1146-0
-  :file: data/itu-r-p-1146-0.yaml
-- :id: ITU-R P.1147-0
-  :file: data/itu-r-p-1147-0.yaml
-- :id: ITU-R P.371-7
-  :file: data/itu-r-p-371-7.yaml
-- :id: ITU-R P.373-7
-  :file: data/itu-r-p-373-7.yaml
-- :id: ITU-R BT.1209-0
-  :file: data/itu-r-bt-1209-0.yaml
-- :id: ITU-R BT.1210-0
-  :file: data/itu-r-bt-1210-0.yaml
-- :id: ITU-R BT.1207-0
-  :file: data/itu-r-bt-1207-0.yaml
-- :id: ITU-R BT.1208-0
-  :file: data/itu-r-bt-1208-0.yaml
-- :id: ITU-R BT.1206-0
-  :file: data/itu-r-bt-1206-0.yaml
-- :id: ITU-R SM.378-6
-  :file: data/itu-r-sm-378-6.yaml
-- :id: ITU-R P.1144-0
-  :file: data/itu-r-p-1144-0.yaml
-- :id: ITU-R SM.443-2
-  :file: data/itu-r-sm-443-2.yaml
-- :id: ITU-R P.1145-0
-  :file: data/itu-r-p-1145-0.yaml
-- :id: ITU-R IS.1141
-  :file: data/itu-r-is-1141.yaml
-- :id: ITU-R IS.1142
-  :file: data/itu-r-is-1142.yaml
-- :id: ITU-R IS.1143
-  :file: data/itu-r-is-1143.yaml
-- :id: ITU-R RA.769-1
-  :file: data/itu-r-ra-769-1.yaml
-- :id: ITU-R RA.1031-1
-  :file: data/itu-r-ra-1031-1.yaml
-- :id: ITU-R IS.850-1
-  :file: data/itu-r-is-850-1.yaml
-- :id: ITU-R SNG.1152
-  :file: data/itu-r-sng-1152.yaml
-- :id: ITU-R SM.1132-0
-  :file: data/itu-r-sm-1132-0.yaml
-- :id: ITU-R SM.1134-0
-  :file: data/itu-r-sm-1134-0.yaml
-- :id: ITU-R SM.1051-1
-  :file: data/itu-r-sm-1051-1.yaml
-- :id: ITU-R SF.358-5
-  :file: data/itu-r-sf-358-5.yaml
-- :id: ITU-R BS.1194-0
-  :file: data/itu-r-bs-1194-0.yaml
-- :id: ITU-R BR.777-2
-  :file: data/itu-r-br-777-2.yaml
-- :id: ITU-R BS.1114-1
-  :file: data/itu-r-bs-1114-1.yaml
-- :id: ITU-R BT.799-2
-  :file: data/itu-r-bt-799-2.yaml
-- :id: ITU-R P.676-2
-  :file: data/itu-r-p-676-2.yaml
-- :id: ITU-R BS.450-2
-  :file: data/itu-r-bs-450-2.yaml
-- :id: ITU-R BS.412-7
-  :file: data/itu-r-bs-412-7.yaml
-- :id: ITU-R F.1112-1
-  :file: data/itu-r-f-1112-1.yaml
-- :id: ITU-R F.1108-1
-  :file: data/itu-r-f-1108-1.yaml
-- :id: ITU-R F.1192
-  :file: data/itu-r-f-1192.yaml
-- :id: ITU-R F.1191-0
-  :file: data/itu-r-f-1191-0.yaml
-- :id: ITU-R F.1189-0
-  :file: data/itu-r-f-1189-0.yaml
-- :id: ITU-R F.1110-1
-  :file: data/itu-r-f-1110-1.yaml
-- :id: ITU-R F.1190
-  :file: data/itu-r-f-1190.yaml
-- :id: ITU-R SA.1162-0
-  :file: data/itu-r-sa-1162-0.yaml
-- :id: ITU-R SA.1165-0
-  :file: data/itu-r-sa-1165-0.yaml
-- :id: ITU-R SA.1164-0
-  :file: data/itu-r-sa-1164-0.yaml
-- :id: ITU-R SA.1160-0
-  :file: data/itu-r-sa-1160-0.yaml
-- :id: ITU-R SA.1161-0
-  :file: data/itu-r-sa-1161-0.yaml
-- :id: ITU-R SA.1159-0
-  :file: data/itu-r-sa-1159-0.yaml
-- :id: ITU-R M.493-7
-  :file: data/itu-r-m-493-7.yaml
-- :id: ITU-R M.541-6
-  :file: data/itu-r-m-541-6.yaml
-- :id: ITU-R M.492-6
-  :file: data/itu-r-m-492-6.yaml
-- :id: ITU-R M.478-5
-  :file: data/itu-r-m-478-5.yaml
-- :id: ITU-R M.489-2
-  :file: data/itu-r-m-489-2.yaml
-- :id: ITU-R P.341-4
-  :file: data/itu-r-p-341-4.yaml
-- :id: ITU-R P.845-2
-  :file: data/itu-r-p-845-2.yaml
-- :id: ITU-R P.846-1
-  :file: data/itu-r-p-846-1.yaml
-- :id: ITU-R P.313-8
-  :file: data/itu-r-p-313-8.yaml
-- :id: ITU-R P.1148-0
-  :file: data/itu-r-p-1148-0.yaml
-- :id: ITU-R P.620-2
-  :file: data/itu-r-p-620-2.yaml
-- :id: ITU-R F.746-2
-  :file: data/itu-r-f-746-2.yaml
-- :id: ITU-R F.635-3
-  :file: data/itu-r-f-635-3.yaml
-- :id: ITU-R F.699-3
-  :file: data/itu-r-f-699-3.yaml
-- :id: ITU-R M.1186-0
-  :file: data/itu-r-m-1186-0.yaml
-- :id: ITU-R M.1187-0
-  :file: data/itu-r-m-1187-0.yaml
-- :id: ITU-R M.1188-0
-  :file: data/itu-r-m-1188-0.yaml
-- :id: ITU-R M.1178-0
-  :file: data/itu-r-m-1178-0.yaml
-- :id: ITU-R M.1182-0
-  :file: data/itu-r-m-1182-0.yaml
-- :id: ITU-R M.1181
-  :file: data/itu-r-m-1181.yaml
-- :id: ITU-R M.1176-0
-  :file: data/itu-r-m-1176-0.yaml
-- :id: ITU-R M.1177-0
-  :file: data/itu-r-m-1177-0.yaml
-- :id: ITU-R M.1183
-  :file: data/itu-r-m-1183.yaml
-- :id: ITU-R M.1184-0
-  :file: data/itu-r-m-1184-0.yaml
-- :id: ITU-R M.1185-0
-  :file: data/itu-r-m-1185-0.yaml
-- :id: ITU-R SA.1027-1
-  :file: data/itu-r-sa-1027-1.yaml
-- :id: ITU-R SA.1026-1
-  :file: data/itu-r-sa-1026-1.yaml
-- :id: ITU-R SA.1025-1
-  :file: data/itu-r-sa-1025-1.yaml
-- :id: ITU-R F.384-6
-  :file: data/itu-r-f-384-6.yaml
-- :id: ITU-R F.387-7
-  :file: data/itu-r-f-387-7.yaml
-- :id: ITU-R M.1168
-  :file: data/itu-r-m-1168.yaml
-- :id: ITU-R F.763-2
-  :file: data/itu-r-f-763-2.yaml
-- :id: ITU-R F.748-2
-  :file: data/itu-r-f-748-2.yaml
-- :id: ITU-R F.750-2
-  :file: data/itu-r-f-750-2.yaml
-- :id: ITU-R P.681-2
-  :file: data/itu-r-p-681-2.yaml
-- :id: ITU-R M.476-5
-  :file: data/itu-r-m-476-5.yaml
-- :id: ITU-R SA.1158-0
-  :file: data/itu-r-sa-1158-0.yaml
-- :id: ITU-R SA.1166-0
-  :file: data/itu-r-sa-1166-0.yaml
-- :id: ITU-R SA.1163-0
-  :file: data/itu-r-sa-1163-0.yaml
-- :id: ITU-R M.1172-0
-  :file: data/itu-r-m-1172-0.yaml
-- :id: ITU-R M.1170-0
-  :file: data/itu-r-m-1170-0.yaml
-- :id: ITU-R M.1084-1
-  :file: data/itu-r-m-1084-1.yaml
-- :id: ITU-R M.1173-0
-  :file: data/itu-r-m-1173-0.yaml
-- :id: ITU-R M.1174-0
-  :file: data/itu-r-m-1174-0.yaml
-- :id: ITU-R M.1175
-  :file: data/itu-r-m-1175.yaml
-- :id: ITU-R F.1099-1
-  :file: data/itu-r-f-1099-1.yaml
-- :id: ITU-R F.1094-1
-  :file: data/itu-r-f-1094-1.yaml
-- :id: ITU-R SA.577-4
-  :file: data/itu-r-sa-577-4.yaml
-- :id: ITU-R F.436-4
-  :file: data/itu-r-f-436-4.yaml
-- :id: ITU-R F.595-4
-  :file: data/itu-r-f-595-4.yaml
-- :id: ITU-R F.497-5
-  :file: data/itu-r-f-497-5.yaml
-- :id: ITU-R M.627-1
-  :file: data/itu-r-m-627-1.yaml
-- :id: ITU-R 28.HDB
-  :file: data/itu-r-28-hdb.yaml
-- :id: ITU-R 29.HDB
-  :file: data/itu-r-29-hdb.yaml
-- :id: ITU-R M.818-1
-  :file: data/itu-r-m-818-1.yaml
-- :id: ITU-R M.819-1
-  :file: data/itu-r-m-819-1.yaml
-- :id: ITU-R M.820-0
-  :file: data/itu-r-m-820-0.yaml
-- :id: ITU-R M.821-0
-  :file: data/itu-r-m-821-0.yaml
-- :id: ITU-R M.830-0
-  :file: data/itu-r-m-830-0.yaml
-- :id: ITU-R M.831-0
-  :file: data/itu-r-m-831-0.yaml
-- :id: ITU-R P.1059
-  :file: data/itu-r-p-1059.yaml
-- :id: ITU-R M.633-1
-  :file: data/itu-r-m-633-1.yaml
-- :id: ITU-R M.688-0
-  :file: data/itu-r-m-688-0.yaml
-- :id: ITU-R M.689-2
-  :file: data/itu-r-m-689-2.yaml
-- :id: ITU-R M.825-0
-  :file: data/itu-r-m-825-0.yaml
-- :id: ITU-R M.828-1
-  :file: data/itu-r-m-828-1.yaml
-- :id: ITU-R V.664-0
-  :file: data/itu-r-v-664-0.yaml
-- :id: ITU-R V.665-1
-  :file: data/itu-r-v-665-1.yaml
-- :id: ITU-R BT.656-2
-  :file: data/itu-r-bt-656-2.yaml
-- :id: ITU-R BT.653-2
-  :file: data/itu-r-bt-653-2.yaml
-- :id: ITU-R SM.239-2
-  :file: data/itu-r-sm-239-2.yaml
-- :id: ITU-R SM.328-8
-  :file: data/itu-r-sm-328-8.yaml
-- :id: ITU-R SM.182-4
-  :file: data/itu-r-sm-182-4.yaml
-- :id: ITU-R SM.326-6
-  :file: data/itu-r-sm-326-6.yaml
-- :id: ITU-R M.822-1
-  :file: data/itu-r-m-822-1.yaml
-- :id: ITU-R M.823-0
-  :file: data/itu-r-m-823-0.yaml
-- :id: ITU-R M.694-0
-  :file: data/itu-r-m-694-0.yaml
-- :id: ITU-R M.816-0
-  :file: data/itu-r-m-816-0.yaml
-- :id: ITU-R M.817-0
-  :file: data/itu-r-m-817-0.yaml
-- :id: ITU-R M.826-0
-  :file: data/itu-r-m-826-0.yaml
-- :id: ITU-R M.631-1
-  :file: data/itu-r-m-631-1.yaml
-- :id: ITU-R M.632-2
-  :file: data/itu-r-m-632-2.yaml
-- :id: ITU-R M.587-1
-  :file: data/itu-r-m-587-1.yaml
-- :id: ITU-R M.690-0
-  :file: data/itu-r-m-690-0.yaml
-- :id: ITU-R M.692-0
-  :file: data/itu-r-m-692-0.yaml
-- :id: ITU-R M.691-1
-  :file: data/itu-r-m-691-1.yaml
-- :id: ITU-R M.588-0
-  :file: data/itu-r-m-588-0.yaml
-- :id: ITU-R M.589-2
-  :file: data/itu-r-m-589-2.yaml
-- :id: ITU-R M.622-0
-  :file: data/itu-r-m-622-0.yaml
-- :id: ITU-R M.623-0
-  :file: data/itu-r-m-623-0.yaml
-- :id: ITU-R M.547-0
-  :file: data/itu-r-m-547-0.yaml
-- :id: ITU-R M.548-0
-  :file: data/itu-r-m-548-0.yaml
-- :id: ITU-R M.550-1
-  :file: data/itu-r-m-550-1.yaml
-- :id: ITU-R M.824-1
-  :file: data/itu-r-m-824-1.yaml
-- :id: ITU-R M.629-0
-  :file: data/itu-r-m-629-0.yaml
-- :id: ITU-R M.630-0
-  :file: data/itu-r-m-630-0.yaml
-- :id: ITU-R BS.706-1
-  :file: data/itu-r-bs-706-1.yaml
-- :id: ITU-R BS.707-1
-  :file: data/itu-r-bs-707-1.yaml
-- :id: ITU-R BO.1130-0
-  :file: data/itu-r-bo-1130-0.yaml
-- :id: ITU-R BS.774-1
-  :file: data/itu-r-bs-774-1.yaml
-- :id: ITU-R BT.601-4
-  :file: data/itu-r-bt-601-4.yaml
-- :id: ITU-R BT.655-3
-  :file: data/itu-r-bt-655-3.yaml
-- :id: ITU-R BT.709-1
-  :file: data/itu-r-bt-709-1.yaml
-- :id: ITU-R BT.500-6
-  :file: data/itu-r-bt-500-6.yaml
-- :id: ITU-R BT.1121-0
-  :file: data/itu-r-bt-1121-0.yaml
-- :id: ITU-R BT.1117-0
-  :file: data/itu-r-bt-1117-0.yaml
-- :id: ITU-R BT.1118-0
-  :file: data/itu-r-bt-1118-0.yaml
-- :id: ITU-R BT.1125-0
-  :file: data/itu-r-bt-1125-0.yaml
-- :id: ITU-R BT.1122-0
-  :file: data/itu-r-bt-1122-0.yaml
-- :id: ITU-R BT.1124-0
-  :file: data/itu-r-bt-1124-0.yaml
-- :id: ITU-R BT.1119-0
-  :file: data/itu-r-bt-1119-0.yaml
-- :id: ITU-R BT.1120-0
-  :file: data/itu-r-bt-1120-0.yaml
-- :id: ITU-R BT.1128-0
-  :file: data/itu-r-bt-1128-0.yaml
-- :id: ITU-R BT.1129-0
-  :file: data/itu-r-bt-1129-0.yaml
-- :id: ITU-R BT.470-3
-  :file: data/itu-r-bt-470-3.yaml
-- :id: ITU-R BO.789-1
-  :file: data/itu-r-bo-789-1.yaml
-- :id: ITU-R TF.583-2
-  :file: data/itu-r-tf-583-2.yaml
-- :id: ITU-R TF.686-0
-  :file: data/itu-r-tf-686-0.yaml
-- :id: ITU-R TF.767-0
-  :file: data/itu-r-tf-767-0.yaml
-- :id: ITU-R TF.374-3
-  :file: data/itu-r-tf-374-3.yaml
-- :id: ITU-R TF.486-1
-  :file: data/itu-r-tf-486-1.yaml
-- :id: ITU-R TF.535-1
-  :file: data/itu-r-tf-535-1.yaml
-- :id: ITU-R TF.536-0
-  :file: data/itu-r-tf-536-0.yaml
-- :id: ITU-R TF.538-3
-  :file: data/itu-r-tf-538-3.yaml
-- :id: ITU-R TF.457-1
-  :file: data/itu-r-tf-457-1.yaml
-- :id: ITU-R TF.458-2
-  :file: data/itu-r-tf-458-2.yaml
-- :id: ITU-R TF.460-4
-  :file: data/itu-r-tf-460-4.yaml
-- :id: ITU-R TF.582-1
-  :file: data/itu-r-tf-582-1.yaml
-- :id: ITU-R S.483-2
-  :file: data/itu-r-s-483-2.yaml
-- :id: ITU-R S.671-3
-  :file: data/itu-r-s-671-3.yaml
-- :id: ITU-R S.673-0
-  :file: data/itu-r-s-673-0.yaml
-- :id: ITU-R S.579-3
-  :file: data/itu-r-s-579-3.yaml
-- :id: ITU-R S.522-5
-  :file: data/itu-r-s-522-5.yaml
-- :id: ITU-R S.524-5
-  :file: data/itu-r-s-524-5.yaml
-- :id: ITU-R S.741-2
-  :file: data/itu-r-s-741-2.yaml
-- :id: ITU-R S.672-2
-  :file: data/itu-r-s-672-2.yaml
-- :id: ITU-R S.580-5
-  :file: data/itu-r-s-580-5.yaml
-- :id: ITU-R S.353-8
-  :file: data/itu-r-s-353-8.yaml
-- :id: ITU-R S.1003-0
-  :file: data/itu-r-s-1003-0.yaml
-- :id: ITU-R S.1062-0
-  :file: data/itu-r-s-1062-0.yaml
-- :id: ITU-R S.1064-0
-  :file: data/itu-r-s-1064-0.yaml
-- :id: ITU-R P.530-5
-  :file: data/itu-r-p-530-5.yaml
-- :id: ITU-R P.531-3
-  :file: data/itu-r-p-531-3.yaml
-- :id: ITU-R P.533-4
-  :file: data/itu-r-p-533-4.yaml
-- :id: ITU-R P.534-3
-  :file: data/itu-r-p-534-3.yaml
-- :id: ITU-R P.529-1
-  :file: data/itu-r-p-529-1.yaml
-- :id: ITU-R P.618-3
-  :file: data/itu-r-p-618-3.yaml
-- :id: ITU-R P.526-3
-  :file: data/itu-r-p-526-3.yaml
-- :id: ITU-R V.574-3
-  :file: data/itu-r-v-574-3.yaml
-- :id: ITU-R V.607-2
-  :file: data/itu-r-v-607-2.yaml
-- :id: ITU-R V.662-2
-  :file: data/itu-r-v-662-2.yaml
-- :id: ITU-R V.573-3
-  :file: data/itu-r-v-573-3.yaml
-- :id: ITU-R V.431-6
-  :file: data/itu-r-v-431-6.yaml
-- :id: ITU-R P.452-6
-  :file: data/itu-r-p-452-6.yaml
-- :id: ITU-R P.453-4
-  :file: data/itu-r-p-453-4.yaml
-- :id: ITU-R P.370-6
-  :file: data/itu-r-p-370-6.yaml
-- :id: ITU-R P.371-6
-  :file: data/itu-r-p-371-6.yaml
-- :id: ITU-R P.372-6
-  :file: data/itu-r-p-372-6.yaml
-- :id: ITU-R P.373-6
-  :file: data/itu-r-p-373-6.yaml
-- :id: ITU-R P.434-5
-  :file: data/itu-r-p-434-5.yaml
-- :id: ITU-R SM.669-1
-  :file: data/itu-r-sm-669-1.yaml
-- :id: ITU-R SM.337-3
-  :file: data/itu-r-sm-337-3.yaml
-- :id: ITU-R SM.378-5
-  :file: data/itu-r-sm-378-5.yaml
-- :id: ITU-R P.1057-0
-  :file: data/itu-r-p-1057-0.yaml
-- :id: ITU-R P.1058-0
-  :file: data/itu-r-p-1058-0.yaml
-- :id: ITU-R SM.853-0
-  :file: data/itu-r-sm-853-0.yaml
-- :id: ITU-R SM.854-0
-  :file: data/itu-r-sm-854-0.yaml
-- :id: ITU-R SM.855-0
-  :file: data/itu-r-sm-855-0.yaml
-- :id: ITU-R SM.433-5
-  :file: data/itu-r-sm-433-5.yaml
-- :id: ITU-R SM.443-1
-  :file: data/itu-r-sm-443-1.yaml
-- :id: ITU-R SM.667-0
-  :file: data/itu-r-sm-667-0.yaml
-- :id: ITU-R IS.847-1
-  :file: data/itu-r-is-847-1.yaml
-- :id: ITU-R TF.1010-0
-  :file: data/itu-r-tf-1010-0.yaml
-- :id: ITU-R RA.769-0
-  :file: data/itu-r-ra-769-0.yaml
-- :id: ITU-R RA.314-8
-  :file: data/itu-r-ra-314-8.yaml
-- :id: ITU-R RA.479-3
-  :file: data/itu-r-ra-479-3.yaml
-- :id: ITU-R TF.1011-0
-  :file: data/itu-r-tf-1011-0.yaml
-- :id: ITU-R IS.848-1
-  :file: data/itu-r-is-848-1.yaml
-- :id: ITU-R IS.849-1
-  :file: data/itu-r-is-849-1.yaml
-- :id: ITU-R IS.850
-  :file: data/itu-r-is-850.yaml
-- :id: ITU-R RA.1031-0
-  :file: data/itu-r-ra-1031-0.yaml
-- :id: ITU-R SNG.1007-0
-  :file: data/itu-r-sng-1007-0.yaml
-- :id: ITU-R SM.1045-0
-  :file: data/itu-r-sm-1045-0.yaml
-- :id: ITU-R SM.1046-0
-  :file: data/itu-r-sm-1046-0.yaml
-- :id: ITU-R SM.1047-0
-  :file: data/itu-r-sm-1047-0.yaml
-- :id: ITU-R SM.1049-0
-  :file: data/itu-r-sm-1049-0.yaml
-- :id: ITU-R SM.1050-0
-  :file: data/itu-r-sm-1050-0.yaml
-- :id: ITU-R SM.1051-0
-  :file: data/itu-r-sm-1051-0.yaml
-- :id: ITU-R SM.1052-0
-  :file: data/itu-r-sm-1052-0.yaml
-- :id: ITU-R SM.1053-0
-  :file: data/itu-r-sm-1053-0.yaml
-- :id: ITU-R SM.1056-0
-  :file: data/itu-r-sm-1056-0.yaml
-- :id: ITU-R SF.357-3
-  :file: data/itu-r-sf-357-3.yaml
-- :id: ITU-R SF.358-4
-  :file: data/itu-r-sf-358-4.yaml
-- :id: ITU-R SF.406-8
-  :file: data/itu-r-sf-406-8.yaml
-- :id: ITU-R SF.558-2
-  :file: data/itu-r-sf-558-2.yaml
-- :id: ITU-R SF.615-0
-  :file: data/itu-r-sf-615-0.yaml
-- :id: ITU-R SF.674-0
-  :file: data/itu-r-sf-674-0.yaml
-- :id: ITU-R BS.1116-0
-  :file: data/itu-r-bs-1116-0.yaml
-- :id: ITU-R BR.469-6
-  :file: data/itu-r-br-469-6.yaml
-- :id: ITU-R BR.602-3
-  :file: data/itu-r-br-602-3.yaml
-- :id: ITU-R BR.648-0
-  :file: data/itu-r-br-648-0.yaml
-- :id: ITU-R BR.265-7
-  :file: data/itu-r-br-265-7.yaml
-- :id: ITU-R BR.407-4
-  :file: data/itu-r-br-407-4.yaml
-- :id: ITU-R BR.408-6
-  :file: data/itu-r-br-408-6.yaml
-- :id: ITU-R BR.714-1
-  :file: data/itu-r-br-714-1.yaml
-- :id: ITU-R BR.715-0
-  :file: data/itu-r-br-715-0.yaml
-- :id: ITU-R BR.777-1
-  :file: data/itu-r-br-777-1.yaml
-- :id: ITU-R BR.778-1
-  :file: data/itu-r-br-778-1.yaml
-- :id: ITU-R BS.1114-0
-  :file: data/itu-r-bs-1114-0.yaml
-- :id: ITU-R BR.779-0
-  :file: data/itu-r-br-779-0.yaml
-- :id: ITU-R BR.713-0
-  :file: data/itu-r-br-713-0.yaml
-- :id: ITU-R BR.785-0
-  :file: data/itu-r-br-785-0.yaml
-- :id: ITU-R BT.811-1
-  :file: data/itu-r-bt-811-1.yaml
-- :id: ITU-R BT.814-1
-  :file: data/itu-r-bt-814-1.yaml
-- :id: ITU-R IS.1009
-  :file: data/itu-r-is-1009.yaml
-- :id: ITU-R BT.801-0
-  :file: data/itu-r-bt-801-0.yaml
-- :id: ITU-R BT.800-1
-  :file: data/itu-r-bt-800-1.yaml
-- :id: ITU-R BT.797-1
-  :file: data/itu-r-bt-797-1.yaml
-- :id: ITU-R BT.798-1
-  :file: data/itu-r-bt-798-1.yaml
-- :id: ITU-R BT.799-1
-  :file: data/itu-r-bt-799-1.yaml
-- :id: ITU-R BT.710-2
-  :file: data/itu-r-bt-710-2.yaml
-- :id: ITU-R SF.356-4
-  :file: data/itu-r-sf-356-4.yaml
-- :id: ITU-R S.732-0
-  :file: data/itu-r-s-732-0.yaml
-- :id: ITU-R S.733-1
-  :file: data/itu-r-s-733-1.yaml
-- :id: ITU-R SF.1005-0
-  :file: data/itu-r-sf-1005-0.yaml
-- :id: ITU-R SF.1008-0
-  :file: data/itu-r-sf-1008-0.yaml
-- :id: ITU-R S.736-1
-  :file: data/itu-r-s-736-1.yaml
-- :id: ITU-R SF.1004-0
-  :file: data/itu-r-sf-1004-0.yaml
-- :id: ITU-R S.728-0
-  :file: data/itu-r-s-728-0.yaml
-- :id: ITU-R P.676-1
-  :file: data/itu-r-p-676-1.yaml
-- :id: ITU-R BS.560-3
-  :file: data/itu-r-bs-560-3.yaml
-- :id: ITU-R BS.450-1
-  :file: data/itu-r-bs-450-1.yaml
-- :id: ITU-R BS.640-2
-  :file: data/itu-r-bs-640-2.yaml
-- :id: ITU-R BS.412-6
-  :file: data/itu-r-bs-412-6.yaml
-- :id: ITU-R BS.643-1
-  :file: data/itu-r-bs-643-1.yaml
-- :id: ITU-R F.1111-0
-  :file: data/itu-r-f-1111-0.yaml
-- :id: ITU-R F.1112-0
-  :file: data/itu-r-f-1112-0.yaml
-- :id: ITU-R F.1113-0
-  :file: data/itu-r-f-1113-0.yaml
-- :id: ITU-R F.1110-0
-  :file: data/itu-r-f-1110-0.yaml
-- :id: ITU-R F.1109-0
-  :file: data/itu-r-f-1109-0.yaml
-- :id: ITU-R F.1108-0
-  :file: data/itu-r-f-1108-0.yaml
-- :id: ITU-R P.839-0
-  :file: data/itu-r-p-839-0.yaml
-- :id: ITU-R M.493-6
-  :file: data/itu-r-m-493-6.yaml
-- :id: ITU-R M.542-1
-  :file: data/itu-r-m-542-1.yaml
-- :id: ITU-R M.546-2
-  :file: data/itu-r-m-546-2.yaml
-- :id: ITU-R M.496-3
-  :file: data/itu-r-m-496-3.yaml
-- :id: ITU-R M.539-3
-  :file: data/itu-r-m-539-3.yaml
-- :id: ITU-R M.541-5
-  :file: data/itu-r-m-541-5.yaml
-- :id: ITU-R M.540-2
-  :file: data/itu-r-m-540-2.yaml
-- :id: ITU-R M.218-2
-  :file: data/itu-r-m-218-2.yaml
-- :id: ITU-R M.488-1
-  :file: data/itu-r-m-488-1.yaml
-- :id: ITU-R M.489-1
-  :file: data/itu-r-m-489-1.yaml
-- :id: ITU-R M.219-1
-  :file: data/itu-r-m-219-1.yaml
-- :id: ITU-R M.478-4
-  :file: data/itu-r-m-478-4.yaml
-- :id: ITU-R M.490-0
-  :file: data/itu-r-m-490-0.yaml
-- :id: ITU-R M.491-1
-  :file: data/itu-r-m-491-1.yaml
-- :id: ITU-R M.492-5
-  :file: data/itu-r-m-492-5.yaml
-- :id: ITU-R SA.1014-0
-  :file: data/itu-r-sa-1014-0.yaml
-- :id: ITU-R SA.1015-0
-  :file: data/itu-r-sa-1015-0.yaml
-- :id: ITU-R P.846-0
-  :file: data/itu-r-p-846-0.yaml
-- :id: ITU-R P.311-7
-  :file: data/itu-r-p-311-7.yaml
-- :id: ITU-R P.341-3
-  :file: data/itu-r-p-341-3.yaml
-- :id: ITU-R P.842-1
-  :file: data/itu-r-p-842-1.yaml
-- :id: ITU-R P.845-1
-  :file: data/itu-r-p-845-1.yaml
-- :id: ITU-R P.620-1
-  :file: data/itu-r-p-620-1.yaml
-- :id: ITU-R P.840-1
-  :file: data/itu-r-p-840-1.yaml
-- :id: ITU-R F.700-2
-  :file: data/itu-r-f-700-2.yaml
-- :id: ITU-R F.697-1
-  :file: data/itu-r-f-697-1.yaml
-- :id: ITU-R F.635-2
-  :file: data/itu-r-f-635-2.yaml
-- :id: ITU-R F.613-0
-  :file: data/itu-r-f-613-0.yaml
-- :id: ITU-R F.637-2
-  :file: data/itu-r-f-637-2.yaml
-- :id: ITU-R F.634-3
-  :file: data/itu-r-f-634-3.yaml
-- :id: ITU-R F.596-1
-  :file: data/itu-r-f-596-1.yaml
-- :id: ITU-R F.612-0
-  :file: data/itu-r-f-612-0.yaml
-- :id: ITU-R F.699-2
-  :file: data/itu-r-f-699-2.yaml
-- :id: ITU-R F.745-0
-  :file: data/itu-r-f-745-0.yaml
-- :id: ITU-R F.746-1
-  :file: data/itu-r-f-746-1.yaml
-- :id: ITU-R F.696-1
-  :file: data/itu-r-f-696-1.yaml
-- :id: ITU-R F.701-1
-  :file: data/itu-r-f-701-1.yaml
-- :id: ITU-R P.313-7
-  :file: data/itu-r-p-313-7.yaml
-- :id: ITU-R SA.1027-0
-  :file: data/itu-r-sa-1027-0.yaml
-- :id: ITU-R SA.1016-0
-  :file: data/itu-r-sa-1016-0.yaml
-- :id: ITU-R SA.1019-0
-  :file: data/itu-r-sa-1019-0.yaml
-- :id: ITU-R SA.1018-0
-  :file: data/itu-r-sa-1018-0.yaml
-- :id: ITU-R SA.1020-0
-  :file: data/itu-r-sa-1020-0.yaml

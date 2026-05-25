@@ -1,19 +1,22 @@
 ---
-id: ITURP
+id: ITURBT24089
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Report P.2011-1 - Propagation at Frequencies above the Basic MUF
+  content: Guidelines for operational practices in high dynamic range television production
   type: main
+source:
+- type: pdf
+  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2408-9-2026-PDF-E.pdf
 docidentifier:
-- content: ITU-R P
+- content: ITU-R BT.2408-9
   type: ITU
   primary: true
 date:
 - type: published
-  at: 1999-01
+  at: 2026-05
 language:
 - en
 script:

@@ -1,23 +1,22 @@
 ---
-id: ITURM20130
+id: ITURSM17532
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical characteristics of, and protection criteria for non-ICAO aeronautical
-    radionavigation systems, operating around 1 GHz
+  content: Methods for measurements of radio noise
   type: main
 source:
 - type: pdf
-  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2013-0-201201-I!!PDF-E.pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1753-2-201209-I!!PDF-E.pdf
 docidentifier:
-- content: ITU-R M.2013-0
+- content: ITU-R SM.1753-2
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2012-02
+  at: 2023-06
 language:
 - en
 script:
