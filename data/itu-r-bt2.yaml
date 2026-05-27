@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Report BT.2020 - Objective quality assessment technology in a digital
-    environment
+  content: ITU-R Reports, 1995 - BT Series
   type: main
 docidentifier:
 - content: ITU-R BT2
@@ -14,7 +13,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1999-01
+  at: 1995-01
 language:
 - en
 script:
