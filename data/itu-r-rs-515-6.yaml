@@ -1,23 +1,22 @@
 ---
-id: ITURM10720
+id: ITURRS5156
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interference due to intermodulation products in the land mobile service
-    between 25 and 3 000 MHz
+  content: Frequency bands and bandwidths used for satellite passive remote sensing
   type: main
 source:
 - type: pdf
-  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1072-0-199409-I!!PDF-E.pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/rs/R-REC-RS.515-6-202606-I!!PDF-E.pdf
 docidentifier:
-- content: ITU-R M.1072-0
+- content: ITU-R RS.515-6
   type: ITU
   primary: true
 date:
 - type: published
-  at: 1995-05
+  at: 2026-06
 language:
 - en
 script:

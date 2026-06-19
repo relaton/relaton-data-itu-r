@@ -1,20 +1,22 @@
 ---
-id: ITURF7511
+id: ITURSM10550
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transmission characteristics and performance requirements of radio-relay
-    systems for SDH-based networks
+  content: The use of spread spectrum techniques
   type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1055-0-199407-I!!PDF-E.pdf
 docidentifier:
-- content: ITU-R F.751-1
+- content: ITU-R SM.1055-0
   type: ITU
   primary: true
 date:
 - type: published
-  at: 1995-05
+  at: 2023-06
 language:
 - en
 script:
