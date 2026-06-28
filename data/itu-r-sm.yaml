@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Recommendations, 1994 - SM Series
+  content: ITU-R Report SM.2012-1 - Economic Aspects of Spectrum Management
   type: main
 docidentifier:
 - content: ITU-R SM
@@ -13,7 +13,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1994-01
+  at: 2000-01
 language:
 - en
 script:
@@ -21,5 +21,5 @@ script:
 ext:
   schema_version: v1.1.3
   doctype:
-    content: recommendation
+    content: technical-report
   flavor: itu

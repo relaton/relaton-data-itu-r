@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Recommendations, 1994 - BT Series
+  content: ITU-R Report BT.2017 - Stereoscopic Television MPEG-2 multi-view Profile
+    Report ITU-R BT.2018 - Study of the System C Ghost Cancelling Reference Signal
+    for the Evaluation and Correction of Linear Distortion in the Television Chain
   type: main
 docidentifier:
 - content: ITU-R BT
@@ -13,7 +15,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1994-01
+  at: 1999-01
 language:
 - en
 script:
@@ -21,5 +23,5 @@ script:
 ext:
   schema_version: v1.1.3
   doctype:
-    content: recommendation
+    content: technical-report
   flavor: itu

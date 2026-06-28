@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Recommendations, 1994 - S Series
+  content: ITU-R Recommendations, Volume 2000 - S Series
   type: main
 docidentifier:
 - content: ITU-R S
@@ -13,7 +13,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1994-01
+  at: 2000-01
 language:
 - en
 script:
