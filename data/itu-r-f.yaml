@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-R Recommendations,  Volume 2000 - F Series
+  content: ITU-R Recommendations, 1994 - F Series
   type: main
 docidentifier:
 - content: ITU-R F
@@ -13,7 +13,7 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-01
+  at: 1994-01
 language:
 - en
 script:
