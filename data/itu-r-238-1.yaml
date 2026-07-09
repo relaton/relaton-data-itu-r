@@ -1,19 +1,19 @@
 ---
-id: ITUR23835
+id: ITUR2381
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Mobile broadband wireless access systems
+  content: Characteristics for use of visible light for broadband communications
   type: main
 docidentifier:
-- content: 'ITU-R 238-3/5:'
+- content: 'ITU-R 238/1:'
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2023-11
+  at: 2023-06
 language:
 - en
 script:
