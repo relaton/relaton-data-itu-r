@@ -1,19 +1,19 @@
 ---
-id: ITUR24145
+id: ITUR2401
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Cognitive radio systems in the mobile service
+  content: Assessment of spectrum efficiency and economic value
   type: main
 docidentifier:
-- content: 'ITU-R 241-4/5:'
+- content: 'ITU-R 240/1:'
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2023-11
+  at: 2023-06
 language:
 - en
 script:
