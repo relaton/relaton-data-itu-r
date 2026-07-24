@@ -23909,19 +23909,19 @@
     sector: R
     number: '226'
     parts:
-    - '1'
+    - '2'
     study_group: '4'
     has_colon: true
-  :file: data/itu-r-226-1-4.yaml
+  :file: data/itu-r-226-2-4.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
     number: '226'
     parts:
-    - '2'
+    - '1'
     study_group: '4'
     has_colon: true
-  :file: data/itu-r-226-2-4.yaml
+  :file: data/itu-r-226-1-4.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
