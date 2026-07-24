@@ -111,15 +111,15 @@
     sector: R
     series: SM
     number: '1'
-    study_group: '160'
-  :file: data/itu-r-sm-1-160.yaml
+    study_group: '161'
+  :file: data/itu-r-sm-1-161.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
     series: SM
     number: '1'
-    study_group: '161'
-  :file: data/itu-r-sm-1-161.yaml
+    study_group: '160'
+  :file: data/itu-r-sm-1-160.yaml
 - :id:
     _type: pubid:itu:question
     sector: R

@@ -5,3 +5,27 @@ This repository is used by Relaton-ITU to represent known ITU-R publications.
 Data is stored in Relaton YAML (or AsciiBib) format.
 
 This repository contains a crawler script which runs daly. The script parses site https://extranet.itu.int/brdocsearch and store documents into the data directory.
+
+== Indexes
+
+Two indexes map document references to their data files:
+
+* `index-v1.yaml`/`.zip` — legacy plain-string ids (kept for older consumers).
+* `index-v2.yaml`/`.zip` — pubid-structured index (rows carry `_type: pubid:itu:*`),
+  consumed by the `Relaton::Itu` flavor from this repository's `v2` branch.
+
+`index-v2` is regenerated from `index-v1` (no re-crawl) with:
+
+[source,sh]
+----
+bundle exec ruby gen_index.rb   # writes index-v2.yaml and index-v2.zip
+bundle exec rspec               # verifies the produced index
+----
+
+`gen_index.rb` reparses each `index-v1` id through `::Pubid::Itu` using the same
+round-trip guard the flavor applies, so producer and consumer stay aligned. A
+handful of malformed/series-level ids that pubid does not model are skipped
+(reported by the script); their data files remain in `data/` but are unindexed.
+
+NOTE: `index-v2` must be produced by the same relaton/pubid the flavor consumes —
+see the pins and comments in `Gemfile`.
