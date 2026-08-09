@@ -4,7 +4,13 @@ This repository is used by Relaton-ITU to represent known ITU-R publications.
 
 Data is stored in Relaton YAML (or AsciiBib) format.
 
-This repository contains a crawler script which runs daly. The script parses site https://extranet.itu.int/brdocsearch and store documents into the data directory.
+This repository contains a crawler script which parses the site https://extranet.itu.int/brdocsearch and stores documents into the data directory.
+
+NOTE: The scheduled daily crawl is currently *paused* — ITU decommissioned the enumeration
+endpoint the crawler relied on, so there is no anonymous bulk-enumeration source (see
+https://github.com/relaton/relaton/issues/75[relaton/relaton#75]). The `crawler.yml` workflow
+keeps `workflow_dispatch`, so it can still be triggered manually if a source is restored.
+Already-published records continue to resolve from the `index-v2` on the `v2` branch.
 
 == Indexes
 

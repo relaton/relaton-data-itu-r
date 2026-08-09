@@ -7,8 +7,11 @@ on:
     branches: [ master, main ]
     tags: [ v* ]
   pull_request:
-  schedule:
-  - cron: '0 14 * * *'
+  # Daily crawl paused: ITU decommissioned the RunSearch enumeration endpoint and
+  # Relaton::Itu::DataFetcher.fetch now raises. See relaton/relaton#75. workflow_dispatch
+  # is kept so the crawler can still be run manually if a source is restored.
+  # schedule:
+  # - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       args:
