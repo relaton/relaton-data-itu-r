@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Methodologies for assessing or predicting spectrum availability countries
+  content: Methodologies for assessing or predicting spectrum availability
   type: main
 source:
 - type: pdf
