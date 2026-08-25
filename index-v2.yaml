@@ -1,157 +1,5 @@
 ---
 - :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '01'
-    year: '2015'
-  :file: data/itu-r-01-hdb-2015.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '01'
-    year: '2005'
-  :file: data/itu-r-01-hdb-2005.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '1'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-1-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '1'
-    parts:
-    - '5'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-1-5-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '1'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-1-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '9'
-  :file: data/itu-r-r-1-9.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '8'
-  :file: data/itu-r-r-1-8.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '7'
-  :file: data/itu-r-r-1-7.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '6'
-  :file: data/itu-r-r-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '5'
-  :file: data/itu-r-r-1-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '4'
-  :file: data/itu-r-r-1-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '3'
-  :file: data/itu-r-r-1-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '2'
-  :file: data/itu-r-r-1-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-    parts:
-    - '1'
-  :file: data/itu-r-r-1-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '1'
-  :file: data/itu-r-r-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '10'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-10-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '10'
-    parts:
-    - '1'
-  :file: data/itu-r-r-10-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '10'
-  :file: data/itu-r-r-10.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '100'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-100-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -279,40 +127,6 @@
     parts:
     - '1'
   :file: data/itu-r-sm-1009-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '101'
-    parts:
-    - '5'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-101-5-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '101'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-101-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '101'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-101-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '101'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-101-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -497,67 +311,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1019-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    parts:
-    - '5'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-102-5-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-102-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-102-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-102-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-102-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-102-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '102'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-102-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -839,13 +592,6 @@
     - '2'
   :file: data/itu-r-rs-1029-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '103'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-103-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SA
@@ -1101,22 +847,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1039-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '104'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-104-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '104'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-104-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -1382,13 +1112,6 @@
     - '1'
   :file: data/report-itu-r-m-1049-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '105'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-105-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -1653,31 +1376,6 @@
     - '1'
   :file: data/itu-r-f-106-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '106'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-106-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '106'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-106-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '106'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-106-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: P
@@ -1837,13 +1535,6 @@
     parts:
     - '0'
   :file: data/itu-r-s-1069-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '107'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-107-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -2028,13 +1719,6 @@
     parts:
     - '1'
   :file: data/report-itu-r-bt-1079-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '108'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-108-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -2236,31 +1920,6 @@
     - '0'
   :file: data/itu-r-m-1089-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '109'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-109-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '109'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-109-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '109'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-109-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -2436,116 +2095,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1099-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '11'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-11-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '11'
-    year: '1989'
-  :file: data/itu-r-11-hdb-1989.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-    parts:
-    - '6'
-  :file: data/itu-r-r-11-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-    parts:
-    - '5'
-  :file: data/itu-r-r-11-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-    parts:
-    - '4'
-  :file: data/itu-r-r-11-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-    parts:
-    - '3'
-  :file: data/itu-r-r-11-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-    parts:
-    - '2'
-  :file: data/itu-r-r-11-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-    parts:
-    - '1'
-  :file: data/itu-r-r-11-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '11'
-  :file: data/itu-r-r-11.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '110'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-110-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '110'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-110-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '110'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-110-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '110'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-110-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '110'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-110-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -2730,49 +2279,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1109-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '111'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-111-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '111'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-111-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '111'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-111-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '111'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-111-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '111'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-111-1-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -3070,22 +2576,6 @@
     - '0'
   :file: data/itu-r-bt-1119-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '112'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-112-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '112'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-112-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -3326,22 +2816,6 @@
     - '0'
   :file: data/itu-r-bt-1129-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '113'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-113-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '113'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-113-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BO
@@ -3493,13 +2967,6 @@
     parts:
     - '0'
   :file: data/itu-r-sm-1139-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '114'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-114-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -3781,13 +3248,6 @@
     - '0'
   :file: data/itu-r-s-1149-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '115'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-115-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -4021,13 +3481,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1159-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '116'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-116-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -4329,13 +3782,6 @@
     - '0'
   :file: data/report-itu-r-m-1169-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '117'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-117-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -4572,40 +4018,6 @@
     - '0'
   :file: data/report-itu-r-m-1179-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '118'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-118-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '118'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-118-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '118'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-118-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '118'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-118-2-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -4799,13 +4211,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1189-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '119'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-119-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -5016,80 +4421,6 @@
     parts:
     - '0'
   :file: data/itu-r-bt-1199-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '12'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-12-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '12'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-12-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '12'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-12-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '12'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-12-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '12'
-    parts:
-    - '2'
-  :file: data/itu-r-r-12-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '12'
-    parts:
-    - '1'
-  :file: data/itu-r-r-12-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '12'
-  :file: data/itu-r-r-12.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '120'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-120-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '120'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-120-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -5323,13 +4654,6 @@
     - '0'
   :file: data/report-itu-r-bt-1209-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '121'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-121-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -5512,13 +4836,6 @@
     - '0'
   :file: data/report-itu-r-bt-1219-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '122'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-122-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BR
@@ -5694,13 +5011,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-br-1229-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '123'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-123-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -5958,13 +5268,6 @@
     - '0'
   :file: data/itu-r-p-1239-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '124'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-124-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: P
@@ -6157,13 +5460,6 @@
     - '0'
   :file: data/itu-r-f-1249-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '125'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-125-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -6273,22 +5569,6 @@
     parts:
     - '0'
   :file: data/itu-r-rs-1259-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '126'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-126-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '126'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-126-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -6450,13 +5730,6 @@
     - '0'
   :file: data/itu-r-sm-1269-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '127'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-127-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -6617,31 +5890,6 @@
     - '0'
   :file: data/itu-r-rs-1279-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '128'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-128-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '128'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-128-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '128'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-128-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: RS
@@ -6770,31 +6018,6 @@
     - '0'
   :file: data/itu-r-br-1289-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '129'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-129-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '129'
-    parts:
-    - '3'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-129-3-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '129'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-129-2-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BR
@@ -6898,68 +6121,6 @@
     parts:
     - '0'
   :file: data/itu-r-bt-1299-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '13'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-13-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '13'
-    year: '1991'
-  :file: data/itu-r-13-hdb-1991.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '13'
-  :file: data/itu-r-r-13.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '130'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-130-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '130'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-130-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '130'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-130-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '130'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-130-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '130'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-130-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -7145,22 +6306,6 @@
     - '0'
   :file: data/itu-r-m-1309-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '131'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-131-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '131'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-131-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -7296,76 +6441,6 @@
     parts:
     - '0'
   :file: data/itu-r-m-1319-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '7'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-7-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '6'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-6-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '5'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-5-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '132'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-132-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -7567,40 +6642,6 @@
     - '0'
   :file: data/itu-r-s-1329-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '133'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-133-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '133'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-133-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '133'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-133-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '133'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-133-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -7755,13 +6796,6 @@
     - '0'
   :file: data/itu-r-s-1339-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '134'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-134-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -7889,31 +6923,6 @@
     parts:
     - '0'
   :file: data/itu-r-bs-1349-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '135'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-135-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '135'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-135-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '135'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-135-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -8074,40 +7083,6 @@
     parts:
     - '0'
   :file: data/itu-r-bt-1359-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '136'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-136-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '136'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-136-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '136'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-136-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '136'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-136-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -8381,22 +7356,6 @@
     - '0'
   :file: data/itu-r-bt-1369-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '137'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-137-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '137'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-137-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -8613,13 +7572,6 @@
     - '0'
   :file: data/itu-r-bt-1379-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '138'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-138-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -8780,49 +7732,6 @@
     - '3'
   :file: data/itu-r-bs-139-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '139'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-139-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '139'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-139-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '139'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-139-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '139'
-    parts:
-    - '4'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-139-4-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '139'
-    parts:
-    - '3'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-139-3-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -8956,35 +7865,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1399-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '14'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-14-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '14'
-  :file: data/itu-r-r-14.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '140'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-140-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '140'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-140-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -9201,31 +8081,6 @@
     parts:
     - '0'
   :file: data/itu-r-p-1409-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '141'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-141-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '141'
-    parts:
-    - '4'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-141-4-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '141'
-    parts:
-    - '3'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-141-3-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -9515,40 +8370,6 @@
     - '0'
   :file: data/itu-r-s-1419-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '142'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-142-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '142'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-142-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '142'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-142-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '142'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-142-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -9653,31 +8474,6 @@
     - '0'
   :file: data/itu-r-s-1429-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '143'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-143-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '143'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-143-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '143'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-143-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -9773,13 +8569,6 @@
     parts:
     - '0'
   :file: data/itu-r-bt-1439-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '144'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-144-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -9892,40 +8681,6 @@
     parts:
     - '0'
   :file: data/itu-r-rs-1449-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '145'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-145-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '145'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-145-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '145'
-    parts:
-    - '3'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-145-3-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '145'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-145-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -10223,22 +8978,6 @@
     - '0'
   :file: data/itu-r-m-1459-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '146'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-146-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '146'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-146-2-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -10463,22 +9202,6 @@
     - '0'
   :file: data/itu-r-m-1469-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '147'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-147-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '147'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-147-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -10615,13 +9338,6 @@
     - '0'
   :file: data/itu-r-m-1479-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '148'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-148-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -10717,15 +9433,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1489-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '149'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-149-1-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -10878,78 +9585,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1499-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '15'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-15-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '15'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-15-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-    parts:
-    - '6'
-  :file: data/itu-r-r-15-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-    parts:
-    - '5'
-  :file: data/itu-r-r-15-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-    parts:
-    - '4'
-  :file: data/itu-r-r-15-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-    parts:
-    - '3'
-  :file: data/itu-r-r-15-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-    parts:
-    - '2'
-  :file: data/itu-r-r-15-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-    parts:
-    - '1'
-  :file: data/itu-r-r-15-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '15'
-  :file: data/itu-r-r-15.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -11278,15 +9913,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-1519-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '152'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-152-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -12144,15 +10770,6 @@
     - '0'
   :file: data/itu-r-m-1579-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '158'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-158-1-5.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -12440,30 +11057,6 @@
     parts:
     - '0'
   :file: data/itu-r-sm-1599-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '16'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-16-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '16'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-16-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '16'
-  :file: data/itu-r-r-16.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -13726,51 +12319,6 @@
     parts:
     - '0'
   :file: data/itu-r-bt-1699-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '17'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-17-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '17'
-    parts:
-    - '4'
-  :file: data/itu-r-r-17-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '17'
-    parts:
-    - '3'
-  :file: data/itu-r-r-17-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '17'
-    parts:
-    - '2'
-  :file: data/itu-r-r-17-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '17'
-    parts:
-    - '1'
-  :file: data/itu-r-r-17-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '17'
-  :file: data/itu-r-r-17.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -15099,12 +13647,6 @@
     parts:
     - '0'
   :file: data/itu-r-m-1799-0.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '18'
-  :file: data/itu-r-r-18.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -16596,74 +15138,6 @@
     - '0'
   :file: data/itu-r-s-1899-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '19'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-19-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '19'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-19-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '19'
-    year: '2010'
-  :file: data/itu-r-19-hdb-2010.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '19'
-    parts:
-    - '6'
-  :file: data/itu-r-r-19-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '19'
-    parts:
-    - '5'
-  :file: data/itu-r-r-19-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '19'
-    parts:
-    - '4'
-  :file: data/itu-r-r-19-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '19'
-    parts:
-    - '2'
-  :file: data/itu-r-r-19-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '19'
-    parts:
-    - '1'
-  :file: data/itu-r-r-19-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '19'
-  :file: data/itu-r-r-19.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BO
@@ -16823,110 +15297,6 @@
     parts:
     - '0'
   :file: data/itu-r-bs-1909-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-2-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '9'
-  :file: data/itu-r-r-2-9.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '8'
-  :file: data/itu-r-r-2-8.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '7'
-  :file: data/itu-r-r-2-7.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '6'
-  :file: data/itu-r-r-2-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '5'
-  :file: data/itu-r-r-2-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '4'
-  :file: data/itu-r-r-2-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '3'
-  :file: data/itu-r-r-2-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '2'
-  :file: data/itu-r-r-2-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-    parts:
-    - '1'
-  :file: data/itu-r-r-2-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '2'
-  :file: data/itu-r-r-2.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '20'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-20-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '20'
-    year: '2002'
-  :file: data/itu-r-20-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '20'
-  :file: data/itu-r-r-20.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -17253,24 +15623,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-201-2-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '201'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-201-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '201'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-201-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -17750,24 +16102,6 @@
     has_colon: true
   :file: data/itu-r-202-1-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '202'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-202-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '202'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-202-1-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -18046,24 +16380,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-203-3-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '203'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-203-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '203'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-203-1-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -18711,49 +17027,6 @@
     has_colon: true
   :file: data/itu-r-205-1-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '205'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-205-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '205'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-205-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '205'
-    parts:
-    - '5'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-205-5-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '205'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-205-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '205'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-205-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -19059,15 +17332,6 @@
     has_colon: true
   :file: data/itu-r-206-3-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '206'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-206-1-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -19333,24 +17597,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-207-3-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '207'
-    parts:
-    - '3'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-207-3-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '207'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-207-2-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -19757,22 +18003,6 @@
     has_colon: true
   :file: data/itu-r-208-2-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '208'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-208-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '208'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-208-1-5.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -20005,58 +18235,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-209-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '209'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-209-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '209'
-    parts:
-    - '7'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-209-7-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '209'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-209-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '209'
-    parts:
-    - '5'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-209-5-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '209'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-209-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '209'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-209-3-5.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -20292,61 +18470,6 @@
 - :id:
     _type: pubid:itu:question
     sector: R
-    number: '21'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-21-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '21'
-    year: '2015'
-  :file: data/itu-r-21-hdb-2015.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '21'
-    year: '2005'
-  :file: data/itu-r-21-hdb-2005.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '21'
-    year: '1995'
-  :file: data/itu-r-21-hdb-1995.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '21'
-    parts:
-    - '3'
-  :file: data/itu-r-r-21-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '21'
-    parts:
-    - '2'
-  :file: data/itu-r-r-21-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '21'
-    parts:
-    - '1'
-  :file: data/itu-r-r-21-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '21'
-  :file: data/itu-r-r-21.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
     number: '210'
     parts:
     - '4'
@@ -20387,15 +18510,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-210-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '210'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-210-1-4.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -20731,22 +18845,6 @@
     has_colon: true
   :file: data/itu-r-211-2-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '211'
-    parts:
-    - '2'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-211-2-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '211'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-211-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -21021,24 +19119,6 @@
     has_colon: true
   :file: data/itu-r-212-1-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '212'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-212-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '212'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-212-3-5.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -21306,15 +19386,6 @@
     has_colon: true
   :file: data/itu-r-213-1-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '213'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-213-1-7.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: V
@@ -21573,13 +19644,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-214-1-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '214'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-214-4.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -21945,42 +20009,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-215-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '215'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-215-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '215'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-215-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '215'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-215-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '215'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-215-1-7.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -22366,15 +20394,6 @@
     has_colon: true
   :file: data/itu-r-216-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '216'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-216-2-5.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -22585,15 +20604,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-217-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '217'
-    parts:
-    - '2'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-217-2-4.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -22848,33 +20858,6 @@
     has_colon: true
   :file: data/itu-r-218-2-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '218'
-    parts:
-    - '2'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-218-2-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '218'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-218-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '218'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-218-1-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: SM
@@ -23010,13 +20993,6 @@
     has_colon: true
   :file: data/itu-r-219-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '219'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-219-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: SA
@@ -23096,81 +21072,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-s-2199-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '22'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-22-1-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '22'
-    year: '2013'
-  :file: data/itu-r-22-hdb-2013.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '22'
-    year: '2003'
-  :file: data/itu-r-22-hdb-2003.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-    parts:
-    - '6'
-  :file: data/itu-r-r-22-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-    parts:
-    - '5'
-  :file: data/itu-r-r-22-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-    parts:
-    - '4'
-  :file: data/itu-r-r-22-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-    parts:
-    - '3'
-  :file: data/itu-r-r-22-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-    parts:
-    - '2'
-  :file: data/itu-r-r-22-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-    parts:
-    - '1'
-  :file: data/itu-r-r-22-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '22'
-  :file: data/itu-r-r-22.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -23382,13 +21283,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-221-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '221'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-221-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -23698,24 +21592,6 @@
     has_colon: true
   :file: data/itu-r-222-1-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '222'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-222-2-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '222'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-222-1-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -23835,22 +21711,6 @@
     has_colon: true
   :file: data/itu-r-223-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '223'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-223-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '223'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-223-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -23945,22 +21805,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-224-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '224'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-224-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '224'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-224-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -24310,20 +22154,6 @@
     has_colon: true
   :file: data/itu-r-225-3-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '225'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-225-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '225'
-    study_group: '9'
-    has_colon: true
-  :file: data/itu-r-225-9.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -24599,40 +22429,6 @@
     has_colon: true
   :file: data/itu-r-226-2-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '226'
-    parts:
-    - '1'
-    study_group: '9'
-    has_colon: true
-  :file: data/itu-r-226-1-9.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '226'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-226-2-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '226'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-226-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '226'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-226-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: RS
@@ -24864,13 +22660,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-227-1-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '227'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-227-4.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -25132,58 +22921,6 @@
     has_colon: true
   :file: data/itu-r-229-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '229'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-229-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '229'
-    parts:
-    - '5'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-229-5-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '229'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-229-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '229'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-229-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '229'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-229-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '229'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-229-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -25378,69 +23115,6 @@
 - :id:
     _type: pubid:itu:question
     sector: R
-    number: '23'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-23-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '23'
-    year: '2011'
-  :file: data/itu-r-23-hdb-2011.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '23'
-    year: '2002'
-  :file: data/itu-r-23-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '23'
-    year: '1995'
-  :file: data/itu-r-23-hdb-1995.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '23'
-    parts:
-    - '4'
-  :file: data/itu-r-r-23-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '23'
-    parts:
-    - '3'
-  :file: data/itu-r-r-23-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '23'
-    parts:
-    - '2'
-  :file: data/itu-r-r-23-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '23'
-    parts:
-    - '1'
-  :file: data/itu-r-r-23-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '23'
-  :file: data/itu-r-r-23.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
     number: '230'
     study_group: '1'
     has_colon: true
@@ -25479,40 +23153,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-230-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '230'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-230-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '230'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-230-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '230'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-230-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '230'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-230-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -25697,36 +23337,6 @@
     has_colon: true
   :file: data/itu-r-231-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '231'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-231-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '231'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-231-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '231'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-231-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '231'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-231-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: RS
@@ -25853,22 +23463,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-232-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '232'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-232-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '232'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-232-1-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -25998,27 +23592,6 @@
     has_colon: true
   :file: data/itu-r-233-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '233'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-233-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '233'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-233-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '233'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-233-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -26120,22 +23693,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-234-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '234'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-234-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '234'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-234-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -26432,29 +23989,6 @@
     has_colon: true
   :file: data/itu-r-235-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '235'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-235-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '235'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-235-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '235'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-235-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: RS
@@ -26613,47 +24147,6 @@
     has_colon: true
   :file: data/itu-r-236-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '236'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-236-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '236'
-    parts:
-    - '3'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-236-3-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '236'
-    parts:
-    - '2'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-236-2-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '236'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-236-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '236'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-236-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -26747,20 +24240,6 @@
     study_group: '3'
     has_colon: true
   :file: data/itu-r-237-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '237'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-237-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '237'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-237-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -26872,40 +24351,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-238-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '238'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-238-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '238'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-238-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '238'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-238-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '238'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-238-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -27258,13 +24703,6 @@
     has_colon: true
   :file: data/itu-r-239-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '239'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-239-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -27465,34 +24903,6 @@
     - '0'
   :file: data/report-itu-r-bs-2399-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '24'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-24-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '24'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-24-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '24'
-    year: '1996'
-  :file: data/itu-r-24-hdb-1996.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '24'
-  :file: data/itu-r-r-24.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -27515,20 +24925,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-240-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '240'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-240-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '240'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-240-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -27761,49 +25157,6 @@
     has_colon: true
   :file: data/itu-r-241-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '241'
-    parts:
-    - '4'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-241-4-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '241'
-    parts:
-    - '3'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-241-3-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '241'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-241-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '241'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-241-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '241'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-241-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -27914,38 +25267,6 @@
     study_group: '1'
     has_colon: true
   :file: data/itu-r-242-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '242'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-242-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '242'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-242-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '242'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-242-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '242'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-242-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -28130,20 +25451,6 @@
     has_colon: true
   :file: data/itu-r-243-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '243'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-243-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '243'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-243-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: SA
@@ -28223,27 +25530,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-f-2439-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '244'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-244-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '244'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-244-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '244'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-244-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -28381,36 +25667,6 @@
     - '0'
   :file: data/report-itu-r-sm-2449-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '245'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-245-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '245'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-245-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '245'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-245-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '245'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-245-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: SM
@@ -28530,29 +25786,6 @@
     parts:
     - '3'
   :file: data/itu-r-f-246-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '246'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-246-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '246'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-246-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '246'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-246-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -28706,29 +25939,6 @@
     - '0'
   :file: data/report-itu-r-bt-2469-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '247'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-247-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '247'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-247-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '247'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-247-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -28832,27 +26042,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2479-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '248'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-248-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '248'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-248-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '248'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-248-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -28998,20 +26187,6 @@
     - '7'
   :file: data/report-itu-r-p-249-7.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '249'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-249-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '249'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-249-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: RS
@@ -29107,75 +26282,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2499-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '25'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-25-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '25'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-25-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '25'
-    year: '2001'
-  :file: data/itu-r-25-hdb-2001.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '25'
-    parts:
-    - '3'
-  :file: data/itu-r-r-25-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '25'
-    parts:
-    - '2'
-  :file: data/itu-r-r-25-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '25'
-    parts:
-    - '1'
-  :file: data/itu-r-r-25-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '250'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-250-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '250'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-250-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '250'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-250-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -29281,20 +26387,6 @@
     - '0'
   :file: data/report-itu-r-ra-2509-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '251'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-251-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '251'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-251-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: RA
@@ -29382,20 +26474,6 @@
     parts:
     - '2'
   :file: data/report-itu-r-p-252-2.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '252'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-252-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '252'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-252-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -29533,20 +26611,6 @@
     - '0'
   :file: data/report-itu-r-m-2529-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '253'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-253-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '253'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-253-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -29634,20 +26698,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-bt-2539-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '254'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-254-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '254'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-254-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -29737,20 +26787,6 @@
     - '0'
   :file: data/report-itu-r-bt-2549-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '255'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-255-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '255'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-255-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -29830,47 +26866,6 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2559-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '256'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-256-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '256'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-256-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '256'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-256-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '256'
-    parts:
-    - '1'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-256-1-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '256'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-256-7.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -29968,38 +26963,6 @@
     - '2'
   :file: data/itu-r-m-257-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '257'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-257-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '257'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-257-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '257'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-257-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '257'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-257-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: SM
@@ -30016,20 +26979,6 @@
     - '0'
   :file: data/report-itu-r-sm-2571-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '258'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-258-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '258'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-258-7.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -30038,69 +26987,6 @@
     - '7'
   :file: data/report-itu-r-p-259-7.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '259'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-259-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '259'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-259-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '26'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-26-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '26'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-26-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '26'
-    year: '2013'
-  :file: data/itu-r-26-hdb-2013.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '26'
-    year: '1996'
-  :file: data/itu-r-26-hdb-1996.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '260'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-260-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '260'
-    study_group: '7'
-    has_colon: true
-  :file: data/itu-r-260-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '261'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-261-5.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -30108,59 +26994,6 @@
     parts:
     - '7'
   :file: data/report-itu-r-p-262-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '262'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-262-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '262'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-262-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '263'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-263-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '263'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-263-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '263'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-263-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '264'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-264-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '264'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-264-5.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -30186,13 +27019,6 @@
     - '7'
   :file: data/itu-r-br-265-7.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '265'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-265-5.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -30209,27 +27035,6 @@
     - '7'
   :file: data/report-itu-r-p-266-7.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '266'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-266-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '266'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-266-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '267'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-267-4.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -30237,32 +27042,6 @@
     parts:
     - '1'
   :file: data/itu-r-f-268-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '268'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-268-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '27'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-27-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '27'
-    year: '1996'
-  :file: data/itu-r-27-hdb-1996.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '27'
-  :file: data/itu-r-r-27.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -30272,43 +27051,6 @@
     - '2'
   :file: data/itu-r-f-270-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '270'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-270-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '271'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-271-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '272'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-272-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '273'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-273-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '274'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-274-4.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -30316,13 +27058,6 @@
     parts:
     - '3'
   :file: data/itu-r-f-275-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '275'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-275-4.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -30332,99 +27067,6 @@
     - '2'
   :file: data/itu-r-f-276-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '276'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-276-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '277'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-277-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '277'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-277-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '278'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-278-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '279'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-279-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '28'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-28-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '28'
-    year: '1996'
-  :file: data/itu-r-28-hdb-1996.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '28'
-    parts:
-    - '2'
-  :file: data/itu-r-r-28-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '28'
-    parts:
-    - '1'
-  :file: data/itu-r-r-28-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '28'
-  :file: data/itu-r-r-28.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '280'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-280-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '281'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-281-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '282'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-282-4.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -30433,74 +27075,6 @@
     - '5'
   :file: data/itu-r-f-283-5.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '283'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-283-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '284'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-284-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '285'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-285-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '286'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-286-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '287'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-287-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '288'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-288-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '289'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-289-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '29'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-29-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '29'
-    year: '1996'
-  :file: data/itu-r-29-hdb-1996.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '29'
-  :file: data/itu-r-r-29.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -30508,66 +27082,6 @@
     parts:
     - '3'
   :file: data/itu-r-f-290-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '290'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-290-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '291'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-291-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '292'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-292-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '293'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-293-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-3-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '3'
-  :file: data/itu-r-r-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '30'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-30-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '30'
-    year: '1997'
-  :file: data/itu-r-30-hdb-1997.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '30'
-  :file: data/itu-r-r-30.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -30632,34 +27146,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-306-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '31'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-31-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '31'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-31-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '31'
-    year: '1997'
-  :file: data/itu-r-31-hdb-1997.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '31'
-  :file: data/itu-r-r-31.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -30885,28 +27371,6 @@
     - '7'
   :file: data/report-itu-r-m-319-7.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '32'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-32-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '32'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-32-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '32'
-    year: '1998'
-  :file: data/itu-r-32-hdb-1998.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -31027,49 +27491,6 @@
     - '6'
   :file: data/itu-r-sm-329-6.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '33'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-33-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '33'
-    year: '1999'
-  :file: data/itu-r-33-hdb-1999.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '33'
-    parts:
-    - '3'
-  :file: data/itu-r-r-33-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '33'
-    parts:
-    - '2'
-  :file: data/itu-r-r-33-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '33'
-    parts:
-    - '1'
-  :file: data/itu-r-r-33-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '33'
-  :file: data/itu-r-r-33.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -31166,87 +27587,6 @@
     - '6'
   :file: data/itu-r-f-339-6.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '34'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-34-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '34'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-34-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '34'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-34-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '34'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-34-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '34'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-34-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '34'
-    parts:
-    - '4'
-  :file: data/itu-r-r-34-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '34'
-    parts:
-    - '3'
-  :file: data/itu-r-r-34-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '34'
-    parts:
-    - '2'
-  :file: data/itu-r-r-34-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '34'
-    parts:
-    - '1'
-  :file: data/itu-r-r-34-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '34'
-  :file: data/itu-r-r-34.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: P
@@ -31335,60 +27675,6 @@
     - '4'
   :file: data/itu-r-f-349-4.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '35'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-35-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '35'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-35-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '35'
-    parts:
-    - '4'
-  :file: data/itu-r-r-35-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '35'
-    parts:
-    - '3'
-  :file: data/itu-r-r-35-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '35'
-    parts:
-    - '2'
-  :file: data/itu-r-r-35-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '35'
-    parts:
-    - '1'
-  :file: data/itu-r-r-35-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '35'
-  :file: data/itu-r-r-35.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: S
@@ -31469,67 +27755,6 @@
     - '5'
   :file: data/report-itu-r-m-358-5.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '36'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-36-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-    parts:
-    - '6'
-  :file: data/itu-r-r-36-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-    parts:
-    - '5'
-  :file: data/itu-r-r-36-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-    parts:
-    - '4'
-  :file: data/itu-r-r-36-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-    parts:
-    - '3'
-  :file: data/itu-r-r-36-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-    parts:
-    - '2'
-  :file: data/itu-r-r-36-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-    parts:
-    - '1'
-  :file: data/itu-r-r-36-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '36'
-  :file: data/itu-r-r-36.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SA
@@ -31601,52 +27826,6 @@
     parts:
     - '6'
   :file: data/itu-r-p-369-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '37'
-    parts:
-    - '7'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-37-7-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '37'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-37-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '37'
-    parts:
-    - '5'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-37-5-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '37'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-37-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '37'
-    year: '2000'
-  :file: data/itu-r-37-hdb-2000.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '37'
-  :file: data/itu-r-r-37.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -31919,51 +28098,6 @@
     parts:
     - '5'
   :file: data/itu-r-sm-378-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '38'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-38-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '38'
-    parts:
-    - '4'
-  :file: data/itu-r-r-38-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '38'
-    parts:
-    - '3'
-  :file: data/itu-r-r-38-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '38'
-    parts:
-    - '2'
-  :file: data/itu-r-r-38-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '38'
-    parts:
-    - '1'
-  :file: data/itu-r-r-38-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '38'
-  :file: data/itu-r-r-38.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -32285,33 +28419,6 @@
     - '2'
   :file: data/itu-r-f-389-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '39'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-39-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '39'
-    year: '2002'
-  :file: data/itu-r-39-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '39'
-    parts:
-    - '1'
-  :file: data/itu-r-r-39-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '39'
-  :file: data/itu-r-r-39.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -32383,180 +28490,6 @@
     parts:
     - '3'
   :file: data/itu-r-f-399-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '4'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-4-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '4'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-4-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '9'
-  :file: data/itu-r-r-4-9.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '8'
-  :file: data/itu-r-r-4-8.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '7'
-  :file: data/itu-r-r-4-7.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '6'
-  :file: data/itu-r-r-4-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '5'
-  :file: data/itu-r-r-4-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '4'
-  :file: data/itu-r-r-4-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '3'
-  :file: data/itu-r-r-4-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '2'
-  :file: data/itu-r-r-4-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-    parts:
-    - '1'
-  :file: data/itu-r-r-4-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '4'
-  :file: data/itu-r-r-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '40'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-40-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '40'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-40-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '40'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-40-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '40'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-40-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '40'
-    year: '2002'
-  :file: data/itu-r-40-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '40'
-    parts:
-    - '4'
-  :file: data/itu-r-r-40-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '40'
-    parts:
-    - '3'
-  :file: data/itu-r-r-40-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '40'
-    parts:
-    - '2'
-  :file: data/itu-r-r-40-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '40'
-    parts:
-    - '1'
-  :file: data/itu-r-r-40-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '40'
-  :file: data/itu-r-r-40.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -32646,33 +28579,6 @@
     - '6'
   :file: data/itu-r-br-408-6.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '41'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-41-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '41'
-    year: '2002'
-  :file: data/itu-r-41-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '41'
-    parts:
-    - '1'
-  :file: data/itu-r-r-41-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '41'
-  :file: data/itu-r-r-41.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BS
@@ -32745,34 +28651,6 @@
     - '3'
   :file: data/itu-r-bt-419-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '42'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-42-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '42'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-42-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '42'
-    year: '2002'
-  :file: data/itu-r-42-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '42'
-  :file: data/itu-r-r-42.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -32780,45 +28658,6 @@
     parts:
     - '3'
   :file: data/itu-r-m-428-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '43'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-43-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '43'
-    year: '2026'
-  :file: data/itu-r-43-hdb-2026.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '43'
-    year: '2013'
-  :file: data/itu-r-43-hdb-2013.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '43'
-    year: '2002'
-  :file: data/itu-r-43-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '43'
-    parts:
-    - '1'
-  :file: data/itu-r-r-43-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '43'
-  :file: data/itu-r-r-43.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -32924,62 +28763,6 @@
     - '4'
   :file: data/itu-r-f-436-4.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '44'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-44-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '44'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-44-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '44'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-44-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '44'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-44-1-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '44'
-    year: '2002'
-  :file: data/itu-r-44-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '44'
-    parts:
-    - '1'
-  :file: data/itu-r-r-44-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '44'
-  :file: data/itu-r-r-44.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -33035,105 +28818,6 @@
     parts:
     - '4'
   :file: data/itu-r-s-446-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    parts:
-    - '6'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-6-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    parts:
-    - '5'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-5-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '45'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-45-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '45'
-    year: '2026'
-  :file: data/itu-r-45-hdb-2026.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '45'
-    year: '2017'
-  :file: data/itu-r-45-hdb-2017.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '45'
-    year: '2008'
-  :file: data/itu-r-45-hdb-2008.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '45'
-    year: '2002'
-  :file: data/itu-r-45-hdb-2002.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '45'
-    parts:
-    - '1'
-  :file: data/itu-r-r-45-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '45'
-  :file: data/itu-r-r-45.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -33415,58 +29099,6 @@
     - '5'
   :file: data/report-itu-r-bs-458-5.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '46'
-    parts:
-    - '3'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-46-3-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '46'
-    parts:
-    - '2'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-46-2-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '46'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-46-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '46'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-46-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '46'
-    year: '2011'
-  :file: data/itu-r-46-hdb-2011.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '46'
-    year: '2005'
-  :file: data/itu-r-46-hdb-2005.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '46'
-  :file: data/itu-r-r-46.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: TF
@@ -33586,41 +29218,6 @@
     parts:
     - '6'
   :file: data/itu-r-br-469-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '47'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-47-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '47'
-    year: '2005'
-  :file: data/itu-r-47-hdb-2005.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '47'
-    parts:
-    - '2'
-  :file: data/itu-r-r-47-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '47'
-    parts:
-    - '1'
-  :file: data/itu-r-r-47-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '47'
-  :file: data/itu-r-r-47.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -33766,67 +29363,6 @@
     - '2'
   :file: data/itu-r-bs-48-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '48'
-    parts:
-    - '7'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-48-7-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '48'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-48-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '48'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-48-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '48'
-    year: '2006'
-  :file: data/itu-r-48-hdb-2006.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '48'
-    parts:
-    - '3'
-  :file: data/itu-r-r-48-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '48'
-    parts:
-    - '2'
-  :file: data/itu-r-r-48-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '48'
-    parts:
-    - '1'
-  :file: data/itu-r-r-48-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '48'
-  :file: data/itu-r-r-48.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -33946,40 +29482,6 @@
     parts:
     - '1'
   :file: data/itu-r-m-489-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '49'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-49-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '49'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-49-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '49'
-    year: '2021'
-  :file: data/itu-r-49-hdb-2021.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '49'
-    year: '2006'
-  :file: data/itu-r-49-hdb-2006.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '49'
-  :file: data/itu-r-r-49.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -34165,146 +29667,6 @@
     - '5'
   :file: data/report-itu-r-m-499-5.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '5'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-5-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '9'
-  :file: data/itu-r-r-5-9.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '8'
-  :file: data/itu-r-r-5-8.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '7'
-  :file: data/itu-r-r-5-7.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '6'
-  :file: data/itu-r-r-5-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '5'
-  :file: data/itu-r-r-5-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '4'
-  :file: data/itu-r-r-5-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '3'
-  :file: data/itu-r-r-5-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '2'
-  :file: data/itu-r-r-5-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-    parts:
-    - '1'
-  :file: data/itu-r-r-5-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '5'
-  :file: data/itu-r-r-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '50'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-50-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '50'
-    parts:
-    - '5'
-  :file: data/itu-r-r-50-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '50'
-    parts:
-    - '4'
-  :file: data/itu-r-r-50-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '50'
-    parts:
-    - '3'
-  :file: data/itu-r-r-50-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '50'
-    parts:
-    - '2'
-  :file: data/itu-r-r-50-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '50'
-    parts:
-    - '1'
-  :file: data/itu-r-r-50-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '50'
-  :file: data/itu-r-r-50.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -34449,25 +29811,6 @@
     - '5'
   :file: data/report-itu-r-m-509-5.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '51'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-51-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '51'
-    year: '2006'
-  :file: data/itu-r-51-hdb-2006.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '51'
-  :file: data/itu-r-r-51.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SA
@@ -34596,48 +29939,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-519-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '52'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-52-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '52'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-52-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '52'
-    year: '2026'
-  :file: data/itu-r-52-hdb-2026.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '52'
-    year: '2014'
-  :file: data/itu-r-52-hdb-2014.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '52'
-    year: '2008'
-  :file: data/itu-r-52-hdb-2008.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '52'
-    parts:
-    - '1'
-  :file: data/itu-r-r-52-1.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -34950,33 +30251,6 @@
     parts:
     - '1'
   :file: data/itu-r-p-529-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '53'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-53-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '53'
-    year: '2008'
-  :file: data/itu-r-53-hdb-2008.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '53'
-    parts:
-    - '1'
-  :file: data/itu-r-r-53-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '53'
-  :file: data/itu-r-r-53.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -35410,57 +30684,6 @@
     - '3'
   :file: data/itu-r-m-539-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '54'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-54-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '54'
-    year: '2009'
-  :file: data/itu-r-54-hdb-2009.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '54'
-    parts:
-    - '4'
-  :file: data/itu-r-r-54-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '54'
-    parts:
-    - '3'
-  :file: data/itu-r-r-54-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '54'
-    parts:
-    - '2'
-  :file: data/itu-r-r-54-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '54'
-    parts:
-    - '1'
-  :file: data/itu-r-r-54-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '54'
-  :file: data/itu-r-r-54.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -35565,57 +30788,6 @@
     - '1'
   :file: data/itu-r-m-549-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '55'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-55-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '55'
-    year: '2010'
-  :file: data/itu-r-55-hdb-2010.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '55'
-    parts:
-    - '4'
-  :file: data/itu-r-r-55-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '55'
-    parts:
-    - '3'
-  :file: data/itu-r-r-55-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '55'
-    parts:
-    - '2'
-  :file: data/itu-r-r-55-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '55'
-    parts:
-    - '1'
-  :file: data/itu-r-r-55-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '55'
-  :file: data/itu-r-r-55.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -35704,85 +30876,6 @@
     - '2'
   :file: data/itu-r-bs-559-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '56'
-    parts:
-    - '4'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-56-4-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '56'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-56-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '56'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-56-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '56'
-    parts:
-    - '3'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-56-3-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '56'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-56-2-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '56'
-    year: '2011'
-  :file: data/itu-r-56-hdb-2011.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '56'
-    parts:
-    - '3'
-  :file: data/itu-r-r-56-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '56'
-    parts:
-    - '2'
-  :file: data/itu-r-r-56-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '56'
-    parts:
-    - '1'
-  :file: data/itu-r-r-56-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '56'
-  :file: data/itu-r-r-56.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BS
@@ -35838,41 +30931,6 @@
     parts:
     - '3'
   :file: data/itu-r-bo-566-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '57'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-57-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '57'
-    year: '2011'
-  :file: data/itu-r-57-hdb-2011.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '57'
-    parts:
-    - '2'
-  :file: data/itu-r-r-57-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '57'
-    parts:
-    - '1'
-  :file: data/itu-r-r-57-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '57'
-  :file: data/itu-r-r-57.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -36033,41 +31091,6 @@
     parts:
     - '3'
   :file: data/itu-r-s-579-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '58'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-58-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '58'
-    year: '2012'
-  :file: data/itu-r-58-hdb-2012.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '58'
-    parts:
-    - '2'
-  :file: data/itu-r-r-58-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '58'
-    parts:
-    - '1'
-  :file: data/itu-r-r-58-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '58'
-  :file: data/itu-r-r-58.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -36301,58 +31324,6 @@
     - '2'
   :file: data/itu-r-m-589-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '59'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-59-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '59'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-59-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '59'
-    year: '2014'
-  :file: data/itu-r-59-hdb-2014.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '59'
-    parts:
-    - '3'
-  :file: data/itu-r-r-59-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '59'
-    parts:
-    - '2'
-  :file: data/itu-r-r-59-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '59'
-    parts:
-    - '1'
-  :file: data/itu-r-r-59-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '59'
-  :file: data/itu-r-r-59.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -36505,88 +31476,6 @@
     - '0'
   :file: data/itu-r-bs-599-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '6'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-6-1-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '6'
-    parts:
-    - '3'
-  :file: data/itu-r-r-6-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '6'
-    parts:
-    - '2'
-  :file: data/itu-r-r-6-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '6'
-    parts:
-    - '1'
-  :file: data/itu-r-r-6-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '6'
-  :file: data/itu-r-r-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '60'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-60-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '60'
-    year: '2003'
-  :file: data/itu-r-60-hdb-2003.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '60'
-    parts:
-    - '3'
-  :file: data/itu-r-r-60-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '60'
-    parts:
-    - '2'
-  :file: data/itu-r-r-60-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '60'
-    parts:
-    - '1'
-  :file: data/itu-r-r-60-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '60'
-  :file: data/itu-r-r-60.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BO
@@ -36704,49 +31593,6 @@
     parts:
     - '1'
   :file: data/itu-r-sa-609-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '61'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-61-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '61'
-    year: '2015'
-  :file: data/itu-r-61-hdb-2015.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '61'
-    parts:
-    - '3'
-  :file: data/itu-r-r-61-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '61'
-    parts:
-    - '2'
-  :file: data/itu-r-r-61-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '61'
-    parts:
-    - '1'
-  :file: data/itu-r-r-61-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '61'
-  :file: data/itu-r-r-61.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -37020,64 +31866,6 @@
     - '1'
   :file: data/itu-r-p-619-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '62'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-62-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '62'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-62-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '62'
-    year: '2022'
-  :file: data/itu-r-62-hdb-2022.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '62'
-    year: '2015'
-  :file: data/itu-r-62-hdb-2015.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '62'
-    parts:
-    - '3'
-  :file: data/itu-r-r-62-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '62'
-    parts:
-    - '2'
-  :file: data/itu-r-r-62-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '62'
-    parts:
-    - '1'
-  :file: data/itu-r-r-62-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '62'
-  :file: data/itu-r-r-62.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: P
@@ -37277,31 +32065,6 @@
     parts:
     - '4'
   :file: data/report-itu-r-bt-629-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '63'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-63-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '63'
-    year: '2021'
-  :file: data/itu-r-63-hdb-2021.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '63'
-    year: '2016'
-  :file: data/itu-r-63-hdb-2016.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '63'
-  :file: data/itu-r-r-63.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -37543,34 +32306,6 @@
     - '0'
   :file: data/itu-r-bs-639-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '64'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-64-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '64'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-64-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '64'
-    year: '2022'
-  :file: data/itu-r-64-hdb-2022.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '64'
-  :file: data/itu-r-r-64.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BS
@@ -37690,33 +32425,6 @@
     parts:
     - '1'
   :file: data/itu-r-br-649-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '65'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-65-6.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '65'
-    year: '2023'
-  :file: data/itu-r-65-hdb-2023.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '65'
-    parts:
-    - '1'
-  :file: data/itu-r-r-65-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '65'
-  :file: data/itu-r-r-65.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -37861,35 +32569,6 @@
     has_colon: true
   :file: data/itu-r-66-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '66'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-66-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '66'
-    parts:
-    - '2'
-  :file: data/itu-r-r-66-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '66'
-    parts:
-    - '1'
-  :file: data/itu-r-r-66-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '66'
-  :file: data/itu-r-r-66.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: V
@@ -37985,35 +32664,6 @@
     parts:
     - '1'
   :file: data/itu-r-sm-669-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '67'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-67-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '67'
-    parts:
-    - '2'
-  :file: data/itu-r-r-67-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '67'
-    parts:
-    - '1'
-  :file: data/itu-r-r-67-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '67'
-  :file: data/itu-r-r-67.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -38286,19 +32936,6 @@
     parts:
     - '1'
   :file: data/itu-r-p-679-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '68'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-68-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '68'
-  :file: data/itu-r-r-68.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -38596,44 +33233,6 @@
     - '2'
   :file: data/itu-r-m-689-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '69'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-69-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '69'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-69-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '69'
-    parts:
-    - '2'
-  :file: data/itu-r-r-69-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '69'
-    parts:
-    - '1'
-  :file: data/itu-r-r-69-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '69'
-  :file: data/itu-r-r-69.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -38826,99 +33425,6 @@
     - '2'
   :file: data/itu-r-f-699-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '7'
-    parts:
-    - '7'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-7-7-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '7'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-7-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '7'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-7-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '7'
-    parts:
-    - '4'
-  :file: data/itu-r-r-7-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '7'
-    parts:
-    - '3'
-  :file: data/itu-r-r-7-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '7'
-    parts:
-    - '2'
-  :file: data/itu-r-r-7-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '7'
-    parts:
-    - '1'
-  :file: data/itu-r-r-7-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '7'
-  :file: data/itu-r-r-7.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '70'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-70-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '70'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-70-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '70'
-    parts:
-    - '1'
-  :file: data/itu-r-r-70-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '70'
-  :file: data/itu-r-r-70.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -39095,27 +33601,6 @@
     - '1'
   :file: data/itu-r-bt-709-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '71'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-71-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '71'
-    parts:
-    - '1'
-  :file: data/itu-r-r-71-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '71'
-  :file: data/itu-r-r-71.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BT
@@ -39244,19 +33729,6 @@
     - '3'
   :file: data/report-itu-r-p-716-3.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '72'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-72-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '72'
-  :file: data/itu-r-r-72.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SNG
@@ -39336,46 +33808,6 @@
     parts:
     - '0'
   :file: data/itu-r-s-729-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '73'
-    parts:
-    - '2'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-73-2-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '73'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-73-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '73'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-73-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '73'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-73-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '73'
-  :file: data/itu-r-r-73.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -39504,19 +33936,6 @@
     parts:
     - '1'
   :file: data/report-itu-r-m-739-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '74'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-74-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '74'
-  :file: data/itu-r-r-74.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -39782,37 +34201,6 @@
     - '1'
   :file: data/itu-r-f-749-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '75'
-    parts:
-    - '4'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-75-4-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '75'
-    parts:
-    - '3'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-75-3-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '75'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-75-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '75'
-  :file: data/itu-r-r-75.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: F
@@ -40044,13 +34432,6 @@
     parts:
     - '0'
   :file: data/itu-r-f-759-0.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '76'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-76-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -40324,58 +34705,6 @@
     - '0'
   :file: data/itu-r-ra-769-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '77'
-    parts:
-    - '9'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-77-9-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '77'
-    parts:
-    - '6'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-77-6-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '77'
-    parts:
-    - '8'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-77-8-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '77'
-    parts:
-    - '7'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-77-7-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '77'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-77-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '77'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-77-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SNG
@@ -40564,22 +34893,6 @@
     - '0'
   :file: data/itu-r-br-779-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '78'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-78-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '78'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-78-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BR
@@ -40730,13 +35043,6 @@
     - '0'
   :file: data/itu-r-bo-789-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '79'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-79-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BO
@@ -40875,51 +35181,6 @@
     - '2'
   :file: data/report-itu-r-bs-799-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '8'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-8-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '8'
-    parts:
-    - '4'
-  :file: data/itu-r-r-8-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '8'
-    parts:
-    - '3'
-  :file: data/itu-r-r-8-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '8'
-    parts:
-    - '2'
-  :file: data/itu-r-r-8-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '8'
-    parts:
-    - '1'
-  :file: data/itu-r-r-8-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '8'
-  :file: data/itu-r-r-8.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: BS
@@ -40927,13 +35188,6 @@
     parts:
     - '3'
   :file: data/itu-r-bs-80-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '80'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-80-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -41090,22 +35344,6 @@
     parts:
     - '3'
   :file: data/report-itu-r-bo-809-3.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '81'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-81-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '81'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-81-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -41285,13 +35523,6 @@
     - '1'
   :file: data/itu-r-m-819-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '82'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-82-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: M
@@ -41467,31 +35698,6 @@
     parts:
     - '1'
   :file: data/itu-r-m-829-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '83'
-    parts:
-    - '6'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-83-6-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '83'
-    parts:
-    - '5'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-83-5-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '83'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-83-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -41957,22 +36163,6 @@
     - '0'
   :file: data/itu-r-p-839-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '84'
-    parts:
-    - '4'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-84-4-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '84'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-84-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: P
@@ -42237,13 +36427,6 @@
     - '1'
   :file: data/itu-r-sm-849-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '85'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-85-6.yaml
-- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SM
@@ -42364,29 +36547,6 @@
     - '0'
   :file: data/itu-r-sm-856-0.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '86'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-86-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '87'
-    parts:
-    - '4'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-87-4-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '87'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-87-6.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -42394,22 +36554,6 @@
     parts:
     - '1'
   :file: data/report-itu-r-p-879-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '88'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-88-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '88'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-88-6.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -42435,22 +36579,6 @@
     - '2'
   :file: data/report-itu-r-p-889-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '89'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-89-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '89'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-89-6.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -42466,82 +36594,6 @@
     parts:
     - '1'
   :file: data/report-itu-r-m-899-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '9'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-9-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '7'
-  :file: data/itu-r-r-9-7.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '6'
-  :file: data/itu-r-r-9-6.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '5'
-  :file: data/itu-r-r-9-5.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '4'
-  :file: data/itu-r-r-9-4.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '3'
-  :file: data/itu-r-r-9-3.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '2'
-  :file: data/itu-r-r-9-2.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-    parts:
-    - '1'
-  :file: data/itu-r-r-9-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: R
-    number: '9'
-  :file: data/itu-r-r-9.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '90'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-90-6.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -42591,22 +36643,6 @@
     - '1'
   :file: data/report-itu-r-m-908-1.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '91'
-    parts:
-    - '1'
-    study_group: '4'
-    has_colon: true
-  :file: data/itu-r-91-1-4.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '91'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-91-6.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -42646,13 +36682,6 @@
     parts:
     - '2'
   :file: data/report-itu-r-m-919-2.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '92'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-92-6.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -42718,29 +36747,6 @@
     - '2'
   :file: data/report-itu-r-m-929-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '93'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-93-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '93'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-93-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '94'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-94-6.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: BS
@@ -42772,13 +36778,6 @@
     parts:
     - '1'
   :file: data/report-itu-r-bs-946-1.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '95'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-95-6.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -42844,31 +36843,6 @@
     - '2'
   :file: data/report-itu-r-bt-959-2.yaml
 - :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '96'
-    parts:
-    - '2'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-96-2-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '96'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-96-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '96'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-96-6.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -42884,76 +36858,3 @@
     parts:
     - '2'
   :file: data/report-itu-r-bt-962-2.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '97'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-97-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '97'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-97-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '97'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-97-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '98'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-98-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '98'
-    parts:
-    - '2'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-98-2-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '98'
-    parts:
-    - '1'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-98-1-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '98'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-98-6.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '99'
-    parts:
-    - '1'
-    study_group: '5'
-    has_colon: true
-  :file: data/itu-r-99-1-5.yaml
-- :id:
-    _type: pubid:itu:question
-    sector: R
-    number: '99'
-    study_group: '6'
-    has_colon: true
-  :file: data/itu-r-99-6.yaml

@@ -7,16 +7,13 @@ title:
   script: Latn
   content: Intelligent transport systems (ITS) usage
   type: main
-source:
-- type: pdf
-  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2445-2018-PDF-E.pdf
 docidentifier:
 - content: Report ITU-R M.2445-0
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2020-10
+  at: '2018'
 language:
 - en
 script:

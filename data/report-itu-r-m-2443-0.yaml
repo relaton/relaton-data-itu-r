@@ -7,16 +7,13 @@ title:
   script: Latn
   content: NAVDAT Guidelines
   type: main
-source:
-- type: pdf
-  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2443-2019-PDF-E.pdf
 docidentifier:
 - content: Report ITU-R M.2443-0
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2021-04
+  at: '2019'
 language:
 - en
 script:
