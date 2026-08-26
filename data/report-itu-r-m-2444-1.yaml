@@ -8,13 +8,16 @@ title:
   content: Examples of arrangements for Intelligent Transport Systems deployments
     under the mobile service
   type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2444-1-2023-PDF-E.pdf
 docidentifier:
 - content: Report ITU-R M.2444-1
   type: ITU
   primary: true
 date:
 - type: published
-  at: '2023'
+  at: 2023-11
 language:
 - en
 script:
