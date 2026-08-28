@@ -8,16 +8,13 @@ title:
   content: Practical implementation of broadcast systems using audio codecs for ITU
     advanced sound systems
   type: main
-source:
-- type: pdf
-  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2493-1-2024-PDF-E.pdf
 docidentifier:
 - content: Report ITU-R BS.2493-1
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2025-01
+  at: '2024'
 language:
 - en
 script:

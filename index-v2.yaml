@@ -4661,6 +4661,14 @@
     series: M
     number: '1184'
     parts:
+    - '4'
+  :file: data/itu-r-m-1184-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: M
+    number: '1184'
+    parts:
     - '3'
   :file: data/itu-r-m-1184-3.yaml
 - :id:
