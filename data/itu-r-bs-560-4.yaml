@@ -1,0 +1,28 @@
+---
+id: ITURBS5604
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Radio-frequency protection ratios in LF, MF and HF broadcasting
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.560-4-199710-I!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BS.560-4
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: '1997-10-24'
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu
