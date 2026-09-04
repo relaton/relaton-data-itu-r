@@ -6935,6 +6935,14 @@
     series: S
     number: '1528'
     parts:
+    - '1'
+  :file: data/itu-r-s-1528-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1528'
+    parts:
     - '0'
   :file: data/itu-r-s-1528-0.yaml
 - :id:
@@ -9443,6 +9451,14 @@
     series: SM
     number: '1880'
     parts:
+    - '3'
+  :file: data/itu-r-sm-1880-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SM
+    number: '1880'
+    parts:
     - '1'
   :file: data/itu-r-sm-1880-1.yaml
 - :id:
@@ -9515,6 +9531,14 @@
     parts:
     - '0'
   :file: data/itu-r-bs-1895-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SM
+    number: '1896'
+    parts:
+    - '2'
+  :file: data/itu-r-sm-1896-2.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R

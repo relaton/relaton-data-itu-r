@@ -1,5 +1,5 @@
 ---
-id: ITURS15280
+id: ITURS15281
 schema_version: v1.5.6
 type: standard
 title:
@@ -10,14 +10,14 @@ title:
   type: main
 source:
 - type: pdf
-  content: https://www.itu.int/dms_pubrec/itu-r/rec/s/R-REC-S.1528-0-200106-S!!PDF-E.pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/s/R-REC-S.1528-1-202608-I!!PDF-E.pdf
 docidentifier:
-- content: ITU-R S.1528-0
+- content: ITU-R S.1528-1
   type: ITU
   primary: true
 date:
 - type: published
-  at: '2001-06-28'
+  at: '2026-08-17'
 language:
 - en
 script:
