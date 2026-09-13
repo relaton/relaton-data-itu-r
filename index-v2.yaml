@@ -154,6 +154,62 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1001'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1001-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1001'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1001-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1001'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1001-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1002'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1002-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1003'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1003-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1003'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1003-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1003'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1003-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SF
     number: '1004'
     parts:
@@ -290,6 +346,14 @@
     - '0'
   :file: data/itu-r-tf-1011-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1012'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1012-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -298,6 +362,110 @@
     - '1'
   :file: data/report-itu-r-p-1012-1.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1013'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1013-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1014'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1014-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1014'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1014-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1014'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1014-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1014'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1014-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1014'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1014-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1015'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1015-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1015'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1015-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1016'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1016-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1016'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1016-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1017'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1017-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1018'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1018-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1018'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1018-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -305,6 +473,22 @@
     parts:
     - '1'
   :file: data/report-itu-r-m-1018-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1019'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1019-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1019'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1019-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -375,6 +559,14 @@
     has_colon: true
   :file: data/itu-r-102-2-7.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1020'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1020-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -382,6 +574,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1020-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1021'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1021-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -391,6 +591,22 @@
     - '0'
   :file: data/report-itu-r-m-1021-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1022'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1022-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1022'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1022-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -398,6 +614,14 @@
     parts:
     - '1'
   :file: data/report-itu-r-m-1022-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1023'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1023-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -407,6 +631,22 @@
     - '1'
   :file: data/report-itu-r-m-1023-1.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1024'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1024-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1024'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1024-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -414,6 +654,38 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1024-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1025'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1025-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1025'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1025-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1025'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1025-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1025'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1025-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -423,6 +695,54 @@
     - '1'
   :file: data/report-itu-r-m-1025-1.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1026'
+    parts:
+    - '5'
+  :file: data/itu-r-sa-1026-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1026'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1026-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1026'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1026-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1026'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1026-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1026'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1026-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1026'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1026-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -430,6 +750,62 @@
     parts:
     - '1'
   :file: data/report-itu-r-m-1026-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '6'
+  :file: data/itu-r-sa-1027-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '5'
+  :file: data/itu-r-sa-1027-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1027-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1027-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1027-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1027-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1027'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1027-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -439,6 +815,14 @@
     - '1'
   :file: data/report-itu-r-m-1027-1.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1028'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1028-2.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -447,12 +831,28 @@
     - '0'
   :file: data/report-itu-r-m-1028-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1029'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1029-2.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '103'
     study_group: '6'
     has_colon: true
   :file: data/itu-r-103-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1030'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1030-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -1294,6 +1694,70 @@
     - '1'
   :file: data/report-itu-r-bs-1060-1.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1061'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1061-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1061'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1061-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1062'
+    parts:
+    - '4'
+  :file: data/itu-r-s-1062-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1062'
+    parts:
+    - '3'
+  :file: data/itu-r-s-1062-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1062'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1062-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1062'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1062-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1062'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1062-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1063'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1063-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BS
@@ -1301,6 +1765,30 @@
     parts:
     - '0'
   :file: data/report-itu-r-bs-1063-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1064'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1064-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1064'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1064-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1065'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1065-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -1310,6 +1798,22 @@
     - '0'
   :file: data/report-itu-r-bs-1065-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1066'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1066-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1067'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1067-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BS
@@ -1317,6 +1821,22 @@
     parts:
     - '0'
   :file: data/report-itu-r-bs-1067-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1068'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1068-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1069'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1069-0.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -1332,6 +1852,14 @@
     parts:
     - '0'
   :file: data/itu-r-sng-1070-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1071'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1071-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -3229,12 +3757,48 @@
     - '0'
   :file: data/itu-r-p-1148-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1149'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1149-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1149'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1149-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1149'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1149-0.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '115'
     study_group: '6'
     has_colon: true
   :file: data/itu-r-115-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1150'
+  :file: data/itu-r-s-1150.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1151'
+  :file: data/itu-r-s-1151.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -3290,6 +3854,38 @@
     - '0'
   :file: data/report-itu-r-m-1153-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1154'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1154-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1155'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1155-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1155'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1155-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1155'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1155-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -3297,6 +3893,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1155-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1156'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1156-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -3306,6 +3910,22 @@
     - '0'
   :file: data/report-itu-r-m-1156-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1157'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1157-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1157'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1157-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -3314,6 +3934,38 @@
     - '0'
   :file: data/report-itu-r-m-1157-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1158'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1158-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1158'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1158-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1158'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1158-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1158'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1158-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -3321,6 +3973,46 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1158-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1159'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1159-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1159'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1159-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1159'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1159-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1159'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1159-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1159'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1159-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -3337,6 +4029,38 @@
     has_colon: true
   :file: data/itu-r-116-6.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1160'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1160-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1160'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1160-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1160'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1160-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1160'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1160-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -3344,6 +4068,38 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1160-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1161'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1161-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1161'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1161-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1161'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1161-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1161'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1161-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -3353,6 +4109,62 @@
     - '0'
   :file: data/report-itu-r-m-1161-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1162'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1162-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1162'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1162-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1162'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1162-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1163'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1163-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1163'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1163-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1163'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1163-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1163'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1163-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -3361,6 +4173,70 @@
     - '0'
   :file: data/report-itu-r-m-1163-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1164'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1164-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1164'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1164-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1164'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1164-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1164'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1164-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1164'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1164-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1165'
+    parts:
+    - '3'
+  :file: data/itu-r-rs-1165-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1165'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1165-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1165'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1165-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -3368,6 +4244,46 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-1165-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1166'
+    parts:
+    - '6'
+  :file: data/itu-r-rs-1166-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1166'
+    parts:
+    - '5'
+  :file: data/itu-r-rs-1166-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1166'
+    parts:
+    - '4'
+  :file: data/itu-r-rs-1166-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1166'
+    parts:
+    - '3'
+  :file: data/itu-r-rs-1166-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1166'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1166-2.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -4860,6 +5776,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: SA
+    number: '1236'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1236-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: RA
     number: '1237'
     parts:
@@ -5248,6 +6172,116 @@
     has_colon: true
   :file: data/itu-r-125-6.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1250'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1250-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1251'
+  :file: data/itu-r-s-1251.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1252'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1252-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1253'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1253-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1254'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1254-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1255'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1255-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1256'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1256-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1257'
+    parts:
+    - '3'
+  :file: data/itu-r-s-1257-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1257'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1257-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1257'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1257-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1257'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1257-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1258'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1258-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1258'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1258-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1259'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1259-0.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '126'
@@ -5263,6 +6297,78 @@
     study_group: '6'
     has_colon: true
   :file: data/itu-r-126-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1260'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1260-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1260'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1260-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1261'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1261-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1262'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1262-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1263'
+    parts:
+    - '3'
+  :file: data/itu-r-rs-1263-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1263'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1263-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1263'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1263-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1263'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1263-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1264'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1264-1.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -5391,6 +6497,134 @@
     - '0'
   :file: data/itu-r-ra-1272-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1273'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1273-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1274'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1274-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1275'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1275-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1275'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1275-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1275'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1275-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1275'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1275-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1275'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1275-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1276'
+    parts:
+    - '5'
+  :file: data/itu-r-sa-1276-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1276'
+    parts:
+    - '4'
+  :file: data/itu-r-sa-1276-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1276'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-1276-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1276'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1276-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1276'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1276-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1276'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1276-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1277'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1277-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1278'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1278-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1279'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1279-0.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '128'
@@ -5415,6 +6649,30 @@
     study_group: '6'
     has_colon: true
   :file: data/itu-r-128-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1280'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1280-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1281'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1281-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1282'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1282-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -6181,6 +7439,142 @@
     - '0'
   :file: data/itu-r-p-1322-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1323'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1323-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1323'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1323-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1323'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1323-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1324'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1324-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1325'
+    parts:
+    - '3'
+  :file: data/itu-r-s-1325-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1325'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1325-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1325'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1325-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1325'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1325-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1326'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1326-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1327'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1327-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1328'
+    parts:
+    - '5'
+  :file: data/itu-r-s-1328-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1328'
+    parts:
+    - '4'
+  :file: data/itu-r-s-1328-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1328'
+    parts:
+    - '3'
+  :file: data/itu-r-s-1328-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1328'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1328-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1328'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1328-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1328'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1328-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1329'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1329-0.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '133'
@@ -6353,12 +7747,52 @@
     - '0'
   :file: data/itu-r-f-1338-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1339'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1339-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1339'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1339-0.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '134'
     study_group: '6'
     has_colon: true
   :file: data/itu-r-134-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1340'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1340-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1341'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1341-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1342'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1342-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -6375,6 +7809,54 @@
     parts:
     - '0'
   :file: data/itu-r-m-1343-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1344'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1344-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1344'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1344-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1345'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1345-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1345'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1345-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1346'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1346-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1347'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1347-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -7429,6 +8911,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: SA
+    number: '1396'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1396-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: F
     number: '1397'
     parts:
@@ -7963,6 +9453,46 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: SA
+    number: '1414'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-1414-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1414'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1414-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1414'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1414-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1415'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1415-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1416'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1416-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: RA
     number: '1417'
     parts:
@@ -7976,6 +9506,22 @@
     parts:
     - '0'
   :file: data/itu-r-ra-1417-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1418'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1418-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1419'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1419-0.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -8013,6 +9559,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1420'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1420-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SNG
     number: '1421'
     parts:
@@ -8043,6 +9597,70 @@
     - '0'
   :file: data/itu-r-bs-1423-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1424'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1424-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1425'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1425-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1426'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1426-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1427'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1427-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1427'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1427-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1428'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1428-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1428'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1428-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1429'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1429-0.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '143'
@@ -8067,6 +9685,46 @@
     study_group: '6'
     has_colon: true
   :file: data/itu-r-143-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1430'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1430-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1431'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1431-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1432'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1432-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1432'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1432-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1433'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1433-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -8234,6 +9892,14 @@
     parts:
     - '0'
   :file: data/itu-r-sm-1448-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1449'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1449-0.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -9335,6 +11001,46 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1503'
+    parts:
+    - '4'
+  :file: data/itu-r-s-1503-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1503'
+    parts:
+    - '3'
+  :file: data/itu-r-s-1503-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1503'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1503-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1503'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1503-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1503'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1503-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: BO
     number: '1504'
     parts:
@@ -9468,6 +11174,14 @@
     parts:
     - '0'
   :file: data/itu-r-p-1511-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1512'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1512-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -9621,6 +11335,118 @@
     parts:
     - '0'
   :file: data/itu-r-f-1520-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1521'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1521-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1521'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1521-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1522'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1522-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1522'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1522-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1523'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1523-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1524'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1524-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1525'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1525-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1525'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1525-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1526'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1526-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1526'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1526-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1527'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1527-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1528'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1528-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1528'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1528-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1529'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1529-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -10048,6 +11874,70 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1553'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1553-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1554'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1554-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1555'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1555-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1556'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1556-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1557'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1557-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1558'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1558-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1559'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1559-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1560'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1560-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SNG
     number: '1561'
     parts:
@@ -10414,6 +12304,118 @@
     parts:
     - '0'
   :file: data/itu-r-sf-1585-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1586'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1586-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1586'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1586-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1587'
+    parts:
+    - '3'
+  :file: data/itu-r-s-1587-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1587'
+    parts:
+    - '2'
+  :file: data/itu-r-s-1587-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1587'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1587-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1587'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1587-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1588'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1588-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1589'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1589-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1590'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1590-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1591'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1591-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1592'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1592-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1593'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1593-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1594'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1594-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1595'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1595-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -10823,6 +12825,62 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: RS
+    number: '1624'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1624-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1625'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1625-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1626'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1626-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1626'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1626-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1627'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1627-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1628'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1628-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1629'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1629-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: RA
     number: '1630'
     parts:
@@ -10836,6 +12894,14 @@
     parts:
     - '0'
   :file: data/itu-r-ra-1631-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1632'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1632-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -11007,6 +13073,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1647'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1647-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SF
     number: '1648'
     parts:
@@ -11084,6 +13158,22 @@
     parts:
     - '0'
   :file: data/itu-r-m-1654-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1655'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1655-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1656'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1656-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -11324,6 +13414,30 @@
     parts:
     - '0'
   :file: data/itu-r-f-1671-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1672'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1672-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1673'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1673-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1673'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1673-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -11788,11 +13902,123 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1709'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1709-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1709'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1709-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SNG
     number: '1710'
     parts:
     - '0'
   :file: data/itu-r-sng-1710-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1711'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1711-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1711'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1711-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1712'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1712-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1713'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1713-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1713'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1713-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1714'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1714-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1714'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1714-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1715'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1715-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1716'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1716-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1717'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1717-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1717'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1717-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1718'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1718-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -12116,6 +14342,44 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: SA
+    number: '1742'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1742-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1743'
+  :file: data/itu-r-sa-1743.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1744'
+  :file: data/itu-r-rs-1744.yaml
+- :id:
+    _type: pubid:itu:combined-identifier
+    sector: R
+    series: RS
+    number: '1745'
+    combined:
+    - series: SA
+      number: '1745'
+  :file: data/itu-r-rs-1745-sa-1745.yaml
+- :id:
+    _type: pubid:itu:combined-identifier
+    sector: R
+    series: SA
+    number: '1745'
+    combined:
+    - series: RS
+      number: '1745'
+  :file: data/itu-r-sa-1745-rs-1745.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: M
     number: '1746'
     parts:
@@ -12145,6 +14409,14 @@
     parts:
     - '0'
   :file: data/itu-r-m-1748-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1749'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1749-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -12225,6 +14497,18 @@
     parts:
     - '0'
   :file: data/itu-r-sm-1757-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1758'
+  :file: data/itu-r-s-1758.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1759'
+  :file: data/itu-r-s-1759.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -12548,6 +14832,54 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1779'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1779-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1780'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1780-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1781'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1781-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1782'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1782-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1782'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1782-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1783'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1783-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: BO
     number: '1784'
     parts:
@@ -12848,6 +15180,46 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: RS
+    number: '1803'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1803-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1804'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1804-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1805'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1805-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1806'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1806-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1807'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1807-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: M
     number: '1808'
     parts:
@@ -12869,6 +15241,30 @@
     parts:
     - '0'
   :file: data/itu-r-sm-1809-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1810'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-1810-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1810'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1810-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1811'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1811-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -12941,6 +15337,30 @@
     parts:
     - '0'
   :file: data/itu-r-p-1812-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1813'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-1813-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1813'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1813-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1813'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1813-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -13376,6 +15796,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1844'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1844-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: BT
     number: '1845'
     parts:
@@ -13568,11 +15996,91 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1855'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1855-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1856'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1856-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1857'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1857-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1858'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1858-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1859'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1859-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1859'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1859-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: RA
     number: '1860'
     parts:
     - '0'
   :file: data/itu-r-ra-1860-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1861'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1861-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1861'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1861-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1862'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1862-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1863'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1863-0.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -13832,6 +16340,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1878'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1878-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SM
     number: '1879'
     parts:
@@ -13885,6 +16401,44 @@
     parts:
     - '0'
   :file: data/itu-r-sm-1880-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1881'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1881-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '1882'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-1882-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1883'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-1883-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1883'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-1883-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '1884'
+  :file: data/itu-r-rs-1884.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -14044,6 +16598,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '1897'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1897-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: BO
     number: '1898'
     parts:
@@ -14057,6 +16619,14 @@
     parts:
     - '0'
   :file: data/itu-r-bo-1898-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1899'
+    parts:
+    - '0'
+  :file: data/itu-r-s-1899-0.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -15102,6 +17672,14 @@
     - '0'
   :file: data/report-itu-r-bo-2016-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2017'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2017-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -15421,6 +17999,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-sm-2028-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2029'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2029-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -15879,6 +18465,28 @@
     - '0'
   :file: data/report-itu-r-m-2041-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2042'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-2042-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2042'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-2042-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2042'
+  :file: data/itu-r-rs-2042.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -15927,6 +18535,12 @@
     - '2'
   :file: data/report-itu-r-bt-2042-2.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2043'
+  :file: data/itu-r-rs-2043.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -15935,6 +18549,14 @@
     - '0'
   :file: data/report-itu-r-bt-2043-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2044'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2044-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -15942,6 +18564,12 @@
     parts:
     - '0'
   :file: data/report-itu-r-bt-2044-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2045'
+  :file: data/itu-r-sa-2045.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -15998,6 +18626,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-sm-2048-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2049'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2049-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -16488,6 +19124,14 @@
     - '0'
   :file: data/report-itu-r-f-2061-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2062'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2062-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: F
@@ -16512,6 +19156,14 @@
     - '0'
   :file: data/report-itu-r-m-2063-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2064'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2064-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -16520,6 +19172,14 @@
     - '0'
   :file: data/report-itu-r-m-2064-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2065'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2065-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: SA
@@ -16527,6 +19187,22 @@
     parts:
     - '0'
   :file: data/report-itu-r-sa-2065-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2066'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-2066-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2066'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2066-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -17012,6 +19688,14 @@
     - '0'
   :file: data/report-itu-r-m-2077-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2078'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2078-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -17019,6 +19703,22 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2078-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2079'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-2079-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2079'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2079-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -17598,6 +20298,14 @@
     - '0'
   :file: data/report-itu-r-sa-2098-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2099'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2099-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: RA
@@ -17825,6 +20533,38 @@
     - '0'
   :file: data/report-itu-r-bs-2104-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2105'
+    parts:
+    - '3'
+  :file: data/itu-r-rs-2105-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2105'
+    parts:
+    - '2'
+  :file: data/itu-r-rs-2105-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2105'
+    parts:
+    - '1'
+  :file: data/itu-r-rs-2105-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2105'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2105-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BS
@@ -17832,6 +20572,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-bs-2105-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2106'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2106-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -18102,6 +20850,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2111-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2112'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2112-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -18623,6 +21379,22 @@
     - '0'
   :file: data/report-itu-r-sm-2130-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2131'
+    parts:
+    - '1'
+  :file: data/itu-r-s-2131-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2131'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2131-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: RA
@@ -18977,6 +21749,22 @@
     - '0'
   :file: data/report-itu-r-bt-2140-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2141'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-2141-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2141'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2141-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -18984,6 +21772,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2141-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2142'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2142-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -19402,6 +22198,14 @@
     - '0'
   :file: data/report-itu-r-sm-2154-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2155'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2155-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: SM
@@ -19409,6 +22213,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-sm-2155-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2156'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-2156-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -19418,6 +22230,14 @@
     - '0'
   :file: data/report-itu-r-sm-2156-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2157'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2157-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: SM
@@ -19425,6 +22245,14 @@
     parts:
     - '0'
   :file: data/report-itu-r-sm-2157-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2158'
+    parts:
+    - '0'
+  :file: data/itu-r-s-2158-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -19699,6 +22527,14 @@
     - '0'
   :file: data/report-itu-r-sa-2164-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '2165'
+    parts:
+    - '0'
+  :file: data/itu-r-rs-2165-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: RS
@@ -19760,6 +22596,12 @@
     parts:
     - '0'
   :file: data/report-itu-r-m-2168-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '2169'
+  :file: data/itu-r-sa-2169.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -28597,6 +31439,30 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '352'
+    parts:
+    - '4'
+  :file: data/itu-r-s-352-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '353'
+    parts:
+    - '8'
+  :file: data/itu-r-s-353-8.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '354'
+    parts:
+    - '2'
+  :file: data/itu-r-s-354-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SF
     number: '355'
     parts:
@@ -28711,6 +31577,38 @@
     series: R
     number: '36'
   :file: data/itu-r-r-36.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '362'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-362-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '363'
+    parts:
+    - '5'
+  :file: data/itu-r-sa-363-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '364'
+    parts:
+    - '6'
+  :file: data/itu-r-sa-364-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '364'
+    parts:
+    - '5'
+  :file: data/itu-r-sa-364-5.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -30178,6 +33076,14 @@
     - '3'
   :file: data/itu-r-f-444-3.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '446'
+    parts:
+    - '4'
+  :file: data/itu-r-s-446-4.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '45'
@@ -30657,6 +33563,14 @@
     - '5'
   :file: data/report-itu-r-bs-463-5.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '464'
+    parts:
+    - '2'
+  :file: data/itu-r-s-464-2.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BS
@@ -30664,6 +33578,30 @@
     parts:
     - '5'
   :file: data/report-itu-r-bs-464-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '465'
+    parts:
+    - '6'
+  :file: data/itu-r-s-465-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '465'
+    parts:
+    - '5'
+  :file: data/itu-r-s-465-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '466'
+    parts:
+    - '6'
+  :file: data/itu-r-s-466-6.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -30945,6 +33883,22 @@
     - '0'
   :file: data/itu-r-f-480-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '481'
+    parts:
+    - '2'
+  :file: data/itu-r-s-481-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '482'
+    parts:
+    - '2'
+  :file: data/itu-r-s-482-2.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -30952,6 +33906,30 @@
     parts:
     - '1'
   :file: data/report-itu-r-bt-482-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '483'
+    parts:
+    - '3'
+  :file: data/itu-r-s-483-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '483'
+    parts:
+    - '2'
+  :file: data/itu-r-s-483-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '484'
+    parts:
+    - '3'
+  :file: data/itu-r-s-484-3.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -31487,6 +34465,30 @@
     - '0'
   :file: data/itu-r-sm-508-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '509'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-509-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '509'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-509-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '509'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-509-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -31513,6 +34515,87 @@
     series: R
     number: '51'
   :file: data/itu-r-r-51.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '510'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-510-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '510'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-510-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '510'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-510-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '513'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-513-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '514'
+    parts:
+    - '3'
+  :file: data/itu-r-sa-514-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '514'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-514-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '515'
+    parts:
+    - '6'
+  :file: data/itu-r-rs-515-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '515'
+    parts:
+    - '5'
+  :file: data/itu-r-rs-515-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '515'
+    parts:
+    - '4'
+  :file: data/itu-r-rs-515-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '516'
+    parts:
+    - '1'
+    - '0'
+  :file: data/itu-r-rs-516-1-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -31611,6 +34694,78 @@
     parts:
     - '2'
   :file: data/itu-r-f-520-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '521'
+    parts:
+    - '4'
+  :file: data/itu-r-s-521-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '521'
+    parts:
+    - '3'
+  :file: data/itu-r-s-521-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '522'
+    parts:
+    - '5'
+  :file: data/itu-r-s-522-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '523'
+    parts:
+    - '4'
+  :file: data/itu-r-s-523-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '524'
+    parts:
+    - '9'
+  :file: data/itu-r-s-524-9.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '524'
+    parts:
+    - '8'
+  :file: data/itu-r-s-524-8.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '524'
+    parts:
+    - '7'
+  :file: data/itu-r-s-524-7.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '524'
+    parts:
+    - '6'
+  :file: data/itu-r-s-524-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '524'
+    parts:
+    - '5'
+  :file: data/itu-r-s-524-5.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -32855,6 +36010,78 @@
     - '0'
   :file: data/itu-r-sm-575-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '577'
+    parts:
+    - '8'
+  :file: data/itu-r-rs-577-8.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '577'
+    parts:
+    - '7'
+  :file: data/itu-r-rs-577-7.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '577'
+    parts:
+    - '6'
+  :file: data/itu-r-rs-577-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: RS
+    number: '577'
+    parts:
+    - '5'
+  :file: data/itu-r-rs-577-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '578'
+    parts:
+    - '0'
+  :file: data/itu-r-sa-578-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '579'
+    parts:
+    - '6'
+  :file: data/itu-r-s-579-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '579'
+    parts:
+    - '5'
+  :file: data/itu-r-s-579-5.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '579'
+    parts:
+    - '4'
+  :file: data/itu-r-s-579-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '579'
+    parts:
+    - '3'
+  :file: data/itu-r-s-579-3.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '58'
@@ -32889,6 +36116,22 @@
     series: R
     number: '58'
   :file: data/itu-r-r-58.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '580'
+    parts:
+    - '6'
+  :file: data/itu-r-s-580-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '580'
+    parts:
+    - '5'
+  :file: data/itu-r-s-580-5.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -33494,6 +36737,22 @@
     - '2'
   :file: data/itu-r-v-608-2.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '609'
+    parts:
+    - '2'
+  :file: data/itu-r-sa-609-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SA
+    number: '609'
+    parts:
+    - '1'
+  :file: data/itu-r-sa-609-1.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '61'
@@ -33576,6 +36835,22 @@
     parts:
     - '0'
   :file: data/itu-r-f-613-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '614'
+    parts:
+    - '4'
+  :file: data/itu-r-s-614-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '614'
+    parts:
+    - '3'
+  :file: data/itu-r-s-614-3.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -34790,6 +38065,70 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: R
+    series: S
+    number: '670'
+    parts:
+    - '1'
+  :file: data/itu-r-s-670-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '671'
+    parts:
+    - '3'
+  :file: data/itu-r-s-671-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '672'
+    parts:
+    - '4'
+  :file: data/itu-r-s-672-4.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '672'
+    parts:
+    - '3'
+  :file: data/itu-r-s-672-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '672'
+    parts:
+    - '2'
+  :file: data/itu-r-s-672-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '673'
+    parts:
+    - '2'
+  :file: data/itu-r-s-673-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '673'
+    parts:
+    - '1'
+  :file: data/itu-r-s-673-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '673'
+    parts:
+    - '0'
+  :file: data/itu-r-s-673-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
     series: SF
     number: '674'
     parts:
@@ -35974,6 +39313,46 @@
     - '1'
   :file: data/itu-r-sng-722-1.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '725'
+    parts:
+    - '0'
+  :file: data/itu-r-s-725-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '726'
+    parts:
+    - '1'
+  :file: data/itu-r-s-726-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '727'
+    parts:
+    - '2'
+  :file: data/itu-r-s-727-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '727'
+    parts:
+    - '0'
+  :file: data/itu-r-s-727-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '727'
+    parts:
+    - '1'
+  :file: data/itu-r-s-727-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -35981,6 +39360,30 @@
     parts:
     - '3'
   :file: data/report-itu-r-p-727-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '728'
+    parts:
+    - '1'
+  :file: data/itu-r-s-728-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '728'
+    parts:
+    - '0'
+  :file: data/itu-r-s-728-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '729'
+    parts:
+    - '0'
+  :file: data/itu-r-s-729-0.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -36022,6 +39425,126 @@
     number: '73'
   :file: data/itu-r-r-73.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '730'
+    parts:
+    - '0'
+  :file: data/itu-r-s-730-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '731'
+    parts:
+    - '1'
+  :file: data/itu-r-s-731-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '731'
+    parts:
+    - '0'
+  :file: data/itu-r-s-731-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '732'
+    parts:
+    - '1'
+  :file: data/itu-r-s-732-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '732'
+    parts:
+    - '0'
+  :file: data/itu-r-s-732-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '733'
+    parts:
+    - '2'
+  :file: data/itu-r-s-733-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '733'
+    parts:
+    - '1'
+  :file: data/itu-r-s-733-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '734'
+    parts:
+    - '0'
+  :file: data/itu-r-s-734-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '735'
+    parts:
+    - '1'
+  :file: data/itu-r-s-735-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '736'
+    parts:
+    - '3'
+  :file: data/itu-r-s-736-3.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '736'
+    parts:
+    - '1'
+  :file: data/itu-r-s-736-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '736'
+    parts:
+    - '2'
+  :file: data/itu-r-s-736-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '737'
+    parts:
+    - '0'
+  :file: data/itu-r-s-737-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '738'
+    parts:
+    - '0'
+  :file: data/itu-r-s-738-0.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '739'
+    parts:
+    - '0'
+  :file: data/itu-r-s-739-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -36043,6 +39566,14 @@
     number: '74'
   :file: data/itu-r-r-74.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '740'
+    parts:
+    - '0'
+  :file: data/itu-r-s-740-0.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -36050,6 +39581,14 @@
     parts:
     - '2'
   :file: data/report-itu-r-m-740-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '741'
+    parts:
+    - '2'
+  :file: data/itu-r-s-741-2.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
@@ -36059,6 +39598,14 @@
     - '3'
   :file: data/report-itu-r-m-741-3.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '742'
+    parts:
+    - '1'
+  :file: data/itu-r-s-742-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -36067,6 +39614,14 @@
     - '4'
   :file: data/report-itu-r-m-742-4.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '743'
+    parts:
+    - '1'
+  :file: data/itu-r-s-743-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -36074,6 +39629,14 @@
     parts:
     - '1'
   :file: data/report-itu-r-m-743-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '744'
+    parts:
+    - '0'
+  :file: data/itu-r-s-744-0.yaml
 - :id:
     _type: pubid:itu:report
     sector: R
