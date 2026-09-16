@@ -1,13 +1,10 @@
----
 id: ITURF20110
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Evaluation of interference from high-altitude platform (HAPS) gateway links
-    (HAPS-to-ground direction) in the fixed service to conventional fixed wireless
-    systems in the range 5 850-7 075 MHz
+  content: Evaluation of interference from high-altitude platform (HAPS) gateway links (HAPS-to-ground direction) in the fixed service to conventional fixed wireless systems in the range 5 850-7 075 MHz
   type: main
 source:
 - type: pdf

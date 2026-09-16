@@ -1,12 +1,10 @@
----
 id: ITURBT11290
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Subjective assessment of digital television systems at or near the quality
-    of conventional systems
+  content: Subjective assessment of digital television systems at or near the quality of conventional systems
   type: main
 docidentifier:
 - content: ITU-R BT.1129-0

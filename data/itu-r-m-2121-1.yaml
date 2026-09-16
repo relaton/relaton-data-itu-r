@@ -1,12 +1,10 @@
----
 id: ITURM21211
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Harmonization of frequency bands for Intelligent Transport Systems in the
-    mobile service
+  content: Harmonization of frequency bands for Intelligent Transport Systems in the mobile service
   type: main
 source:
 - type: pdf

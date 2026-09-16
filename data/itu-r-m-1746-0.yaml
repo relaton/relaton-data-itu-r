@@ -1,12 +1,10 @@
----
 id: ITURM17460
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Harmonized frequency channel plans for the protection of property using
-    data communication
+  content: Harmonized frequency channel plans for the protection of property using data communication
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURM20690
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Antenna rotation variability and effects on antenna coupling for radar
-    interference analysis
+  content: Antenna rotation variability and effects on antenna coupling for radar interference analysis
   type: main
 source:
 - type: pdf

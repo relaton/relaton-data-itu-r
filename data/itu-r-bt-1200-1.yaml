@@ -1,12 +1,10 @@
----
 id: ITURBT12001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Target standard for digital video systems for the studio and for international
-    programme exchange
+  content: Target standard for digital video systems for the studio and for international programme exchange
   type: main
 source:
 - type: pdf

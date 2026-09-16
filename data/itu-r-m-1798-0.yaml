@@ -1,12 +1,10 @@
----
 id: ITURM17980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Characteristics of HF radio equipment for the exchange of digital data
-    and electronic mail in the maritime mobile service
+  content: Characteristics of HF radio equipment for the exchange of digital data and electronic mail in the maritime mobile service
   type: main
 source:
 - type: pdf

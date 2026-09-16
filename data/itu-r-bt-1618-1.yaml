@@ -1,12 +1,10 @@
----
 id: ITURBT16181
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data structure for DV-based audio, data and compressed video at data rates
-    of 25 and 50 Mbit/s
+  content: Data structure for DV-based audio, data and compressed video at data rates of 25 and 50 Mbit/s
   type: main
 source:
 - type: pdf

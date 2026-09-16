@@ -1,13 +1,10 @@
----
 id: ITURM5491
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Side tone reference equivalent of handset used on board a ship in the maritime
-    mobile-satellite service and in automated VHF/UHF maritime mobile radiotelephone
-    systems
+  content: Side tone reference equivalent of handset used on board a ship in the maritime mobile-satellite service and in automated VHF/UHF maritime mobile radiotelephone systems
   type: main
 source:
 - type: pdf

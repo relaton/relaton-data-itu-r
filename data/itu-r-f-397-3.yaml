@@ -1,12 +1,10 @@
----
 id: ITURF3973
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Allowable noise power in the hypothetical reference circuit of trans-horizon
-    radio-relay systems for telephony using frequency-division multiplex
+  content: Allowable noise power in the hypothetical reference circuit of trans-horizon radio-relay systems for telephony using frequency-division multiplex
   type: main
 source:
 - type: pdf

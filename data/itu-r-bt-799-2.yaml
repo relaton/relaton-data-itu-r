@@ -1,13 +1,10 @@
----
 id: ITURBT7992
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interfaces for digital component video signals in 525-line and 625-line
-    television systems operating at the 4:4:4 level of Recommendation ITU-R BT.601
-    (Part A)
+  content: Interfaces for digital component video signals in 525-line and 625-line television systems operating at the 4:4:4 level of Recommendation ITU-R BT.601 (Part A)
   type: main
 docidentifier:
 - content: ITU-R BT.799-2

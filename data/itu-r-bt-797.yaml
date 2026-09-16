@@ -1,12 +1,10 @@
----
 id: ITURBT797
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Parameters for wide aspect and 4:3 enhanced television systems that are
-    NTSC-compatible
+  content: Parameters for wide aspect and 4:3 enhanced television systems that are NTSC-compatible
   type: main
 source:
 - type: pdf

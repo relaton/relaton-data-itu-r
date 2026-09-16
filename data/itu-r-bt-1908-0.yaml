@@ -1,12 +1,10 @@
----
 id: ITURBT19080
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Objective video quality measurement techniques for broadcasting applications
-    using HDTV in the presence of a reduced reference signal
+  content: Objective video quality measurement techniques for broadcasting applications using HDTV in the presence of a reduced reference signal
   type: main
 source:
 - type: pdf

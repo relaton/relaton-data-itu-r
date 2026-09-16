@@ -1,12 +1,10 @@
----
 id: ITURM13713
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical characteristics for an automatic identification system using
-    time division multiple access in the VHF maritime mobile band
+  content: Technical characteristics for an automatic identification system using time division multiple access in the VHF maritime mobile band
   type: main
 source:
 - type: pdf

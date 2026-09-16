@@ -1,12 +1,10 @@
----
 id: ITURF14011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Considerations for the identification of possible frequency bands for fixed
-    wireless access and related sharing studies
+  content: Considerations for the identification of possible frequency bands for fixed wireless access and related sharing studies
   type: main
 source:
 - type: pdf

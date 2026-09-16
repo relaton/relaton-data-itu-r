@@ -1,12 +1,10 @@
----
 id: ITURBT21440
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidance for the introduction of new DTTB systems, technologies and applications
-    in the broadcasting service
+  content: Guidance for the introduction of new DTTB systems, technologies and applications in the broadcasting service
   type: main
 source:
 - type: pdf

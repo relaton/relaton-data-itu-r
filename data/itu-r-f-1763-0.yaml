@@ -1,12 +1,10 @@
----
 id: ITURF17630
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Radio interface standards for broadband wireless access systems in the
-    fixed service operating below 66 GHz
+  content: Radio interface standards for broadband wireless access systems in the fixed service operating below 66 GHz
   type: main
 source:
 - type: pdf

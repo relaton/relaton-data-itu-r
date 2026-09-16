@@ -1,12 +1,10 @@
----
 id: ITURM17312
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Protection criteria for Cospas-Sarsat local user terminals in the band
-    1 544-1 545 MHz
+  content: Protection criteria for Cospas-Sarsat local user terminals in the band 1 544-1 545 MHz
   type: main
 source:
 - type: pdf

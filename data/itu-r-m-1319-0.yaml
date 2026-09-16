@@ -1,13 +1,10 @@
----
 id: ITURM13190
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The basis of a methodology to assess the impact of interference from a
-    TDMA/FDMA non-GSO MSS satellite system operating in the 2 GHz range on the performance
-    of line-of-sight fixed service receivers
+  content: The basis of a methodology to assess the impact of interference from a TDMA/FDMA non-GSO MSS satellite system operating in the 2 GHz range on the performance of line-of-sight fixed service receivers
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURF3398
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Bandwidths, signal-to-noise ratios and fading allowances in HF fixed and
-    land mobile radiocommunication systems
+  content: Bandwidths, signal-to-noise ratios and fading allowances in HF fixed and land mobile radiocommunication systems
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURBT2035
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A reference viewing environment for evaluation of HDTV program material
-    or completed programmes
+  content: A reference viewing environment for evaluation of HDTV program material or completed programmes
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURF7492
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Radio-frequency arrangements for systems of the fixed service operating
-    in the 38 GHz band
+  content: Radio-frequency arrangements for systems of the fixed service operating in the 38 GHz band
   type: main
 source:
 - type: pdf

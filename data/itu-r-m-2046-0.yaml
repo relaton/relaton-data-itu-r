@@ -1,12 +1,10 @@
----
 id: ITURM20460
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Characteristics and protection criteria for non-geostationary mobile-satellite
-    service systems operating in the band 399.9-400.05 MHz
+  content: Characteristics and protection criteria for non-geostationary mobile-satellite service systems operating in the band 399.9-400.05 MHz
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURBT7095
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Parameter values for the HDTV standards for production and international
-    programme exchange
+  content: Parameter values for the HDTV standards for production and international programme exchange
   type: main
 source:
 - type: pdf

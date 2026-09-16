@@ -1,12 +1,10 @@
----
 id: ITURM10350
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework for the radio interface(s) and radio sub-system functionality
-    for International Mobile Telecommunications-2000 (IMT-2000)
+  content: Framework for the radio interface(s) and radio sub-system functionality for International Mobile Telecommunications-2000 (IMT-2000)
   type: main
 source:
 - type: pdf

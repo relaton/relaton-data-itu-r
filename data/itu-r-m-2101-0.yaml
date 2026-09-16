@@ -1,12 +1,10 @@
----
 id: ITURM21010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Modelling and simulation of IMT networks and systems for use in sharing
-    and compatibility studies
+  content: Modelling and simulation of IMT networks and systems for use in sharing and compatibility studies
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURF6354
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Radio-frequency channel arrangements based on a homogeneous pattern for
-    radio-relay systems operating in the 4 GHz band
+  content: Radio-frequency channel arrangements based on a homogeneous pattern for radio-relay systems operating in the 4 GHz band
   type: main
 source:
 - type: pdf

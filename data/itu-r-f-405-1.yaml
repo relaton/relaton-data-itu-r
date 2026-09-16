@@ -1,12 +1,10 @@
----
 id: ITURF4051
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Pre-emphasis characteristics for frequency modulation radio-relay systems
-    for television
+  content: Pre-emphasis characteristics for frequency modulation radio-relay systems for television
   type: main
 source:
 - type: pdf

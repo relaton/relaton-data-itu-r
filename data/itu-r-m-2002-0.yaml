@@ -1,12 +1,10 @@
----
 id: ITURM20020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Objectives, characteristics and functional requirements of wide-area sensor
-    and/or actuator network (WASN) systems
+  content: Objectives, characteristics and functional requirements of wide-area sensor and/or actuator network (WASN) systems
   type: main
 source:
 - type: pdf

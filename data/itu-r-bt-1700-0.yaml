@@ -1,12 +1,10 @@
----
 id: ITURBT17000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Characteristics of composite video signals for conventional analogue television
-    systems
+  content: Characteristics of composite video signals for conventional analogue television systems
   type: main
 docidentifier:
 - content: ITU-R BT.1700-0

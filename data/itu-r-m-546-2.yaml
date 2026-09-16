@@ -1,12 +1,10 @@
----
 id: ITURM5462
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Hypothetical telephone reference circuit in the aeronautical, land and
-    maritime mobile-satellite services
+  content: Hypothetical telephone reference circuit in the aeronautical, land and maritime mobile-satellite services
   type: main
 source:
 - type: pdf

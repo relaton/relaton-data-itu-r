@@ -1,12 +1,10 @@
----
 id: ITURBT11181
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Enhanced compatible widescreen television based on conventional television
-    systems
+  content: Enhanced compatible widescreen television based on conventional television systems
   type: main
 source:
 - type: pdf

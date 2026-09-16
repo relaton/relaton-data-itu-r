@@ -1,13 +1,10 @@
----
 id: ITURF13310
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance degradation due to interference from other services sharing
-    the same frequency bands on a primary basis with analogue radio-relay systems
-    for television
+  content: Performance degradation due to interference from other services sharing the same frequency bands on a primary basis with analogue radio-relay systems for television
   type: main
 source:
 - type: pdf

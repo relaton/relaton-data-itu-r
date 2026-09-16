@@ -1,12 +1,10 @@
----
 id: ITURM14781
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Protection criteria for Cospas-Sarsat search and rescue instruments in
-    the band 406-406.1 MHz
+  content: Protection criteria for Cospas-Sarsat search and rescue instruments in the band 406-406.1 MHz
   type: main
 source:
 - type: pdf

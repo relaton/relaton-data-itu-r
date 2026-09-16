@@ -1,12 +1,10 @@
----
 id: ITURF13300
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance limits for bringing into service of the parts of international
-    PDH and SDH paths and sections implemented by digital radio-relay systems
+  content: Performance limits for bringing into service of the parts of international PDH and SDH paths and sections implemented by digital radio-relay systems
   type: main
 source:
 - type: pdf

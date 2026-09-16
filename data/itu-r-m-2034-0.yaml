@@ -1,12 +1,10 @@
----
 id: ITURM20340
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Telegraphic alphabet for data communication by phase shift keying at 31
-    baud in the amateur and amateur-satellite services
+  content: Telegraphic alphabet for data communication by phase shift keying at 31 baud in the amateur and amateur-satellite services
   type: main
 source:
 - type: pdf

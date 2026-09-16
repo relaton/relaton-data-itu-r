@@ -1,13 +1,10 @@
----
 id: ITURM20850
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical conditions for the use of wireless avionics intra-communication
-    systems operating in the aeronautical mobile (R) service in the frequency band
-    4 200- 4 400 MHz
+  content: Technical conditions for the use of wireless avionics intra-communication systems operating in the aeronautical mobile (R) service in the frequency band 4 200- 4 400 MHz
   type: main
 source:
 - type: pdf

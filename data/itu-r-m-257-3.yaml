@@ -1,12 +1,10 @@
----
 id: ITURM2573
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Sequential Single Frequency selective-calling system for use in the maritime
-    mobile service
+  content: Sequential Single Frequency selective-calling system for use in the maritime mobile service
   type: main
 source:
 - type: pdf

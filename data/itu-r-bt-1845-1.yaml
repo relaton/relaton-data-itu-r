@@ -1,13 +1,10 @@
----
 id: ITURBT18451
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines on metrics to be used when tailoring television programmes to
-    broadcasting applications at various image quality levels, display sizes and aspect
-    ratios
+  content: Guidelines on metrics to be used when tailoring television programmes to broadcasting applications at various image quality levels, display sizes and aspect ratios
   type: main
 source:
 - type: pdf

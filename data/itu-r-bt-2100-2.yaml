@@ -1,12 +1,10 @@
----
 id: ITURBT21002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Image parameter values for high dynamic range television for use in production
-    and international programme exchange
+  content: Image parameter values for high dynamic range television for use in production and international programme exchange
   type: main
 source:
 - type: pdf

@@ -1,12 +1,10 @@
----
 id: ITURM6900
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transmission characteristics of emergency position-indicating radio beacons
-    (EPIRBs) operating on carrier frequencies of 121.5 MHz and 243 MHz
+  content: Transmission characteristics of emergency position-indicating radio beacons (EPIRBs) operating on carrier frequencies of 121.5 MHz and 243 MHz
   type: main
 docidentifier:
 - content: ITU-R M.690-0

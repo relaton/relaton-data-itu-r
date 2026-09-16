@@ -1,12 +1,10 @@
----
 id: ITURBT17890
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A method to reconstruct received video using transmission error information
-    for packet video transmission
+  content: A method to reconstruct received video using transmission error information for packet video transmission
   type: main
 docidentifier:
 - content: ITU-R BT.1789-0

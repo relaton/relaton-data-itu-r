@@ -1,12 +1,10 @@
----
 id: ITURM16370
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Global cross-border circulation of radiocommunication equipment in emergency
-    and disaster relief situations
+  content: Global cross-border circulation of radiocommunication equipment in emergency and disaster relief situations
   type: main
 source:
 - type: pdf

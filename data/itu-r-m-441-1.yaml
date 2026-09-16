@@ -1,12 +1,10 @@
----
 id: ITURM4411
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signal-to-interference ratios and minimum field strengths required in the
-    aeronautical mobile (R) service above 30 MHz
+  content: Signal-to-interference ratios and minimum field strengths required in the aeronautical mobile (R) service above 30 MHz
   type: main
 source:
 - type: pdf

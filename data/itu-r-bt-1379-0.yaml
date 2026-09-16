@@ -1,13 +1,10 @@
----
 id: ITURBT13790
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framing of wide-screen 16:9 and standard 4:3 aspect ratio productions to
-    achieve a common production format during a transition period to wide-screen 16:9
-    production and broadcasting
+  content: Framing of wide-screen 16:9 and standard 4:3 aspect ratio productions to achieve a common production format during a transition period to wide-screen 16:9 production and broadcasting
   type: main
 source:
 - type: pdf

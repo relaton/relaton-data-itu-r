@@ -1,12 +1,10 @@
----
 id: ITURM14552
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Key characteristics for the International Mobile Telecommunications-2000
-    (IMT-2000) radio interfaces
+  content: Key characteristics for the International Mobile Telecommunications-2000 (IMT-2000) radio interfaces
   type: main
 source:
 - type: pdf

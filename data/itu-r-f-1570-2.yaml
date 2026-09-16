@@ -1,13 +1,10 @@
----
 id: ITURF15702
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Impact of uplink transmission in the fixed service using high altitude
-    platform stations on the Earth exploration-satellite service (passive) in the
-    31.3-31.8 GHz band
+  content: Impact of uplink transmission in the fixed service using high altitude platform stations on the Earth exploration-satellite service (passive) in the 31.3-31.8 GHz band
   type: main
 source:
 - type: pdf

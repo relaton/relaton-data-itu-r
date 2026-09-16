@@ -1,12 +1,10 @@
----
 id: ITURM14521
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Millimetre wave radiocommunication systems for intelligent transport system
-    applications
+  content: Millimetre wave radiocommunication systems for intelligent transport system applications
   type: main
 source:
 - type: pdf

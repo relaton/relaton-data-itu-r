@@ -1,12 +1,10 @@
----
 id: ITURF7635
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data transmission over HF circuits using phase shift keying or quadrature
-    amplitude modulation
+  content: Data transmission over HF circuits using phase shift keying or quadrature amplitude modulation
   type: main
 source:
 - type: pdf

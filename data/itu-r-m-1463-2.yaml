@@ -1,12 +1,10 @@
----
 id: ITURM14632
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Characteristics of and protection criteria for radars operating in the
-    radiodetermination service in the frequency band 1 215-1 400 MHz
+  content: Characteristics of and protection criteria for radars operating in the radiodetermination service in the frequency band 1 215-1 400 MHz
   type: main
 source:
 - type: pdf

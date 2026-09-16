@@ -1,12 +1,10 @@
----
 id: ITURBT13051
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Digital audio and auxiliary data as ancillary data signals in interfaces
-    conforming to Recommendations ITU-R BT.656 and ITU-R BT.799
+  content: Digital audio and auxiliary data as ancillary data signals in interfaces conforming to Recommendations ITU-R BT.656 and ITU-R BT.799
   type: main
 source:
 - type: pdf

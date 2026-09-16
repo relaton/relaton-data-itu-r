@@ -1,12 +1,10 @@
----
 id: ITURF4002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Service channels to be provided for the operation and maintenance of radio-relay
-    systems
+  content: Service channels to be provided for the operation and maintenance of radio-relay systems
   type: main
 source:
 - type: pdf

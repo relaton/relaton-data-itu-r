@@ -1,12 +1,10 @@
----
 id: ITURBT6552
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Radio-frequency protection ratios for AM vestigial sideband television
-    systems
+  content: Radio-frequency protection ratios for AM vestigial sideband television systems
   type: main
 source:
 - type: pdf

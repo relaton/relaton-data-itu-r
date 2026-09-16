@@ -1,12 +1,10 @@
----
 id: ITURM4891
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical characteristics of VHF radiotelephone equipment operating in
-    the maritime mobile service in channels spaced by 25 kHz
+  content: Technical characteristics of VHF radiotelephone equipment operating in the maritime mobile service in channels spaced by 25 kHz
   type: main
 docidentifier:
 - content: ITU-R M.489-1

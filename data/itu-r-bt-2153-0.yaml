@@ -1,12 +1,10 @@
----
 id: ITURBT21530
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The use of componentized workflows for the exchange of non-live television
-    programmes
+  content: The use of componentized workflows for the exchange of non-live television programmes
   type: main
 source:
 - type: pdf

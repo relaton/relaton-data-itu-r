@@ -1,14 +1,10 @@
----
 id: ITURM18270
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical and operational requirements for stations of the aeronautical
-    mobile (R) service (AM(R)S) limited to surface application at airports and for
-    stations of the aeronautical mobile service (AMS) limited to aeronautical security
-    (AS) applications in the band 5 091-5 150 MHz
+  content: Technical and operational requirements for stations of the aeronautical mobile (R) service (AM(R)S) limited to surface application at airports and for stations of the aeronautical mobile service (AMS) limited to aeronautical security (AS) applications in the band 5 091-5 150 MHz
   type: main
 source:
 - type: pdf

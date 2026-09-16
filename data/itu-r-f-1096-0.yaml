@@ -1,12 +1,10 @@
----
 id: ITURF10960
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Methods of calculating line-of-sight interference into radio-relay systems
-    to account for terrain scattering
+  content: Methods of calculating line-of-sight interference into radio-relay systems to account for terrain scattering
   type: main
 source:
 - type: pdf

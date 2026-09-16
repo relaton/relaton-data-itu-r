@@ -1,12 +1,10 @@
----
 id: ITURBT14350
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Digital sound and television broadcasting interaction channel through the
-    PSTN/ISDN
+  content: Digital sound and television broadcasting interaction channel through the PSTN/ISDN
   type: main
 source:
 - type: pdf

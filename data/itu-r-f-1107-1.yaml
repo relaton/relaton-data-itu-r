@@ -1,12 +1,10 @@
----
 id: ITURF11071
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Probabilistic analysis for calculating interference into the fixed service
-    from satellites occupying the geostationary orbit
+  content: Probabilistic analysis for calculating interference into the fixed service from satellites occupying the geostationary orbit
   type: main
 source:
 - type: pdf

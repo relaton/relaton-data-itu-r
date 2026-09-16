@@ -1,13 +1,10 @@
----
 id: ITURF6972
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Error performance and availability objectives for the local-grade portion
-    at each end of an ISDN connection at a bit rate below the primary rate utilizing
-    digital radio-relay systems
+  content: Error performance and availability objectives for the local-grade portion at each end of an ISDN connection at a bit rate below the primary rate utilizing digital radio-relay systems
   type: main
 source:
 - type: pdf

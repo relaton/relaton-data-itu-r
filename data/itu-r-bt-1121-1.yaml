@@ -1,12 +1,10 @@
----
 id: ITURBT11211
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: User requirements for the transmission through contribution and primary
-    distribution networks of digital HDTV signals
+  content: User requirements for the transmission through contribution and primary distribution networks of digital HDTV signals
   type: main
 source:
 - type: pdf

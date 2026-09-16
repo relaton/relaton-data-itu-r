@@ -1,12 +1,10 @@
----
 id: ITURBT11221
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: User requirements for emission and secondary distribution systems for SDTV,
-    HDTV and hierarchical coding schemes
+  content: User requirements for emission and secondary distribution systems for SDTV, HDTV and hierarchical coding schemes
   type: main
 source:
 - type: pdf

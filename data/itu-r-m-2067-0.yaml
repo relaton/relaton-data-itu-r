@@ -1,12 +1,10 @@
----
 id: ITURM20670
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical characteristics and protection criteria for Wireless Avionics
-    Intra-Communication systems
+  content: Technical characteristics and protection criteria for Wireless Avionics Intra-Communication systems
   type: main
 source:
 - type: pdf
