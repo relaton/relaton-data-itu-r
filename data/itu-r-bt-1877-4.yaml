@@ -1,10 +1,12 @@
+---
 id: ITURBT18774
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Error-correction, data framing, modulation and emission methods and selection guidance for second generation digital terrestrial television broadcasting systems
+  content: Error-correction, data framing, modulation and emission methods and selection
+    guidance for second generation digital terrestrial television broadcasting systems
   type: main
 source:
 - type: pdf

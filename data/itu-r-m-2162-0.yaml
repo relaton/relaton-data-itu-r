@@ -1,10 +1,13 @@
+---
 id: ITURM21620
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical and operational characteristics of radiolocation systems operating in the frequency range 92 100 GHz and radionavigation systems operating in the frequency range 95-100 GHz
+  content: Technical and operational characteristics of radiolocation systems operating
+    in the frequency range 92 100 GHz and radionavigation systems operating in the
+    frequency range 95-100 GHz
   type: main
 source:
 - type: pdf

@@ -1,10 +1,12 @@
+---
 id: ITURBT18713
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: User requirements for wireless microphones, in-ear monitoring devices and wireless multi-channel audio systems
+  content: User requirements for wireless microphones, in-ear monitoring devices and
+    wireless multi-channel audio systems
   type: main
 source:
 - type: pdf

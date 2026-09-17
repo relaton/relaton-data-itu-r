@@ -1,10 +1,12 @@
+---
 id: ITURF13330
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Estimation of the actual elevation angle from a station in the fixed service towards a space station taking into account atmospheric refraction
+  content: Estimation of the actual elevation angle from a station in the fixed service
+    towards a space station taking into account atmospheric refraction
   type: main
 source:
 - type: pdf

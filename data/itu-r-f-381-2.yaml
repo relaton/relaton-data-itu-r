@@ -1,10 +1,13 @@
+---
 id: ITURF3812
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Conditions relating to line regulating and other pilots and to limits for the residues of signals outside the baseband in the interconnection of radio-relay and line systems for telephony
+  content: Conditions relating to line regulating and other pilots and to limits for
+    the residues of signals outside the baseband in the interconnection of radio-relay
+    and line systems for telephony
   type: main
 source:
 - type: pdf

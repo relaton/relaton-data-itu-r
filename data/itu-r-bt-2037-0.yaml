@@ -1,10 +1,12 @@
+---
 id: ITURBT20370
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General requirements for broadcast-oriented applications of integrated broadcast-broadband systems and their envisaged utilization
+  content: General requirements for broadcast-oriented applications of integrated
+    broadcast-broadband systems and their envisaged utilization
   type: main
 source:
 - type: pdf

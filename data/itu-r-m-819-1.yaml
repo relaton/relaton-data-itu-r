@@ -1,10 +1,12 @@
+---
 id: ITURM8191
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Future Public Land Mobile Telecommunication Systems (FPLMTS) for developing countries
+  content: Future Public Land Mobile Telecommunication Systems (FPLMTS) for developing
+    countries
   type: main
 docidentifier:
 - content: ITU-R M.819-1

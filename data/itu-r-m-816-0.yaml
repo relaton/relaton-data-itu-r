@@ -1,10 +1,12 @@
+---
 id: ITURM8160
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework for services supported on future public land mobile telecommunication systems (FPLMTS)
+  content: Framework for services supported on future public land mobile telecommunication
+    systems (FPLMTS)
   type: main
 source:
 - type: pdf

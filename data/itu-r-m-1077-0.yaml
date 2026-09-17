@@ -1,10 +1,12 @@
+---
 id: ITURM10770
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Multi-transmitter radio systems using quasi-synchronous (simulcast) transmission for analogue speech
+  content: Multi-transmitter radio systems using quasi-synchronous (simulcast) transmission
+    for analogue speech
   type: main
 source:
 - type: pdf

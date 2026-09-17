@@ -1,10 +1,12 @@
+---
 id: ITURM5480
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Overall transmission characteristics of telephone circuits in the maritime mobile-satellite service
+  content: Overall transmission characteristics of telephone circuits in the maritime
+    mobile-satellite service
   type: main
 source:
 - type: pdf

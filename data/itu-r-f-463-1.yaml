@@ -1,10 +1,12 @@
+---
 id: ITURF4631
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Limits for the residues of signals outside the baseband of radio-relay systems for television
+  content: Limits for the residues of signals outside the baseband of radio-relay
+    systems for television
   type: main
 source:
 - type: pdf

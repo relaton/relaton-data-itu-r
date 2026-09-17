@@ -1,10 +1,12 @@
+---
 id: ITURF4975
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Radio-frequency channel arrangements for radio-relay systems operating in the 13 GHz frequency band
+  content: Radio-frequency channel arrangements for radio-relay systems operating
+    in the 13 GHz frequency band
   type: main
 source:
 - type: pdf

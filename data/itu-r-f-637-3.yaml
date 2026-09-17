@@ -1,10 +1,12 @@
+---
 id: ITURF6373
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Radio-frequency channel arrangements for fixed wireless systems operating in the 23 GHz band
+  content: Radio-frequency channel arrangements for fixed wireless systems operating
+    in the 23 GHz band
   type: main
 source:
 - type: pdf

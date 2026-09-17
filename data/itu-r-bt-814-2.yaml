@@ -1,10 +1,12 @@
+---
 id: ITURBT8142
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specifications and alignment procedures for setting of brightness and contrast of displays
+  content: Specifications and alignment procedures for setting of brightness and contrast
+    of displays
   type: main
 source:
 - type: pdf

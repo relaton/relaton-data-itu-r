@@ -1,10 +1,12 @@
+---
 id: ITURF4541
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Pilot carrier level for HF single-sideband and independent-sideband reduced-carrier systems
+  content: Pilot carrier level for HF single-sideband and independent-sideband reduced-carrier
+    systems
   type: main
 source:
 - type: pdf

@@ -1,10 +1,12 @@
+---
 id: ITURM10792
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance and quality of service requirements for International Mobile Telecommunications-2000 (IMT-2000) access networks
+  content: Performance and quality of service requirements for International Mobile
+    Telecommunications-2000 (IMT-2000) access networks
   type: main
 source:
 - type: pdf

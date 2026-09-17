@@ -1,10 +1,12 @@
+---
 id: ITURBT21330
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transport of advanced immersive audio-visual content in IP-based broadcasting systems
+  content: Transport of advanced immersive audio-visual content in IP-based broadcasting
+    systems
   type: main
 source:
 - type: pdf

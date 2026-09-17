@@ -1,10 +1,12 @@
+---
 id: ITURBT13610
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Worldwide unified colorimetry and related characteristics of future television and imaging systems
+  content: Worldwide unified colorimetry and related characteristics of future television
+    and imaging systems
   type: main
 source:
 - type: pdf

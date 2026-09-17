@@ -1,10 +1,12 @@
+---
 id: ITURF13360
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Reference radiation patterns of omnidirectional and other antennas in point-to-multipoint systems for use in sharing studies
+  content: Reference radiation patterns of omnidirectional and other antennas in point-to-multipoint
+    systems for use in sharing studies
   type: main
 source:
 - type: pdf

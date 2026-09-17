@@ -1,10 +1,13 @@
+---
 id: ITURF5561
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Hypothetical reference digital path for radio-relay systems which may form part of an integrated services digital network with a capacity above the second hierarchical level
+  content: Hypothetical reference digital path for radio-relay systems which may form
+    part of an integrated services digital network with a capacity above the second
+    hierarchical level
   type: main
 source:
 - type: pdf

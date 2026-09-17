@@ -1,10 +1,12 @@
+---
 id: ITURM14620
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Characteristics of and protection criteria for radars operating in the radiolocation service in the frequency range 420-450 MHz
+  content: Characteristics of and protection criteria for radars operating in the
+    radiolocation service in the frequency range 420-450 MHz
   type: main
 source:
 - type: pdf

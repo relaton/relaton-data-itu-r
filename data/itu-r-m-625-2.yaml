@@ -1,10 +1,12 @@
+---
 id: ITURM6252
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Direct-printing telegraph equipment employing automatic identification in the maritime mobile service
+  content: Direct-printing telegraph equipment employing automatic identification
+    in the maritime mobile service
   type: main
 docidentifier:
 - content: ITU-R M.625-2

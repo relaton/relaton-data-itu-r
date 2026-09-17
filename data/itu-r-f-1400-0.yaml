@@ -1,10 +1,12 @@
+---
 id: ITURF14000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance and availability requirements and objectives for fixed wireless access to public switched telephone network
+  content: Performance and availability requirements and objectives for fixed wireless
+    access to public switched telephone network
   type: main
 source:
 - type: pdf

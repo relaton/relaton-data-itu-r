@@ -1,10 +1,12 @@
+---
 id: ITURBT18335
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Broadcasting of multimedia and data applications for mobile reception by handheld receivers
+  content: Broadcasting of multimedia and data applications for mobile reception by
+    handheld receivers
   type: main
 source:
 - type: pdf

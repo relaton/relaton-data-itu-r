@@ -1,10 +1,12 @@
+---
 id: ITURBT11291
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Subjective assessment of standard definition digital television (SDTV) systems
+  content: Subjective assessment of standard definition digital television (SDTV)
+    systems
   type: main
 docidentifier:
 - content: ITU-R BT.1129-1

@@ -1,10 +1,12 @@
+---
 id: ITURF14981
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Deployment characteristics of fixed service systems in the band 37-40 GHz for use in sharing studies
+  content: Deployment characteristics of fixed service systems in the band 37-40 GHz
+    for use in sharing studies
   type: main
 source:
 - type: pdf

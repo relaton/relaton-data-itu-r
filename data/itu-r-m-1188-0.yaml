@@ -1,10 +1,12 @@
+---
 id: ITURM11880
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Impact of propagation on the design of non-GSO mobile-satellite systems not employing satellite diversity which provide service to handheld equipment
+  content: Impact of propagation on the design of non-GSO mobile-satellite systems
+    not employing satellite diversity which provide service to handheld equipment
   type: main
 source:
 - type: pdf

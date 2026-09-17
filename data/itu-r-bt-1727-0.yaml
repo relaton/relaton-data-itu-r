@@ -1,10 +1,12 @@
+---
 id: ITURBT17270
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Terrestrial and satellite delivery of programme material to large screen digital imagery venues
+  content: Terrestrial and satellite delivery of programme material to large screen
+    digital imagery venues
   type: main
 docidentifier:
 - content: ITU-R BT.1727-0

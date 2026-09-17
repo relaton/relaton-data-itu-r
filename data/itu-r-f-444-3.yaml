@@ -1,10 +1,12 @@
+---
 id: ITURF4443
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Preferred characteristics for multi-line switching arrangements of analogue radio-relay systems
+  content: Preferred characteristics for multi-line switching arrangements of analogue
+    radio-relay systems
   type: main
 source:
 - type: pdf

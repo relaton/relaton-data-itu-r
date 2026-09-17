@@ -1,10 +1,12 @@
+---
 id: ITURM5470
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Noise objectives in the hypothetical reference circuit for systems in the maritime mobile-satellite service
+  content: Noise objectives in the hypothetical reference circuit for systems in the
+    maritime mobile-satellite service
   type: main
 source:
 - type: pdf

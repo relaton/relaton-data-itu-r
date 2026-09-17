@@ -1,10 +1,12 @@
+---
 id: ITURBT13001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Service multiplex, transport, and identification methods for digital terrestrial television broadcasting
+  content: Service multiplex, transport, and identification methods for digital terrestrial
+    television broadcasting
   type: main
 source:
 - type: pdf

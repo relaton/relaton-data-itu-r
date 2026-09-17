@@ -1,10 +1,12 @@
+---
 id: ITURM6893
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: International maritime VHF radiotelephone system with automatic facilities based on DSC signalling format
+  content: International maritime VHF radiotelephone system with automatic facilities
+    based on DSC signalling format
   type: main
 source:
 - type: pdf

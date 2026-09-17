@@ -1,10 +1,12 @@
+---
 id: ITURF5930
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Noise in real circuits of multi-channel trans-horizon FM radio-relay systems of less than 2 500 km
+  content: Noise in real circuits of multi-channel trans-horizon FM radio-relay systems
+    of less than 2 500 km
   type: main
 source:
 - type: pdf

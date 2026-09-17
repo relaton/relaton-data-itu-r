@@ -1,10 +1,13 @@
+---
 id: ITURF17771
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: System characteristics of television outside broadcast, electronic news gathering and electronic field production in the fixed service for use in sharing studies
+  content: System characteristics of television outside broadcast, electronic news
+    gathering and electronic field production in the fixed service for use in sharing
+    studies
   type: main
 source:
 - type: pdf

@@ -1,10 +1,12 @@
+---
 id: ITURM8192
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: International Mobile Telecommunications-2000 (IMT-2000) for developing countries
+  content: International Mobile Telecommunications-2000 (IMT-2000) for developing
+    countries
   type: main
 source:
 - type: pdf

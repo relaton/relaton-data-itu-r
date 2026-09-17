@@ -1,10 +1,12 @@
+---
 id: ITURBT20000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Use of large screen digital imagery Recommendations in video information systems applications
+  content: Use of large screen digital imagery Recommendations in video information
+    systems applications
   type: main
 source:
 - type: pdf

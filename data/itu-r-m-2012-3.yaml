@@ -1,10 +1,12 @@
+---
 id: ITURM20123
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Detailed specifications of the terrestrial radio interfaces of International Mobile Telecommunications Advanced (IMT-Advanced)
+  content: Detailed specifications of the terrestrial radio interfaces of International
+    Mobile Telecommunications Advanced (IMT-Advanced)
   type: main
 source:
 - type: pdf

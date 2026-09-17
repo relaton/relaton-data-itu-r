@@ -1,10 +1,12 @@
+---
 id: ITURM6931
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical characteristics of VHF emergency position-indicating radio beacons using digital selective calling
+  content: Technical characteristics of VHF emergency position-indicating radio beacons
+    using digital selective calling
   type: main
 source:
 - type: pdf

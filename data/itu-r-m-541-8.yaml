@@ -1,10 +1,12 @@
+---
 id: ITURM5418
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Operational procedures for the use of digital selective-calling equipment in the maritime mobile service
+  content: Operational procedures for the use of digital selective-calling equipment
+    in the maritime mobile service
   type: main
 source:
 - type: pdf

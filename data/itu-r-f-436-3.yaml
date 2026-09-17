@@ -1,10 +1,12 @@
+---
 id: ITURF4363
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Arrangement of voice-frequency , frequency-shift telegraph channels over HF radio circuits
+  content: Arrangement of voice-frequency , frequency-shift telegraph channels over
+    HF radio circuits
   type: main
 docidentifier:
 - content: ITU-R F.436-3

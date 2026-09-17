@@ -1,10 +1,12 @@
+---
 id: ITURF7570
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Basic system requirements and performance objectives for cellular type mobile systems
+  content: Basic system requirements and performance objectives for cellular type
+    mobile systems
   type: main
 docidentifier:
 - content: ITU-R F.757-0

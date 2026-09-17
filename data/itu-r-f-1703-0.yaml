@@ -1,10 +1,12 @@
+---
 id: ITURF17030
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Availability objectives for real digital fixed wireless links used in 27 500 km hypothetical reference paths and connections
+  content: Availability objectives for real digital fixed wireless links used in 27
+    500 km hypothetical reference paths and connections
   type: main
 source:
 - type: pdf

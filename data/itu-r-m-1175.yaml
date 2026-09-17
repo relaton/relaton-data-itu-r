@@ -1,10 +1,12 @@
+---
 id: ITURM1175
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Automatic receiving equipment for radiotelegraph and radiotelephone alarm signals
+  content: Automatic receiving equipment for radiotelegraph and radiotelephone alarm
+    signals
   type: main
 source:
 - type: pdf

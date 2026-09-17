@@ -1,10 +1,13 @@
+---
 id: ITURBT20164
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Error-correction, data framing, modulation and emission methods for terrestrial multimedia broadcasting for mobile reception using handheld receivers in VHF/UHF bands
+  content: Error-correction, data framing, modulation and emission methods for terrestrial
+    multimedia broadcasting for mobile reception using handheld receivers in VHF/UHF
+    bands
   type: main
 source:
 - type: pdf

@@ -1,10 +1,12 @@
+---
 id: ITURBT20742
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Service configuration, media transport protocol, and signalling information for MMT-based broadcasting systems
+  content: Service configuration, media transport protocol, and signalling information
+    for MMT-based broadcasting systems
   type: main
 source:
 - type: pdf

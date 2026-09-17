@@ -1,10 +1,12 @@
+---
 id: ITURBT20560
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: High-level guidelines for the international exchange of HDTV programmes over IP connections for contribution purposes
+  content: High-level guidelines for the international exchange of HDTV programmes
+    over IP connections for contribution purposes
   type: main
 source:
 - type: pdf

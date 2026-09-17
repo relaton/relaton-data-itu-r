@@ -1,10 +1,12 @@
+---
 id: ReportITURM11550
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Adaptation of mobile radiocommunication technology to the needs of developing countries
+  content: Adaptation of mobile radiocommunication technology to the needs of developing
+    countries
   type: main
 source:
 - type: pdf

@@ -1,10 +1,12 @@
+---
 id: ITURBT5009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Methodology for the subjective assessment of the quality of television pictures
+  content: Methodology for the subjective assessment of the quality of television
+    pictures
   type: main
 source:
 - type: pdf

@@ -1,10 +1,13 @@
+---
 id: ITURM11432
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: System specific methodology for coordination of non geostationary space stations (space-to-Earth) operating in the mobile-satellite service with the fixed service
+  content: System specific methodology for coordination of non geostationary space
+    stations (space-to-Earth) operating in the mobile-satellite service with the fixed
+    service
   type: main
 source:
 - type: pdf

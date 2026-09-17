@@ -1,10 +1,13 @@
+---
 id: ITURBT18660
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Objective perceptual video quality measurement techniques for broadcasting applications using low definition television in the presence of a full reference signal
+  content: Objective perceptual video quality measurement techniques for broadcasting
+    applications using low definition television in the presence of a full reference
+    signal
   type: main
 source:
 - type: pdf

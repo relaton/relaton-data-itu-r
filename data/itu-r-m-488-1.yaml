@@ -1,10 +1,12 @@
+---
 id: ITURM4881
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Equivalent powers of double-sideband and single-sideband radiotelephone emissions in the maritime mobile service
+  content: Equivalent powers of double-sideband and single-sideband radiotelephone
+    emissions in the maritime mobile service
   type: main
 source:
 - type: pdf
