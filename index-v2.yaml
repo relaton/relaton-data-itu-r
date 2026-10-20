@@ -18454,6 +18454,14 @@
     series: P
     number: '2041'
     parts:
+    - '1'
+  :file: data/itu-r-p-2041-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
+    number: '2041'
+    parts:
     - '0'
   :file: data/itu-r-p-2041-0.yaml
 - :id:
@@ -30700,6 +30708,12 @@
     _type: pubid:itu:handbook
     sector: R
     number: '31'
+    year: '2026'
+  :file: data/itu-r-31-hdb-2026.yaml
+- :id:
+    _type: pubid:itu:handbook
+    sector: R
+    number: '31'
     year: '1997'
   :file: data/itu-r-31-hdb-1997.yaml
 - :id:
@@ -30732,6 +30746,14 @@
     parts:
     - '9'
   :file: data/itu-r-p-310-9.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
+    number: '311'
+    parts:
+    - '20'
+  :file: data/itu-r-p-311-20.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -31743,6 +31765,14 @@
     parts:
     - '6'
   :file: data/itu-r-p-371-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
+    number: '372'
+    parts:
+    - '18'
+  :file: data/itu-r-p-372-18.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
