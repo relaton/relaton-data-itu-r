@@ -13,4 +13,6 @@ gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "main"
 
 # index generation + verification
 gem "rspec", "~> 3.0"
-gem "rubyzip", "~> 2.3"
+# Match relaton's own floor (rubyzip ~> 3.7): the old ~> 2.3 pin made every
+# clean crawler run fail dependency resolution.
+gem "rubyzip", "~> 3.7"
