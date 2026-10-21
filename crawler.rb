@@ -2,7 +2,6 @@
 
 require 'relaton/itu/data_fetcher'
 
-FileUtils.rm_rf 'data'
-FileUtils.rm Dir.glob('index*')
-
-Relaton::Itu::DataFetcher.fetch
+# Incremental crawl: keep data/ and let the fetcher skip byte-identical
+# records and prune stale ones (relaton#328).
+Relaton::Itu::DataFetcher.fetch(prune: true)
