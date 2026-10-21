@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v2",
+  "sha256": "4bb450fb9832d90726b2f7c379248b6d75cd7d0baba73a7f2c4a46adffa0bf0c",
+  "bytes": 46890,
+  "count": 5423,
+  "generated": "2026-10-21T22:30:21Z",
+  "source_revision": "ddfa808976b55a2e8e5cefd07ab3893306a49e5d",
+  "run_id": "39651459993",
+  "repository": "relaton/relaton-data-itu-r"
+}

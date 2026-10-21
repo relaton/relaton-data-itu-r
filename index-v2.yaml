@@ -25479,6 +25479,12 @@
     number: '23'
   :file: data/itu-r-r-23.yaml
 - :id:
+    _type: pubid:itu:handbook
+    sector: R
+    number: '23'
+    year: '2026'
+  :file: data/itu-r-23-hdb-2026.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '230'
