@@ -21,7 +21,12 @@ name: Crawler
 # and pushes the crawled corpus to whatever branch it runs on.
 on:
   schedule:
-  - cron: '0 14 * * *'
+  # Paused per relaton/relaton#75: ITU decommissioned the RunSearch
+  # enumeration API the ITU-R crawler depends on, so every scheduled run
+  # fails; runtime lookups are unaffected. Restore the cron when a
+  # replacement enumeration source exists — and mirror the pause in the
+  # cimas config, which regenerates this file.
+  # - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       args:
